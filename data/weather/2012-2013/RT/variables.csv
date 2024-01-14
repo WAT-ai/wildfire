@@ -1,0 +1,5 @@
+variables
+variable, standard_name, cell_method, unit
+tasmin, air_temperature, time: minimum, celsius
+pcp, lwe_thickness_of_precipitation_amount, time: sum, mm
+tasmax, air_temperature, time: maximum, celsius
