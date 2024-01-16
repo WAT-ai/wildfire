@@ -1,0 +1,4 @@
+station_observations
+ONE_DAY_PRECIPITATION, ONE_DAY_RAIN, MIN_TEMP, ONE_DAY_SNOW, time, SNOW_ON_THE_GROUND, MAX_TEMP
+7.2, 7.2, 12.0, 0.0, 2013-09-08 00:00:00, None, 15.6
+0.0, None, None, None, 2013-12-18 00:00:00, None, 4.8
