@@ -1,0 +1,8 @@
+variables
+variable, standard_name, cell_method, unit
+ONE_DAY_PRECIPITATION, lwe_thickness_of_precipitation_amount, time: sum, mm
+MIN_TEMP, air_temperature, time: minimum, celsius
+ONE_DAY_SNOW, thickness_of_snowfall_amount, time: sum, cm
+MAX_TEMP, air_temperature, time: maximum, celsius
+ONE_DAY_RAIN, thickness_of_rainfall_amount, time: sum, mm
+SNOW_ON_THE_GROUND, surface_snow_thickness, time: point, cm

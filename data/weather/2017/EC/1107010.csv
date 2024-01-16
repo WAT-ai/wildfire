@@ -1,0 +1,3 @@
+station_observations
+ONE_DAY_PRECIPITATION, ONE_DAY_RAIN, ONE_DAY_SNOW, time, MIN_TEMP, MAX_TEMP
+None, None, None, 2017-12-31 00:00:00, -0.6, 4.0

@@ -1,0 +1,4 @@
+station_observations
+ONE_DAY_PRECIPITATION, ONE_DAY_RAIN, MIN_TEMP, ONE_DAY_SNOW, time, SNOW_ON_THE_GROUND, MAX_TEMP
+None, None, None, None, 2015-01-12 00:00:00, None, 7.4
+None, None, 13.5, None, 2015-07-02 00:00:00, None, 19.0
