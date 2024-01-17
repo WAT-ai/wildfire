@@ -1,0 +1,17 @@
+variables
+variable, standard_name, cell_method, unit
+MIN_TEMP, air_temperature, time: minimum, celsius
+SNOW_ON_THE_GROUND, surface_snow_thickness, time: point, cm
+ONE_DAY_SNOW, thickness_of_snowfall_amount, time: sum, cm
+ONE_DAY_PRECIPITATION, lwe_thickness_of_precipitation_amount, time: sum, mm
+MAX_TEMP, air_temperature, time: maximum, celsius
+ONE_DAY_RAIN, thickness_of_rainfall_amount, time: sum, mm
+Temp, air_temperature, time: point, celsius
+SWE, liquid_water_content_of_surface_snow, time: point, mm
+air_temp_1, air_temperature, time: point, celsius
+air_temp_2, air_temperature, time: point, celsius
+snw_dpth_wtr_equiv, lwe_thickness_of_surface_snow_amount, time: sum, mm
+snw_dpth, surface_snow_thickness, time: sum, cm
+cum_pcpn_amt, lwe_thickness_of_precipitation_amount, time: sum, mm
+pcpn_amt_pst1hr, lwe_thickness_of_precipitation_amount, time: sum (interval: 1 hour), mm
+pcpn_amt_pst24hrs, lwe_thickness_of_precipitation_amount, time: sum (interval: 24 hour), mm
