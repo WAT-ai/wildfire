@@ -1,0 +1,4 @@
+station_observations
+ONE_DAY_PRECIPITATION, ONE_DAY_RAIN, MIN_TEMP, ONE_DAY_SNOW, time, SNOW_ON_THE_GROUND, MAX_TEMP
+None, None, -0.5, None, 2019-01-30 00:00:00, 0.0, None
+None, None, -2.5, None, 2019-03-02 00:00:00, 0.0, None

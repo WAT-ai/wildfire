@@ -1,0 +1,26 @@
+variables
+variable, standard_name, cell_method, unit
+TSoil_Avg, soil_temperature, time: mean, celsius
+HFT3_1_Avg, downward_heatflux_in_soil, time: mean, W m-2
+HFT3_2_Avg, downward_heatflux_in_soil, time: mean, W m-2
+MIN_TEMP, air_temperature, time: minimum, celsius
+SNOW_ON_THE_GROUND, surface_snow_thickness, time: point, cm
+ONE_DAY_SNOW, thickness_of_snowfall_amount, time: sum, cm
+ONE_DAY_PRECIPITATION, lwe_thickness_of_precipitation_amount, time: sum, mm
+MAX_TEMP, air_temperature, time: maximum, celsius
+ONE_DAY_RAIN, thickness_of_rainfall_amount, time: sum, mm
+L_down_Avg, downwelling_longwave_flux_in_air, time: mean, W m-2
+L_down_corr_Avg, downwelling_longwave_flux_in_air, time: mean, W m-2
+L_up_Avg, upwelling_longwave_flux_in_air, time: mean, W m-2
+K_up_Avg, upwelling_shortwave_flux_in_air, time: mean, W m-2
+L_up_corr_Avg, upwelling_longwave_flux_in_air, time: mean, W m-2
+K_down_Avg, downwelling_shortwave_flux_in_air, time: mean, W m-2
+Vis, visibility_in_air, time: point, km
+NetRad, surface_net_downward_radiative_flux, time: mean, W m-2
+Snow_WE, liquid_water_content_of_surface_snow, time: point, mm
+AirTemp, air_temperature, time: point, celsius
+BarometricPressure, air_pressure, time: point, millibar
+WindDirection, wind_from_direction, time: mean, degree
+RelativeHumidity, relative_humidity, time: point, %
+SoilVolumetricWaterContent, volume_fraction_of_condensed_water_in_soil, time: point, %
+WindSpeed, wind_speed, time: mean, m s-1
