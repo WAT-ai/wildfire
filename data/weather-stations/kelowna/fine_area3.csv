@@ -1,0 +1,4 @@
+Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+12,FLNRO-WMB,742,2190,ZZ LAMBLY 2,2593,BC,-119.7076,49.9596,1150.0,2001-06-26,2001-10-17,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+12,FLNRO-WMB,743,2191,ZZ LAMBLY 3,2594,BC,-119.7096,49.959,1150.0,2001-06-26,2001-10-17,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+12,FLNRO-WMB,745,2193,ZZ LAMBLY[DEMO2000],2596,BC,-119.717,49.967,1100.0,2000-06-09,2002-10-22,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
