@@ -1,4 +1,5 @@
 Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+1,EC,1124260,235,KIRTON,638,BC,-119.95,49.666667,884.0,1928-09-01,1962-04-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
 17,ARDA,112048,4864,THIRSK,6544,BC,-120.055833333333,49.7116666666667,1013.0,1971-04-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
 17,ARDA,112049,4865,KIRTON,6545,BC,-119.9775,49.6891666666667,945.0,1971-04-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
 12,FLNRO-WMB,1212,11412,ZZ KIRTON TS,13473,BC,-120.0233333,49.63778333,1491.0,2015-06-02,2015-10-06,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

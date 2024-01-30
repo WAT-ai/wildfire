@@ -1,3 +1,8 @@
 Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+1,EC,1128959,246,WINFIELD WOOD LAKE,649,BC,-119.383333,50.05,457.0,1969-03-01,2000-10-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount
+1,EC,1125907,1073,OYAMA,1476,BC,-119.366667,50.116667,440.0,1965-06-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
 1,EC,1128983,1101,WOODS LAKE,1504,BC,-119.45,50.05,405.0,1915-06-01,1939-01-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-17,ARDA,112209,4980,LAMBLY,6660,BC,-119.616666666667,50.0133333333333,972.0,1971-05-28,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+1,EC,112E700,1103,OKANAGAN CENTRE CAMP RD,1506,BC,-119.433333,50.05,445.0,1984-08-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+17,ARDA,112226,4989,WOODSDALE,6669,BC,-119.371666666667,50.065,535.0,1971-03-29,1972-10-29,Daily,Precipitation (Cumulative)|Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+17,ARDA,112231,4990,RATTLESNAKE,6670,BC,-119.386666666667,50.1266666666667,425.0,1971-04-28,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+17,ARDA,112301,5001,GLEN WOOD,6681,BC,-119.444444444444,50.1333333333333,412.0,1975-05-14,1989-01-26,Daily,Precipitation (Cumulative)|Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

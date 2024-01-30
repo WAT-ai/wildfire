@@ -1,4 +1,4 @@
 Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-1,EC,1128554,1092,VERNON BX,1495,BC,-119.216667,50.283333,518.0,1960-04-15,1966-03-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-17,ARDA,112025,4841,SPOOR,6521,BC,-119.236111111111,50.2958333333333,521.0,1975-06-24,1975-08-26,Daily,Temperature (Max.)|Temperature (Min.)
-17,ARDA,112242,4994,SWAN LAKE,6674,BC,-119.239166666667,50.295,500.0,1971-04-07,1972-10-29,Daily,Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+1,EC,1128584,1096,VERNON SILVER STAR LODGE,1499,BC,-119.0557,50.35783,1572.0,1970-07-01,2022-03-04,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+12,FLNRO-WMB,480,12335,SILVERSTAR SF,14391,BC,-119.0654167,50.3682,1880.0,2018-06-26,2024-01-13,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+14,ENV-ASP,2F10P,12954,,14886,BC,-119.0621,50.3714,,2021-03-18,2024-01-11,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Depth|Snow Water Equivalent|Temperature (Mean)
