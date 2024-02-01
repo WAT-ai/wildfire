@@ -1,3 +1,0 @@
-Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-1,EC,1128983,1101,WOODS LAKE,1504,BC,-119.45,50.05,405.0,1915-06-01,1939-01-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-17,ARDA,112209,4980,LAMBLY,6660,BC,-119.616666666667,50.0133333333333,972.0,1971-05-28,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

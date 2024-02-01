@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+78,1,EC,1131410,1112,CARMI,1515,BC,-119.083333,49.5,1245.0,1924-01-01,1969-03-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+290,17,ARDA,113024,5029,LWR TRAPPING,6709,BC,-119.045833333333,49.5625,899.0,1965-11-04,1975-09-09,Daily,Relative Humidity (Mean)|Temperature (Max.)|Temperature (Min.)
+303,17,ARDA,113072,5071,LAKEVALE,6751,BC,-119.076666666667,49.535,887.0,1971-04-26,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+304,17,ARDA,113076,5074,STERLING,6754,BC,-119.088333333333,49.6708333333333,1061.0,1971-04-26,1972-08-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

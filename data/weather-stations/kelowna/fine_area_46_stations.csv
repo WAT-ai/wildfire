@@ -1,0 +1,9 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+88,1,EC,1162682,1261,ENDERBY ASHTON CREEK,1664,BC,-118.916667,50.55,351.0,1965-06-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+172,12,FLNRO-WMB,746,2194,ZZ STYX CREEK,2597,BC,-118.8957,50.4442,1180.0,2002-05-28,2002-10-22,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+333,17,ARDA,116117,5602,VANCE,7284,BC,-118.966666666667,50.4552777777778,660.0,1971-05-30,1972-07-31,Irregular,Precipitation (Cumulative)
+334,17,ARDA,116119,5603,OLEEN,7285,BC,-118.957222222222,50.5208333333333,536.0,1971-07-30,1972-09-29,Irregular,Precipitation (Cumulative)
+335,17,ARDA,116121,5604,ASHTON 3200,7286,BC,-118.975,50.5733333333333,936.0,1971-04-05,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+336,17,ARDA,116122,5605,ASHTON 4900,7287,BC,-118.900833333333,50.6116666666667,1513.0,1971-04-05,1971-07-30,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
+337,17,ARDA,116123,5606,KINGFISHER,7288,BC,-118.870833333333,50.5891666666667,393.0,1971-05-30,1972-08-31,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+338,17,ARDA,116124,5607,HUPEL,7289,BC,-118.766666666667,50.6175,497.0,1971-05-30,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

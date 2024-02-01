@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+139,12,FLNRO-WMB,290,1840,ZZ SPRUCE,2243,BC,-119.9967,50.4133,1462.0,1988-08-28,2000-11-01,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+383,17,ARDA,116202,5680,VANITY      KAM,7362,BC,-119.827777777778,50.3916666666667,705.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+384,17,ARDA,116203,5681,YELBELMAR   KAM,7363,BC,-119.954166666667,50.3416666666667,976.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+385,17,ARDA,116204,5682,SALMON LAKE KAM,7364,BC,-119.991666666667,50.2833333333333,950.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

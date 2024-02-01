@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+79,1,EC,1131615,1113,CHRISTIAN VALLEY,1516,BC,-118.75,49.65,805.0,1972-06-19,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+291,17,ARDA,113059,5058,CHRISTIAN V ASB,6738,BC,-118.79,49.6,857.0,1969-06-11,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+292,17,ARDA,113060,5059,COPPERKETTLE,6739,BC,-118.779444444444,49.6619444444444,866.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

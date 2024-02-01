@@ -1,6 +1,0 @@
-Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-17,ARDA,112048,4864,THIRSK,6544,BC,-120.055833333333,49.7116666666667,1013.0,1971-04-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-17,ARDA,112049,4865,KIRTON,6545,BC,-119.9775,49.6891666666667,945.0,1971-04-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-12,FLNRO-WMB,1212,11412,ZZ KIRTON TS,13473,BC,-120.0233333,49.63778333,1491.0,2015-06-02,2015-10-06,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-12,FLNRO-WMB,1254,12017,ZZ LOST CHAIN TS,14074,BC,-120.0666667,49.64861667,1633.0,2015-08-06,2016-10-12,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-12,FLNRO-WMB,1285,12046,ZZ KATHLEEN LAKE TEMP,14103,BC,-120.06695,49.73833333,1397.0,2017-05-31,2017-10-20,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

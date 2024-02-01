@@ -1,0 +1,11 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+18,1,EC,1168667,289,VINSULLA,692,BC,-120.25,50.933333,357.0,1962-05-01,1966-11-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+92,1,EC,1163400,1266,HEFFLEY CREEK,1669,BC,-120.183333,50.916667,683.0,1953-02-15,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+95,1,EC,1164380,1280,KNOUFF LAKE,1683,BC,-120.133333,50.966667,1143.0,1924-01-01,1951-05-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+96,1,EC,1164381,1281,KNOUFF LAKE 2,1684,BC,-120.133333,50.95,1113.0,1952-07-01,1952-11-19,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+126,1,EC,116L87J,1335,KAMLOOPS RAYLEIGH,1738,BC,-120.3,50.816667,357.0,1986-06-16,2002-08-31,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+397,17,ARDA,116267,5744,RAYLEIGH    KAM,7427,BC,-120.294444444444,50.8152777777778,376.0,1971-05-29,1973-10-26,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+398,17,ARDA,116268,5745,HEFFLEY CK ASB,7428,BC,-120.277777777778,50.8569444444444,359.0,1971-04-21,1973-10-26,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+399,17,ARDA,116269,5746,POPSTOP     KAM,7429,BC,-120.233333333333,50.9583333333333,379.0,1971-05-28,1973-10-26,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+401,17,ARDA,116510,5818,COMMUNITY LKKAM,7501,BC,-120.073611111111,50.9236111111111,1433.0,1972-06-02,1976-10-13,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
+406,17,ARDA,116516,5823,SULLIVAN LK KAM,7506,BC,-120.088888888889,50.9805555555556,1311.0,1972-06-02,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)

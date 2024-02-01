@@ -1,0 +1,7 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+243,17,ARDA,112124,4934,PENTICTON 2,6614,BC,-119.369444444444,49.6388888888889,1570.0,1983-09-28,1991-02-26,Daily,Precipitation (Cumulative)|Precipitation Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+244,17,ARDA,112125,4935,DENNIS CK,6615,BC,-119.4125,49.6236111111111,1792.0,1983-09-28,1991-02-26,Daily,Precipitation (Cumulative)|Precipitation Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+245,17,ARDA,112126,4936,CHENG,6616,BC,-119.420833333333,49.6041666666667,1804.0,1983-09-28,1991-02-28,Daily,Precipitation (Cumulative)|Precipitation Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+246,17,ARDA,112153,4955,GREYBACK,6635,BC,-119.370833333333,49.6475,1659.0,1971-04-14,1972-10-05,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+247,17,ARDA,112154,4956,PENTICTON CK,6636,BC,-119.503333333333,49.53,1140.0,1971-04-01,1972-11-02,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+510,14,ENV-ASP,2F08P,12499,Greyback Resevoir,14521,BC,-119.4224,49.6158,1550.0,2019-12-10,2021-12-08,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Depth|Snow Water Equivalent|Temperature (Mean)

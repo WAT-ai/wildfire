@@ -1,0 +1,12 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+136,12,FLNRO-WMB,286,1836,TURTLE,2239,BC,-119.63,50.8033,640.0,1991-11-04,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Snow Depth|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)
+351,17,ARDA,116163,5642,HARPER      KAM,7324,BC,-119.766666666667,50.7194444444444,351.0,1971-05-03,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+352,17,ARDA,116164,5643,NESCAINE    KAM,7325,BC,-119.738888888889,50.7583333333333,347.0,1971-05-03,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+354,17,ARDA,116166,5645,NISCONLITH  KAM,7327,BC,-119.719444444444,50.7986111111111,374.0,1971-05-27,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+355,17,ARDA,116167,5646,GREENACRES  KAM,7328,BC,-119.781944444444,50.7388888888889,410.0,1971-04-20,1973-10-25,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+361,17,ARDA,116173,5652,ADAMS RIVER KAM,7334,BC,-119.616666666667,50.7611111111111,422.0,1971-05-27,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+362,17,ARDA,116174,5653,SNOW LILY   KAM,7335,BC,-119.630555555556,50.7916666666667,538.0,1971-04-21,1973-10-23,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
+363,17,ARDA,116175,5654,ADAMS LAKE  KAM,7336,BC,-119.698611111111,50.7875,541.0,1970-04-21,1973-10-23,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+371,17,ARDA,116190,5668,VIXEN       KAM,7350,BC,-119.647222222222,50.7625,658.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+372,17,ARDA,116191,5669,OSLAND      KAM,7351,BC,-119.638888888889,50.6972222222222,735.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+373,17,ARDA,116192,5670,CHARCOAL    KAM,7352,BC,-119.652777777778,50.6277777777778,832.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

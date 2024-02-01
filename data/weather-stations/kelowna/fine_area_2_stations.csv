@@ -1,0 +1,7 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+3,1,EC,1124260,235,KIRTON,638,BC,-119.95,49.666667,884.0,1928-09-01,1962-04-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+151,12,FLNRO-WMB,338,1885,ZZ AGUR LAKE (NEC),2288,BC,-119.825,49.57,1189.0,1989-10-02,2000-11-01,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+231,17,ARDA,112050,4866,RIDDLE,6546,BC,-119.919166666667,49.645,850.0,1971-05-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+232,17,ARDA,112051,4867,DENIKE,6547,BC,-119.846666666667,49.6208333333333,957.0,1971-03-31,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+484,12,FLNRO-WMB,1151,10996,ZZ BULL CREEK TEMP,13162,BC,-119.9747167,49.59471667,1407.0,2013-05-30,2014-10-01,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+488,12,FLNRO-WMB,1212,11412,ZZ KIRTON TS,13473,BC,-120.0233333,49.63778333,1491.0,2015-06-02,2015-10-06,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

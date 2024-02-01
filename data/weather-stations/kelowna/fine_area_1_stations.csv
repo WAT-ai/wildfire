@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+486,12,FLNRO-WMB,1180,11000,ZZ RED CREEK TEMP,13168,BC,-120.2208333,49.52916667,1400.0,2014-06-25,2018-09-11,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+493,12,FLNRO-WMB,1254,12017,ZZ LOST CHAIN TS,14074,BC,-120.0666667,49.64861667,1633.0,2015-08-06,2016-10-12,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+512,12,FLNRO-WMB,1392,12523,MCNULTY EXT,14545,BC,-120.173222,49.555694,1595.0,2020-06-15,2024-01-13,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

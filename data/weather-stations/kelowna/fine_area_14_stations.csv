@@ -1,0 +1,8 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+76,1,EC,1130874,1109,BIG WHITE,1512,BC,-118.933333,49.733333,1841.0,1981-02-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+77,1,EC,1130875,1110,BIG WHITE MTN LODGE,1513,BC,-118.933333,49.733333,1844.0,1965-03-01,1968-06-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+288,17,ARDA,113022,5027,BIG WHITE,6707,BC,-118.933333333333,49.7333333333333,1844.0,1965-11-05,1975-09-09,Daily,Precipitation (Cumulative)|Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+289,17,ARDA,113023,5028,UPR TRAPPING,6708,BC,-118.935,49.7125,1204.0,1965-11-05,1975-09-09,Daily,Precipitation (Cumulative)|Precipitation Amount|Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+293,17,ARDA,113061,5060,DAMFINO,6740,BC,-118.772777777778,49.7,875.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+294,17,ARDA,113062,5061,NEVERTOUCH,6741,BC,-118.733611111111,49.7675,942.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+485,12,FLNRO-WMB,1178,10998,ZZ CENTER MOUNTAIN TEMP,13164,BC,-118.74,49.71388333,1393.0,2014-06-16,2014-10-28,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

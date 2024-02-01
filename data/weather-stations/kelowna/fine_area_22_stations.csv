@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+190,14,ENV-ASP,2F05P,2554,Mission Creek,2957,BC,-118.95,49.95,1780.0,1969-10-20,2024-01-14,Daily,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Precipitation Amount|Precipitation Climatology|Snow Depth|Snow Water Equivalent|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Mean)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+299,17,ARDA,113067,5066,STOVE TEMP,6746,BC,-118.8525,49.955,1059.0,1969-10-08,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

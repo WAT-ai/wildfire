@@ -1,0 +1,6 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+173,12,FLNRO-WMB,747,2195,ZZ SOUTH FORK,2598,BC,-119.57,50.2055,1100.0,2002-06-24,2002-10-22,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+180,12,FLNRO-WMB,1020,2346,ZZ KODIAK,2749,BC,-119.6602778,50.17972222,1601.0,2008-06-05,2008-10-22,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+181,12,FLNRO-WMB,1046,2363,ZZ SHORT CREEK,2766,BC,-119.7955556,50.19777778,1814.0,2009-07-22,2009-08-20,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+272,17,ARDA,112212,4983,ESPERON,6663,BC,-119.685833333333,50.1033333333333,1412.0,1971-05-14,1972-10-29,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+491,12,FLNRO-WMB,1216,11415,ZZ ESPERON TS,13476,BC,-119.6911167,50.07055,1429.0,2015-06-10,2015-10-07,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

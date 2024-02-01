@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+117,1,EC,1167778,1319,SUGAR LAKE,1722,BC,-118.533333,50.333333,610.0,1957-12-01,1964-11-23,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+161,12,FLNRO-WMB,359,1904,ZZ MABLE  LK.,2307,BC,-118.7,50.4,4.0,1984-05-01,2000-10-01,Daily,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+186,5,BCH,SGL,2502,Sugar Lake Res. @ Outlet,2905,BC,-118.53,50.35,675.0,1999-01-03,2024-01-09,Daily,Precipitation Amount|Precipitation Climatology|Temperature (Max.)|Temperature (Min.)|Temperature (Point)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
