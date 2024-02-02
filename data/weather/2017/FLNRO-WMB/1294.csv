@@ -1,0 +1,6 @@
+station_observations
+wind_speed, temperature, wind_direction, relative_humidity, time, precipitation
+6.5, 19.8, 210.0, 34.0, 2017-06-13 14:00:00, 0.0
+5.9, 20.7, 199.0, 51.0, 2017-07-05 12:00:00, 0.0
+6.7, 21.5, 193.0, 51.0, 2017-07-05 13:00:00, 0.0
+0.0, None, None, 0.0, 2017-07-09 06:00:00, 0.0
