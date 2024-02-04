@@ -50,7 +50,7 @@ def read_and_group_data(base_path, date_column_name='time'):
         year_path = os.path.join(base_path, year_folder)
 
         # Skip data before the year 2017 and files named 'variables.csv'
-        if not year_path.endswith('.csvfile') and int(year_folder) >= 2017:
+        if not year_path.endswith('.csvfile') and 2016 <= int(year_folder) <= 2022:
             if os.path.isdir(year_path):
                 for network_folder in os.listdir(year_path):
                     network_path = os.path.join(year_path, network_folder)
