@@ -1,7 +1,0 @@
-ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
-None, None, -8.0, None,2021-02-19, 71.0, None,8
-0.0, 0.0, None, 0.0,2021-02-21, None, 7.0,8
-0.0, 0.0, -7.0, 0.0,2021-02-22, 67.0, 3.5,8
-None, None, -6.0, None,2021-02-23, 65.0, None,8
-2.0, 0.0, -17.0, 2.0,2021-02-24, 69.0, -1.5,8
-1.0, 0.0, -8.5, 1.0,2021-02-25, 69.0, 2.0,8

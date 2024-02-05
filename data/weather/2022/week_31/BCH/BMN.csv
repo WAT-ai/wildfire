@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,Snow_WE,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
-None, 0.1, 15.9, None,2022-07-30, None, 30.0,31
-None, 0.1, 16.6, None,2022-07-31, None, 29.6,31
-None, 0.1, 14.0, None,2022-08-01, None, 25.1,31
-None, 0.0, 11.9, None,2022-08-02, None, 22.2,31
-None, 0.0, 11.2, None,2022-08-03, None, 23.5,31
-None, 0.0, 5.6, None,2022-08-04, None, 15.3,31
-None, 0.0, 4.0, None,2022-08-05, None, 15.9,31

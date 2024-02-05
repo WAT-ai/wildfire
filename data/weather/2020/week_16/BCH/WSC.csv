@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
-None, None,2020-04-15,1.5,11.0,16
-None, None,2020-04-16,2.6,18.2,16
-None, None,2020-04-17,0.0,8.3,16
-None, None,2020-04-18,-1.6,16.5,16
-None, None,2020-04-19,4.8,19.7,16
-None, None,2020-04-20,3.6,21.4,16
-None, None,2020-04-21,4.8,16.4,16

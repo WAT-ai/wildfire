@@ -1,8 +1,0 @@
-ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
-None, None, 0.5, None,2018-10-01, 1.0, None,40
-0.0, 0.0, 0.5, 0.0,2018-10-02, 0.0, 4.0,40
-2.4, 2.4, -1.0, 0.0,2018-10-03, 0.0, 4.0,40
-None, None, -1.5, None,2018-10-04, 0.0, None,40
-0.0, 0.0, None, 0.0,2018-10-05, None, 7.0,40
-0.0, 0.0, -0.5, 0.0,2018-10-06, 0.0, 7.5,40
-None, None, 1.0, None,2018-10-07, 0.0, None,40

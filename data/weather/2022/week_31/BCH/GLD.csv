@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
-None, 0.0,2022-07-30, 17.5, 32.3,31
-None, 0.0,2022-07-31, 17.8, 29.7,31
-None, 0.0,2022-08-01, None, None,31
-None, 0.0,2022-08-02, None, None,31
-None, 3.1,2022-08-03, None, None,31
-None, 0.4,2022-08-04, None, None,31
-None, 0.0,2022-08-05, None, None,31

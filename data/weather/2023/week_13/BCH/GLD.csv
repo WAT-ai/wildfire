@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
-None,1.1,2023-03-26, None, None,13
-None,0.0,2023-03-27, None, None,13
-None,4.8,2023-03-28, None, None,13
-None,4.8,2023-03-29, None, None,13
-None,0.2,2023-03-30, None, None,13
-None,4.8,2023-03-31, 2.0, 7.6,13
-None,21.0,2023-04-01, 0.5, 8.4,13

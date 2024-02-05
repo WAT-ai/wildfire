@@ -1,5 +1,0 @@
-pcpn_amt_pst24hrs,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
-None, None, None, None, None, 360.0, None, None, None,1474.0, None,2022-04-02 01:00:00, None,14
-None, None, None, None, None, 361.0, None, None, None,1475.0, None,2022-04-02 03:00:00, None,14
-None, None, None, None, None, 369.0, None, None, None,1507.0, None,2022-04-03 23:00:00, None,14
-None, None, None, None, None, 391.0, None, None, None,1537.0, None,2022-04-04 16:00:00, None,14

@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,Snow_WE,time,MIN_TEMP,MAX_TEMP,week_of_year
-None,0.0, None,2018-06-11,-1.9,8.3,24
-None,2.0, None,2018-06-12,-1.9,7.4,24
-None,3.0, None,2018-06-13,0.3,4.7,24
-None,0.0, None,2018-06-14,0.8,8.3,24
-None,13.0, None,2018-06-15,0.1,13.2,24
-None,4.0, None,2018-06-16,0.6,16.2,24
-None,5.0, None,2018-06-17,7.0,20.9,24

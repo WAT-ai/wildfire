@@ -1,8 +1,0 @@
-pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
-None, 1305.0, None, None, None, None, None, None, None, None, None, None,2020-01-29 16:00:00, None,5
-None, 1298.0, None, None, None, None, None, None, None, None, None, None,2020-01-30 16:00:00, None,5
-None, 1298.0, None, None, None, None, None, None, None, None, None, None,2020-01-31 16:00:00, None,5
-None, 1305.0, None, None, None, None, None, None, None, None, None, None,2020-02-01 16:00:00, None,5
-None, 1268.0, None, None, None, None, None, None, None, None, None, None,2020-02-02 16:00:00, None,5
-None, 1241.0, None, None, None, None, None, None, None, None, None, None,2020-02-03 16:00:00, None,5
-None, 1223.0, None, None, None, None, None, None, None, None, None, None,2020-02-04 16:00:00, None,5

@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,Snow_WE,time,MIN_TEMP,MAX_TEMP,week_of_year
-None,0.0, None,2020-02-26,-6.4,1.8,9
-None,0.0, None,2020-02-27,-4.0,0.5,9
-None,18.0, None,2020-02-28,-6.6,-0.7,9
-None,1.0, None,2020-02-29,-8.1,-2.3,9
-None,2.0, None,2020-03-01,-10.0,-3.9,9
-None,0.0, None,2020-03-02,-6.3,0.8,9
-None,16.0, None,2020-03-03,-8.1,-0.7,9

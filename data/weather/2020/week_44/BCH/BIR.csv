@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
-None, None,2020-10-28,2.3,8.8,44
-None, None,2020-10-29,1.9,12.9,44
-None, None,2020-10-30,1.7,12.9,44
-None, None,2020-10-31,-1.0,11.0,44
-None, None,2020-11-01,-1.2,10.7,44
-None, None,2020-11-02,-0.2,10.3,44
-None, None,2020-11-03,-0.6,4.9,44

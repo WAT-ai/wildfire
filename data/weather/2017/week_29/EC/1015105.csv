@@ -1,7 +1,0 @@
-ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
-0.0,0.0, None,0.0,2017-07-17, None, None,29
-0.0,0.0, None,0.0,2017-07-18, 0.0, None,29
-0.0,0.0, None,0.0,2017-07-19, 0.0, None,29
-0.0,0.0, None,0.0,2017-07-20, 0.0, None,29
-1.2,1.2, None,0.0,2017-07-21, 0.0, None,29
-0.0,0.0, None,0.0,2017-07-22, 0.0, None,29

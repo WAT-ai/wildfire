@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
-None, 5.0,-0.5,2018-09-03, None,3.7,36
-None, 2.0,-0.1,2018-09-04, None,11.5,36
-None, 0.0,0.9,2018-09-05, None,6.6,36
-None, 1.0,2.6,2018-09-06, None,10.9,36
-None, 2.0,4.5,2018-09-07, None,10.0,36
-None, 28.0,-1.7,2018-09-08, None,4.5,36
-None, 8.0,-2.2,2018-09-09, None,-0.2,36

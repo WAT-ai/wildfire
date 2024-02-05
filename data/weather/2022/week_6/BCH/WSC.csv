@@ -1,8 +1,0 @@
-AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
-None, None,2022-02-05, -14.2, 12.2,6
-None, None,2022-02-06, 8.4, 12.4,6
-None, None,2022-02-07, 6.4, 12.1,6
-None, None,2022-02-08, 7.5, 9.8,6
-None, None,2022-02-09, 9.3, 14.9,6
-None, None,2022-02-10, 0.7, 12.4,6
-None, None,2022-02-11, -2.6, 6.5,6

@@ -1,4 +1,0 @@
-pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
-None, None,339.2, None,-4.8,43.0, None, None, None,83.0, None,2022-11-05 10:30:00, None,45
-None, None,339.3, None,-4.9,43.0, None, None, 0.1,83.0, None,2022-11-05 11:30:00, None,45
-None, None,339.1, None,-4.5,43.0, None, None, None,83.0, None,2022-11-05 12:30:00, None,45
