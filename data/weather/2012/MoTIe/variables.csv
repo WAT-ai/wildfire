@@ -1,0 +1,33 @@
+variables
+variable, standard_name, cell_method, unit
+MINIMUM_AIR_TEMPERATURE, air_temperature, time: minimum, celsius
+HEIGHT_OF_SNOW, surface_snow_thickness, time: point, cm
+MAXIMUM_MEASURED_WIND_SPEED1, wind_speed, time: maximum, km h-1
+ACTUAL_WIND_SPEED, wind_speed, time: point, None
+RELATIVE_HUMIDITY1, relative_humidity, time: mean, %
+CURRENT_AIR_TEMPERATURE1, air_temperature, time: point, celsius
+MEASURED_WIND_DIRECTION1, wind_from_direction, time: mean, degrees
+STANDARD_SNOW, thickness_of_snowfall_amount, time: sum, cm
+DEW_POINT, dew_point_temperature, time: mean, celsius
+ACTUAL_WIND_DIRECTION, wind_from_direction, time: point, degrees
+PRECIPITATION_NEW, lwe_thickness_of_precipitation_amount, time: sum, mm
+CURRENT_AIR_TEMPERATURE2, air_temperature, time: point, celsius
+WIND_DIRECTION_STD_DEVIATION1, wind_from_direction, time: standard_deviation, degrees
+MEASURED_WIND_SPEED1, wind_speed, time: mean, km h-1
+MAXIMUM_AIR_TEMPERATURE, air_temperature, time: maximum, celsius
+ATMOSPHERIC_PRESSURE, air_pressure, time: point, millibar
+max_air_temp_snc_last_reset, air_temperature, time: maximum, celsius
+air_temp, air_temperature, time: point, celsius
+min_air_temp_snc_last_reset, air_temperature, time: minimum, celsius
+rel_hum, relative_humidity, time: point, %
+dwpt_temp, dew_point_temperature, time: point, celsius
+stn_pres, air_pressure, time: point, hPa
+snw_dpth, surface_snow_thickness, time: point, cm
+max_wnd_spd_10m_pst1hr, wind_speed, time: maximum, km/h
+mslp, air_pressure_at_mean_sea_level, time: point, hPa
+snwfl_amt_pst1hr, snowfall_amount, time: sum (interval: 1 hour), cm
+avg_wnd_spd_10m_pst10mts, wind_speed, time: mean, km/h
+avg_wnd_dir_10m_pst10mts, wind_from_direction, time: mean, degrees
+pcpn_amt_pst24hrs, lwe_thickness_of_precipitation_amount, time: sum (interval: 24 hour), mm
+pcpn_amt_pst1hr, lwe_thickness_of_precipitation_amount, time: sum (interval: 1 hour), mm
+PRECIP_DETECTOR_RATIO, foo_bar, time: mean, 1

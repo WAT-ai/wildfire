@@ -1,0 +1,15 @@
+variables
+variable, standard_name, cell_method, unit
+temperature, air_temperature, time: point, celsius
+precipitation, lwe_thickness_of_precipitation_amount, time: sum, mm
+wind_direction, wind_from_direction, time: mean, degree
+relative_humidity, relative_humidity, time: mean, %
+avg_wnd_spd_10m_pst10mts, wind_speed, time: mean, km/h
+rnfl_amt_pst24hrs, thickness_of_rainfall_amount, time: sum (interval: 24 hour), mm
+avg_wnd_dir_10m_pst10mts, wind_from_direction, time: mean, degrees
+rnfl_amt_pst1hr, thickness_of_rainfall_amount, time: sum (interval: 1 hour), mm
+rel_hum, relative_humidity, time: point, %
+air_temp, air_temperature, time: point, celsius
+snw_dpth, surface_snow_thickness, time: point, cm
+wind_speed, wind_speed, time: mean, km/h
+dwpt_temp, dew_point_temperature, time: point, celsius
