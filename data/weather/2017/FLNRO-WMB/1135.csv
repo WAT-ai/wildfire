@@ -1,0 +1,4 @@
+station_observations
+wind_speed, temperature, wind_direction, relative_humidity, time, precipitation
+10.7, 24.7, 208.0, 25.0, 2017-07-26 16:00:00, 0.0
+8.4, 24.1, 240.0, 26.0, 2017-07-26 17:00:00, 0.0

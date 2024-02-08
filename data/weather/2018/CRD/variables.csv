@@ -1,0 +1,12 @@
+variables
+variable, standard_name, cell_method, unit
+SolarRadiation, solar_irradiance, time: point, W/m2
+WindSpeed, wind_speed, time: point, kph
+SnowWaterEquivalent, lwe_thickness_of_surface_snow_amount, time: point, mm
+BarometricPressure, air_pressure, time: point, hPa
+Rain, rainfall_amount, time: sum, mm
+Precipitation, lwe_thickness_of_precipitation_amount, time: sum, mm
+RelativeHumidity, relative_humidity, time: point, percent
+SnowDepth, surface_snow_thickness, time: point, m
+WindDirection, wind_from_direction, time: point, degrees
+AirTemperature, air_temperature, time: point, celsius
