@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+151,12,FLNRO-WMB,338,1885,ZZ AGUR LAKE (NEC),2288,BC,-119.825,49.57,1189.0,1989-10-02,2000-11-01,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+232,17,ARDA,112051,4867,DENIKE,6547,BC,-119.846666666667,49.6208333333333,957.0,1971-03-31,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+179,12,FLNRO-WMB,943,2320,FALKLAND,2723,BC,-119.5606,50.4725,1281.0,2006-07-27,2006-08-03,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+375,17,ARDA,116194,5672,SWEETSBRIDGEKAM,7354,BC,-119.465277777778,50.45,551.0,1971-05-29,1973-05-27,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+377,17,ARDA,116196,5674,CABOOSE     KAM,7356,BC,-119.573611111111,50.4991666666667,602.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

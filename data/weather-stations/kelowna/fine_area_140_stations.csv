@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+155,12,FLNRO-WMB,350,1895,ZZ TFL 33,2298,BC,-118.9633,50.92,1250.0,1990-07-03,2004-09-22,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

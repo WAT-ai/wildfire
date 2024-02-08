@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+0,1,EC,1120090,231,ADRA,634,BC,-119.583333,49.733333,1003.0,1928-09-01,1953-08-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+25,1,EC,1121620,1020,CHUTE LAKE,1423,BC,-119.533333,49.683333,1194.0,1928-09-01,1962-10-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)

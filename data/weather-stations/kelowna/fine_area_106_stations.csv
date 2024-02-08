@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+156,12,FLNRO-WMB,351,1896,ZZ SIMARD (NEC),2299,BC,-118.6467,50.6117,1768.0,1990-07-25,2000-11-01,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

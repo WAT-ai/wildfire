@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+175,12,FLNRO-WMB,854,2278,ZZ SITKUM CREEK,2681,BC,-118.4234,50.3926,1200.0,2003-07-27,2003-09-03,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+489,12,FLNRO-WMB,1214,11413,ZZ KEALY CREEK TS,13474,BC,-118.4452833,50.40876667,1223.0,2015-06-09,2015-10-07,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+165,12,FLNRO-WMB,393,1936,NICOLL,2339,BC,-118.3603,49.5267,866.0,1988-10-28,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)

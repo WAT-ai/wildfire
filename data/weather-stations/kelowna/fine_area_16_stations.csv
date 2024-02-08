@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+53,1,EC,1126078,1077,PEACHLAND GREATA RANCH,1480,BC,-119.7412,49.70033,398.0,1994-06-01,2008-06-30,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+234,17,ARDA,112053,4869,ENEAS,6549,BC,-119.7925,49.6583333333333,716.0,1971-03-26,1972-10-30,Daily,Precipitation (Cumulative)|Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+252,17,ARDA,112169,4962,ACLAND,6642,BC,-119.720833333333,49.6669444444444,389.0,1971-04-28,1972-09-27,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

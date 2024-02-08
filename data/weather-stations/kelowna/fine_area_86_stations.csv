@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+139,12,FLNRO-WMB,290,1840,ZZ SPRUCE,2243,BC,-119.9967,50.4133,1462.0,1988-08-28,2000-11-01,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

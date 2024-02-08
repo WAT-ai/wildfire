@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+492,12,FLNRO-WMB,1215,11416,ZZ POSTILL LAKE TEMP,13477,BC,-119.22945,49.98528333,1395.0,2015-06-11,2017-11-01,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+496,12,FLNRO-WMB,1256,12021,ZZ MISSION RIDGE TS,14078,BC,-119.1238833,49.89471667,1250.0,2015-08-21,2016-09-17,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

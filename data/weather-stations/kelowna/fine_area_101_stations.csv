@@ -1,0 +1,7 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+90,1,EC,1162785,1263,FALKLAND SPANISH LAKE,1666,BC,-119.5,50.5,823.0,1974-12-12,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+195,3,MoTIm,22003,2684,Falkland,3427,BC,-119.55139,50.50056,610.0,1987-11-01,2002-01-01,Semi-daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature (Point)
+374,17,ARDA,116193,5671,JOYCE       KAM,7353,BC,-119.602777777778,50.5663888888889,827.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+376,17,ARDA,116195,5673,FERRIS,7355,BC,-119.5,50.5055555555556,923.0,1971-05-11,1973-10-25,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+405,17,ARDA,116515,5822,MARTIN MTN  KAM,7505,BC,-119.565277777778,50.6,1341.0,1972-06-09,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
+487,12,FLNRO-WMB,1188,11006,ZZ ARTHUR CREEK TEMP,13174,BC,-119.54195,50.555,1598.0,2014-07-30,2014-10-15,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
