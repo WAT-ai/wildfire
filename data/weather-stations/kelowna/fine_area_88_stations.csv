@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+122,1,EC,1168880,1328,WESTWOLD,1731,BC,-119.7506,50.46889,609.0,1921-05-01,2013-05-31,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+378,17,ARDA,116197,5675,BUTTERCUP   KAM,7357,BC,-119.677777777778,50.4638888888889,624.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+503,12,FLNRO-WMB,1359,12451,STATION BAY 2,14473,BC,-119.726944,50.497222,1100.0,2019-05-30,2024-01-14,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

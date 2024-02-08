@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+273,17,ARDA,112213,4984,DEE LAKE,6664,BC,-119.169166666667,50.1108333333333,1409.0,1971-05-15,1972-10-29,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+274,17,ARDA,112214,4985,WRINKLY,6665,BC,-119.256666666667,50.0433333333333,1364.0,1971-05-29,1972-08-26,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

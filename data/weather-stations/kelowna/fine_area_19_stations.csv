@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+149,12,FLNRO-WMB,335,1883,ZZ IDA BELL LAKE,2286,BC,-119.2,49.7,12.0,1986-05-22,1988-07-26,Daily,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+150,12,FLNRO-WMB,336,1884,ZZ IDA BELL LK II,2287,BC,-119.1767,49.7367,1250.0,1987-07-31,2004-08-05,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+302,17,ARDA,113070,5069,COOKSON,6749,BC,-119.121666666667,49.7358333333333,1189.0,1971-04-26,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+304,17,ARDA,113076,5074,STERLING,6754,BC,-119.088333333333,49.6708333333333,1061.0,1971-04-26,1972-08-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

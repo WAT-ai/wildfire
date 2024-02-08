@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+203,3,MoTIm,25003,2701,Elkhart Lake,3444,BC,-120.29925,49.8649,1550.0,1986-11-04,1994-04-30,Semi-daily,Precipitation Amount|Rainfall Amount|Relative Humidity (Point)|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature (Point)|Wind Speed (Point)
