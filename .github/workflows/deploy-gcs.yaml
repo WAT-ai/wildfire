@@ -18,6 +18,12 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
+    # Setup Node.js environment for running linting and tests
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
     # Setup gcloud CLI
     - uses: google-github-actions/setup-gcloud@v0
       with:
@@ -25,7 +31,10 @@ jobs:
         service_account_key: ${{ secrets.GCP_SA_KEY }}
         project_id: wildfire-prediction-410723
 
-    - name: Deploy via GCS
-      run: |
-        gsutil -m rm -rf gs://wildfire_team/* || echo "$?"
-        gsutil -m cp -r * gs://wildfire_team/
+    - name: Install gsutil rsync dependencies
+      run: sudo apt-get update && sudo apt-get install -y python3-crcmod
+
+    - name: Sync files to GCS
+      run: gsutil -m rsync -r -c -d ./build gs://wildfire_team/
+      env:
+        CLOUDSDK_PYTHON: python3
