@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+189,14,ENV-ASP,2E07P,2553,Grano Creek,2956,BC,-118.683,49.55,1860.0,1997-07-24,2020-10-01,Daily,Precipitation 1hr|Precipitation Amount|Precipitation Climatology|Snow Depth|Snow Water Equivalent|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Mean)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)

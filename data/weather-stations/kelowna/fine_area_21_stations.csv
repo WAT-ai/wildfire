@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+79,1,EC,1131615,1113,CHRISTIAN VALLEY,1516,BC,-118.75,49.65,805.0,1972-06-19,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+292,17,ARDA,113060,5059,COPPERKETTLE,6739,BC,-118.779444444444,49.6619444444444,866.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+293,17,ARDA,113061,5060,DAMFINO,6740,BC,-118.772777777778,49.7,875.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+485,12,FLNRO-WMB,1178,10998,ZZ CENTER MOUNTAIN TEMP,13164,BC,-118.74,49.71388333,1393.0,2014-06-16,2014-10-28,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

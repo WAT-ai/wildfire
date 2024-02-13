@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+386,17,ARDA,116205,5683,PIKEHEAD    KAM,7365,BC,-120.051111111111,50.2305555555556,877.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+387,17,ARDA,116206,5684,CHAPPERON LK,7366,BC,-120.115277777778,50.1777777777778,878.0,1971-04-11,1973-10-24,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+400,17,ARDA,116411,5803,CHAPPERON LK,7486,BC,-120.023055555556,50.2058333333333,991.0,1981-01-15,1987-02-16,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

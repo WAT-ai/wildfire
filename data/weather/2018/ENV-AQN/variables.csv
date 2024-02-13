@@ -1,0 +1,16 @@
+variables
+variable, standard_name, cell_method, unit
+WSPD_SCLR, wind_speed, time: point, None
+TEMP_MEAN, air_temperature, time: mean, celsius
+PRECIP_TOTAL, lwe_thickness_of_precipitation_amount, time: sum, mm
+HUMIDITY, relative_humidity, time: point, %
+BAR_PRESS, air_pressure, time: point, millibar
+WDIR_VECT, wind_from_direction, time: point, degree
+avg_wnd_dir_10m_pst1hr, wind_from_direction, time: mean, degrees
+avg_unit_vtr_wnd_dir_10m_pst1hr, wind_from_direction_unit_vector, time: mean, degrees
+std_dev_wnd_dir_10m_pst1hr, wind_from_direction_std_deviation, time: standard_deviation (interval: 1 hour), degrees
+avg_air_temp_pst1hr, air_temperature, time: mean, celsius
+avg_wnd_spd_sclr_10m_pst1hr, wind_speed, time: mean, km/h
+avg_wnd_spd_10m_pst1hr, wind_speed, time: mean, km/h
+avg_rel_hum_pst1hr, relative_humidity, time: mean, %
+vpr_pres, water_vapor_partial_pressure_in_air, time: point, hPa

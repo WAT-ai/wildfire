@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+95,1,EC,1164380,1280,KNOUFF LAKE,1683,BC,-120.133333,50.966667,1143.0,1924-01-01,1951-05-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+96,1,EC,1164381,1281,KNOUFF LAKE 2,1684,BC,-120.133333,50.95,1113.0,1952-07-01,1952-11-19,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+401,17,ARDA,116510,5818,COMMUNITY LKKAM,7501,BC,-120.073611111111,50.9236111111111,1433.0,1972-06-02,1976-10-13,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
+406,17,ARDA,116516,5823,SULLIVAN LK KAM,7506,BC,-120.088888888889,50.9805555555556,1311.0,1972-06-02,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)

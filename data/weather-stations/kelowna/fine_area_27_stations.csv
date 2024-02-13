@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+5,1,EC,1126080,241,PEACHLAND TREPANIER CR,644,BC,-119.833333,49.783333,549.0,1924-10-01,1943-05-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+254,17,ARDA,112171,4964,PIGEON,6644,BC,-119.837222222222,49.795,907.0,1971-03-31,1972-10-29,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+507,2,MoTIe,29094,12471,Brenda Mine,14493,BC,-119.93686,49.86973,1270.0,2019-11-21,2024-01-14,Unspecified,Dew Point Temperature|Precipitation 24hr|Precipitation Amount|Relative Humidity|Relative Humidity (Mean)|Snow Depth|Snowfall|Temperature (Max.)|Temperature (Mean)|Temperature (Min.)|Temperature (Point)

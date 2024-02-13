@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+26,1,EC,1122541,1021,DOUGLAS LAKE,1424,BC,-120.2,50.166667,808.0,1979-06-01,2007-02-28,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+388,17,ARDA,116207,5685,SPAHOMIN    KAM,7367,BC,-120.234722222222,50.1583333333333,808.0,1971-06-27,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+389,17,ARDA,116208,5686,COMMONAGE   KAM,7368,BC,-120.330555555556,50.1458333333333,856.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+404,17,ARDA,116513,5821,GLIMPSE LAKEKAM,7504,BC,-120.291666666667,50.2472222222222,1189.0,1972-05-26,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)

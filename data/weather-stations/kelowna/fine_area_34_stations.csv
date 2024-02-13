@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+295,17,ARDA,113063,5062,MOHR,6742,BC,-118.710555555556,49.8275,969.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+296,17,ARDA,113064,5063,GOATSKIN,6743,BC,-118.697222222222,49.8597222222222,984.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

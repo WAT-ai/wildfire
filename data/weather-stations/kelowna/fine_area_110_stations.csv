@@ -1,0 +1,4 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+128,1,EC,116NJRF,1337,MONTE CREEK WEST,1740,BC,-120.016667,50.65,363.0,1986-07-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+345,17,ARDA,116157,5636,HOPSPUR     KAM,7318,BC,-120.113888888889,50.6611111111111,352.0,1971-05-27,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+346,17,ARDA,116158,5637,MONTE CK 1  KAM,7319,BC,-119.990277777778,50.6472222222222,362.0,1971-05-03,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

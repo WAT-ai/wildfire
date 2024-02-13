@@ -1,0 +1,25 @@
+variables
+variable, standard_name, cell_method, unit
+RHx, relative_humidity, time: maximum, %
+WindSpeedms, wind_speed, time: mean, m s-1
+Wind_n, wind_speed, time: minimum, m s-1
+RH, relative_humidity, time: mean, %
+DewPtC, dew_point_temperature, time: mean, celsius
+Pressurembar, air_pressure, time: point, millibar
+Rainmm, lwe_thickness_of_precipitation_amount, time: sum, mm
+Tm, air_temperature, time: mean, celsius
+Tx, air_temperature, time: maximum, celsius
+Tn, air_temperature, time: minimum, celsius
+TempC, air_temperature, time: point, celsius
+WindDirection, wind_from_direction, time: mean, degree
+RHn, relative_humidity, time: minimum, %
+GustSpeedms, wind_speed_of_gust, time: maximum, m s-1
+SolarRadiationWm, surface_downwelling_shortwave_flux, time: mean, W m-2
+Wetness, volume_fraction_of_condensed_water_in_soil, time: point, %
+Wetness_20cm, volume_fraction_of_condensed_water_in_soil
+, time:point, %
+Soil_Temp, soil_temperature, time: mean (interval: 1 hour), celsius
+Water_Content_m3_m3_15_cm, liquid_water_content_of_soil_layer, time: mean (interval: 1 hour), m3/m3
+Water_Content_m3_m3_30_cm, liquid_water_content_of_soil_layer, time: mean (interval: 1 hour), m3/m3
+Water_Content_m3_m3_5_cm, liquid_water_content_of_soil_layer, time: mean (interval: 1 hour), m3/m3
+Snow_Depth, surface_snow_depth, time: point, cm
