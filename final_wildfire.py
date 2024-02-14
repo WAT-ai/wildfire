@@ -2,15 +2,6 @@ import pandas as pd
 import numpy as np
 import os
 
-def read_csv_file(file_path, date_column_name):
-    # Read the file, keeping rows even if the first column is empty
-    data = pd.read_csv(file_path, skiprows=1, keep_default_na=False)
-
-    # Strip whitespace from column names
-    data.columns = data.columns.str.strip()
-
-    return data
-
 def get_fire_vector_for_week(kelowna_stations_df, burn_data_df, num_long_splits, num_lat_splits):
     res = np.zeros(num_long_splits * num_lat_splits)
 
@@ -26,7 +17,7 @@ def get_fire_vector_for_week(kelowna_stations_df, burn_data_df, num_long_splits,
     
     long_track = longitude_min
     lat_track = latitude_min
-    print(f"min_long = {longitude_min}, min_lat = {latitude_min}, max_long = {longitude_max}, max_lat = {latitude_max}, long_split = {long_split_distance}, lat_split = {lat_split_distance}")
+    # print(f"min_long = {longitude_min}, min_lat = {latitude_min}, max_long = {longitude_max}, max_lat = {latitude_max}, long_split = {long_split_distance}, lat_split = {lat_split_distance}")
     
     for i in range(num_lat_splits):
         lat_track = latitude_min + i * lat_split_distance
@@ -59,18 +50,12 @@ def main():
         year_path = os.path.join(base_path, year_folder)
         if not year_path.endswith('.csv') and year_folder.isdigit() and 2017 <= int(year_folder) <= 2023:
             if os.path.isdir(year_path):
-                week_num = 1
                 for file in os.listdir(year_path):
-                    print(file)
-                    # print(week_num)
-                    
                     file_path = os.path.join(year_path, file)
-                    print(file_path)
+                    print(f"Reading file: {file_path}")
 
                     week_fire_df = get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_splits)
                     week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/{file}', index=False, header=None)
-
-                    week_num += 1
 
 main()
         
