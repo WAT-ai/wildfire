@@ -44,14 +44,11 @@ def get_fire_vector_for_week(kelowna_stations_df, burn_data_df, num_long_splits,
     
     return res
 
-def numpy_array_to_csv_column_vector(numpy_array, output_file):
-    # Reshape the numpy array to a column vector
-    column_vector = numpy_array.reshape(-1, 1)
-
-    # Save the column vector to a CSV file
-    with open(output_file, 'w', newline='') as csvfile:
-        csv_writer = csv.writer(csvfile)
-        csv_writer.writerows(column_vector)
+def get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_splits):
+    burn_data_df = pd.read_csv(file_path)
+    week_fire = get_fire_vector_for_week(kelowna_stations_df, burn_data_df, num_long_splits, num_lat_splits)
+    week_fire_df = pd.DataFrame(week_fire)
+    return week_fire_df
 
 def main():
     print("hi")
@@ -67,11 +64,9 @@ def main():
                 week_num = 1
                 
                 file_path = os.path.join(year_path, file)
-                burn_data_df = pd.read_csv(file_path)
-                
-                week_fire = get_fire_vector_for_week(kelowna_stations_df, burn_data_df, num_long_splits, num_lat_splits)
-                week_fire_df = pd.DataFrame(week_fire)
-                week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/week_{week_num}.csv')
+
+                week_fire_df = get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_splits)
+                week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/week_{week_num}.csv', index=False, header=None)
 
                 week_num += 1
 
