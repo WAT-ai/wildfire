@@ -1,7 +1,6 @@
 import pandas as pd 
 import numpy as np
 import os
-import csv
 
 def read_csv_file(file_path, date_column_name):
     # Read the file, keeping rows even if the first column is empty
@@ -59,16 +58,17 @@ def main():
     base_path = 'data/satellite-burn'
     for year_folder in os.listdir(base_path):
         year_path = os.path.join(base_path, year_folder)
-        if os.path.isdir(year_path):
-            for file in os.listdir(year_path):
-                week_num = 1
-                
-                file_path = os.path.join(year_path, file)
+        if not year_path.endswith('.csv') and year_folder.isdigit() and 2017 <= int(year_folder) <= 2023:
+            if os.path.isdir(year_path):
+                for file in os.listdir(year_path):
+                    week_num = 1
+                    
+                    file_path = os.path.join(year_path, file)
 
-                week_fire_df = get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_splits)
-                week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/week_{week_num}.csv', index=False, header=None)
+                    week_fire_df = get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_splits)
+                    week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/week_{week_num}.csv', index=False, header=None)
 
-                week_num += 1
+                    week_num += 1
 
 main()
         
