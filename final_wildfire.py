@@ -50,7 +50,6 @@ def get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_sp
     return week_fire_df
 
 def main():
-    print("hi")
     kelowna_stations_df = pd.read_csv('./data/weather-stations/kelowna/kelowna_stations.csv')
     num_long_splits = 12
     num_lat_splits = 12
@@ -60,13 +59,16 @@ def main():
         year_path = os.path.join(base_path, year_folder)
         if not year_path.endswith('.csv') and year_folder.isdigit() and 2017 <= int(year_folder) <= 2023:
             if os.path.isdir(year_path):
+                week_num = 1
                 for file in os.listdir(year_path):
-                    week_num = 1
+                    print(file)
+                    # print(week_num)
                     
                     file_path = os.path.join(year_path, file)
+                    print(file_path)
 
                     week_fire_df = get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_splits)
-                    week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/week_{week_num}.csv', index=False, header=None)
+                    week_fire_df.to_csv(f'data/final-satellite-burn/{year_folder}/{file}', index=False, header=None)
 
                     week_num += 1
 
