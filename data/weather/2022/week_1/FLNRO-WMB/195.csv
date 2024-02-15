@@ -1,0 +1,22 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+84.0, None, None, 0.0, None, 35.5, None, -10.4, None, None, None, 71.0,2022-01-01 17:00:00,1
+87.0, None, None, 0.0, None, 33.1, None, -10.7, None, None, None, 86.0,2022-01-01 18:00:00,1
+88.0, None, None, 0.0, None, 34.7, None, -10.6, None, None, None, 83.0,2022-01-01 19:00:00,1
+85.0, None, None, 0.0, None, 33.4, None, -10.4, None, None, None, 84.0,2022-01-01 20:00:00,1
+89.0, None, None, 0.0, None, 37.5, None, -10.2, None, None, None, 78.0,2022-01-01 21:00:00,1
+93.0, None, None, 0.0, None, 40.9, None, -10.0, None, None, None, 81.0,2022-01-01 22:00:00,1
+87.0, None, None, 0.0, None, 34.6, None, -9.9, None, None, None, 79.0,2022-01-01 23:00:00,1
+90.0, None, None, 0.0, None, 31.9, None, -9.5, None, None, None, 81.0,2022-01-02 00:00:00,1
+92.0, None, None, 0.0, None, 35.1, None, -9.4, None, None, None, 79.0,2022-01-02 01:00:00,1
+81.0, None, None, 0.0, None, 20.4, None, -9.6, None, None, None, 81.0,2022-01-02 02:00:00,1
+91.0, None, None, 0.0, None, 21.5, None, -9.5, None, None, None, 82.0,2022-01-02 03:00:00,1
+88.0, None, None, 0.0, None, 21.6, None, -9.4, None, None, None, 83.0,2022-01-02 04:00:00,1
+84.0, None, None, 0.0, None, 26.2, None, -9.4, None, None, None, 81.0,2022-01-02 05:00:00,1
+99.0, None, None, 0.0, None, 19.7, None, -9.4, None, None, None, 80.0,2022-01-02 06:00:00,1
+97.0, None, None, 0.0, None, 22.3, None, -9.7, None, None, None, 77.0,2022-01-02 07:00:00,1
+91.0, None, None, 0.0, None, 26.1, None, -9.6, None, None, None, 73.0,2022-01-02 08:00:00,1
+92.0, None, None, 0.0, None, 23.4, None, -9.2, None, None, None, 70.0,2022-01-02 09:00:00,1
+88.0, None, None, 0.0, None, 21.5, None, -8.7, None, None, None, 69.0,2022-01-02 10:00:00,1
+100.0, None, None, 0.0, None, 29.4, None, -8.2, None, None, None, 68.0,2022-01-02 11:00:00,1
+96.0, None, None, 0.0, None, 23.7, None, -7.7, None, None, None, 67.0,2022-01-02 12:00:00,1
+90.0, None, None, 0.0, None, 30.1, None, -7.2, None, None, None, 69.0,2022-01-02 13:00:00,1

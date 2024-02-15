@@ -1,0 +1,24 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,time,avg_air_temp_pst1hr,week_of_year
+2.6, None, None,2022-05-14 00:00:00, None,20
+12.4, None, None,2022-05-14 01:00:00, None,20
+319.4, None, None,2022-05-14 02:00:00, None,20
+319.9, None, None,2022-05-14 03:00:00, None,20
+316.4, None, None,2022-05-14 04:00:00, None,20
+308.1, None, None,2022-05-14 05:00:00, None,20
+312.9, None, None,2022-05-14 06:00:00, None,20
+286.1, None, None,2022-05-14 07:00:00, None,20
+321.1, None, None,2022-05-14 08:00:00, None,20
+6.7, None, None,2022-05-14 09:00:00, None,20
+329.0, None, None,2022-05-14 10:00:00, None,20
+187.9, None, None,2022-05-14 11:00:00, None,20
+154.9, None, None,2022-05-14 12:00:00, None,20
+132.4, None, None,2022-05-14 13:00:00, None,20
+182.4, None, None,2022-05-14 14:00:00, None,20
+180.6, None, None,2022-05-14 15:00:00, None,20
+159.9, None, None,2022-05-14 16:00:00, None,20
+172.2, None, None,2022-05-14 17:00:00, None,20
+157.3, None, None,2022-05-14 18:00:00, None,20
+162.1, None, None,2022-05-14 19:00:00, None,20
+168.1, None, None,2022-05-14 20:00:00, None,20
+157.2, None, None,2022-05-14 21:00:00, None,20
+157.7, None, None,2022-05-14 22:00:00, None,20

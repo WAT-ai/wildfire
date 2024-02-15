@@ -1,0 +1,15 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+9.0, None,71.0, None, -2.0,-2.1, 107.0, None, None, None,407.0,2022-05-07 08:00:00, None,19
+None, None,72.0, None, -0.2,-0.9, 107.0, None, None, None,407.0,2022-05-07 10:00:00, None,19
+None, None,72.0, None, 5.6,5.1, 106.0, None, None, None,409.0,2022-05-07 18:00:00, None,19
+None, None,73.0, None, 9.8,8.2, 105.0, None, None, None,409.0,2022-05-08 12:00:00, None,19
+None, None,72.0, None, 12.0,10.1, 103.0, None, None, None,404.0,2022-05-09 13:00:00, None,19
+None, None,72.0, None, 3.2,2.9, 103.0, None, None, None,395.0,2022-05-10 19:00:00, None,19
+None, None,72.0, None, 4.6,4.1, 102.0, None, None, None,392.0,2022-05-11 13:00:00, None,19
+None, None,72.0, None, 8.8,7.1, 102.0, None, None, None,392.0,2022-05-11 15:00:00, None,19
+None, None,72.0, None, -2.2,-2.4, 102.0, None, None, None,386.0,2022-05-12 03:00:00, None,19
+None, None,72.0, None, -1.5,-1.6, 102.0, None, None, None,385.0,2022-05-12 06:00:00, None,19
+0.0, None,72.0, None, 7.4,6.8, 101.0, None, None, None,384.0,2022-05-12 15:00:00, None,19
+None, None,73.0, None, -1.6,-1.7, 101.0, None, None, None,378.0,2022-05-13 01:00:00, None,19
+None, None,73.0, None, -2.8,-2.8, 101.0, None, None, None,377.0,2022-05-13 05:00:00, None,19
+None, None,74.0, None, 0.8,0.8, 100.0, None, None, None,373.0,2022-05-13 17:00:00, None,19

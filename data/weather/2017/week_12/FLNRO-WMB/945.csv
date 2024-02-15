@@ -1,0 +1,25 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+133.0, None, None,0.0, None,7.0, None,-2.0, None, None, None,90.0,2017-03-19 00:00:00, None,12
+135.0, None, None,0.0, None,10.3, None,-2.2, None, None, None,89.0,2017-03-19 01:00:00, None,12
+132.0, None, None,0.0, None,9.4, None,-2.3, None, None, None,91.0,2017-03-19 02:00:00, None,12
+91.0, None, None,0.0, None,4.0, None,-2.8, None, None, None,89.0,2017-03-19 03:00:00, None,12
+132.0, None, None,0.0, None,6.6, None,-3.0, None, None, None,90.0,2017-03-19 04:00:00, None,12
+217.0, None, None,0.0, None,6.3, None,-3.3, None, None, None,90.0,2017-03-19 05:00:00, None,12
+338.0, None, None,0.0, None,2.4, None,-3.4, None, None, None,90.0,2017-03-19 06:00:00, None,12
+220.0, None, None,0.0, None,6.2, None,-3.0, None, None, None,90.0,2017-03-19 07:00:00, None,12
+125.0, None, None,0.0, None,5.6, None,-0.6, None, None, None,89.0,2017-03-19 08:00:00, None,12
+133.0, None, None,0.0, None,9.3, None,3.4, None, None, None,69.0,2017-03-19 09:00:00, None,12
+112.0, None, None,4.4, None,10.0, None,5.2, None, None, None,62.0,2017-03-19 10:00:00, None,12
+107.0, None, None,0.2, None,8.9, None,5.0, None, None, None,64.0,2017-03-19 11:00:00, None,12
+96.0, None, None,0.0, None,7.3, None,4.8, None, None, None,62.0,2017-03-19 12:00:00, None,12
+229.0, None, None,0.0, None,7.9, None,7.3, None, None, None,44.0,2017-03-19 13:00:00, None,12
+104.0, None, None,0.0, None,6.2, None,7.4, None, None, None,43.0,2017-03-19 14:00:00, None,12
+122.0, None, None,0.0, None,8.5, None,5.3, None, None, None,52.0,2017-03-19 15:00:00, None,12
+121.0, None, None,0.0, None,5.7, None,4.2, None, None, None,63.0,2017-03-19 16:00:00, None,12
+305.0, None, None,0.0, None,8.8, None,4.5, None, None, None,64.0,2017-03-19 17:00:00, None,12
+305.0, None, None,0.0, None,5.5, None,1.1, None, None, None,85.0,2017-03-19 18:00:00, None,12
+62.0, None, None,0.0, None,4.5, None,-0.8, None, None, None,88.0,2017-03-19 19:00:00, None,12
+234.0, None, None,0.0, None,3.0, None,-1.9, None, None, None,90.0,2017-03-19 20:00:00, None,12
+269.0, None, None,0.0, None,4.4, None,-2.7, None, None, None,90.0,2017-03-19 21:00:00, None,12
+339.0, None, None,0.0, None,3.6, None,-2.9, None, None, None,89.0,2017-03-19 22:00:00, None,12
+303.0, None, None,0.0, None,4.1, None,-3.6, None, None, None,89.0,2017-03-19 23:00:00, None,12

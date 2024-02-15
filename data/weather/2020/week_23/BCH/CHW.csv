@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None,0.4,1.2,2020-06-03, None,9.4,23
+None,5.5,1.2,2020-06-04, None,10.4,23
+None,15.7,0.7,2020-06-05, None,11.8,23
+None,54.4,2.3,2020-06-06, None,4.0,23
+None,0.8,0.5,2020-06-07, None,9.8,23
+None,2.7,2.0,2020-06-08, None,9.5,23
+None,0.2,2.2,2020-06-09, None,14.1,23

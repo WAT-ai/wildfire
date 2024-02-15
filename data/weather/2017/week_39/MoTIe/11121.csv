@@ -1,0 +1,10 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,snwfl_amt_pst1hr,stn_pres,week_of_year
+None,9.54, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 16:00:00, None, None, None, None,39
+None,9.55, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 17:00:00, None, None, None, None,39
+None,8.06, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 22:00:00, None, None, None, None,39
+None,7.6, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 00:00:00, None, None, None, None,39
+None,7.12, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 06:00:00, None, None, None, None,39
+None,7.42, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 08:00:00, None, None, None, None,39
+None,9.24, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 11:00:00, None, None, None, None,39
+None,18.49, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-28 12:00:00, None, None, None, None,39
+None,8.48, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-29 08:00:00, None, None, None, None,39

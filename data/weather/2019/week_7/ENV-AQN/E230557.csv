@@ -1,0 +1,10 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+8.8, None, 0.837998, None, None,2019-02-12 17:00:00, None,7
+80.1, None, 0.822, None, None,2019-02-12 18:00:00, None,7
+168.0, None, 0.976, None, None,2019-02-12 19:00:00, None,7
+106.6, None, 1.533, None, None,2019-02-12 20:00:00, None,7
+97.7, None, 1.796, None, None,2019-02-12 21:00:00, None,7
+96.9, None, 1.767, None, None,2019-02-12 22:00:00, None,7
+107.8, None, 2.047, None, None,2019-02-12 23:00:00, None,7
+108.0, None, 1.391, None, None,2019-02-13 00:00:00, None,7
+102.5, None, 2.042, None, None,2019-02-13 01:00:00, None,7

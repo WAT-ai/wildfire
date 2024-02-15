@@ -1,0 +1,3 @@
+AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
+None, 1.0,2016-12-30,-1.5,4.9,53
+None, 0.0,2016-12-31,-2.3,1.7,53

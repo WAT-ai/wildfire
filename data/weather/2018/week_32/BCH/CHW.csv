@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None, 0.0,14.1,2018-08-06, None,17.6,32
+None, 0.0,13.4,2018-08-07, None,16.7,32
+None, 1.0,13.3,2018-08-08, None,22.1,32
+None, 0.0,13.2,2018-08-09, None,22.4,32
+None, 0.0,7.4,2018-08-10, None,18.4,32
+None, 0.0,6.2,2018-08-11, None,20.5,32
+None, 0.0,7.3,2018-08-12, None,17.2,32

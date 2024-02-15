@@ -1,0 +1,18 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,PRECIP_TOTAL,avg_rel_hum_pst1hr,time,HUMIDITY,avg_air_temp_pst1hr,week_of_year
+111.3, None, None, None, None,2018-09-24 00:00:00, None, None,39
+87.8, None, None, None, None,2018-09-24 01:00:00, None, None,39
+124.7, None, None, None, None,2018-09-24 02:00:00, None, None,39
+153.7, None, None, None, None,2018-09-24 03:00:00, None, None,39
+214.0, None, None, None, None,2018-09-24 04:00:00, None, None,39
+186.3, None, None, None, None,2018-09-24 05:00:00, None, None,39
+240.4, None, None, None, None,2018-09-24 06:00:00, None, None,39
+267.1, None, None, None, None,2018-09-24 07:00:00, None, None,39
+295.9, None, None, None, None,2018-09-24 08:00:00, None, None,39
+59.2, None, None, None, None,2018-09-24 09:00:00, None, None,39
+79.1, None, None, None, None,2018-09-24 10:00:00, None, None,39
+78.7, None, None, None, None,2018-09-24 11:00:00, None, None,39
+84.4, None, None, None, None,2018-09-24 12:00:00, None, None,39
+80.1, None, None, None, None,2018-09-24 13:00:00, None, None,39
+26.1, None, None, None, None,2018-09-24 14:00:00, None, None,39
+209.8, None, None, None, None,2018-09-24 15:00:00, None, None,39
+77.4, None, None, None, None,2018-09-24 16:00:00, None, None,39

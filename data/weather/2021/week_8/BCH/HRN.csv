@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,Snow_WE,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None, 5.3, -8.1, None,2021-02-19, None, -3.8,8
+None, 5.3, -7.5, None,2021-02-20, None, -3.2,8
+None, 5.3, -4.0, None,2021-02-21, None, 0.6,8
+None, 2.2, -7.6, None,2021-02-22, None, -2.1,8
+None, 0.0, -15.5, None,2021-02-23, None, -1.0,8
+None, 2.6, -17.5, None,2021-02-24, None, -4.6,8
+None, 5.5, -20.0, None,2021-02-25, None, -2.6,8

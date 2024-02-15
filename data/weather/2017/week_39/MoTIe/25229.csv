@@ -1,0 +1,12 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,HEIGHT_OF_SNOW,week_of_year
+None, 6.779,96.6, None, None, None, None, 14.12, None, 2.289, 229.0, None, None, None, None, None, None, None, None, None,2017-09-25 14:00:00, None, None,39
+None, 7.3,96.6, None, None, None, None, 17.54, None, 2.476, 228.2, None, None, None, None, None, None, None, None, None,2017-09-25 16:00:00, None, None,39
+None, 6.996,96.2, None, None, None, None, 28.81, None, 1.833, 236.2, None, None, None, None, None, None, None, None, None,2017-09-25 17:00:00, None, None,39
+None, 5.691,97.0, None, None, None, None, 14.34, None, 1.424, 226.2, None, None, None, None, None, None, None, None, None,2017-09-25 22:00:00, None, None,39
+None, 5.497,97.1, None, None, None, None, 23.48, None, 0.557, 228.5, None, None, None, None, None, None, None, None, None,2017-09-26 00:00:00, None, None,39
+None, 5.255,97.2, None, None, None, None, 29.68, None, 0.425, 242.6, None, None, None, None, None, None, None, None, None,2017-09-26 02:00:00, None, None,39
+None, 4.723,97.2, None, None, None, None, 38.76, None, 1.013, 226.6, None, None, None, None, None, None, None, None, None,2017-09-26 06:00:00, None, None,39
+None, 4.628,97.2, None, None, None, None, 59.86, None, 1.091, 217.7, None, None, None, None, None, None, None, None, None,2017-09-26 08:00:00, None, None,39
+None, 7.463,96.7, None, None, None, None, 27.47, None, 4.134, 41.77, None, None, None, None, None, None, None, None, None,2017-09-26 11:00:00, None, None,39
+None, 15.71,43.51, None, None, None, None, 30.85, None, 7.316, 49.69, None, None, None, None, None, None, None, None, None,2017-09-28 12:00:00, None, None,39
+None, 10.37,62.67, None, None, None, None, 12.61, None, 3.25, 220.6, None, None, None, None, None, None, None, None, None,2017-09-29 08:00:00, None, None,39

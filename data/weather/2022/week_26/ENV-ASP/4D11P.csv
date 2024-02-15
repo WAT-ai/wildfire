@@ -1,0 +1,22 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+0.0, None,114.0, None, 3.8,3.7, 0.0, None, None, None,-5.0,2022-06-25 06:00:00, None,26
+None, None,114.0, None, 12.4,12.2, -1.0, None, None, None,-5.0,2022-06-25 09:00:00, None,26
+None, None,114.0, None, 22.5,21.8, -1.0, None, None, None,4.0,2022-06-26 14:00:00, None,26
+None, None,114.0, None, 5.0,5.0, 0.0, None, None, None,-4.0,2022-06-27 05:00:00, None,26
+None, None,114.0, None, 22.8,21.7, -1.0, None, None, None,-3.0,2022-06-27 11:00:00, None,26
+None, None,114.0, None, 25.2,23.7, -2.0, None, None, 0.0,-1.0,2022-06-27 12:00:00, None,26
+None, None,115.0, None, 13.5,13.7, 0.0, None, None, None,1.0,2022-06-27 23:00:00, None,26
+None, None,114.0, None, 9.1,9.2, 0.0, None, None, None,-2.0,2022-06-28 02:00:00, None,26
+None, None,114.0, None, 11.2,10.9, 0.0, None, None, None,-6.0,2022-06-28 08:00:00, None,26
+0.0, None,114.0, None, 23.7,22.7, -2.0, None, None, None,-3.0,2022-06-28 11:00:00, None,26
+None, None,114.0, None, 25.0,23.6, -1.0, None, None, None,3.0,2022-06-28 14:00:00, None,26
+None, None,120.0, None, 10.3,10.3, 0.0, None, None, None,-2.0,2022-06-29 01:00:00, None,26
+6.0, None,120.0, None, 10.8,10.5, 0.0, None, None, None,-4.0,2022-06-29 08:00:00, None,26
+6.0, None,120.0, None, 18.2,17.2, 0.0, None, None, None,-3.0,2022-06-29 11:00:00, None,26
+None, None,120.0, None, 21.3,20.8, 0.0, None, None, None,5.0,2022-06-29 16:00:00, None,26
+None, None,121.0, None, 10.6,10.2, 0.0, None, None, None,-4.0,2022-06-30 09:00:00, None,26
+None, None,121.0, None, 17.4,17.1, 0.0, None, None, None,2.0,2022-06-30 20:00:00, None,26
+None, None,121.0, None, 7.7,7.6, 0.0, None, None, None,-4.0,2022-07-01 06:00:00, None,26
+None, None,121.0, None, 18.7,17.1, 0.0, None, None, None,-4.0,2022-07-01 11:00:00, None,26
+None, None,121.0, None, 23.7,22.9, -2.0, None, None, None,1.0,2022-07-01 13:00:00, None,26
+None, None,121.0, None, 14.7,14.5, 0.0, None, None, None,1.0,2022-07-01 21:00:00, None,26

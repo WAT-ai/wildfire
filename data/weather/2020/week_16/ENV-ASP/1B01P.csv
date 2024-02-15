@@ -1,0 +1,18 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,MAX_TEMP,week_of_year
+None, None, None, 417.0, None,2020-04-15 16:00:00, None, None, None,16
+None, None, None, 411.0, None,2020-04-16 16:00:00, None, None, None,16
+None, None, None, 414.0, None,2020-04-17 16:00:00, None, None, None,16
+None, None, None, 420.0, None,2020-04-18 16:00:00, None, None, None,16
+None, 172.0, 631.0, 426.0, None,2020-04-19 16:00:00, 5.7, None, None,16
+None, 175.0, 629.0, None, None,2020-04-19 18:00:00, 11.3, None, None,16
+None, 173.0, 628.0, None, None,2020-04-19 19:00:00, 11.6, None, None,16
+None, 172.0, 627.0, None, None,2020-04-19 20:00:00, 10.5, None, None,16
+None, 172.0, 626.0, None, None,2020-04-19 21:00:00, 12.0, None, None,16
+None, 171.0, 626.0, None, None,2020-04-19 22:00:00, 11.2, None, None,16
+None, 173.0, None, None, None,2020-04-20 01:00:00, 7.6, None, None,16
+None, 172.0, None, None, None,2020-04-20 02:00:00, 7.3, None, None,16
+None, 172.0, None, None, None,2020-04-20 03:00:00, 6.8, None, None,16
+None, 172.0, None, None, None,2020-04-20 04:00:00, 5.2, None, None,16
+None, None, None, 432.0, None,2020-04-20 16:00:00, None, None, None,16
+None, 174.0, None, None, None,2020-04-21 06:00:00, 0.5, None, None,16
+None, None, None, 420.0, None,2020-04-21 16:00:00, None, None, None,16

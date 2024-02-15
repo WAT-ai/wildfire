@@ -1,0 +1,2 @@
+air_temp,temperature,dwpt_temp,rel_hum,relative_humidity,rnfl_amt_pst24hrs,rnfl_amt_pst1hr,snw_dpth,precipitation,time,week_of_year
+None,3.2, None, None,100.0, None, None, None,1.1,2019-12-31,53

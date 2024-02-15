@@ -1,0 +1,24 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+106.9, None, None,92.6, None,2022-05-14 00:00:00, None,20
+105.7, None, None,93.9, None,2022-05-14 01:00:00, None,20
+43.5, None, None,95.4, None,2022-05-14 02:00:00, None,20
+82.8, None, None,96.2, None,2022-05-14 03:00:00, None,20
+23.9, None, None,96.2, None,2022-05-14 04:00:00, None,20
+18.1, None, None,95.7, None,2022-05-14 05:00:00, None,20
+9.7, None, None,95.9, None,2022-05-14 06:00:00, None,20
+30.9, None, None,94.7, None,2022-05-14 07:00:00, None,20
+15.9, None, None,89.6, None,2022-05-14 08:00:00, None,20
+24.6, None, None,80.9, None,2022-05-14 09:00:00, None,20
+338.2, None, None,72.8, None,2022-05-14 10:00:00, None,20
+316.8, None, None,59.4, None,2022-05-14 11:00:00, None,20
+199.7, None, None,60.8, None,2022-05-14 12:00:00, None,20
+182.7, None, None,54.7, None,2022-05-14 13:00:00, None,20
+202.8, None, None,50.2, None,2022-05-14 14:00:00, None,20
+221.5, None, None,45.8, None,2022-05-14 15:00:00, None,20
+190.1, None, None,45.2, None,2022-05-14 16:00:00, None,20
+186.9, None, None,45.6, None,2022-05-14 17:00:00, None,20
+186.5, None, None,49.4, None,2022-05-14 18:00:00, None,20
+183.9, None, None,54.9, None,2022-05-14 19:00:00, None,20
+183.7, None, None,58.7, None,2022-05-14 20:00:00, None,20
+181.0, None, None,60.7, None,2022-05-14 21:00:00, None,20
+173.5, None, None,67.1, None,2022-05-14 22:00:00, None,20

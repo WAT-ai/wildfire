@@ -1,0 +1,26 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,PRECIP_TOTAL,avg_rel_hum_pst1hr,time,HUMIDITY,avg_air_temp_pst1hr,week_of_year
+None, None, None, None, 86.4,2016-12-30 00:00:00, None,-2.361,53
+None, None, None, None, 84.7,2016-12-30 01:00:00, None,-2.331,53
+None, None, None, None, 82.5,2016-12-30 02:00:00, None,-2.621,53
+None, None, None, None, 78.5,2016-12-30 03:00:00, None,-3.295,53
+None, None, None, None, 79.4,2016-12-30 04:00:00, None,-4.173,53
+None, None, None, None, 76.8,2016-12-30 05:00:00, None,-4.588,53
+None, None, None, None, 76.2,2016-12-30 06:00:00, None,-4.982,53
+None, None, None, None, 76.6,2016-12-30 07:00:00, None,-5.146,53
+None, None, None, None, 78.9,2016-12-30 08:00:00, None,-5.418,53
+None, None, None, None, 80.4,2016-12-30 09:00:00, None,-5.962,53
+None, None, None, None, 77.3,2016-12-30 10:00:00, None,-5.475,53
+None, None, None, None, 67.77,2016-12-30 11:00:00, None,-3.038,53
+None, None, None, None, 63.79,2016-12-30 12:00:00, None,-1.957,53
+None, None, None, None, 57.55,2016-12-30 13:00:00, None,-1.222,53
+None, None, None, None, 52.92,2016-12-30 14:00:00, None,-0.875,53
+None, None, None, None, 48.89,2016-12-30 15:00:00, None,-0.54,53
+None, None, None, None, 54.61,2016-12-30 16:00:00, None,-1.435,53
+None, None, None, None, 66.33,2016-12-30 17:00:00, None,-3.749,53
+None, None, None, None, 69.71,2016-12-30 18:00:00, None,-5.17,53
+None, None, None, None, 71.2,2016-12-30 19:00:00, None,-6.72,53
+None, None, None, None, 71.3,2016-12-30 20:00:00, None,-7.75,53
+None, None, None, None, 73.8,2016-12-30 21:00:00, None,-8.8,53
+None, None, None, None, 77.3,2016-12-30 22:00:00, None,-9.66,53
+None, None, None, None, 81.2,2016-12-30 23:00:00, None,-9.94,53
+None, None, None, None, 86.8,2016-12-31 00:00:00, None,-10.71,53

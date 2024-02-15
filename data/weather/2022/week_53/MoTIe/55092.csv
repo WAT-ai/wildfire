@@ -1,0 +1,2 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,rel_hum,dwpt_temp,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,snwfl_amt_pst1hr,time,snw_dpth,stn_pres,week_of_year
+None, -4.795, 94.6, -4.6, 95.0, -5.0, -4.8, -5.4, 998.9, 0.0, -5.0, 900.0, None,2022-12-31, None, 900.0,53

@@ -1,0 +1,26 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+339.0, None, None,0.0, None,0.0, None,-10.0, None, None, None,87.0,2016-12-30 00:00:00,53
+6.0, None, None,0.0, None,1.8, None,-10.2, None, None, None,87.0,2016-12-30 01:00:00,53
+36.0, None, None,0.0, None,0.0, None,-10.0, None, None, None,88.0,2016-12-30 02:00:00,53
+349.0, None, None,0.0, None,0.0, None,-10.4, None, None, None,89.0,2016-12-30 03:00:00,53
+329.0, None, None,0.0, None,0.0, None,-10.7, None, None, None,91.0,2016-12-30 04:00:00,53
+40.0, None, None,0.0, None,0.0, None,-10.1, None, None, None,89.0,2016-12-30 05:00:00,53
+346.0, None, None,0.0, None,0.0, None,-9.7, None, None, None,90.0,2016-12-30 06:00:00,53
+84.0, None, None,0.0, None,0.0, None,-9.6, None, None, None,89.0,2016-12-30 07:00:00,53
+35.0, None, None,0.0, None,0.0, None,-9.6, None, None, None,91.0,2016-12-30 08:00:00,53
+30.0, None, None,0.0, None,0.0, None,-8.8, None, None, None,89.0,2016-12-30 09:00:00,53
+316.0, None, None,0.0, None,0.0, None,-4.8, None, None, None,83.0,2016-12-30 10:00:00,53
+169.0, None, None,0.0, None,0.0, None,-4.2, None, None, None,77.0,2016-12-30 11:00:00,53
+85.0, None, None,0.0, None,3.5, None,-4.4, None, None, None,76.0,2016-12-30 12:00:00,53
+169.0, None, None,0.0, None,0.0, None,-5.7, None, None, None,84.0,2016-12-30 13:00:00,53
+165.0, None, None,0.0, None,0.0, None,-2.0, None, None, None,70.0,2016-12-30 14:00:00,53
+139.0, None, None,0.0, None,0.0, None,-5.1, None, None, None,81.0,2016-12-30 15:00:00,53
+298.0, None, None,0.0, None,7.3, None,-7.2, None, None, None,76.0,2016-12-30 16:00:00,53
+300.0, None, None,0.0, None,9.1, None,-7.2, None, None, None,71.0,2016-12-30 17:00:00,53
+297.0, None, None,0.0, None,12.6, None,-7.0, None, None, None,68.0,2016-12-30 18:00:00,53
+60.0, None, None,0.0, None,0.0, None,-9.6, None, None, None,85.0,2016-12-30 19:00:00,53
+330.0, None, None,0.0, None,3.3, None,-9.7, None, None, None,83.0,2016-12-30 20:00:00,53
+312.0, None, None,0.0, None,6.8, None,-8.8, None, None, None,76.0,2016-12-30 21:00:00,53
+330.0, None, None,0.0, None,8.5, None,-9.0, None, None, None,79.0,2016-12-30 22:00:00,53
+333.0, None, None,0.0, None,8.4, None,-9.3, None, None, None,77.0,2016-12-30 23:00:00,53
+98.0, None, None,0.0, None,0.0, None,-11.7, None, None, None,87.0,2016-12-31 00:00:00,53

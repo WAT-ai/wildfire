@@ -1,0 +1,8 @@
+wind_speed,temperature,avg_wnd_dir_10m_pst10mts,wind_direction,rel_hum,relative_humidity,rnfl_amt_pst24hrs,rnfl_amt_pst1hr,avg_wnd_spd_10m_pst10mts,precipitation,time,week_of_year
+10.9, None, None, 78.0, None, 0.0, None, None, None, 0.0,2021-07-22 17:00:00,29
+14.5, None, None, 96.0, None, 0.0, None, None, None, 0.0,2021-07-22 18:00:00,29
+24.6, None, None, 101.0, None, 0.0, None, None, None, 0.0,2021-07-22 19:00:00,29
+24.9, None, None, 97.0, None, 0.0, None, None, None, 0.0,2021-07-22 20:00:00,29
+29.2, None, None, 103.0, None, 0.0, None, None, None, 0.0,2021-07-22 21:00:00,29
+27.0, None, None, 111.0, None, 0.0, None, None, None, 0.0,2021-07-22 22:00:00,29
+28.5, None, None, 105.0, None, 0.0, None, None, None, 0.0,2021-07-22 23:00:00,29

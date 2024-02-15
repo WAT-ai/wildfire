@@ -1,0 +1,12 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+236.0, None, None,0.0, None,6.2, None, 21.6, None, None, None, 31.0,2017-06-19 13:00:00, None,25
+203.0, None, None,0.0, None,10.5, None, 21.0, None, None, None, 31.0,2017-06-19 14:00:00, None,25
+176.0, None, None,0.0, None,7.3, None, 20.9, None, None, None, 34.0,2017-06-19 15:00:00, None,25
+301.0, None, None,0.0, None,5.4, None, 19.0, None, None, None, 48.0,2017-06-23 10:00:00, None,25
+313.0, None, None,0.0, None,8.3, None, 20.1, None, None, None, 45.0,2017-06-23 11:00:00, None,25
+296.0, None, None,0.0, None,7.4, None, 19.9, None, None, None, 45.0,2017-06-23 15:00:00, None,25
+148.0, None, None,0.0, None,7.3, None, 21.6, None, None, None, 36.0,2017-06-24 11:00:00, None,25
+208.0, None, None,0.0, None,9.4, None, 21.4, None, None, None, 34.0,2017-06-24 12:00:00, None,25
+170.0, None, None,0.0, None,6.5, None, 22.4, None, None, None, 34.0,2017-06-24 14:00:00, None,25
+198.0, None, None,0.0, None,12.6, None, 23.7, None, None, None, 30.0,2017-06-24 15:00:00, None,25
+139.0, None, None,0.0, None,9.5, None, 23.7, None, None, None, 30.0,2017-06-24 16:00:00, None,25

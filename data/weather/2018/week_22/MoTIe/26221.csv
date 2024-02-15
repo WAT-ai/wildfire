@@ -1,0 +1,13 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,PRECIP_DETECTOR_RATIO,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,snwfl_amt_pst1hr,stn_pres,week_of_year
+None,2.067, 83.7, None, None, None,12.99,20.7, None,224.9, None, None, None, None, None, 0.0, None, None, None, None, None, None, None,2018-05-28 00:00:00, None, None, None, None,22
+None,1.924, 83.3, None, None, None,14.4,20.19, None,228.2, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 01:00:00, None, None, None, None,22
+None,1.742, 77.1, None, None, None,15.85,22.46, None,220.1, None, None, None, None, None, -2.0, None, None, None, None, None, None, None,2018-05-28 02:00:00, None, None, None, None,22
+None,0.643, 89.9, None, None, None,14.29,19.9, None,227.0, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 03:00:00, None, None, None, None,22
+None,0.499, 88.2, None, None, None,12.43,18.2, None,241.5, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 04:00:00, None, None, None, None,22
+None,0.415, 89.5, None, None, None,12.01,21.28, None,237.9, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 05:00:00, None, None, None, None,22
+None,0.224, 92.4, None, None, None,10.92,23.68, None,237.2, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 06:00:00, None, None, None, None,22
+None,0.368, 91.5, None, None, None,13.06,18.14, None,236.6, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 07:00:00, None, None, None, None,22
+None,0.416, 95.1, None, None, None,14.64,15.65, None,228.4, None, None, None, None, None, 0.0, None, None, None, None, None, None, None,2018-05-28 08:00:00, None, None, None, None,22
+None,1.039, 88.3, None, None, None,16.39,14.7, None,221.1, None, None, None, None, None, -1.0, None, None, None, None, None, None, None,2018-05-28 09:00:00, None, None, None, None,22
+None,1.411, 92.5, None, None, None,26.48,9.93, None,224.5, None, None, None, None, None, 0.0, None, None, None, None, None, None, None,2018-05-28 10:00:00, None, None, None, None,22
+None,0.681, 94.5, None, None, None,11.56,12.22, None,263.2, None, None, None, None, None, 0.0, None, None, None, None, None, None, None,2018-05-28 11:00:00, None, None, None, None,22

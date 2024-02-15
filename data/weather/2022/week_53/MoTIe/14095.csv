@@ -1,0 +1,2 @@
+air_temp,min_air_temp_snc_last_reset,mslp,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,rel_hum,max_wnd_spd_10m_pst1hr,time,avg_wnd_spd_10m_pst10mts,dwpt_temp,stn_pres,week_of_year
+7.3,7.2, 985.1, None,8.9,86.0, None,2022-12-31, None,5.0, 978.0,53

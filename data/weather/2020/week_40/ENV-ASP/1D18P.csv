@@ -1,0 +1,25 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,snw_dpth,MAX_TEMP,week_of_year
+None, 959.0, 3292.0, None, None,2020-09-30 00:00:00,21.9, None, None, None,40
+None, 959.0, 3292.0, None, None,2020-09-30 01:00:00,17.2, None, 0.0, None,40
+None, 959.0, 3290.0, None, None,2020-09-30 02:00:00,15.3, None, 1.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 03:00:00,14.7, None, 0.0, None,40
+None, 959.0, 3288.0, None, None,2020-09-30 04:00:00,15.2, None, 0.0, None,40
+None, 958.0, 3288.0, None, None,2020-09-30 05:00:00,14.9, None, 0.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 06:00:00,15.1, None, 1.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 07:00:00,15.4, None, None, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 08:00:00,14.5, None, None, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 09:00:00,15.4, None, 0.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 10:00:00,14.8, None, None, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 11:00:00,14.3, None, None, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 12:00:00,13.9, None, None, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 13:00:00,13.4, None, 0.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 14:00:00,13.1, None, 0.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 15:00:00,13.0, None, 0.0, None,40
+None, 958.0, 3289.0, None, None,2020-09-30 16:00:00,14.0, None, None, None,40
+None, 958.0, 3291.0, None, None,2020-09-30 17:00:00,15.8, None, None, None,40
+None, 958.0, 3292.0, None, None,2020-09-30 18:00:00,17.9, None, 0.0, None,40
+None, 958.0, 3296.0, None, None,2020-09-30 19:00:00,20.7, None, None, None,40
+None, 958.0, 3298.0, None, None,2020-09-30 20:00:00,22.7, None, None, None,40
+None, 958.0, 3296.0, None, None,2020-09-30 21:00:00,23.8, None, None, None,40
+None, 958.0, 3295.0, None, None,2020-09-30 22:00:00,23.9, None, None, None,40
+None, 959.0, 3293.0, None, None,2020-09-30 23:00:00,23.2, None, None, None,40

@@ -1,0 +1,11 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,stn_pres,week_of_year
+None, 11.45, 99.0, None, None, 0.0, 0.0, 0.25, None, None, None, None, None, None, 11.0, 925.0, None, None, None,2020-09-02 00:00:00, None, None,36
+None, 11.83, 99.2, None, None, 0.0, 0.0, 0.253, None, None, None, None, None, None, 12.0, 925.0, None, None, None,2020-09-02 01:00:00, None, None,36
+None, 11.0, 93.2, None, None, 0.0, 0.0, 0.253, None, None, None, None, None, None, 10.0, 926.0, None, None, None,2020-09-02 02:00:00, None, None,36
+None, 10.53, 98.8, None, None, 0.0, 0.0, 0.251, None, None, None, None, None, None, 10.0, 927.0, None, None, None,2020-09-02 03:00:00, None, None,36
+None, 10.01, 99.2, None, None, 0.0, 0.0, 0.249, None, None, None, None, None, None, 10.0, 928.0, None, None, None,2020-09-02 04:00:00, None, None,36
+None, 9.68, 99.5, None, None, 0.0, 0.0, 0.246, None, None, None, None, None, None, 9.0, 929.0, None, None, None,2020-09-02 05:00:00, None, None,36
+None, 9.5, 99.6, None, None, 0.0, 0.0, 0.245, None, None, None, None, None, None, 9.0, 930.0, None, None, None,2020-09-02 06:00:00, None, None,36
+None, 9.25, 99.4, None, None, 0.0, 0.0, 0.244, None, None, None, None, None, None, 9.0, 930.0, None, None, None,2020-09-02 07:00:00, None, None,36
+None, 9.82, 99.1, None, None, 0.0, 0.0, 0.244, None, None, None, None, None, None, 10.0, 931.0, None, None, None,2020-09-02 08:00:00, None, None,36
+None, 10.28, 98.6, None, None, 0.0, 0.0, 0.247, None, None, None, None, None, None, 10.0, 932.0, None, None, None,2020-09-02 09:00:00, None, None,36

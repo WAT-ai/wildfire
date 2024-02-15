@@ -1,0 +1,2 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,week_of_year
+0.3, -19.22, 81.6, -19.0, None, 30.31, 1.164, 138.9, -22.0, None, -19.2, -21.5, -22.0, 0.0, None, 0.0, 82.0,2021-12-31, None,53

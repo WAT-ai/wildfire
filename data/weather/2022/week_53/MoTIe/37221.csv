@@ -1,0 +1,2 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,snwfl_amt_pst1hr,dwpt_temp,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None, -7.183, 92.6, None, None, None, 0.0, -8.0, -7.2, -7.3, 1003.2, 0.0, -8.0, 866.0, -6.1, 93.0, None,2022-12-31, 51.0, 50.9, 866.0,53

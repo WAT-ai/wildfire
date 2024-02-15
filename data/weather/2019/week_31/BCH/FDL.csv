@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,Snow_WE,time,MIN_TEMP,MAX_TEMP,week_of_year
+None,0.0, None,2019-07-30,8.0,13.4,31
+None,0.0, None,2019-07-31,7.8,16.8,31
+None,0.3, None,2019-08-01,9.4,17.2,31
+None,25.3, None,2019-08-02,8.8,16.9,31
+None,0.0, None,2019-08-03,6.8,12.9,31
+None,0.0, None,2019-08-04,7.4,15.4,31
+None,0.1, None,2019-08-05,11.0,19.3,31

@@ -1,0 +1,16 @@
+air_temp,CURRENT_AIR_TEMPERATURE1,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,snwfl_amt_pst1hr,max_air_temp_snc_last_reset,HEIGHT_OF_SNOW,time,snw_dpth,dwpt_temp,stn_pres,week_of_year
+None,8.09, None, None, None, None, None,2017-09-25 00:00:00, None, None, None,39
+None,10.39, None, None, None, None, None,2017-09-25 14:00:00, None, None, None,39
+None,10.68, None, None, None, None, None,2017-09-25 16:00:00, None, None, None,39
+None,11.24, None, None, None, None, None,2017-09-25 17:00:00, None, None, None,39
+None,10.17, None, None, None, None, None,2017-09-25 22:00:00, None, None, None,39
+None,9.96, None, None, None, None, None,2017-09-26 00:00:00, None, None, None,39
+None,10.06, None, None, None, None, None,2017-09-26 02:00:00, None, None, None,39
+None,8.94, None, None, None, None, None,2017-09-26 06:00:00, None, None, None,39
+None,9.1, None, None, None, None, None,2017-09-26 08:00:00, None, None, None,39
+None,10.53, None, None, None, None, None,2017-09-26 11:00:00, None, None, None,39
+None,10.88, None, None, None, None, None,2017-09-26 12:00:00, None, None, None,39
+None,16.8, None, None, None, None, None,2017-09-28 12:00:00, None, None, None,39
+None,10.56, None, None, None, None, None,2017-09-29 00:00:00, None, None, None,39
+None,8.51, None, None, None, None, None,2017-09-29 08:00:00, None, None, None,39
+None,3.89, None, None, None, None, None,2017-09-30 00:00:00, None, None, None,39

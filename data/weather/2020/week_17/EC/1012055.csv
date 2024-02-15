@@ -1,0 +1,7 @@
+ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+8.2, 8.2, 6.0, 0.0,2020-04-22, 0.0, 12.5,17
+None, None, 6.5, None,2020-04-23, 0.0, 16.0,17
+None, None, 2.5, None,2020-04-24, None, None,17
+27.0, 27.0, None, None,2020-04-26, None, 14.5,17
+5.4, 5.4, 4.0, None,2020-04-27, None, 13.5,17
+2.2, 2.2, 1.0, None,2020-04-28, None, 11.5,17

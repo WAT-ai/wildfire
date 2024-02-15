@@ -1,0 +1,2 @@
+wind_speed,mean_sea_level,dew_point,wind_direction,relative_humidity,air_temperature,time,air_temperature_yesterday_low,total_precipitation,wind_gust_speed,air_temperature_yesterday_high,tendency_amount,week_of_year
+21.0, 102.3, -8.0, 315.0, 44.0, 3.0,2018-12-31, None, None, 30.0, None, 0.29,53

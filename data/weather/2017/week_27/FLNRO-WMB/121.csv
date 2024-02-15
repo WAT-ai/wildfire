@@ -1,0 +1,5 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+223.0, None, None,0.0, None,12.7, None, 22.9, None, None, None, 39.0,2017-07-02 11:00:00, None,27
+257.0, None, None,0.0, None,9.9, None, 24.0, None, None, None, 29.0,2017-07-02 13:00:00, None,27
+18.0, None, None,0.0, None,4.6, None, 25.8, None, None, None, 39.0,2017-07-07 10:00:00, None,27
+62.0, None, None,0.0, None,8.8, None, 28.7, None, None, None, 31.0,2017-07-07 17:00:00, None,27

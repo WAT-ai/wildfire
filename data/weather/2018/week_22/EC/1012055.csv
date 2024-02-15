@@ -1,0 +1,7 @@
+ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None, None, 7.0, None,2018-05-28, None, 21.0,22
+1.8, 1.8, 4.0, None,2018-05-29, None, 20.0,22
+None, None, 4.0, None,2018-05-30, None, 20.0,22
+None, None, 7.0, None,2018-05-31, None, None,22
+None, None, 4.0, None,2018-06-01, None, None,22
+1.8, 1.8, None, None,2018-06-03, None, 21.0,22

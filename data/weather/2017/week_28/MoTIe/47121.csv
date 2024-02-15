@@ -1,0 +1,22 @@
+air_temp,CURRENT_AIR_TEMPERATURE1,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,snwfl_amt_pst1hr,max_air_temp_snc_last_reset,HEIGHT_OF_SNOW,time,snw_dpth,dwpt_temp,stn_pres,week_of_year
+None,7.19, None, None, None, None, None,2017-07-09 11:00:00, None, None, None,28
+None,8.02, None, None, None, None, None,2017-07-09 12:00:00, None, None, None,28
+None,8.57, None, None, None, None, None,2017-07-09 13:00:00, None, None, None,28
+None,8.03, None, None, None, None, None,2017-07-09 14:00:00, None, None, None,28
+None,9.4, None, None, None, None, None,2017-07-09 15:00:00, None, None, None,28
+None,9.21, None, None, None, None, None,2017-07-09 16:00:00, None, None, None,28
+None,9.56, None, None, None, None, None,2017-07-09 17:00:00, None, None, None,28
+None,8.61, None, None, None, None, None,2017-07-09 18:00:00, None, None, None,28
+None,8.34, None, None, None, None, None,2017-07-09 19:00:00, None, None, None,28
+None,7.62, None, None, None, None, None,2017-07-09 20:00:00, None, None, None,28
+None,7.36, None, None, None, None, None,2017-07-09 21:00:00, None, None, None,28
+None,7.28, None, None, None, None, None,2017-07-09 22:00:00, None, None, None,28
+None,7.22, None, None, None, None, None,2017-07-09 23:00:00, None, None, None,28
+None,6.714, None, None, None, None, None,2017-07-10 00:00:00, None, None, None,28
+None,6.599, None, None, None, None, None,2017-07-10 01:00:00, None, None, None,28
+None,6.818, None, None, None, None, None,2017-07-10 02:00:00, None, None, None,28
+None,6.155, None, None, None, None, None,2017-07-10 03:00:00, None, None, None,28
+None,5.317, None, None, None, None, None,2017-07-10 04:00:00, None, None, None,28
+None,5.035, None, None, None, None, None,2017-07-10 05:00:00, None, None, None,28
+None,5.91, None, None, None, None, None,2017-07-10 06:00:00, None, None, None,28
+None,6.184, None, None, None, None, None,2017-07-10 07:00:00, None, None, None,28

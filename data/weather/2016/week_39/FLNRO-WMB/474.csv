@@ -1,0 +1,12 @@
+wind_speed,time,avg_wnd_dir_10m_pst10mts,wind_direction,rel_hum,relative_humidity,rnfl_amt_pst24hrs,rnfl_amt_pst1hr,avg_wnd_spd_10m_pst10mts,precipitation,week_of_year
+33.9,2016-09-23 00:00:00, None,129.0, None,0.0, None, None, None,0.0,39
+28.3,2016-09-23 01:00:00, None,145.0, None,0.0, None, None, None,0.0,39
+27.4,2016-09-23 02:00:00, None,137.0, None,0.0, None, None, None,0.0,39
+31.3,2016-09-23 03:00:00, None,136.0, None,0.0, None, None, None,0.0,39
+32.3,2016-09-23 04:00:00, None,136.0, None,0.0, None, None, None,0.0,39
+35.9,2016-09-23 05:00:00, None,134.0, None,0.0, None, None, None,0.0,39
+43.4,2016-09-23 06:00:00, None,130.0, None,0.0, None, None, None,0.0,39
+38.1,2016-09-23 07:00:00, None,130.0, None,0.0, None, None, None,0.0,39
+27.1,2016-09-23 08:00:00, None,141.0, None,0.0, None, None, None,0.0,39
+27.9,2016-09-23 09:00:00, None,138.0, None,0.0, None, None, None,0.0,39
+25.2,2016-09-23 10:00:00, None,126.0, None,0.0, None, None, None,0.0,39

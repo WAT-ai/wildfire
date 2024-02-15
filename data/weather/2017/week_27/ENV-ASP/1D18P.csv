@@ -1,0 +1,8 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,snw_dpth,MAX_TEMP,week_of_year
+None, None, None,173.0, None,2017-07-02 16:00:00, None, None, None, None,27
+None, None, None,136.0, None,2017-07-03 16:00:00, None, None, None, None,27
+None, None, None,117.0, None,2017-07-04 16:00:00, None, None, None, None,27
+None, None, None,93.0, None,2017-07-05 16:00:00, None, None, None, None,27
+None, None, None,60.0, None,2017-07-06 16:00:00, None, None, None, None,27
+None, None, None,31.0, None,2017-07-07 16:00:00, None, None, None, None,27
+None, None, None,8.0, None,2017-07-08 16:00:00, None, None, None, None,27

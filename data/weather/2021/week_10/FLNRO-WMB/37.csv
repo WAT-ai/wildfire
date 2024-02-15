@@ -1,0 +1,6 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+0.0, None, None, 0.0, None, 0.0, None, 12.2, None, None, None, 43.0,2021-03-11 11:00:00, None,10
+0.0, 43.0, 0.0, 0.0, 0.0, 0.0, 12.2, 11.9, 0.0, 0.0, None, 52.0,2021-03-11 12:00:00, None,10
+0.0, 52.0, 0.0, 0.0, 2.4, 0.0, 11.9, 14.3, 0.0, 0.0, None, 42.0,2021-03-11 13:00:00, None,10
+0.0, 42.0, 0.0, 0.0, 1.6, 0.0, 14.3, 12.3, 0.0, 0.0, None, 46.0,2021-03-11 14:00:00, None,10
+None, 46.0, 0.0, None, 1.0, None, 12.3, None, 0.0, 0.0, None, None,2021-03-11 15:00:00, None,10

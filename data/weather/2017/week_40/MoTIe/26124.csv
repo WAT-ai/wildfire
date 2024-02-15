@@ -1,0 +1,23 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None,4.392,53.57, None, None,18.55,11.27,345.1, None, None, None, None, None, None, -4.0,901.0, None, None, None,2017-10-02 09:00:00, None, None, None,40
+None,4.236,51.56, None, None,18.07,10.68,341.7, None, None, None, None, None, None, -5.0,902.0, None, None, None,2017-10-02 10:00:00, None, None, None,40
+None,4.667,51.22, None, None,17.95,10.74,340.1, None, None, None, None, None, None, -5.0,902.0, None, None, None,2017-10-02 11:00:00, None, None, None,40
+None,6.187,44.92, None, None,17.76,11.63,344.6, None, None, None, None, None, None, -5.0,903.0, None, None, None,2017-10-02 12:00:00, None, None, None,40
+None,6.724,46.44, None, None,19.18,11.9,343.6, None, None, None, None, None, None, -4.0,903.0, None, None, None,2017-10-02 13:00:00, None, None, None,40
+None,7.81,38.47, None, None,21.72,8.02,347.0, None, None, None, None, None, None, -5.0,903.0, None, None, None,2017-10-02 14:00:00, None, None, None,40
+None,7.76,38.2, None, None,18.93,8.03,338.4, None, None, None, None, None, None, -6.0,903.0, None, None, None,2017-10-02 15:00:00, None, None, None,40
+None,5.968,44.5, None, None,18.7,7.36,345.2, None, None, None, None, None, None, -5.0,903.0, None, None, None,2017-10-02 17:00:00, None, None, None,40
+None,6.089,45.12, None, None,16.91,8.77,336.0, None, None, None, None, None, None, -5.0,903.0, None, None, None,2017-10-02 18:00:00, None, None, None,40
+None,6.242,43.18, None, None,16.83,8.67,339.1, None, None, None, None, None, None, -5.0,904.0, None, None, None,2017-10-02 19:00:00, None, None, None,40
+None,5.673,46.74, None, None,24.28,5.554,322.3, None, None, None, None, None, None, -5.0,904.0, None, None, None,2017-10-02 20:00:00, None, None, None,40
+None,5.772,45.8, None, None,26.34,3.692,307.3, None, None, None, None, None, None, -5.0,904.0, None, None, None,2017-10-02 21:00:00, None, None, None,40
+None,5.35,45.61, None, None,58.61,1.552,222.7, None, None, None, None, None, None, -5.0,904.0, None, None, None,2017-10-02 22:00:00, None, None, None,40
+None,4.919,50.76, None, None,45.3,2.451,147.6, None, None, None, None, None, None, -4.0,905.0, None, None, None,2017-10-02 23:00:00, None, None, None,40
+None,3.722,54.18, None, None,40.44,2.499,148.6, None, None, None, None, None, None, -5.0,905.0, None, None, None,2017-10-03 00:00:00, None, None, None,40
+None,3.78,53.85, None, None,27.56,4.915,170.2, None, None, None, None, None, None, -5.0,905.0, None, None, None,2017-10-03 01:00:00, None, None, None,40
+None,2.728,62.96, None, None,60.44,1.766,272.9, None, None, None, None, None, None, -4.0,905.0, None, None, None,2017-10-03 02:00:00, None, None, None,40
+None,2.346,61.15, None, None,55.51,2.151,179.8, None, None, None, None, None, None, -4.0,905.0, None, None, None,2017-10-03 03:00:00, None, None, None,40
+None,1.638,70.3, None, None,62.55,1.428,159.3, None, None, None, None, None, None, -3.0,905.0, None, None, None,2017-10-03 04:00:00, None, None, None,40
+None,1.447,72.1, None, None,34.48,4.023,281.1, None, None, None, None, None, None, -3.0,904.0, None, None, None,2017-10-03 05:00:00, None, None, None,40
+None,0.728,75.0, None, None,18.49,4.564,166.2, None, None, None, None, None, None, -3.0,904.0, None, None, None,2017-10-03 06:00:00, None, None, None,40
+None,-0.028,81.7, None, None,38.93,2.228,132.7, None, None, None, None, None, None, -2.0,904.0, None, None, None,2017-10-03 07:00:00, None, None, None,40

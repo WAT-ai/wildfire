@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
+None, None,2019-01-15,-0.9,0.9,3
+None, None,2019-01-16,-11.5,-0.6,3
+None, None,2019-01-17,-12.7,-11.3,3
+None, None,2019-01-18,-12.1,-10.0,3
+None, None,2019-01-19,-10.3,2.8,3
+None, None,2019-01-20,-0.5,2.9,3
+None, None,2019-01-21,-4.0,1.8,3

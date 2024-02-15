@@ -1,0 +1,26 @@
+WDIR_VECT,BAR_PRESS,TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+236.5, None, None, None, 97.3, None,2020-12-30 00:00:00, None,53
+217.7, None, None, None, 98.7, None,2020-12-30 01:00:00, None,53
+200.5, None, None, None, 99.2, None,2020-12-30 02:00:00, None,53
+226.6, None, None, None, 99.8, None,2020-12-30 03:00:00, None,53
+212.5, None, None, None, 99.9, None,2020-12-30 04:00:00, None,53
+223.0, None, None, None, 99.9, None,2020-12-30 05:00:00, None,53
+210.7, None, None, None, 99.8, None,2020-12-30 06:00:00, None,53
+250.6, None, None, None, 99.7, None,2020-12-30 07:00:00, None,53
+230.6, None, None, None, 100.0, None,2020-12-30 08:00:00, None,53
+231.6, None, None, None, 99.9, None,2020-12-30 09:00:00, None,53
+253.5, None, None, None, 98.3, None,2020-12-30 10:00:00, None,53
+223.8, None, None, None, 96.2, None,2020-12-30 11:00:00, None,53
+209.0, None, None, None, 94.9, None,2020-12-30 12:00:00, None,53
+238.4, None, None, None, 94.2, None,2020-12-30 13:00:00, None,53
+136.3, None, None, None, 92.4, None,2020-12-30 14:00:00, None,53
+99.7, None, None, None, 99.1, None,2020-12-30 15:00:00, None,53
+8.7, None, None, None, 99.1, None,2020-12-30 16:00:00, None,53
+123.1, None, None, None, 98.8, None,2020-12-30 17:00:00, None,53
+213.3, None, None, None, 98.9, None,2020-12-30 18:00:00, None,53
+210.8, None, None, None, 99.0, None,2020-12-30 19:00:00, None,53
+198.1, None, None, None, 99.1, None,2020-12-30 20:00:00, None,53
+152.5, None, None, None, 99.4, None,2020-12-30 21:00:00, None,53
+201.5, None, None, None, 99.7, None,2020-12-30 22:00:00, None,53
+96.1, None, None, None, 99.2, None,2020-12-30 23:00:00, None,53
+198.3, None, None, None, 100.0, None,2020-12-31 00:00:00, None,53

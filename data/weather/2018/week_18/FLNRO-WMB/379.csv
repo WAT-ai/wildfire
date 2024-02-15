@@ -1,0 +1,11 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+311.0, None, None,0.0, None,5.2, None,23.0, None, None, None,26.0,2018-05-06 14:00:00,18
+320.0, None, None,0.0, None,4.9, None,16.1, None, None, None,51.0,2018-05-06 15:00:00,18
+313.0, None, None,0.0, None,6.5, None,16.1, None, None, None,47.0,2018-05-06 16:00:00,18
+279.0, None, None,0.0, None,6.4, None,13.0, None, None, None,54.0,2018-05-06 17:00:00,18
+276.0, None, None,0.0, None,7.4, None,11.3, None, None, None,57.0,2018-05-06 18:00:00,18
+246.0, None, None,0.0, None,4.2, None,9.6, None, None, None,64.0,2018-05-06 19:00:00,18
+283.0, None, None,0.0, None,5.5, None,8.7, None, None, None,65.0,2018-05-06 20:00:00,18
+275.0, None, None,0.0, None,5.7, None,7.7, None, None, None,65.0,2018-05-06 21:00:00,18
+240.0, None, None,0.0, None,5.3, None,6.8, None, None, None,70.0,2018-05-06 22:00:00,18
+229.0, None, None,0.0, None,4.7, None,6.2, None, None, None,72.0,2018-05-06 23:00:00,18

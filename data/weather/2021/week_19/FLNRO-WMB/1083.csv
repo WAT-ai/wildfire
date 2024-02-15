@@ -1,0 +1,15 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+29.0, None, None, 0.0, None, 5.6, None, 19.5, None, None, None, 39.0,2021-05-13 10:00:00,19
+153.0, None, None, 0.4, None, 7.0, None, 21.1, None, None, None, 34.0,2021-05-13 11:00:00,19
+173.0, None, None, 0.0, None, 5.8, None, 22.3, None, None, None, 30.0,2021-05-13 12:00:00,19
+165.0, None, None, 0.0, None, 7.1, None, 23.2, None, None, None, 29.0,2021-05-13 13:00:00,19
+174.0, None, None, 0.0, None, 8.6, None, 22.7, None, None, None, 27.0,2021-05-13 14:00:00,19
+190.0, None, None, 0.0, None, 10.9, None, 22.7, None, None, None, 25.0,2021-05-13 15:00:00,19
+209.0, None, None, 0.0, None, 7.5, None, 21.9, None, None, None, 26.0,2021-05-13 16:00:00,19
+326.0, None, None, 0.0, None, 5.5, None, 16.4, None, None, None, 43.0,2021-05-13 17:00:00,19
+230.0, None, None, 0.0, None, 3.9, None, 15.4, None, None, None, 43.0,2021-05-13 18:00:00,19
+278.0, None, None, 0.0, None, 5.5, None, 12.9, None, None, None, 57.0,2021-05-13 19:00:00,19
+293.0, None, None, 0.0, None, 4.3, None, 11.0, None, None, None, 57.0,2021-05-13 20:00:00,19
+346.0, None, None, 0.0, None, 4.7, None, 11.1, None, None, None, 61.0,2021-05-13 21:00:00,19
+349.0, None, None, 0.0, None, 5.9, None, 9.2, None, None, None, 66.0,2021-05-13 22:00:00,19
+293.0, None, None, 0.0, None, 4.8, None, 9.2, None, None, None, 59.0,2021-05-13 23:00:00,19

@@ -1,0 +1,12 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,PRECIP_TOTAL,avg_rel_hum_pst1hr,time,HUMIDITY,avg_air_temp_pst1hr,week_of_year
+None, None, None, None, None,2018-06-15 15:00:00,2.4, None,24
+None, None, None, None, None,2018-06-15 16:00:00,6.7, None,24
+None, None, None, None, None,2018-06-15 17:00:00,3.5, None,24
+None, None, None, None, None,2018-06-16 09:00:00,5.1, None,24
+None, None, None, None, None,2018-06-16 10:00:00,6.0, None,24
+None, None, None, None, None,2018-06-16 11:00:00,5.1, None,24
+None, None, None, None, None,2018-06-16 12:00:00,6.2, None,24
+None, None, None, None, None,2018-06-16 13:00:00,7.3, None,24
+None, None, None, None, None,2018-06-16 14:00:00,6.1, None,24
+None, None, None, None, None,2018-06-16 15:00:00,5.0, None,24
+None, None, None, None, None,2018-06-16 16:00:00,3.6, None,24

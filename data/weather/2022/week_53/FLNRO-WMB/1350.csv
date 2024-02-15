@@ -1,0 +1,2 @@
+air_temp,temperature,dwpt_temp,rel_hum,relative_humidity,rnfl_amt_pst24hrs,rnfl_amt_pst1hr,snw_dpth,precipitation,time,week_of_year
+-0.9, -1.1, -0.9, 100.0, 100.0, 0.6, 0.0, 75.0, 0.0,2022-12-31,53

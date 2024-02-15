@@ -1,0 +1,10 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+None, None, 0.217998, None, None,2018-01-15 00:00:00, None,3
+None, None, 0.305999, None, None,2018-01-15 01:00:00, None,3
+None, None, 0.544, None, None,2018-01-15 02:00:00, None,3
+None, None, 0.467999, None, None,2018-01-15 03:00:00, None,3
+None, None, 0.395999, None, None,2018-01-15 04:00:00, None,3
+None, None, 0.428999, None, None,2018-01-15 05:00:00, None,3
+None, None, 0.500998, None, None,2018-01-15 06:00:00, None,3
+None, None, 0.55, None, None,2018-01-15 07:00:00, None,3
+None, None, 0.412, None, None,2018-01-15 08:00:00, None,3

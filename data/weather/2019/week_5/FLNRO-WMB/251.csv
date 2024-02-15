@@ -1,0 +1,16 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+16.0, None, None,0.0, None,6.6, None,-14.7, None, None, None,81.0,2019-01-29 00:00:00,5
+68.0, None, None,0.0, None,1.7, None,-15.7, None, None, None,83.0,2019-01-29 01:00:00,5
+13.0, None, None,0.0, None,5.0, None,-16.2, None, None, None,80.0,2019-01-29 02:00:00,5
+10.0, None, None,0.0, None,6.4, None,-16.2, None, None, None,80.0,2019-01-29 03:00:00,5
+29.0, None, None,0.0, None,5.9, None,-16.6, None, None, None,81.0,2019-01-29 04:00:00,5
+92.0, None, None,0.0, None,1.9, None,-17.1, None, None, None,79.0,2019-01-29 05:00:00,5
+13.0, None, None,0.0, None,2.9, None,-17.7, None, None, None,80.0,2019-01-29 06:00:00,5
+22.0, None, None,0.0, None,6.4, None,-17.8, None, None, None,78.0,2019-01-29 07:00:00,5
+47.0, None, None,0.0, None,6.6, None,-14.4, None, None, None,85.0,2019-01-29 08:00:00,5
+148.0, None, None,0.0, None,3.5, None,-7.7, None, None, None,80.0,2019-01-29 09:00:00,5
+200.0, None, None,0.0, None,3.3, None,-3.5, None, None, None,64.0,2019-01-29 10:00:00,5
+159.0, None, None,0.0, None,5.2, None,-2.1, None, None, None,55.0,2019-01-29 11:00:00,5
+166.0, None, None,0.0, None,4.7, None,-0.8, None, None, None,51.0,2019-01-29 12:00:00,5
+122.0, None, None,0.2, None,5.8, None,-0.8, None, None, None,53.0,2019-01-29 13:00:00,5
+142.0, None, None,0.0, None,2.9, None,-2.8, None, None, None,57.0,2019-01-29 14:00:00,5

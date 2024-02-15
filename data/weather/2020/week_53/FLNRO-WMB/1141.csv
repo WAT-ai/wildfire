@@ -1,0 +1,26 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+243.0, None, None, 3.56, None, 3.5, None, 0.6, None, None, None, 99.0,2020-12-30 00:00:00,53
+232.0, None, None, 4.06, None, 3.0, None, 0.5, None, None, None, 99.0,2020-12-30 01:00:00,53
+240.0, None, None, 4.57, None, 3.8, None, 0.7, None, None, None, 100.0,2020-12-30 02:00:00,53
+190.0, None, None, 5.59, None, 3.2, None, 0.9, None, None, None, 100.0,2020-12-30 03:00:00,53
+254.0, None, None, 3.3, None, 1.4, None, 1.3, None, None, None, 100.0,2020-12-30 04:00:00,53
+98.0, None, None, 1.02, None, 3.1, None, 2.6, None, None, None, 100.0,2020-12-30 05:00:00,53
+89.0, None, None, 0.76, None, 4.7, None, 2.6, None, None, None, 100.0,2020-12-30 06:00:00,53
+72.0, None, None, 1.78, None, 3.2, None, 3.1, None, None, None, 100.0,2020-12-30 07:00:00,53
+297.0, None, None, 1.27, None, 3.4, None, 2.6, None, None, None, 100.0,2020-12-30 08:00:00,53
+152.0, None, None, 2.79, None, 4.7, None, 3.1, None, None, None, 100.0,2020-12-30 09:00:00,53
+203.0, None, None, 1.27, None, 7.8, None, 4.9, None, None, None, 92.0,2020-12-30 10:00:00,53
+186.0, None, None, 0.0, None, 5.2, None, 5.7, None, None, None, 86.0,2020-12-30 11:00:00,53
+133.0, None, None, 0.0, None, 3.2, None, 5.1, None, None, None, 96.0,2020-12-30 12:00:00,53
+100.0, None, None, 0.25, None, 6.9, None, 3.8, None, None, None, 97.0,2020-12-30 13:00:00,53
+101.0, None, None, 1.52, None, 7.8, None, 3.8, None, None, None, 98.0,2020-12-30 14:00:00,53
+91.0, None, None, 2.29, None, 5.3, None, 3.4, None, None, None, 99.0,2020-12-30 15:00:00,53
+25.0, None, None, 3.3, None, 2.0, None, 3.2, None, None, None, 99.0,2020-12-30 16:00:00,53
+116.0, None, None, 3.81, None, 7.1, None, 3.4, None, None, None, 99.0,2020-12-30 17:00:00,53
+115.0, None, None, 3.81, None, 6.9, None, 3.8, None, None, None, 99.0,2020-12-30 18:00:00,53
+146.0, None, None, 4.57, None, 6.2, None, 3.6, None, None, None, 99.0,2020-12-30 19:00:00,53
+174.0, None, None, 4.32, None, 5.7, None, 4.0, None, None, None, 99.0,2020-12-30 20:00:00,53
+119.0, None, None, 3.05, None, 9.8, None, 4.0, None, None, None, 99.0,2020-12-30 21:00:00,53
+138.0, None, None, 3.05, None, 6.4, None, 4.3, None, None, None, 99.0,2020-12-30 22:00:00,53
+195.0, None, None, 3.56, None, 5.9, None, 4.6, None, None, None, 99.0,2020-12-30 23:00:00,53
+97.0, None, None, 4.32, None, 8.8, None, 4.2, None, None, None, 99.0,2020-12-31 00:00:00,53

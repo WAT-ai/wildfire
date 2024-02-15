@@ -1,0 +1,8 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, 97.0, None, None, None, None, None, None, None, None, None, None,2016-10-21 16:00:00, None,43
+None, 77.0, None, None, None, None, None, None, None, None, None, None,2016-10-22 16:00:00, None,43
+None, 50.0, None, None, None, None, None, None, None, None, None, None,2016-10-23 16:00:00, None,43
+None, 26.0, None, None, None, None, None, None, None, None, None, None,2016-10-24 16:00:00, None,43
+None, 7.0, None, None, None, None, None, None, None, None, None, None,2016-10-25 16:00:00, None,43
+None, 1.0, None, None, None, None, None, None, None, None, None, None,2016-10-26 16:00:00, None,43
+None, 0.0, None, None, None, None, None, None, None, None, None, None,2016-10-27 16:00:00, None,43

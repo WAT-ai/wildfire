@@ -1,0 +1,6 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+93.0, None, None,0.0, None,4.2, None,-11.2, None, None, None,76.0,2019-02-19 00:00:00,8
+91.0, None, None,0.0, None,5.1, None,-11.2, None, None, None,79.0,2019-02-19 01:00:00,8
+75.0, None, None,0.0, None,4.5, None,-11.0, None, None, None,79.0,2019-02-19 02:00:00,8
+103.0, None, None,0.0, None,3.8, None,-10.7, None, None, None,77.0,2019-02-19 03:00:00,8
+100.0, None, None,0.0, None,3.3, None,-10.5, None, None, None,78.0,2019-02-19 04:00:00,8

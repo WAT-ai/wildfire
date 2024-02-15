@@ -1,0 +1,22 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+None, None,279.0, None, -21.6,-21.3, None, None, None, None,178.0,2021-12-17 23:00:00, None,51
+None, None,279.0, None, -23.5,-23.3, None, None, None, None,177.0,2021-12-18 02:00:00, None,51
+None, None,279.0, None, -25.3,-25.1, None, None, None, None,176.0,2021-12-18 06:00:00, None,51
+None, None,279.0, None, -26.7,-26.5, None, None, None, None,175.0,2021-12-18 10:00:00, None,51
+None, None,279.0, None, -21.3,-21.2, None, None, None, None,175.0,2021-12-18 17:00:00, None,51
+0.0, None,279.0, None, -27.1,-26.7, None, None, None, None,174.0,2021-12-19 02:00:00, None,51
+None, None,280.0, None, -27.9,-27.7, None, None, None, None,174.0,2021-12-19 07:00:00, None,51
+None, None,280.0, None, -26.2,-25.9, None, None, None, None,173.0,2021-12-19 21:00:00, None,51
+None, None,280.0, None, -26.5,-26.2, None, None, None, 0.0,173.0,2021-12-19 22:00:00, None,51
+None, None,280.0, None, -18.4,-19.0, None, None, None, None,174.0,2021-12-20 18:00:00, None,51
+0.0, None,280.0, None, -15.9,-16.1, None, None, None, None,175.0,2021-12-20 21:00:00, None,51
+None, None,287.0, None, -9.3,-9.4, None, None, None, None,188.0,2021-12-21 13:00:00, None,51
+None, None,290.0, None, -11.3,-11.3, None, None, None, None,192.0,2021-12-22 03:00:00, None,51
+None, None,290.0, None, -14.1,-14.1, None, None, None, None,192.0,2021-12-22 09:00:00, None,51
+None, None,290.0, None, -14.5,-14.5, None, None, None, 0.0,192.0,2021-12-22 10:00:00, None,51
+None, None,290.0, None, -18.0,-17.7, None, None, None, None,191.0,2021-12-22 18:00:00, None,51
+None, None,290.0, None, -23.1,-22.7, None, None, None, None,190.0,2021-12-22 23:00:00, None,51
+None, None,289.0, None, -23.8,-23.4, None, None, None, None,190.0,2021-12-23 00:00:00, None,51
+None, None,290.0, None, -25.3,-25.0, None, None, None, None,189.0,2021-12-23 02:00:00, None,51
+None, None,290.0, None, -21.9,-21.9, None, None, None, None,188.0,2021-12-23 13:00:00, None,51
+None, None,290.0, None, -25.6,-25.5, None, None, None, None,188.0,2021-12-23 21:00:00, None,51

@@ -1,0 +1,2 @@
+AirTemperature,Precipitation,Rain,WindSpeed,SnowDepth,time,WindDirection,SnowWaterEquivalent,RelativeHumidity,week_of_year
+-0.5, 0.0,0.0, 8.4, 0.0,2018-12-31, 46.0, 0.9,90.0,53

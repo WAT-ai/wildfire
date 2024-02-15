@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,Snow_WE,time,MIN_TEMP,MAX_TEMP,week_of_year
+None,5.0, None,2016-11-04,0.6,7.4,45
+None,32.0, None,2016-11-05,-0.1,2.4,45
+None,1.0, None,2016-11-06,-1.6,1.7,45
+None,25.2, None,2016-11-07,-0.8,5.0,45
+None,49.2, None,2016-11-08,4.0,5.9,45
+None,11.7, None,2016-11-09,1.0,6.7,45
+None,5.0, None,2016-11-10,1.4,8.1,45

@@ -1,0 +1,2 @@
+air_temp,CURRENT_AIR_TEMPERATURE1,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,snwfl_amt_pst1hr,max_air_temp_snc_last_reset,HEIGHT_OF_SNOW,time,snw_dpth,dwpt_temp,stn_pres,week_of_year
+-3.5, -3.493, -4.2, 0.0, 0.0, -2.3, 140.48,2022-12-31, 140.0, -52.0, 404.0,53

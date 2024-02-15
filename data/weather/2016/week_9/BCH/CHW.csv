@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None, 0.0,-1.4,2016-02-26, None,8.5,9
+None, 1.0,-2.2,2016-02-27, None,10.7,9
+None, 2.0,-11.8,2016-02-28, None,-1.9,9
+None, 0.0,-10.2,2016-02-29, None,10.0,9
+None, 1.0,-7.7,2016-03-01, None,9.1,9
+None, 3.0,-9.8,2016-03-02, None,-5.2,9
+None, 4.0,-9.7,2016-03-03, None,-5.2,9

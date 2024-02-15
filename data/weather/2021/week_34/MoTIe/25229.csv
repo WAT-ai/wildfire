@@ -1,0 +1,17 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,HEIGHT_OF_SNOW,week_of_year
+None, 9.55, 93.4, None, None, None, None, 5.353, 1.0, 1.188, 212.4, 9.0, None, 9.6, 9.6, None, None, 13.8, 93.0, None,2021-08-20 00:00:00, -13.0, None,34
+None, 9.55, 95.3, None, None, None, None, 4.849, 0.0, 1.227, 216.3, 9.0, None, 9.6, 9.4, None, None, 13.8, 95.0, None,2021-08-20 01:00:00, -13.0, None,34
+None, 9.59, 95.5, None, None, None, None, 14.42, 0.0, 1.018, 216.6, 9.0, None, 9.6, 9.4, None, None, 13.8, 96.0, None,2021-08-20 02:00:00, -13.0, None,34
+None, 9.5, 95.8, None, None, None, None, 16.84, -1.0, 1.152, 215.2, 9.0, None, 9.5, 9.4, None, None, 13.8, 96.0, None,2021-08-20 03:00:00, -14.0, None,34
+None, 9.26, 96.3, None, None, None, None, 50.01, 1.0, 0.853, 207.2, 9.0, None, 9.3, 9.2, None, None, 13.8, 96.0, None,2021-08-20 04:00:00, -13.0, None,34
+None, 9.03, 96.9, None, None, None, None, 56.99, 0.0, 1.389, 51.05, 9.0, None, 9.0, 9.0, None, None, 13.8, 97.0, None,2021-08-20 05:00:00, -13.0, None,34
+None, 8.94, 97.1, None, None, None, None, 57.84, 0.0, 1.395, 91.0, 9.0, None, 8.9, 8.8, None, None, 13.8, 97.0, None,2021-08-20 06:00:00, -14.0, None,34
+None, 9.21, 97.2, None, None, None, None, 63.88, 1.0, 0.657, 208.8, 9.0, None, 9.2, 8.9, None, None, 9.2, 97.0, None,2021-08-20 07:00:00, -13.0, None,34
+None, 9.42, 97.3, None, None, None, None, 21.36, -1.0, 1.174, 218.4, 9.0, None, 9.4, 8.9, None, None, 9.5, 97.0, None,2021-08-20 08:00:00, -14.0, None,34
+None, 9.57, 97.1, None, None, None, None, 47.65, 0.0, 1.002, 236.9, 9.0, None, 9.6, 8.9, None, None, 9.7, 97.0, None,2021-08-20 09:00:00, -14.0, None,34
+None, 9.81, 95.8, None, None, None, None, 62.86, 0.0, 1.644, 265.4, 9.0, None, 9.8, 8.9, None, None, 10.0, 96.0, None,2021-08-20 10:00:00, -14.0, None,34
+None, 11.29, 89.2, None, None, None, None, 60.53, 0.0, 2.055, 25.54, 10.0, None, 11.3, 8.9, None, None, 11.4, 89.0, None,2021-08-20 11:00:00, -14.0, None,34
+None, 10.36, 92.7, None, None, None, None, 58.78, 1.0, 1.934, 254.8, 9.0, None, 10.4, 8.9, None, None, 11.4, 93.0, None,2021-08-20 12:00:00, -13.0, None,34
+None, 9.93, 94.2, None, None, None, None, 19.42, 0.0, 3.874, 222.2, 9.0, None, 9.9, 8.9, None, None, 11.4, 94.0, None,2021-08-20 13:00:00, -14.0, None,34
+None, 10.7, 92.2, None, None, None, None, 20.7, 0.0, 3.56, 230.5, 9.0, None, 10.7, 8.9, None, None, 11.4, 92.0, None,2021-08-20 14:00:00, -14.0, None,34
+None, 11.31, 86.9, None, None, None, None, 25.02, 0.0, 3.508, 233.6, 9.0, None, 11.3, 8.9, None, None, 11.5, 87.0, None,2021-08-20 15:00:00, -14.0, None,34

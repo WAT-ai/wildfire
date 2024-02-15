@@ -1,0 +1,4 @@
+TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+None, 0.256, None,77.16,2016-06-23 21:00:00,15.27,25
+None, 0.842998, None,92.0,2016-06-23 22:00:00,13.09,25
+None, 0.578998, None,96.4,2016-06-23 23:00:00,12.12,25

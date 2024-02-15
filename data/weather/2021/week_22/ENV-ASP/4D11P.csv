@@ -1,0 +1,21 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+None, None,222.0, None, 4.1,4.0, 66.0, None, None, None,184.0,2021-05-28 03:00:00, None,22
+None, None,221.0, None, 10.9,9.9, 63.0, None, None, None,183.0,2021-05-28 14:00:00, None,22
+None, None,222.0, None, 4.4,4.5, 62.0, None, None, None,168.0,2021-05-28 22:00:00, None,22
+None, None,221.0, None, 8.9,8.4, 59.0, None, None, None,154.0,2021-05-29 18:00:00, None,22
+None, None,222.0, None, 3.9,3.8, 59.0, None, None, None,146.0,2021-05-30 05:00:00, None,22
+None, None,222.0, None, 8.7,8.3, 56.0, None, None, None,142.0,2021-05-30 13:00:00, None,22
+None, None,222.0, None, 7.6,7.3, 56.0, None, None, None,137.0,2021-05-30 16:00:00, None,22
+None, None,222.0, None, 6.9,6.9, 55.0, None, None, None,129.0,2021-05-30 21:00:00, None,22
+None, None,222.0, None, 6.1,6.1, 55.0, None, None, None,125.0,2021-05-31 04:00:00, None,22
+None, None,224.0, None, 8.5,8.0, 53.0, None, None, None,119.0,2021-05-31 12:00:00, None,22
+None, None,225.0, None, 9.3,9.1, 51.0, None, None, None,111.0,2021-05-31 19:00:00, None,22
+None, None,225.0, None, 9.0,8.8, 51.0, None, None, None,103.0,2021-06-01 00:00:00, None,22
+None, None,225.0, None, 11.8,12.0, 43.0, None, None, None,75.0,2021-06-01 17:00:00, None,22
+None, None,227.0, None, 5.9,5.7, 39.0, None, None, None,58.0,2021-06-02 05:00:00, None,22
+None, None,230.0, None, 14.6,13.3, 34.0, None, None, None,43.0,2021-06-02 14:00:00, None,22
+None, None,230.0, None, 14.3,13.9, 33.0, None, None, None,37.0,2021-06-02 16:00:00, None,22
+None, None,230.0, None, 7.9,7.8, 31.0, None, None, None,25.0,2021-06-02 23:00:00, None,22
+None, None,230.0, None, 6.1,6.0, 33.0, None, None, None,22.0,2021-06-03 02:00:00, None,22
+None, None,230.0, None, 4.0,3.8, 31.0, None, None, None,17.0,2021-06-03 09:00:00, None,22
+0.0, None,230.0, None, 7.2,7.0, 27.0, None, None, None,9.0,2021-06-03 16:00:00, None,22

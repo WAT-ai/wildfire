@@ -1,0 +1,9 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+230.0, None, None, 0.0, None, 6.7, None, 9.3, None, None, None, 64.0,2022-03-28 12:00:00, None,13
+206.0, None, None, 0.0, None, 6.2, None, 9.2, None, None, None, 62.0,2022-03-28 13:00:00, None,13
+221.0, 64.0, 6.7, 0.0, 2.8, 4.7, 9.3, 7.8, 230.0, 0.0, None, 60.0,2022-03-28 14:00:00, None,13
+None, 62.0, 6.2, None, 2.3, None, 9.2, None, 206.0, 0.0, None, None,2022-03-28 15:00:00, None,13
+None, 60.0, 4.7, None, 0.5, None, 7.8, None, 221.0, 0.0, None, None,2022-03-28 16:00:00, None,13
+92.0, None, None, 0.0, None, 5.5, None, 11.6, None, None, None, 33.0,2022-03-29 11:00:00, None,13
+349.0, None, None, 0.0, None, 5.7, None, 7.4, None, None, None, 58.0,2022-03-30 12:00:00, None,13
+None, 58.0, 5.7, None, -0.3, None, 7.4, None, 349.0, 0.0, None, None,2022-03-30 14:00:00, None,13

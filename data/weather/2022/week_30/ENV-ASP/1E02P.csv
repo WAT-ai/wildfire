@@ -1,0 +1,14 @@
+pcpn_amt_pst24hrs,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None, None, None, None, -7.0, None, None, None,2.0, None,2022-07-23 05:00:00, None,30
+None, None, None, None, None, -2.0, None, None, None,-1.0, None,2022-07-23 19:00:00, None,30
+None, None, None, None, None, -6.0, None, None, None,-2.0, None,2022-07-24 00:00:00, None,30
+None, None, None, None, None, -5.0, None, None, None,-4.0, None,2022-07-25 01:00:00, None,30
+None, None, None, None, None, 0.0, None, None, None,-3.0, None,2022-07-25 18:00:00, None,30
+None, None, None, None, None, -2.0, None, None, None,-3.0, None,2022-07-25 19:00:00, None,30
+None, None, None, None, None, 9.0, None, None, None,-2.0, None,2022-07-27 14:00:00, None,30
+None, None, None, None, None, 9.0, None, None, None,-2.0, None,2022-07-27 15:00:00, None,30
+None, None, None, None, None, 7.0, None, None, None,-2.0, None,2022-07-27 16:00:00, None,30
+None, None, None, None, None, 12.0, None, None, None,-2.0, None,2022-07-28 14:00:00, None,30
+None, None, None, None, None, 10.0, None, None, None,-1.0, None,2022-07-28 15:00:00, None,30
+None, None, None, None, None, 9.0, None, None, None,-1.0, None,2022-07-28 16:00:00, None,30
+None, None, None, None, None, 4.0, None, None, None,-1.0, None,2022-07-28 18:00:00, None,30

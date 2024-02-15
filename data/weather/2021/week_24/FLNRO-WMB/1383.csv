@@ -1,0 +1,4 @@
+wind_speed,temperature,wind_direction,relative_humidity,time,precipitation,week_of_year
+11.0,12.8,197.0,72.0,2021-06-14 07:00:00,0.0,24
+11.5,14.7,225.0,58.0,2021-06-14 17:00:00,0.0,24
+8.8,11.9,65.0,88.0,2021-06-16 11:00:00,0.0,24

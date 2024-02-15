@@ -1,0 +1,27 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,week_of_year
+None, 20.75, 32.52, None, None, None, None,10.54, None,2.971,184.2, None, None, None, None, None, 4.0, None, None, None, None, None, None, None,2018-07-30 00:00:00, None, None, 27.56,31
+None, 20.65, 28.71, None, None, None, None,14.73, None,3.432,181.6, None, None, None, None, None, 2.0, None, None, None, None, None, None, None,2018-07-30 01:00:00, None, None, 27.81,31
+None, 20.03, 31.98, None, None, None, None,25.55, None,3.043,186.1, None, None, None, None, None, 3.0, None, None, None, None, None, None, None,2018-07-30 03:00:00, None, None, 27.91,31
+None, 19.17, 35.33, None, None, None, None,20.46, None,8.43,219.8, None, None, None, None, None, 3.0, None, None, None, None, None, None, None,2018-07-30 04:00:00, None, None, 28.24,31
+None, 18.69, 33.99, None, None, None, None,17.84, None,8.88,221.4, None, None, None, None, None, 3.0, None, None, None, None, None, None, None,2018-07-30 05:00:00, None, None, 29.3,31
+None, 18.93, 33.99, None, None, None, None,22.36, None,5.061,221.8, None, None, None, None, None, 3.0, None, None, None, None, None, None, None,2018-07-30 06:00:00, None, None, 29.8,31
+None, 18.93, 39.14, None, None, None, None,23.97, None,3.639,223.3, None, None, None, None, None, 5.0, None, None, None, None, None, None, None,2018-07-30 07:00:00, None, None, 30.0,31
+None, 19.12, 38.81, None, None, None, None,24.92, None,5.742,229.2, None, None, None, None, None, 5.0, None, None, None, None, None, None, None,2018-07-30 08:00:00, None, None, 30.87,31
+None, 20.17, 33.86, None, None, None, None,21.49, None,4.589,227.1, None, None, None, None, None, 4.0, None, None, None, None, None, None, None,2018-07-30 09:00:00, None, None, 31.25,31
+None, 20.99, 37.07, None, None, None, None,19.82, None,1.847,224.2, None, None, None, None, None, 6.0, None, None, None, None, None, None, None,2018-07-30 10:00:00, None, None, 33.4,31
+None, 22.83, 30.84, None, None, None, None,28.68, None,1.917,251.3, None, None, None, None, None, 5.0, None, None, None, None, None, None, None,2018-07-30 11:00:00, None, None, 33.12,31
+None, 24.4, 26.49, None, None, None, None,37.23, None,1.39,266.2, None, None, None, None, None, 4.0, None, None, None, None, None, None, None,2018-07-30 12:00:00, None, None, 33.28,31
+None, 23.7, 38.38, None, None, None, None,42.98, None,1.486,326.0, None, None, None, None, None, 9.0, None, None, None, None, None, None, None,2018-07-30 13:00:00, None, None, 32.93,31
+None, 23.89, 36.91, None, None, None, None,31.02, None,3.379,12.78, None, None, None, None, None, 8.0, None, None, None, None, None, None, None,2018-07-30 14:00:00, None, None, 33.06,31
+None, 21.89, 39.72, None, None, None, None,34.43, None,2.654,25.91, None, None, None, None, None, 8.0, None, None, None, None, None, None, None,2018-07-30 15:00:00, None, None, 33.24,31
+None, 22.63, 33.51, None, None, None, None,63.44, None,1.169,148.8, None, None, None, None, None, 6.0, None, None, None, None, None, None, None,2018-07-30 16:00:00, None, None, 35.12,31
+None, 25.36, 30.23, None, None, None, None,51.54, None,1.333,330.9, None, None, None, None, None, 7.0, None, None, None, None, None, None, None,2018-07-30 17:00:00, None, None, 33.34,31
+None, 25.05, 37.32, None, None, None, None,34.56, None,2.426,343.9, None, None, None, None, None, 9.0, None, None, None, None, None, None, None,2018-07-30 18:00:00, None, None, 33.84,31
+None, 22.32, 32.57, None, None, None, None,33.04, None,3.126,23.18, None, None, None, None, None, 5.0, None, None, None, None, None, None, None,2018-07-30 19:00:00, None, None, 33.89,31
+None, 20.24, 52.24, None, None, None, None,64.64, None,1.222,212.0, None, None, None, None, None, 10.0, None, None, None, None, None, None, None,2018-07-30 20:00:00, None, None, 32.32,31
+None, 19.58, 34.52, None, None, None, None,42.63, None,1.817,119.4, None, None, None, None, None, 4.0, None, None, None, None, None, None, None,2018-07-30 21:00:00, None, None, 28.82,31
+None, 18.59, 37.6, None, None, None, None,35.11, None,2.779,109.4, None, None, None, None, None, 4.0, None, None, None, None, None, None, None,2018-07-30 22:00:00, None, None, 29.2,31
+None, 18.69, 36.2, None, None, None, None,39.53, None,2.338,105.6, None, None, None, None, None, 3.0, None, None, None, None, None, None, None,2018-07-30 23:00:00, None, None, 30.53,31
+None, 18.31, 34.59, None, None, None, None,41.87, None,2.026,100.2, None, None, None, None, None, 2.0, None, None, None, None, None, None, None,2018-07-31 00:00:00, None, None, 30.92,31
+None, 18.31, 32.59, None, None, None, None,51.33, None,0.847,113.7, None, None, None, None, None, 2.0, None, None, None, None, None, None, None,2018-07-31 01:00:00, None, None, 31.02,31
+None, 16.74, 46.18, None, None, None, None,49.81, None,1.316,210.6, None, None, None, None, None, 5.0, None, None, None, None, None, None, None,2018-07-31 02:00:00, None, None, 29.06,31

@@ -1,0 +1,17 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+205.0, None, None, 0.0, None, 0.0, None, -27.2, None, None, None, 71.0,2021-12-27 17:00:00,52
+205.0, None, None, 0.0, None, 0.0, None, -27.9, None, None, None, 69.0,2021-12-27 18:00:00,52
+200.0, None, None, 0.0, None, 0.0, None, -28.0, None, None, None, 69.0,2021-12-27 19:00:00,52
+224.0, None, None, 0.0, None, 0.0, None, -28.6, None, None, None, 67.0,2021-12-27 20:00:00,52
+207.0, None, None, 0.0, None, 0.0, None, -29.3, None, None, None, 67.0,2021-12-27 21:00:00,52
+195.0, None, None, 0.0, None, 0.0, None, -29.6, None, None, None, 68.0,2021-12-27 22:00:00,52
+170.0, None, None, 0.0, None, 0.0, None, -29.6, None, None, None, 67.0,2021-12-27 23:00:00,52
+197.0, None, None, 0.0, None, 0.0, None, -30.5, None, None, None, 65.0,2021-12-28 00:00:00,52
+197.0, None, None, 0.0, None, 0.0, None, -30.8, None, None, None, 66.0,2021-12-28 01:00:00,52
+185.0, None, None, 0.0, None, 0.0, None, -29.0, None, None, None, 68.0,2021-12-28 02:00:00,52
+103.0, None, None, 0.0, None, 0.0, None, -26.7, None, None, None, 71.0,2021-12-28 03:00:00,52
+339.0, None, None, 0.0, None, 0.0, None, -25.5, None, None, None, 71.0,2021-12-28 04:00:00,52
+95.0, None, None, 0.0, None, 0.0, None, -25.6, None, None, None, 70.0,2021-12-28 05:00:00,52
+226.0, None, None, 0.0, None, 0.0, None, -26.8, None, None, None, 69.0,2021-12-28 06:00:00,52
+167.0, None, None, 0.0, None, 0.0, None, -25.9, None, None, None, 72.0,2021-12-28 07:00:00,52
+185.0, None, None, 0.0, None, 0.0, None, -24.2, None, None, None, 73.0,2021-12-28 08:00:00,52

@@ -1,0 +1,11 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,stn_pres,week_of_year
+None, -3.343, 73.25, -3.0, None, 29.47, 6.496, 1.555, -7.0, None, -3.3, -12.7, -7.0, 0.0, None, 0.0, 73.0,2021-11-18 14:00:00, None, None,46
+None, -3.297, 72.37, -2.9, None, 23.6, 9.26, 346.2, -7.0, None, -3.3, -12.7, -7.0, 0.0, None, 0.0, 72.0,2021-11-18 15:00:00, None, None,46
+None, -5.152, 84.0, -2.9, None, 26.2, 5.165, 330.0, -7.0, None, -5.2, -12.7, -7.0, 0.0, None, 0.0, 84.0,2021-11-18 16:00:00, None, None,46
+None, -7.02, 87.7, -2.9, None, 73.92, 1.304, 315.7, -8.0, None, -7.0, -12.7, -8.0, 0.0, None, 0.0, 88.0,2021-11-18 17:00:00, None, None,46
+None, -8.09, 90.3, -2.9, None, 62.37, 2.104, 340.6, -9.0, None, -8.1, -12.7, -9.0, 0.0, None, 0.0, 90.0,2021-11-18 18:00:00, None, None,46
+None, -9.48, 90.3, -7.9, None, 57.44, 2.123, 169.3, -10.0, None, -9.5, -9.6, -10.0, 0.0, None, 0.0, 90.0,2021-11-18 19:00:00, None, None,46
+None, -11.03, 89.0, -7.9, None, 78.46, 0.688, 339.5, -12.0, None, -11.0, -11.0, -12.0, 0.0, None, 0.0, 89.0,2021-11-18 20:00:00, None, None,46
+None, -11.83, 88.6, -7.9, None, 67.44, 0.493, 251.6, -13.0, None, -11.8, -12.0, -13.0, 0.0, None, 0.0, 89.0,2021-11-18 21:00:00, None, None,46
+None, -12.87, 88.1, -7.9, None, 74.92, 0.417, 211.1, -15.0, None, -12.9, -13.0, -15.0, 0.0, None, 0.0, 88.0,2021-11-18 22:00:00, None, None,46
+None, -13.73, 87.2, -7.9, None, 33.17, 0.957, 179.0, -15.0, None, -13.7, -13.8, -15.0, 0.0, None, 0.0, 87.0,2021-11-18 23:00:00, None, None,46

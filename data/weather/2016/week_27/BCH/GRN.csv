@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,Snow_WE,time,MIN_TEMP,MAX_TEMP,week_of_year
+None,1.0, None,2016-07-01,7.5,14.1,27
+None,9.0, None,2016-07-02,6.5,15.2,27
+None,1.0, None,2016-07-03,3.9,10.9,27
+None,4.0, None,2016-07-04,3.2,7.4,27
+None,5.0, None,2016-07-05,2.4,8.3,27
+None,0.0, None,2016-07-06,3.2,12.7,27
+None,1.0, None,2016-07-07,6.0,9.3,27

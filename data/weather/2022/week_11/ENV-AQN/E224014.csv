@@ -1,0 +1,11 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,HUMIDITY,time,avg_air_temp_pst1hr,week_of_year
+176.5, None, None,38.5,2022-03-18 14:00:00, None,11
+177.4, None, None,35.9,2022-03-18 15:00:00, None,11
+172.6, None, None,37.7,2022-03-18 16:00:00, None,11
+177.7, None, None,36.9,2022-03-18 17:00:00, None,11
+192.2, None, None,40.2,2022-03-18 18:00:00, None,11
+189.7, None, None,43.6,2022-03-18 19:00:00, None,11
+210.5, None, None,47.5,2022-03-18 20:00:00, None,11
+237.5, None, None,49.0,2022-03-18 21:00:00, None,11
+199.2, None, None,54.7,2022-03-18 22:00:00, None,11
+69.1, None, None,69.5,2022-03-18 23:00:00, None,11

@@ -1,0 +1,7 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,stn_pres,week_of_year
+None, 7.118, 61.12, 7.1, None, 41.12, 4.209, 168.8, 0.0, None, 7.1, -0.5, 0.0, 0.0, None, 0.0, 61.0,2022-05-01 10:00:00, None, None,18
+None, 5.095, 81.9, 5.1, None, 70.06, 3.945, 174.9, 2.0, None, 5.1, 3.4, 2.0, 0.0, None, 0.0, 82.0,2022-05-03 07:00:00, None, None,18
+None, 11.2, 40.43, 11.3, None, 24.57, 11.31, 350.3, -2.0, None, 11.2, 3.4, -2.0, 0.0, None, 0.0, 40.0,2022-05-03 10:00:00, None, None,18
+None, 12.6, 47.29, 13.3, None, 58.95, 5.117, 359.7, 2.0, None, 12.6, 1.8, 2.0, 0.0, None, 0.0, 47.0,2022-05-05 15:00:00, None, None,18
+None, 11.03, 70.0, 13.3, None, 62.32, 3.739, 320.0, 6.0, None, 11.0, 1.8, 6.0, 0.0, None, 0.0, 70.0,2022-05-05 16:00:00, None, None,18
+None, 7.908, 52.64, 7.9, None, 27.29, 13.46, 356.2, -1.0, None, 7.9, 4.1, -1.0, 0.0, None, 0.0, 53.0,2022-05-06 09:00:00, None, None,18

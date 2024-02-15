@@ -1,0 +1,7 @@
+ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None, None, -3.0, None,2020-01-29, 120.0, None,5
+0.0, 0.0, None, 0.0,2020-01-31, None, 5.5,5
+None, None, -1.0, None,2020-02-01, 111.0, None,5
+6.0, 0.0, None, 6.0,2020-02-02, None, -4.5,5
+0.0, 0.0, -11.5, 0.0,2020-02-03, 118.0, -6.0,5
+6.0, 0.0, -16.0, 6.0,2020-02-04, 113.0, -8.0,5

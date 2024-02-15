@@ -1,0 +1,24 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+104.0, None, None,0.0, None,6.4, None,-11.5, None, None, None,87.0,2018-02-12 00:00:00, None,7
+123.0, None, None,0.0, None,5.3, None,-10.6, None, None, None,83.0,2018-02-12 01:00:00, None,7
+2.0, None, None,0.0, None,3.0, None,-9.8, None, None, None,83.0,2018-02-12 02:00:00, None,7
+163.0, None, None,0.0, None,3.2, None,-10.2, None, None, None,89.0,2018-02-12 03:00:00, None,7
+109.0, None, None,0.0, None,2.3, None,-10.4, None, None, None,90.0,2018-02-12 04:00:00, None,7
+86.0, None, None,0.0, None,0.0, None,-9.6, None, None, None,88.0,2018-02-12 05:00:00, None,7
+103.0, None, None,0.0, None,3.7, None,-10.2, None, None, None,89.0,2018-02-12 06:00:00, None,7
+86.0, None, None,0.0, None,2.8, None,-10.6, None, None, None,89.0,2018-02-12 07:00:00, None,7
+141.0, None, None,0.0, None,4.9, None,-11.1, None, None, None,87.0,2018-02-12 08:00:00, None,7
+58.0, None, None,0.0, None,1.6, None,-10.2, None, None, None,83.0,2018-02-12 09:00:00, None,7
+289.0, None, None,0.0, None,3.6, None,-8.5, None, None, None,74.0,2018-02-12 10:00:00, None,7
+167.0, None, None,0.0, None,3.8, None,-6.5, None, None, None,69.0,2018-02-12 11:00:00, None,7
+269.0, None, None,0.0, None,0.0, None,-5.3, None, None, None,61.0,2018-02-12 12:00:00, None,7
+346.0, None, None,0.0, None,5.5, None,-3.8, None, None, None,51.0,2018-02-12 13:00:00, None,7
+325.0, None, None,0.0, None,4.9, None,-2.6, None, None, None,46.0,2018-02-12 14:00:00, None,7
+301.0, None, None,0.0, None,6.3, None,-3.5, None, None, None,48.0,2018-02-12 15:00:00, None,7
+4.0, None, None,0.0, None,6.0, None,-3.3, None, None, None,49.0,2018-02-12 16:00:00, None,7
+97.0, None, None,0.0, None,5.0, None,-7.6, None, None, None,72.0,2018-02-12 17:00:00, None,7
+101.0, None, None,0.0, None,7.3, None,-9.5, None, None, None,79.0,2018-02-12 18:00:00, None,7
+112.0, None, None,0.0, None,6.1, None,-9.0, None, None, None,79.0,2018-02-12 19:00:00, None,7
+140.0, None, None,0.0, None,1.8, None,-8.8, None, None, None,78.0,2018-02-12 20:00:00, None,7
+22.0, None, None,0.0, None,3.0, None,-8.2, None, None, None,80.0,2018-02-12 21:00:00, None,7
+108.0, None, None,0.0, None,4.0, None,-8.0, None, None, None,76.0,2018-02-12 22:00:00, None,7

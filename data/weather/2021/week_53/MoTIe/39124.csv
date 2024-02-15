@@ -1,0 +1,2 @@
+CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,rel_hum,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,avg_wnd_spd_10m_pst10mts,MEASURED_WIND_DIRECTION1,MEASURED_WIND_SPEED1,air_temp,min_air_temp_snc_last_reset,DEW_POINT,avg_wnd_dir_10m_pst10mts,dwpt_temp,time,week_of_year
+-21.53, 82.1, -18.5, 82.0, None, 7.856, None, 94.9, 1.44, -21.5, -21.7, -23.0, None, -23.0,2021-12-31,53

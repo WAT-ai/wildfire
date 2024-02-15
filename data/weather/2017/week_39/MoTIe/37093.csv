@@ -1,0 +1,16 @@
+CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,rel_hum,time,stn_pres,week_of_year
+6.951, 87.6, None, None,36.1, 0.222,125.2, None, None, None, None, None, None,5.0, 693.2, None, None,2017-09-25 00:00:00, None,39
+11.63, 74.27, None, None,43.39, 0.19,286.1, None, None, None, None, None, None,7.0, 693.5, None, None,2017-09-25 14:00:00, None,39
+11.6, 76.07, None, None,34.61, 0.042,292.6, None, None, None, None, None, None,8.0, 693.7, None, None,2017-09-25 16:00:00, None,39
+10.98, 80.6, None, None,33.61, 0.413,274.8, None, None, None, None, None, None,8.0, 693.5, None, None,2017-09-25 17:00:00, None,39
+8.51, 92.2, None, None,19.75, 0.267,114.8, None, None, None, None, None, None,7.0, 694.1, None, None,2017-09-25 22:00:00, None,39
+6.377, 92.9, None, None,11.11, 0.547,105.6, None, None, None, None, None, None,5.0, 694.4, None, None,2017-09-26 00:00:00, None,39
+4.875, 93.5, None, None,35.88, 0.965,113.6, None, None, None, None, None, None,4.0, 694.7, None, None,2017-09-26 02:00:00, None,39
+5.886, 94.1, None, None,27.78, 0.31,104.1, None, None, None, None, None, None,5.0, 695.4, None, None,2017-09-26 06:00:00, None,39
+7.16, 94.3, None, None,15.94, 0.063,99.1, None, None, None, None, None, None,6.0, 696.0, None, None,2017-09-26 08:00:00, None,39
+11.42, 79.62, None, None,52.57, 0.081,332.0, None, None, None, None, None, None,8.0, 696.8, None, None,2017-09-26 11:00:00, None,39
+13.3, 70.43, None, None,54.27, 0.669,225.9, None, None, None, None, None, None,8.0, 696.6, None, None,2017-09-26 12:00:00, None,39
+14.48, 59.27, None, None,58.95, 0.689,300.7, None, None, None, None, None, None,7.0, 696.3, None, None,2017-09-28 12:00:00, None,39
+8.21, 78.37, None, None,20.32, 3.022,101.6, None, None, None, None, None, None,5.0, 693.0, None, None,2017-09-29 00:00:00, None,39
+4.949, 92.0, None, None,8.63, 0.636,103.2, None, None, None, None, None, None,4.0, 692.3, None, None,2017-09-29 08:00:00, None,39
+10.28, 83.4, None, None,27.69, 1.393,112.3, None, None, None, None, None, None,8.0, 687.5, None, None,2017-09-30 00:00:00, None,39

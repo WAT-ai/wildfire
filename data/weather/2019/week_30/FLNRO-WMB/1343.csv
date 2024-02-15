@@ -1,0 +1,5 @@
+wind_speed,temperature,wind_direction,relative_humidity,time,precipitation,week_of_year
+0.0, None, None,0.0,2019-07-29 09:00:00,0.0,30
+0.0, None, None,0.0,2019-07-29 10:00:00,0.0,30
+9.5, 18.5, 154.0,37.0,2019-07-29 17:00:00,0.0,30
+9.6, 16.6, 146.0,34.0,2019-07-29 18:00:00,0.0,30

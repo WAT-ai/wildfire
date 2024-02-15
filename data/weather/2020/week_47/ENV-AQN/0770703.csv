@@ -1,0 +1,22 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+27.0, None, None, None, None,2020-11-23 13:00:00, None,47
+27.0, None, None, None, None,2020-11-23 14:00:00, None,47
+26.8, None, None, None, None,2020-11-23 15:00:00, None,47
+26.7, None, None, None, None,2020-11-23 16:00:00, None,47
+26.6, None, None, None, None,2020-11-23 17:00:00, None,47
+26.6, None, None, None, None,2020-11-23 18:00:00, None,47
+26.5, None, None, None, None,2020-11-23 19:00:00, None,47
+26.6, None, None, None, None,2020-11-23 20:00:00, None,47
+26.7, None, None, None, None,2020-11-23 21:00:00, None,47
+26.8, None, None, None, None,2020-11-23 22:00:00, None,47
+26.8, None, None, None, None,2020-11-23 23:00:00, None,47
+26.5, None, None, None, None,2020-11-24 00:00:00, None,47
+26.5, None, None, None, None,2020-11-24 01:00:00, None,47
+26.5, None, None, None, None,2020-11-24 02:00:00, None,47
+26.6, None, None, None, None,2020-11-24 03:00:00, None,47
+26.6, None, None, None, None,2020-11-24 04:00:00, None,47
+26.6, None, None, None, None,2020-11-24 05:00:00, None,47
+26.6, None, None, None, None,2020-11-24 06:00:00, None,47
+26.6, None, None, None, None,2020-11-24 07:00:00, None,47
+26.6, None, None, None, None,2020-11-24 08:00:00, None,47
+26.7, None, None, None, None,2020-11-24 09:00:00, None,47

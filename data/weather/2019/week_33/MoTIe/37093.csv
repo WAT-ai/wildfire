@@ -1,0 +1,15 @@
+CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,rel_hum,time,stn_pres,week_of_year
+14.2,73.62, None, None,74.16, 0.197,151.1, None, None, None, None, None, None,10.0, 869.0, None, None,2019-08-19 10:00:00, None,33
+16.03,69.19, None, None,45.87, 4.214,218.7, None, None, None, None, None, None,10.0, 871.0, None, None,2019-08-19 11:00:00, None,33
+17.88,59.12, None, None,31.78, 6.837,216.9, None, None, None, None, None, None,10.0, 866.0, None, None,2019-08-19 12:00:00, None,33
+16.13,68.83, None, None,39.61, 7.61,220.5, None, None, None, None, None, None,10.0, 866.0, None, None,2019-08-19 13:00:00, None,33
+17.73,49.39, None, None,32.04, 8.96,208.4, None, None, None, None, None, None,7.0, 866.0, None, None,2019-08-19 14:00:00, None,33
+18.09,50.43, None, None,28.35, 6.731,211.1, None, None, None, None, None, None,7.0, 868.0, None, None,2019-08-19 15:00:00, None,33
+19.43,40.58, None, None,35.03, 6.064,213.2, None, None, None, None, None, None,6.0, 865.0, None, None,2019-08-19 16:00:00, None,33
+19.99,38.51, None, None,28.7, 6.472,212.8, None, None, None, None, None, None,6.0, 866.0, None, None,2019-08-19 17:00:00, None,33
+20.69,35.79, None, None,29.13, 4.558,205.9, None, None, None, None, None, None,5.0, 865.0, None, None,2019-08-19 18:00:00, None,33
+19.73,36.54, None, None,35.66, 2.859,207.0, None, None, None, None, None, None,4.0, 863.0, None, None,2019-08-19 19:00:00, None,33
+15.39,63.25, None, None,40.91, 1.409,87.0, None, None, None, None, None, None,8.0, 873.0, None, None,2019-08-19 20:00:00, None,33
+14.18,64.24, None, None,22.22, 3.512,72.51, None, None, None, None, None, None,8.0, 869.0, None, None,2019-08-19 21:00:00, None,33
+14.03,59.86, None, None,34.32, 2.606,92.6, None, None, None, None, None, None,6.0, 872.0, None, None,2019-08-19 22:00:00, None,33
+14.5,51.62, None, None,35.54, 5.058,89.2, None, None, None, None, None, None,5.0, 873.0, None, None,2019-08-19 23:00:00, None,33

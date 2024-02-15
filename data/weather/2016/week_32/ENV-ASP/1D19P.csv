@@ -1,0 +1,23 @@
+pcpn_amt_pst24hrs,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-05 02:00:00, None,32
+None, None, None, None, None, None, None, None, None, 1.0, None,2016-08-05 03:00:00, None,32
+None, None, None, None, None, None, None, None, None, 1.0, None,2016-08-05 04:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-05 05:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-05 06:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-06 00:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-06 01:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-06 02:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-06 03:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-06 04:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 02:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 03:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 04:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 05:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 06:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 22:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-07 23:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-08 04:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-08 05:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-09 00:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-09 01:00:00, None,32
+None, None, None, None, None, None, None, None, None, 0.0, None,2016-08-09 02:00:00, None,32

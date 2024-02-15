@@ -1,0 +1,23 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+215.0, None, None,0.0, None,9.9, None,32.8, None, None, None,26.0,2017-08-03 13:00:00, None,31
+169.0, None, None,0.0, None,8.6, None,32.0, None, None, None,26.0,2017-08-03 14:00:00, None,31
+185.0, None, None,0.0, None,7.8, None,32.6, None, None, None,29.0,2017-08-03 15:00:00, None,31
+173.0, None, None,0.0, None,6.6, None,31.4, None, None, None,31.0,2017-08-03 16:00:00, None,31
+142.0, None, None,0.0, None,4.8, None,29.4, None, None, None,36.0,2017-08-03 17:00:00, None,31
+209.0, None, None,0.0, None,0.0, None,29.3, None, None, None,37.0,2017-08-03 18:00:00, None,31
+299.0, None, None,0.0, None,0.0, None,28.1, None, None, None,45.0,2017-08-03 19:00:00, None,31
+318.0, None, None,0.0, None,4.8, None,25.2, None, None, None,43.0,2017-08-03 20:00:00, None,31
+328.0, None, None,0.0, None,2.6, None,25.6, None, None, None,40.0,2017-08-03 21:00:00, None,31
+72.0, None, None,0.0, None,3.3, None,25.5, None, None, None,39.0,2017-08-03 22:00:00, None,31
+13.0, None, None,0.0, None,4.7, None,24.7, None, None, None,40.0,2017-08-03 23:00:00, None,31
+85.0, None, None,0.0, None,5.3, None,24.5, None, None, None,40.0,2017-08-04 00:00:00, None,31
+74.0, None, None,0.0, None,5.4, None,23.7, None, None, None,45.0,2017-08-04 01:00:00, None,31
+57.0, None, None,0.0, None,4.9, None,23.1, None, None, None,41.0,2017-08-04 02:00:00, None,31
+40.0, None, None,0.0, None,6.0, None,22.9, None, None, None,38.0,2017-08-04 03:00:00, None,31
+47.0, None, None,0.0, None,4.4, None,22.3, None, None, None,38.0,2017-08-04 04:00:00, None,31
+30.0, None, None,0.0, None,3.2, None,21.4, None, None, None,44.0,2017-08-04 05:00:00, None,31
+37.0, None, None,0.0, None,3.3, None,21.3, None, None, None,46.0,2017-08-04 06:00:00, None,31
+356.0, None, None,0.0, None,7.7, None,22.0, None, None, None,44.0,2017-08-04 07:00:00, None,31
+353.0, None, None,0.0, None,5.9, None,24.0, None, None, None,44.0,2017-08-04 08:00:00, None,31
+302.0, None, None,0.0, None,2.6, None,27.7, None, None, None,36.0,2017-08-04 09:00:00, None,31
+175.0, None, None,0.0, None,8.0, None,28.5, None, None, None,35.0,2017-08-04 10:00:00, None,31
