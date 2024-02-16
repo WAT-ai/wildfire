@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+351,17,ARDA,116163,5642,HARPER      KAM,7324,BC,-119.766666666667,50.7194444444444,351.0,1971-05-03,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+355,17,ARDA,116167,5646,GREENACRES  KAM,7328,BC,-119.781944444444,50.7388888888889,410.0,1971-04-20,1973-10-25,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+372,17,ARDA,116191,5669,OSLAND      KAM,7351,BC,-119.638888888889,50.6972222222222,735.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+373,17,ARDA,116192,5670,CHARCOAL    KAM,7352,BC,-119.652777777778,50.6277777777778,832.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

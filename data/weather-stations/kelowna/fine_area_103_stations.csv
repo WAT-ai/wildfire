@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+11,1,EC,1162683,272,ENDERBY VALECAIRN FARM,675,BC,-119.166667,50.533333,335.0,1966-02-01,1967-03-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+81,1,EC,1160483,1230,ARMSTRONG HULLCAR,1633,BC,-119.216667,50.5,505.0,1971-07-13,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+87,1,EC,1162680,1260,ENDERBY,1663,BC,-119.15,50.55,354.0,1893-09-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+321,17,ARDA,116087,5585,RICARDO,7267,BC,-119.093333333333,50.5558333333333,363.0,1971-04-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

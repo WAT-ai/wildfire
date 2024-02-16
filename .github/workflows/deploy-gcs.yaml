@@ -1,0 +1,35 @@
+name: GCS Deployment
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the main branch
+on:
+  push:
+    branches: [ main ]
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so the job can access it
+    - uses: actions/checkout@v2
+
+
+    # Setup gcloud CLI
+    - uses: google-github-actions/setup-gcloud@v0
+      with:
+        service_account_email: ${{ secrets.GCP_SA_EMAIL }}
+        service_account_key: ${{ secrets.GCP_SA_KEY }}
+        project_id: wildfire-prediction-410723
+
+    - name: Install gsutil rsync dependencies
+      run: sudo apt-get update && sudo apt-get install -y python3-crcmod
+
+    - name: Sync files to GCS
+      run: gsutil -m rsync -r -c -d ./build gs://wildfire_team/
+      env:
+        CLOUDSDK_PYTHON: python3

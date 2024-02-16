@@ -1,0 +1,17 @@
+variables
+variable, standard_name, cell_method, unit
+Solar_Std, surface_downwelling_shortwave_flux_in_air, time: standard_deviation, w/m^2
+Solar_Avg, surface_downwelling_shortwave_flux_in_air, time: mean, w/m^2
+L_Dn_Avg, surface_downwelling_longwave_flux_in_air, time: mean, w/m^2
+L_Up_Avg, surface_upwelling_longwave_flux_in_air, time: mean, w/m^2
+K_Dn_Avg, surface_downwelling_shortwave_flux_in_air, time: mean, w/m^2
+K_Up_Avg, surface_upwelling_shortwave_flux_in_air, time: mean, w/m^2
+DBTCDT, surface_snow_depth, time: point, cm
+RH, relative_humidity, time: point, percent
+AirTC, air_temperature, time: point, celsius
+WindDir_Std, wind_from_direction, time: standard_deviation, degrees
+WindDir_Avg, wind_from_direction, time: mean, degrees
+WS_Std, wind_speed, time: standard_deviation, m/s
+WS_Avg, wind_speed, time: mean, m/s
+Rain_Tot, lwe_thickness_of_rainfall_amount, time: sum, mm
+Pressure, air_pressure, time: point, mb

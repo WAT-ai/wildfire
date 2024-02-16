@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+180,12,FLNRO-WMB,1020,2346,ZZ KODIAK,2749,BC,-119.6602778,50.17972222,1601.0,2008-06-05,2008-10-22,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+181,12,FLNRO-WMB,1046,2363,ZZ SHORT CREEK,2766,BC,-119.7955556,50.19777778,1814.0,2009-07-22,2009-08-20,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

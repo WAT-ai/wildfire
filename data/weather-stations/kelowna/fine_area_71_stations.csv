@@ -1,0 +1,2 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+104,1,EC,1166760,1300,RICHLAND,1703,BC,-118.5,50.216667,716.0,1962-06-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)

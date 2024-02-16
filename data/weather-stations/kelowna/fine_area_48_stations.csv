@@ -1,0 +1,3 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+308,17,ARDA,114044,5113,GALLOPING,6793,BC,-118.283333333333,49.9683333333333,884.0,1969-05-02,1970-10-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+309,17,ARDA,114045,5114,BENCH,6794,BC,-118.218888888889,49.95,724.0,1969-05-02,1971-03-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

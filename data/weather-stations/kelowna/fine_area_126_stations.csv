@@ -1,0 +1,6 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+17,1,EC,1167984,288,TAPPEN NORTH,691,BC,-119.3,50.8,488.0,1970-10-01,1970-10-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+118,1,EC,1167980,1320,TAPPEN,1723,BC,-119.333333,50.75,442.0,1913-01-01,1961-12-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+119,1,EC,1167982,1321,TAPPEN FORD ROAD,1724,BC,-119.3,50.8,567.0,1962-07-01,1966-10-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+358,17,ARDA,116170,5649,BALMORAL    KAM,7331,BC,-119.331944444444,50.8430555555556,434.0,1971-05-27,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+407,17,ARDA,116525,5825,SKIMIKIN NUR,7508,BC,-119.408333333333,50.7877777777778,519.0,1972-05-31,1972-05-31,Irregular,Precipitation (Cumulative)

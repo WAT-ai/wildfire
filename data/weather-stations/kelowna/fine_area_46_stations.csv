@@ -1,0 +1,5 @@
+,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
+164,12,FLNRO-WMB,388,1931,KETTLE II,2334,BC,-118.625,49.96,1341.0,1987-08-09,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)
+297,17,ARDA,113065,5064,WINNIFRED,6744,BC,-118.6925,49.9111111111111,1042.0,1969-06-29,1972-07-31,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+298,17,ARDA,113066,5065,STOVE,6745,BC,-118.696666666667,49.9472222222222,1073.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+300,17,ARDA,113068,5067,WOODMOUSE,6747,BC,-118.635555555556,49.9833333333333,1134.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
