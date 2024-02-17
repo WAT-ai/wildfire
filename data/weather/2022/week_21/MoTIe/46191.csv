@@ -1,0 +1,17 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,stn_pres,week_of_year
+None, 4.621, 51.07, 5.1, None, 57.19, 0.737, 359.1, -4.0, None, 4.6, -3.8, -4.0, 0.0, None, 0.0, 51.0,2022-05-22 08:00:00, None, None,21
+None, 7.859, 38.64, 7.8, None, 35.19, 2.496, 146.5, -5.0, None, 7.9, -3.8, -5.0, 0.0, None, 0.0, 39.0,2022-05-22 09:00:00, None, None,21
+None, 11.83, 40.98, 13.0, None, 28.89, 12.48, 1.908, -1.0, None, 11.8, 2.3, -1.0, 0.0, None, 0.0, 41.0,2022-05-24 16:00:00, None, None,21
+None, 4.51, 91.2, 12.0, None, 61.65, 0.211, 184.8, 3.0, None, 4.5, 4.1, 3.0, 0.0, None, 0.0, 91.0,2022-05-25 06:00:00, None, None,21
+None, 6.519, 81.1, 6.6, None, 58.64, 1.046, 357.0, 4.0, None, 6.5, 4.5, 4.0, 0.0, None, 0.0, 81.0,2022-05-25 08:00:00, None, None,21
+None, 10.58, 55.17, 13.7, None, 26.09, 10.49, 355.2, 2.0, None, 10.6, 4.5, 2.0, 0.0, None, 0.0, 55.0,2022-05-25 18:00:00, None, None,21
+None, 2.176, 97.7, 10.6, None, 61.42, 0.942, 184.8, 2.0, None, 2.2, 2.0, 2.0, 0.0, None, 0.0, 98.0,2022-05-26 05:00:00, None, None,21
+None, 2.339, 97.8, 10.6, None, 73.85, 0.666, 167.2, 2.0, None, 2.3, 2.0, 2.0, 0.0, None, 0.0, 98.0,2022-05-26 06:00:00, None, None,21
+None, 6.535, 92.4, 6.4, None, 69.26, 0.865, 343.5, 6.0, None, 6.5, 2.3, 6.0, 0.0, None, 0.0, 92.0,2022-05-26 09:00:00, None, None,21
+None, 11.11, 60.5, 11.2, None, 67.21, 2.092, 135.4, 4.0, None, 11.1, 2.3, 4.0, 0.0, None, 0.0, 61.0,2022-05-26 11:00:00, None, None,21
+None, 13.71, 35.3, 14.4, None, 29.46, 11.11, 0.276, -1.0, None, 13.7, 2.3, -1.0, 0.0, None, 0.0, 35.0,2022-05-26 13:00:00, None, None,21
+None, 13.67, 34.64, 14.4, None, 23.42, 12.73, 352.6, -2.0, None, 13.7, 2.3, -2.0, 0.0, None, 0.0, 35.0,2022-05-26 14:00:00, None, None,21
+None, 14.3, 32.08, 14.7, None, 30.1, 7.588, 0.37, -3.0, None, 14.3, 2.3, -3.0, 0.0, None, 0.0, 32.0,2022-05-26 15:00:00, None, None,21
+None, 11.51, 48.2, 16.5, None, 57.82, 2.077, 335.8, 1.0, None, 11.5, 11.6, 1.0, 0.0, None, 0.0, 48.0,2022-05-26 20:00:00, None, None,21
+None, 4.673, 95.1, 4.6, None, 56.32, 0.665, 158.0, 4.0, None, 4.7, 3.6, 4.0, 0.0, None, 0.0, 95.0,2022-05-27 07:00:00, None, None,21
+None, 7.519, 89.6, None, None, 43.32, 1.202, 149.7, None, None, None, None, 6.0, None, None, None, None,2022-05-27 09:00:00, None, None,21

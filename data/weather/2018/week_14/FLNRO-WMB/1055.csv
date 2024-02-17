@@ -1,0 +1,14 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+195.0, None, None,0.0, None,7.5, None,13.5, None, None, None,49.0,2018-04-08 11:00:00, None,14
+204.0, None, None,0.0, None,4.1, None,13.7, None, None, None,47.0,2018-04-08 12:00:00, None,14
+110.0, None, None,0.0, None,2.5, None,14.6, None, None, None,43.0,2018-04-08 13:00:00, None,14
+167.0, None, None,0.0, None,11.6, None,15.9, None, None, None,40.0,2018-04-08 14:00:00, None,14
+144.0, None, None,0.0, None,16.2, None,15.4, None, None, None,41.0,2018-04-08 15:00:00, None,14
+140.0, None, None,0.0, None,12.3, None,14.4, None, None, None,43.0,2018-04-08 16:00:00, None,14
+141.0, None, None,0.0, None,15.8, None,14.3, None, None, None,40.0,2018-04-08 17:00:00, None,14
+129.0, None, None,0.0, None,14.7, None,14.0, None, None, None,40.0,2018-04-08 18:00:00, None,14
+132.0, None, None,0.0, None,17.3, None,12.6, None, None, None,44.0,2018-04-08 19:00:00, None,14
+133.0, None, None,0.0, None,20.4, None,11.8, None, None, None,48.0,2018-04-08 20:00:00, None,14
+133.0, None, None,0.0, None,15.2, None,11.2, None, None, None,51.0,2018-04-08 21:00:00, None,14
+85.0, None, None,0.0, None,4.5, None,10.2, None, None, None,57.0,2018-04-08 22:00:00, None,14
+112.0, None, None,0.0, None,6.4, None,9.5, None, None, None,62.0,2018-04-08 23:00:00, None,14

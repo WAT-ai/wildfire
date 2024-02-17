@@ -1,0 +1,5 @@
+ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None, None, 4.0, None,2016-09-23, 0.0, None,39
+0.0, 0.0, None, 0.0,2016-09-25, None, 19.5,39
+None, None, 2.5, None,2016-09-26, 0.0, None,39
+0.4, 0.4, None, 0.0,2016-09-29, None, 21.0,39

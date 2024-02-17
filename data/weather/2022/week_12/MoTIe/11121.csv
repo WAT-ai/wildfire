@@ -1,0 +1,22 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,snwfl_amt_pst1hr,stn_pres,week_of_year
+None, -0.24, None, None, None, None, None, None, None, None, None, -0.2, -0.4, 5.2, None, None, None, 0.2, None, None, None, None,2022-03-19 02:00:00, None, None, None, None,12
+None, -0.326, None, None, None, None, None, None, None, None, None, -0.3, -0.4, 4.1, None, None, None, 0.2, None, None, None, None,2022-03-19 03:00:00, None, None, None, None,12
+None, -0.334, None, None, None, None, None, None, None, None, None, -0.3, -0.4, 3.1, None, None, None, 0.2, None, None, None, None,2022-03-19 04:00:00, None, None, None, None,12
+None, -0.42, None, None, None, None, None, None, None, None, None, -0.4, -0.4, 2.2, None, None, None, 0.2, None, None, None, None,2022-03-19 05:00:00, None, None, None, None,12
+None, -0.155, None, None, None, None, None, None, None, None, None, -0.2, -0.4, 2.1, None, None, None, 0.2, None, None, None, None,2022-03-19 06:00:00, None, None, None, None,12
+None, -0.193, None, None, None, None, None, None, None, None, None, -0.2, -0.3, 2.4, None, None, None, -0.1, None, None, None, None,2022-03-19 07:00:00, None, None, None, None,12
+None, -0.91, None, None, None, None, None, None, None, None, None, -0.9, -0.9, 6.2, None, None, None, -0.1, None, None, None, None,2022-03-19 08:00:00, None, None, None, None,12
+None, None, None, None, None, None, None, None, None, None, None, -0.7, -1.5, 0.2, None, None, None, -0.1, None, None, None, None,2022-03-19 13:00:00, None, None, None, None,12
+None, -0.425, None, None, None, None, None, None, None, None, None, -0.4, -1.7, 0.1, None, None, None, -0.1, None, None, None, None,2022-03-19 14:00:00, None, None, None, None,12
+None, -0.767, None, None, None, None, None, None, None, None, None, -0.8, -1.7, 0.4, None, None, None, 0.3, None, None, None, None,2022-03-19 15:00:00, None, None, None, None,12
+None, None, None, None, None, None, None, None, None, None, None, -3.2, -3.4, 0.1, None, None, None, -1.8, None, None, None, None,2022-03-19 22:00:00, None, None, None, None,12
+None, -3.922, None, None, None, None, None, None, None, None, None, -3.9, -3.9, 0.3, None, None, None, -1.8, None, None, None, None,2022-03-19 23:00:00, None, None, None, None,12
+None, -4.524, None, None, None, None, None, None, None, None, None, -4.5, -4.6, 0.5, None, None, None, -1.8, None, None, None, None,2022-03-20 00:00:00, None, None, None, None,12
+None, -4.821, None, None, None, None, None, None, None, None, None, -4.8, -4.8, 0.2, None, None, None, -1.8, None, None, None, None,2022-03-20 01:00:00, None, None, None, None,12
+None, -4.141, None, None, None, None, None, None, None, None, None, -4.1, -4.9, 0.3, None, None, None, -1.8, None, None, None, None,2022-03-20 02:00:00, None, None, None, None,12
+None, -3.979, None, None, None, None, None, None, None, None, None, -4.0, -4.9, 0.0, None, None, None, -1.8, None, None, None, None,2022-03-20 03:00:00, None, None, None, None,12
+None, -0.578, None, None, None, None, None, None, None, None, None, -0.6, -4.0, -1.4, None, None, None, -0.6, None, None, None, None,2022-03-24 09:00:00, None, None, None, None,12
+None, None, None, None, None, None, None, None, None, None, None, 5.7, -4.0, -0.8, None, None, None, 6.6, None, None, None, None,2022-03-24 16:00:00, None, None, None, None,12
+None, 3.68, None, None, None, None, None, None, None, None, None, 3.7, -4.0, 0.2, None, None, None, 6.6, None, None, None, None,2022-03-24 17:00:00, None, None, None, None,12
+None, 3.673, None, None, None, None, None, None, None, None, None, 3.7, -4.0, 0.0, None, None, None, 6.6, None, None, None, None,2022-03-24 18:00:00, None, None, None, None,12
+None, 2.615, None, None, None, None, None, None, None, None, None, 2.6, 2.6, 0.5, None, None, None, 3.7, None, None, None, None,2022-03-24 19:00:00, None, None, None, None,12

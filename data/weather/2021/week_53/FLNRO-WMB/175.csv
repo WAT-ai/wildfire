@@ -1,0 +1,2 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+292.0, 78.0, 1.7, 0.0, -26.8, 1.6, -24.1, -24.6, 245.0, 0.0, 0.0, 79.0,2021-12-31, None,53

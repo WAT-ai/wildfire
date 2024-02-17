@@ -1,0 +1,2 @@
+air_temp,CURRENT_AIR_TEMPERATURE1,min_air_temp_snc_last_reset,max_air_temp_snc_last_reset,rel_hum,time,dwpt_temp,week_of_year
+-1.2, -1.215, -1.4, -1.0, None,2022-12-31, None,53

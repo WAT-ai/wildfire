@@ -1,0 +1,11 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None,458.3, None,-5.8,77.0, None, None, None,219.0, None,2023-01-02 10:30:00, None,1
+None, None,458.3, None,-5.6,77.0, None, None, 0.0,220.0, None,2023-01-02 11:30:00, None,1
+None, None,458.4, None,-4.2,76.0, None, None, 0.1,220.0, None,2023-01-02 12:30:00, None,1
+None, None,458.6, None,-7.8,75.0, None, None, None,217.0, None,2023-01-05 00:30:00, None,1
+None, None,458.6, None,-7.3,74.0, None, None, 0.0,217.0, None,2023-01-05 01:30:00, None,1
+None, None,458.8, None,-7.6,74.0, None, None, 0.2,218.0, None,2023-01-05 02:30:00, None,1
+None, None,458.7, None,-8.7,74.0, None, None, None,218.0, None,2023-01-05 03:30:00, None,1
+None, None,458.7, None,-8.0,75.0, None, None, None,218.0, None,2023-01-05 05:30:00, None,1
+None, None,458.7, None,-7.5,73.0, None, None, 0.0,218.0, None,2023-01-05 06:30:00, None,1
+None, None,458.7, None,-7.3,74.0, None, None, 0.0,218.0, None,2023-01-05 07:30:00, None,1

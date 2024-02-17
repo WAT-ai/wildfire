@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,time,MIN_TEMP,MAX_TEMP,week_of_year
+None, None,2022-04-09, 2.3, 8.4,15
+None, None,2022-04-10, 0.3, 7.6,15
+None, None,2022-04-11, 0.5, 7.8,15
+None, None,2022-04-12, 1.0, 4.9,15
+None, None,2022-04-13, -1.1, 5.7,15
+None, None,2022-04-14, -2.2, 7.5,15
+None, None,2022-04-15, -0.1, 8.0,15

@@ -1,0 +1,11 @@
+CURRENT_AIR_TEMPERATURE1,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,snwfl_amt_pst1hr,stn_pres,week_of_year
+9.4, None, None, None,57.11,1.686,5.486, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 10:00:00, None, None, None, None,27
+9.88, None, None, None,65.73,0.809,126.4, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 11:00:00, None, None, None, None,27
+10.06, None, None, None,43.9,2.335,308.9, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 12:00:00, None, None, None, None,27
+12.91, None, None, None,50.62,2.711,163.6, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 13:00:00, None, None, None, None,27
+12.8, None, None, None,35.19,4.825,198.1, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 15:00:00, None, None, None, None,27
+13.56, None, None, None,20.58,9.18,178.8, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 16:00:00, None, None, None, None,27
+13.72, None, None, None,33.24,4.985,200.0, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 17:00:00, None, None, None, None,27
+13.11, None, None, None,39.71,3.272,193.0, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 18:00:00, None, None, None, None,27
+13.29, None, None, None,37.08,1.4,135.6, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 20:00:00, None, None, None, None,27
+13.15, None, None, None,28.9,1.192,203.6, None, None, None, None, None, None, None, None, None, None, None,2016-07-07 21:00:00, None, None, None, None,27

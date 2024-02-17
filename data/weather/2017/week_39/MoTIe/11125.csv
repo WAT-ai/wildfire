@@ -1,0 +1,10 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,time,MINIMUM_AIR_TEMPERATURE,ACTUAL_WIND_SPEED,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,DEW_POINT,ATMOSPHERIC_PRESSURE,ACTUAL_WIND_DIRECTION,MAXIMUM_AIR_TEMPERATURE,PRECIPITATION_NEW,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,week_of_year
+None,10.16,70.7, None,2017-09-25 16:00:00, None, None, None, None, None, 5.0, None, None, None, None, None, None,39
+None,10.4,66.48, None,2017-09-25 17:00:00, None, None, None, None, None, 4.0, None, None, None, None, None, None,39
+None,7.88,72.7, None,2017-09-25 22:00:00, None, None, None, None, None, 3.0, None, None, None, None, None, None,39
+None,8.08,72.9, None,2017-09-26 00:00:00, None, None, None, None, None, 4.0, None, None, None, None, None, None,39
+None,7.68,73.0, None,2017-09-26 06:00:00, None, None, None, None, None, 3.0, None, None, None, None, None, None,39
+None,7.62,73.7, None,2017-09-26 08:00:00, None, None, None, None, None, 3.0, None, None, None, None, None, None,39
+None,11.44,45.67, None,2017-09-26 11:00:00, None, None, None, None, None, 0.0, None, None, None, None, None, None,39
+None,19.05,17.14, None,2017-09-28 12:00:00, None, None, None, None, None, -6.0, None, None, None, None, None, None,39
+None,9.25,62.24, None,2017-09-29 08:00:00, None, None, None, None, None, 2.0, None, None, None, None, None, None,39

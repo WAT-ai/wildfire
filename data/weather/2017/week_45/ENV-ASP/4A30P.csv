@@ -1,0 +1,21 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,snw_dpth,MAX_TEMP,week_of_year
+None, 292.0, 17.0, None, None,2017-11-05 00:00:00, -6.9, None, 7.0, None,45
+None, 292.0, 17.0, None, None,2017-11-05 01:00:00, -8.2, None, 7.0, None,45
+None, 292.0, 17.0, None, None,2017-11-05 02:00:00, -9.8, None, 7.0, None,45
+None, 291.0, 17.0, None, None,2017-11-05 03:00:00, -10.8, None, 7.0, None,45
+None, 291.0, 17.0, None, None,2017-11-05 04:00:00, -11.3, None, 7.0, None,45
+None, 291.0, 17.0, None, None,2017-11-05 05:00:00, -11.4, None, 7.0, None,45
+None, 291.0, 17.0, None, None,2017-11-05 06:00:00, -11.2, None, 8.0, None,45
+None, 291.0, 17.0, None, None,2017-11-05 07:00:00, -11.5, None, 7.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 09:00:00, -13.0, None, 8.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 10:00:00, -14.5, None, 7.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 11:00:00, -15.2, None, 7.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 12:00:00, -15.1, None, 8.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 13:00:00, -16.1, None, 7.0, None,45
+None, 291.0, None, None, None,2017-11-05 14:00:00, -16.4, None, None, None,45
+None, 290.0, None, None, None,2017-11-05 17:00:00, None, None, None, None,45
+None, 291.0, 18.0, None, None,2017-11-05 19:00:00, -12.6, None, 7.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 20:00:00, -10.2, None, 7.0, None,45
+None, 291.0, 18.0, None, None,2017-11-05 21:00:00, -8.2, None, 7.0, None,45
+None, 291.0, None, None, None,2017-11-05 22:00:00, None, None, None, None,45
+None, 291.0, None, None, None,2017-11-05 23:00:00, None, None, None, None,45

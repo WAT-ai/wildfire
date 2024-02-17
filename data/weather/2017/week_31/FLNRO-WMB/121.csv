@@ -1,0 +1,16 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+287.0, None, None,0.0, None,6.3, None, 22.7, None, None, None, 39.0,2017-08-01 16:00:00, None,31
+271.0, None, None,0.0, None,6.2, None, 22.2, None, None, None, 40.0,2017-08-01 17:00:00, None,31
+284.0, None, None,0.0, None,10.3, None, 24.3, None, None, None, 38.0,2017-08-02 12:00:00, None,31
+336.0, None, None,0.0, None,5.9, None, 25.7, None, None, None, 36.0,2017-08-02 13:00:00, None,31
+227.0, None, None,0.0, None,7.1, None, 26.7, None, None, None, 29.0,2017-08-02 14:00:00, None,31
+10.0, None, None,0.0, None,3.6, None, 27.4, None, None, None, 31.0,2017-08-02 16:00:00, None,31
+352.0, None, None,0.0, None,3.5, None, 22.0, None, None, None, 54.0,2017-08-04 10:00:00, None,31
+292.0, None, None,0.0, None,7.2, None, 22.9, None, None, None, 48.0,2017-08-04 11:00:00, None,31
+332.0, None, None,0.0, None,9.2, None, 24.4, None, None, None, 41.0,2017-08-04 14:00:00, None,31
+338.0, None, None,0.0, None,7.6, None, 25.5, None, None, None, 29.0,2017-08-04 16:00:00, None,31
+118.0, None, None,0.0, None,5.4, None, 26.0, None, None, None, 32.0,2017-08-05 10:00:00, None,31
+188.0, None, None,0.0, None,9.1, None, 25.7, None, None, None, 30.0,2017-08-05 11:00:00, None,31
+283.0, None, None,0.0, None,6.2, None, 26.1, None, None, None, 28.0,2017-08-05 12:00:00, None,31
+24.0, None, None,0.0, None,6.5, None, 27.0, None, None, None, 28.0,2017-08-05 13:00:00, None,31
+16.0, None, None,0.0, None,6.1, None, 27.3, None, None, None, 26.0,2017-08-05 14:00:00, None,31

@@ -1,0 +1,13 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None, None,9.16,47.06, None, None, None, None, None, None, None, None, None, None, None, None, None, -2.0, None, None, None, None, None,2016-09-16 00:00:00, None, None, None, None,38
+None, None,9.43,46.85, None, None, None, None, None, None, None, None, None, None, None, None, None, -1.0, None, None, None, None, None,2016-09-16 01:00:00, None, None, None, None,38
+None, None,9.52,47.42, None, None, None, None, None, None, None, None, None, None, None, None, None, -1.0, None, None, None, None, None,2016-09-16 02:00:00, None, None, None, None,38
+None, None,8.68,47.31, None, None, None, None, None, None, None, None, None, None, None, None, None, -2.0, None, None, None, None, None,2016-09-16 03:00:00, None, None, None, None,38
+None, None,8.6,47.43, None, None, None, None, None, None, None, None, None, None, None, None, None, -2.0, None, None, None, None, None,2016-09-16 04:00:00, None, None, None, None,38
+None, None,8.06,47.38, None, None, None, None, None, None, None, None, None, None, None, None, None, -2.0, None, None, None, None, None,2016-09-16 05:00:00, None, None, None, None,38
+None, None,7.86,47.46, None, None, None, None, None, None, None, None, None, None, None, None, None, -3.0, None, None, None, None, None,2016-09-16 06:00:00, None, None, None, None,38
+None, None,7.73,47.73, None, None, None, None, None, None, None, None, None, None, None, None, None, -3.0, None, None, None, None, None,2016-09-16 07:00:00, None, None, None, None,38
+None, None,7.69,47.4, None, None, None, None, None, None, None, None, None, None, None, None, None, -3.0, None, None, None, None, None,2016-09-16 08:00:00, None, None, None, None,38
+None, None,8.44,47.15, None, None, None, None, None, None, None, None, None, None, None, None, None, -2.0, None, None, None, None, None,2016-09-16 09:00:00, None, None, None, None,38
+None, None,10.39,47.14, None, None, None, None, None, None, None, None, None, None, None, None, None, 0.0, None, None, None, None, None,2016-09-16 10:00:00, None, None, None, None,38
+None, None,11.86,43.96, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2016-09-16 11:00:00, None, None, None, None,38

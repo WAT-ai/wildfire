@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,MIN_TEMP,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+None,0.0,2.5,2019-09-24, None,7.3,39
+None,0.0,1.6,2019-09-25, None,5.2,39
+None,12.5,-3.3,2019-09-26, None,3.7,39
+None,13.0,-8.7,2019-09-27, None,-3.3,39
+None,0.0,-8.5,2019-09-28, None,-2.8,39
+None,0.2,-8.4,2019-09-29, None,-0.9,39
+None,0.3,-4.2,2019-09-30, None,9.9,39

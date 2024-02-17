@@ -1,0 +1,8 @@
+ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year
+6.0, 0.0,-14.0, 6.0,2017-12-24,27.0, -6.5,52
+1.0, 0.0,-13.5, 1.0,2017-12-25,32.0, -6.0,52
+None, None,-17.0, None,2017-12-26,30.0, None,52
+None, None,-10.5, None,2017-12-27,30.0, None,52
+None, None,-8.0, None,2017-12-28,52.0, None,52
+None, None,-8.0, None,2017-12-29,62.0, None,52
+None, None,-9.0, None,2017-12-30,80.0, None,52

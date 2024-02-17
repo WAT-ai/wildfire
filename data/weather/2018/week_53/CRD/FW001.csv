@@ -1,0 +1,2 @@
+SolarRadiation,AirTemperature,Precipitation,Rain,WindSpeed,SnowDepth,time,WindDirection,RelativeHumidity,week_of_year
+None,0.6, 0.0,0.0,5.5, None,2018-12-31,358.0,93.0,53
