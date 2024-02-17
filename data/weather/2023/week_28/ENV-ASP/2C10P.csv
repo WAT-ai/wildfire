@@ -1,0 +1,20 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None,285.8, None,19.7,6.0, None, None, None,8.0, None,2023-07-10 00:30:00, None,28
+None, None,285.8, None,19.5,7.0, None, None, 0.0,8.0, None,2023-07-10 01:30:00, None,28
+None, None,285.7, None,19.3,6.0, None, None, None,7.0, None,2023-07-10 02:30:00, None,28
+None, None,285.7, None,19.0,7.0, None, None, 0.0,7.0, None,2023-07-10 03:30:00, None,28
+None, None,285.6, None,17.2,7.0, None, None, None,7.0, None,2023-07-10 06:30:00, None,28
+None, None,285.8, None,17.3,6.0, None, None, 0.2,7.0, None,2023-07-10 07:30:00, None,28
+None, None,285.6, None,18.2,7.0, None, None, None,7.0, None,2023-07-10 08:30:00, None,28
+None, None,285.6, None,20.3,7.0, None, None, 0.0,7.0, None,2023-07-10 09:30:00, None,28
+None, None,291.1, None,14.4,7.0, None, None, None,5.0, None,2023-07-14 02:30:00, None,28
+None, None,291.2, None,13.9,7.0, None, None, 0.1,5.0, None,2023-07-14 03:30:00, None,28
+None, None,291.2, None,13.7,6.0, None, None, 0.0,5.0, None,2023-07-14 04:30:00, None,28
+None, None,291.1, None,18.2,6.0, None, None, None,8.0, None,2023-07-14 20:30:00, None,28
+None, None,291.1, None,17.4,6.0, None, None, 0.0,7.0, None,2023-07-14 21:30:00, None,28
+None, None,291.0, None,17.2,7.0, None, None, None,7.0, None,2023-07-14 22:30:00, None,28
+None, None,291.1, None,16.9,7.0, None, None, 0.1,7.0, None,2023-07-14 23:30:00, None,28
+None, None,290.7, None,24.6,6.0, None, None, None,10.0, None,2023-07-15 14:30:00, None,28
+None, None,290.8, None,24.6,7.0, None, None, 0.1,10.0, None,2023-07-15 15:30:00, None,28
+None, None,290.9, None,24.8,7.0, None, None, 0.1,11.0, None,2023-07-15 16:30:00, None,28
+None, None,291.0, None,24.4,7.0, None, None, 0.1,10.0, None,2023-07-15 17:30:00, None,28

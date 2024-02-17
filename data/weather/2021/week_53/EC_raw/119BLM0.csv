@@ -1,0 +1,2 @@
+wind_direction,air_temperature,wind_gust_speed,tendency_amount,wind_speed,mean_sea_level,dew_point,snow_amount,air_temperature_yesterday_high,relative_humidity,time,air_temperature_yesterday_low,total_precipitation,week_of_year
+67.5, -27.0, None, 0.0, 9.0, 102.0, -29.8, None, None, 77.0,2021-12-31, None, None,53

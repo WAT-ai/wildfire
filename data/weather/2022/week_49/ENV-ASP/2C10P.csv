@@ -1,0 +1,8 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None,378.3, None,-4.0,54.0, None, None, None,128.0, None,2022-12-03 14:30:00, None,49
+None, None,378.4, None,-5.1,54.0, None, None, 0.1,128.0, None,2022-12-03 15:30:00, None,49
+None, None,378.5, None,-8.9,56.0, None, None, 0.1,128.0, None,2022-12-03 16:30:00, None,49
+None, None,378.5, None,-9.6,56.0, None, None, 0.0,128.0, None,2022-12-03 17:30:00, None,49
+None, None,380.2, None,-8.2,57.0, None, None, None,132.0, None,2022-12-06 18:30:00, None,49
+None, None,380.1, None,-8.1,57.0, None, None, None,132.0, None,2022-12-06 19:30:00, None,49
+None, None,380.2, None,-8.2,57.0, None, None, 0.1,132.0, None,2022-12-06 20:30:00, None,49

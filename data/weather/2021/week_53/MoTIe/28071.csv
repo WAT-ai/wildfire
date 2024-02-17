@@ -1,0 +1,2 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,rel_hum,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,snwfl_amt_pst1hr,time,stn_pres,week_of_year
+0.0, -21.03, 80.9, -19.0, 81.0, 31.04, 1.692, 302.2, -23.0, -21.0, -21.4, 1016.1, 0.0, -23.0, 888.0, 0.0,2021-12-31, 888.0,53

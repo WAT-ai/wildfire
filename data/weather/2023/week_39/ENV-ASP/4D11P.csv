@@ -1,0 +1,9 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+None, None,370.0, None,5.5,5.3, -1.0, None, None, None,-6.0,2023-09-24 19:00:00, None,39
+None, None,370.0, None,-0.5,-0.7, -1.0, None, None, None,-8.0,2023-09-25 08:00:00, None,39
+None, None,373.0, None,4.3,3.9, -1.0, None, None, None,-7.0,2023-09-25 13:00:00, None,39
+None, None,374.0, None,5.4,5.4, -1.0, None, None, None,-6.0,2023-09-26 22:00:00, None,39
+None, None,375.0, None,6.0,5.8, -1.0, None, None, None,-6.0,2023-09-27 19:00:00, None,39
+None, None,375.0, None,2.7,2.6, -1.0, None, None, None,-8.0,2023-09-28 07:00:00, None,39
+None, None,375.0, None,1.8,1.7, -1.0, None, None, None,-8.0,2023-09-30 01:00:00, None,39
+None, None,375.0, None,4.8,4.7, -1.0, None, None, None,-7.0,2023-09-30 18:00:00, None,39

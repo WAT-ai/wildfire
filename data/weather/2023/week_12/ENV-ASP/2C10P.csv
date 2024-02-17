@@ -1,0 +1,4 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None,593.3, None,-1.7,106.0, None, None, None,385.0, None,2023-03-25 15:30:00, None,12
+None, None,593.4, None,-2.6,105.0, None, None, 0.1,385.0, None,2023-03-25 16:30:00, None,12
+None, None,593.3, None,-3.1,106.0, None, None, None,385.0, None,2023-03-25 17:30:00, None,12

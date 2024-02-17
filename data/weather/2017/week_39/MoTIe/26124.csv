@@ -1,0 +1,9 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,rel_hum,time,snw_dpth,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None,14.15,56.78, None, None,19.49,19.28,201.2, None, None, None, None, None, None, 6.0,895.0, None, None, None,2017-09-25 17:00:00, None, None, None,39
+None,11.46,74.9, None, None,59.18,1.112,309.3, None, None, None, None, None, None, 7.0,897.0, None, None, None,2017-09-25 22:00:00, None, None, None,39
+None,11.0,77.4, None, None,17.3,5.086,312.5, None, None, None, None, None, None, 7.0,897.0, None, None, None,2017-09-26 00:00:00, None, None, None,39
+None,9.24,84.5, None, None,26.07,2.698,154.7, None, None, None, None, None, None, 7.0,899.0, None, None, None,2017-09-26 06:00:00, None, None, None,39
+None,9.05,87.6, None, None,47.4,1.645,179.9, None, None, None, None, None, None, 7.0,900.0, None, None, None,2017-09-26 08:00:00, None, None, None,39
+None,14.08,63.82, None, None,34.5,1.96,26.3, None, None, None, None, None, None, 7.0,900.0, None, None, None,2017-09-26 11:00:00, None, None, None,39
+None,14.84,52.39, None, None,22.91,4.634,164.2, None, None, None, None, None, None, 5.0,894.0, None, None, None,2017-09-28 12:00:00, None, None, None,39
+None,12.56,53.06, None, None,69.28,0.928,194.1, None, None, None, None, None, None, 3.0,888.0, None, None, None,2017-09-29 08:00:00, None, None, None,39
