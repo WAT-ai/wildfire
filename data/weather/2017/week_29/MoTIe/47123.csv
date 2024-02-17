@@ -1,0 +1,9 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,rel_hum,max_wnd_spd_10m_pst1hr,avg_wnd_spd_10m_pst10mts,dwpt_temp,air_temp,min_air_temp_snc_last_reset,DEW_POINT,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,snwfl_amt_pst1hr,time,snw_dpth,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None,14.74,86.9, None, None, None, None, None, None, None, 13.0, None, None, None,2017-07-21 10:00:00, None,-0.432, None,29
+None,15.46,80.8, None, None, None, None, None, None, None, 12.0, None, None, None,2017-07-21 11:00:00, None,-0.428, None,29
+None,16.67,76.9, None, None, None, None, None, None, None, 13.0, None, None, None,2017-07-21 12:00:00, None,-0.398, None,29
+None,16.8,77.4, None, None, None, None, None, None, None, 13.0, None, None, None,2017-07-21 13:00:00, None,-0.498, None,29
+None,16.93,79.5, None, None, None, None, None, None, None, 13.0, None, None, None,2017-07-21 14:00:00, None,-0.487, None,29
+None,16.74,83.5, None, None, None, None, None, None, None, 14.0, None, None, None,2017-07-21 15:00:00, None,-0.528, None,29
+None,16.8,78.5, None, None, None, None, None, None, None, 13.0, None, None, None,2017-07-21 16:00:00, None,-0.5, None,29
+None,17.0,82.2, None, None, None, None, None, None, None, 14.0, None, None, None,2017-07-21 17:00:00, None,-0.352, None,29

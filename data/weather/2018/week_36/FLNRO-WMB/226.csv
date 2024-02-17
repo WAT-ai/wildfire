@@ -1,0 +1,20 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+57.0, None, None,0.0, None,2.2, None,8.6, None, None, None,72.0,2018-09-03 00:00:00, None,36
+219.0, None, None,0.0, None,1.9, None,7.2, None, None, None,80.0,2018-09-03 01:00:00, None,36
+354.0, None, None,0.0, None,3.5, None,5.9, None, None, None,81.0,2018-09-03 02:00:00, None,36
+357.0, None, None,0.0, None,2.9, None,5.1, None, None, None,84.0,2018-09-03 03:00:00, None,36
+284.0, None, None,0.0, None,1.8, None,4.2, None, None, None,85.0,2018-09-03 04:00:00, None,36
+3.0, None, None,0.0, None,3.7, None,3.5, None, None, None,85.0,2018-09-03 05:00:00, None,36
+354.0, None, None,0.0, None,2.8, None,3.0, None, None, None,87.0,2018-09-03 06:00:00, None,36
+197.0, None, None,0.0, None,1.8, None,3.0, None, None, None,88.0,2018-09-03 07:00:00, None,36
+143.0, None, None,0.0, None,4.1, None,5.9, None, None, None,78.0,2018-09-03 08:00:00, None,36
+204.0, None, None,0.0, None,4.6, None,10.9, None, None, None,58.0,2018-09-03 09:00:00, None,36
+163.0, None, None,0.0, None,6.3, None,15.5, None, None, None,39.0,2018-09-03 10:00:00, None,36
+178.0, None, None,0.0, None,7.0, None,17.9, None, None, None,31.0,2018-09-03 11:00:00, None,36
+206.0, None, None,0.0, None,6.9, None,19.1, None, None, None,31.0,2018-09-03 12:00:00, None,36
+141.0, None, None,0.0, None,6.3, None,21.3, None, None, None,25.0,2018-09-03 13:00:00, None,36
+188.0, None, None,0.0, None,6.7, None,21.4, None, None, None,25.0,2018-09-03 14:00:00, None,36
+176.0, None, None,0.0, None,7.2, None,23.1, None, None, None,22.0,2018-09-03 15:00:00, None,36
+132.0, None, None,0.0, None,7.1, None,22.0, None, None, None,22.0,2018-09-03 16:00:00, None,36
+158.0, None, None,0.0, None,4.3, None,17.9, None, None, None,30.0,2018-09-03 17:00:00, None,36
+33.0, None, None,0.0, None,2.3, None,16.2, None, None, None,35.0,2018-09-03 18:00:00, None,36

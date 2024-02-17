@@ -1,0 +1,26 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,ACTUAL_WIND_SPEED,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,PRECIP_DETECTOR_RATIO,MEASURED_WIND_DIRECTION1,dwpt_temp,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,MAXIMUM_MEASURED_WIND_SPEED1,week_of_year
+0.5, -2.346, 90.4, None, None, None, None, None, None, None, -4.0, -2.3, -2.5, 0.0, None, -1.5, None, 90.0, None,2020-12-30 00:00:00, None,53
+0.5, -2.426, 91.8, None, None, None, None, None, None, None, -3.0, -2.4, -2.5, 0.0, None, -1.5, None, 92.0, None,2020-12-30 01:00:00, None,53
+0.5, -2.378, 92.1, None, None, None, None, None, None, None, -3.0, -2.4, -2.5, 0.0, None, -1.5, None, 92.0, None,2020-12-30 02:00:00, None,53
+0.5, -1.815, 90.0, None, None, None, None, None, None, None, -3.0, -1.8, -2.5, 0.0, None, -1.5, None, 90.0, None,2020-12-30 03:00:00, None,53
+0.5, -1.947, 91.2, None, None, None, None, None, None, None, -3.0, -1.9, -2.5, 0.0, None, -1.5, None, 91.0, None,2020-12-30 04:00:00, None,53
+0.5, -2.33, 92.2, None, None, None, None, None, None, None, -3.0, -2.3, -2.5, 0.0, None, -1.5, None, 92.0, None,2020-12-30 05:00:00, None,53
+0.5, -2.33, 92.9, None, None, None, None, None, None, None, -3.0, -2.3, -2.5, 0.0, None, -1.5, None, 93.0, None,2020-12-30 06:00:00, None,53
+0.5, -2.234, 92.6, None, None, None, None, None, None, None, -3.0, -2.2, -2.3, 0.0, None, -2.1, None, 93.0, None,2020-12-30 07:00:00, None,53
+0.5, -2.209, 92.7, None, None, None, None, None, None, None, -3.0, -2.2, -2.3, 0.0, None, -2.1, None, 93.0, None,2020-12-30 08:00:00, None,53
+0.5, -2.024, 92.7, None, None, None, None, None, None, None, -3.0, -2.0, -2.3, 0.0, None, -2.0, None, 93.0, None,2020-12-30 09:00:00, None,53
+0.5, -1.802, 91.6, None, None, None, None, None, None, None, -3.0, -1.8, -2.3, 0.0, None, -1.7, None, 92.0, None,2020-12-30 10:00:00, None,53
+0.5, -1.234, 89.7, None, None, None, None, None, None, None, -3.0, -1.2, -2.3, 0.0, None, -0.9, None, 90.0, None,2020-12-30 11:00:00, None,53
+0.5, -0.844, 90.8, None, None, None, None, None, None, None, -2.0, -0.8, -2.3, 0.0, None, -0.9, None, 91.0, None,2020-12-30 12:00:00, None,53
+0.5, -0.458, 87.5, None, None, None, None, None, None, None, -2.0, -0.5, -2.3, 0.0, None, -0.4, None, 88.0, None,2020-12-30 13:00:00, None,53
+0.5, -0.493, 88.9, None, None, None, None, None, None, None, -2.0, -0.5, -2.3, 0.0, None, -0.1, None, 89.0, None,2020-12-30 14:00:00, None,53
+0.5, -0.042, 88.6, None, None, None, None, None, None, None, -2.0, 0.0, -2.3, 0.0, None, 0.0, None, 89.0, None,2020-12-30 15:00:00, None,53
+0.5, -0.048, 91.0, None, None, None, None, None, None, None, -1.0, 0.0, -2.3, 0.0, None, 0.0, None, 91.0, None,2020-12-30 16:00:00, None,53
+0.5, 0.096, 90.8, None, None, None, None, None, None, None, -1.0, 0.1, -2.3, 0.0, None, 0.3, None, 91.0, None,2020-12-30 17:00:00, None,53
+0.5, 0.047, 91.6, None, None, None, None, None, None, None, -1.0, 0.0, -2.3, 0.0, None, 0.3, None, 92.0, None,2020-12-30 18:00:00, None,53
+0.5, 0.006, 92.2, None, None, None, None, None, None, None, -1.0, 0.0, 0.0, 0.0, None, 0.1, None, 92.0, None,2020-12-30 19:00:00, None,53
+0.5, 0.114, 91.9, None, None, None, None, None, None, None, -1.0, 0.1, 0.0, 0.0, None, 0.2, None, 92.0, None,2020-12-30 20:00:00, None,53
+0.5, 0.054, 92.5, None, None, None, None, None, None, None, -1.0, 0.1, 0.0, 0.0, None, 0.2, None, 93.0, None,2020-12-30 21:00:00, None,53
+0.2, 0.072, 93.1, None, None, None, None, None, None, None, -1.0, 0.1, 0.0, 0.0, None, 0.2, None, 93.0, None,2020-12-30 22:00:00, None,53
+0.0, 0.057, 93.4, None, None, None, None, None, None, None, -1.0, 0.1, 0.0, 0.0, None, 0.2, None, 93.0, None,2020-12-30 23:00:00, None,53
+0.0, 0.231, 93.9, None, None, None, None, None, None, None, -1.0, 0.2, 0.0, 0.1, None, 0.4, None, 94.0, None,2020-12-31 00:00:00, None,53

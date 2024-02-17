@@ -1,0 +1,27 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+92.0, None, None,0.0, None,0.0, None,-4.6, None, None, None,95.0,2017-12-17 00:00:00,51
+106.0, None, None,0.0, None,0.0, None,-4.5, None, None, None,95.0,2017-12-17 01:00:00,51
+101.0, None, None,0.0, None,0.0, None,-4.5, None, None, None,95.0,2017-12-17 02:00:00,51
+17.0, None, None,0.0, None,0.0, None,-4.7, None, None, None,95.0,2017-12-17 03:00:00,51
+264.0, None, None,0.0, None,0.0, None,-6.0, None, None, None,93.0,2017-12-17 06:00:00,51
+265.0, None, None,0.0, None,0.0, None,-7.6, None, None, None,92.0,2017-12-17 07:00:00,51
+319.0, None, None,0.0, None,0.0, None,-4.9, None, None, None,93.0,2017-12-17 14:00:00,51
+283.0, None, None,0.0, None,0.0, None,-5.6, None, None, None,93.0,2017-12-17 15:00:00,51
+319.0, None, None,0.0, None,0.0, None,-10.2, None, None, None,90.0,2017-12-18 00:00:00,51
+299.0, None, None,0.0, None,0.0, None,-14.7, None, None, None,85.0,2017-12-18 05:00:00,51
+289.0, None, None,0.0, None,0.0, None,-15.6, None, None, None,82.0,2017-12-18 06:00:00,51
+292.0, None, None,0.0, None,0.0, None,-25.5, None, None, None,71.0,2017-12-20 08:00:00,51
+19.0, None, None,0.0, None,0.0, None,-13.2, None, None, None,85.0,2017-12-21 19:00:00,51
+200.0, None, None,0.0, None,0.0, None,-19.9, None, None, None,78.0,2017-12-22 07:00:00,51
+328.0, None, None,0.0, None,0.0, None,-19.7, None, None, None,77.0,2017-12-22 08:00:00,51
+130.0, None, None,0.0, None,0.0, None,-12.2, None, None, None,73.0,2017-12-22 13:00:00,51
+274.0, None, None,0.0, None,0.0, None,-27.7, None, None, None,68.0,2017-12-23 04:00:00,51
+237.0, None, None,0.0, None,0.0, None,-27.8, None, None, None,68.0,2017-12-23 05:00:00,51
+288.0, None, None,0.0, None,0.0, None,-27.5, None, None, None,69.0,2017-12-23 06:00:00,51
+305.0, None, None,0.0, None,0.0, None,-28.8, None, None, None,66.0,2017-12-23 08:00:00,51
+169.0, None, None,0.0, None,0.0, None,-29.3, None, None, None,66.0,2017-12-23 09:00:00,51
+230.0, None, None,0.0, None,0.0, None,-27.1, None, None, None,65.0,2017-12-23 10:00:00,51
+131.0, None, None,0.0, None,0.0, None,-17.5, None, None, None,70.0,2017-12-23 12:00:00,51
+337.0, None, None,0.0, None,0.0, None,-27.5, None, None, None,69.0,2017-12-23 19:00:00,51
+319.0, None, None,0.0, None,0.0, None,-28.1, None, None, None,68.0,2017-12-23 20:00:00,51
+78.0, None, None,0.0, None,0.0, None,-29.5, None, None, None,66.0,2017-12-23 23:00:00,51

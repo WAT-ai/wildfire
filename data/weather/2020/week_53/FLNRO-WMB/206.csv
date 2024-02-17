@@ -1,0 +1,6 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+122.0, None, None, 0.0, None, 11.4, None, -2.5, None, None, None, 87.0,2020-12-30 12:00:00,53
+127.0, 87.0, 11.4, 0.0, -4.4, 12.0, -2.5, -2.2, 122.0, 0.0, None, 87.0,2020-12-30 13:00:00,53
+98.0, 87.0, 12.0, 0.0, -4.1, 5.1, -2.2, -2.5, 127.0, 0.0, None, 89.0,2020-12-30 14:00:00,53
+103.0, 89.0, 5.1, 0.0, -4.1, 8.4, -2.5, -3.0, 98.0, 0.0, None, 91.0,2020-12-30 15:00:00,53
+None, 91.0, 8.4, None, -4.3, None, -3.0, None, 103.0, 0.0, None, None,2020-12-30 16:00:00,53

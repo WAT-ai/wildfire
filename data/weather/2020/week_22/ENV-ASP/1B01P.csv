@@ -1,0 +1,11 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,MAX_TEMP,week_of_year
+None, 222.0, 0.0, None, None,2020-05-27 09:00:00, -1.0, None, None,22
+None, 220.0, 0.0, None, None,2020-05-27 10:00:00, -1.1, None, None,22
+None, None, None, 563.0, None,2020-05-27 16:00:00, None, None, None,22
+None, 219.0, None, None, None,2020-05-28 07:00:00, 0.7, None, None,22
+None, None, None, 576.0, None,2020-05-28 16:00:00, None, None, None,22
+None, None, None, 554.0, None,2020-05-29 16:00:00, None, None, None,22
+None, None, None, 569.0, None,2020-05-30 16:00:00, None, None, None,22
+None, None, None, 566.0, None,2020-05-31 16:00:00, None, None, None,22
+None, None, None, 569.0, None,2020-06-01 16:00:00, None, None, None,22
+None, None, None, 563.0, None,2020-06-02 16:00:00, None, None, None,22

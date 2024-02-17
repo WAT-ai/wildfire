@@ -1,0 +1,14 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,HUMIDITY,avg_rel_hum_pst1hr,time,avg_air_temp_pst1hr,week_of_year
+342.0, None, None,68.0, None,2021-01-28 11:00:00, None,4
+324.1, None, None,66.7, None,2021-01-28 12:00:00, None,4
+329.3, None, None,65.7, None,2021-01-28 13:00:00, None,4
+341.6, None, None,63.9, None,2021-01-28 14:00:00, None,4
+339.1, None, None,60.9, None,2021-01-28 15:00:00, None,4
+283.1, None, None,64.3, None,2021-01-28 16:00:00, None,4
+341.6, None, None,71.9, None,2021-01-28 17:00:00, None,4
+338.0, None, None,77.2, None,2021-01-28 18:00:00, None,4
+325.8, None, None,82.1, None,2021-01-28 19:00:00, None,4
+326.9, None, None,85.3, None,2021-01-28 20:00:00, None,4
+324.4, None, None,85.2, None,2021-01-28 21:00:00, None,4
+330.8, None, None,86.2, None,2021-01-28 22:00:00, None,4
+348.0, None, None,88.6, None,2021-01-28 23:00:00, None,4

@@ -1,0 +1,16 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,HEIGHT_OF_SNOW,week_of_year
+None, None, 8.23, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 00:00:00, None, None,39
+None, None, 9.56, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 14:00:00, None, None,39
+None, None, 10.1, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 16:00:00, None, None,39
+None, None, 9.8, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 17:00:00, None, None,39
+None, None, 8.51, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-25 22:00:00, None, None,39
+None, None, 8.41, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 00:00:00, None, None,39
+None, None, 8.29, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 02:00:00, None, None,39
+None, None, 7.92, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 06:00:00, None, None,39
+None, None, 7.756, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 08:00:00, None, None,39
+None, None, 11.23, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 11:00:00, None, None,39
+None, None, 13.75, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-26 12:00:00, None, None,39
+None, None, 19.43, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-28 12:00:00, None, None,39
+None, None, 8.59, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-29 00:00:00, None, None,39
+None, None, 6.868, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-29 08:00:00, None, None,39
+None, None, 4.967, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None, None,2017-09-30 00:00:00, None, None,39

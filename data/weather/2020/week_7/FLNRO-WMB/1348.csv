@@ -1,0 +1,14 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+84.0, None, None, 0.0, None, 2.6, None, -3.7, None, None, None, 24.0,2020-02-18 11:00:00, None,7
+231.0, None, None, 0.2, None, 4.5, None, -3.4, None, None, None, 51.0,2020-02-18 12:00:00, None,7
+222.0, None, None, 0.2, None, 5.2, None, -3.0, None, None, None, 56.0,2020-02-18 13:00:00, None,7
+222.0, None, None, 0.0, None, 0.6, None, -1.4, None, None, None, 50.0,2020-02-18 14:00:00, None,7
+267.0, None, None, 0.0, None, 0.1, None, -1.5, None, None, None, 59.0,2020-02-18 15:00:00, None,7
+199.0, None, None, 0.0, None, 0.8, None, -3.6, None, None, None, 68.0,2020-02-18 16:00:00, None,7
+210.0, None, None, 0.0, None, 0.0, None, -4.9, None, None, None, 75.0,2020-02-18 17:00:00, None,7
+210.0, None, None, 0.0, None, 0.0, None, -5.1, None, None, None, 74.0,2020-02-18 18:00:00, None,7
+70.0, None, None, 0.0, None, 6.2, None, -4.0, None, None, None, 50.0,2020-02-18 19:00:00, None,7
+58.0, None, None, 0.0, None, 3.8, None, -3.8, None, None, None, 47.0,2020-02-18 20:00:00, None,7
+19.0, None, None, 0.0, None, 0.0, None, -4.0, None, None, None, 42.0,2020-02-18 21:00:00, None,7
+85.0, None, None, 0.0, None, 0.0, None, -4.2, None, None, None, 43.0,2020-02-18 22:00:00, None,7
+76.0, None, None, 0.0, None, 0.0, None, -3.5, None, None, None, 40.0,2020-02-18 23:00:00, None,7

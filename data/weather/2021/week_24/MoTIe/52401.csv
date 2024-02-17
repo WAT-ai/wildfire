@@ -1,0 +1,12 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None, 4.925, None, None, None, None, 14.08, None, 5.671, 358.3, -6999.0, None, 4.9, 4.7, -0.6, None, 12.2, None, None, -6999.0, None,2021-06-11 00:00:00, None, None, None, None,24
+None, 4.763, None, None, None, None, 13.54, None, 6.871, 357.9, -6999.0, None, 4.8, 4.2, -0.4, None, 12.2, None, None, -6999.0, None,2021-06-11 01:00:00, None, None, None, None,24
+None, 4.021, None, None, None, None, 20.53, None, 5.359, 357.5, -6999.0, None, 4.0, 4.0, -0.4, None, 12.2, None, None, -6999.0, None,2021-06-11 02:00:00, None, None, None, None,24
+None, 4.193, None, None, None, None, 10.57, None, 6.161, 358.6, -6999.0, None, 4.2, 3.5, -0.4, None, 12.2, None, None, -6999.0, None,2021-06-11 03:00:00, None, None, None, None,24
+None, 4.269, None, None, None, None, 13.5, None, 4.294, 347.0, -6999.0, None, 4.3, 3.3, -0.1, None, 12.2, None, None, -6999.0, None,2021-06-11 04:00:00, None, None, None, None,24
+None, 3.487, None, None, None, None, 16.58, None, 4.509, 352.9, -6999.0, None, 3.5, 3.2, -0.2, None, 12.2, None, None, -6999.0, None,2021-06-11 05:00:00, None, None, None, None,24
+None, 3.275, None, None, None, None, 12.64, None, 5.508, 357.6, -6999.0, None, 3.3, 2.7, -0.4, None, 12.2, None, None, -6999.0, None,2021-06-11 06:00:00, None, None, None, None,24
+None, 4.935, None, None, None, None, 11.98, None, 4.504, 355.4, -6999.0, None, 4.9, 3.2, 0.2, None, 4.9, None, None, -6999.0, None,2021-06-11 07:00:00, None, None, None, None,24
+None, 7.201, None, None, None, None, 46.78, None, 1.994, 48.93, -6999.0, None, 7.2, 3.2, 1.0, None, 7.0, None, None, -6999.0, None,2021-06-11 08:00:00, None, None, None, None,24
+None, 8.68, None, None, None, None, 50.13, None, 3.386, 129.1, -6999.0, None, 8.7, 3.2, 1.5, None, 8.8, None, None, -6999.0, None,2021-06-11 09:00:00, None, None, None, None,24
+None, 9.52, None, None, None, None, 31.63, None, 4.924, 137.1, -6999.0, None, 9.5, 3.2, 0.9, None, 9.8, None, None, -6999.0, None,2021-06-11 10:00:00, None, None, None, None,24
