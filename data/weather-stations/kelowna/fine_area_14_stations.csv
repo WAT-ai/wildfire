@@ -1,6 +1,6 @@
 ,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-229,17,ARDA,112048,4864,THIRSK,6544,BC,-120.055833333333,49.7116666666667,1013.0,1971-04-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-230,17,ARDA,112049,4865,KIRTON,6545,BC,-119.9775,49.6891666666667,945.0,1971-04-27,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-488,12,FLNRO-WMB,1212,11412,ZZ KIRTON TS,13473,BC,-120.0233333,49.63778333,1491.0,2015-06-02,2015-10-06,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-493,12,FLNRO-WMB,1254,12017,ZZ LOST CHAIN TS,14074,BC,-120.0666667,49.64861667,1633.0,2015-08-06,2016-10-12,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-498,12,FLNRO-WMB,1285,12046,ZZ KATHLEEN LAKE TEMP,14103,BC,-120.06695,49.73833333,1397.0,2017-05-31,2017-10-20,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+180,12,FLNRO-WMB,1020,2346,ZZ KODIAK,2749,BC,-119.6602778,50.17972222,1601.0,2008-06-05,2008-10-22,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+181,12,FLNRO-WMB,1046,2363,ZZ SHORT CREEK,2766,BC,-119.7955556,50.19777778,1814.0,2009-07-22,2009-08-20,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+271,17,ARDA,112211,4982,HAYMAN,6662,BC,-119.6725,50.0616666666667,1347.0,1971-05-28,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+272,17,ARDA,112212,4983,ESPERON,6663,BC,-119.685833333333,50.1033333333333,1412.0,1971-05-14,1972-10-29,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+491,12,FLNRO-WMB,1216,11415,ZZ ESPERON TS,13476,BC,-119.6911167,50.07055,1429.0,2015-06-10,2015-10-07,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

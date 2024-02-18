@@ -1,4 +1,2 @@
 ,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-244,17,ARDA,112125,4935,DENNIS CK,6615,BC,-119.4125,49.6236111111111,1792.0,1983-09-28,1991-02-26,Daily,Precipitation (Cumulative)|Precipitation Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-245,17,ARDA,112126,4936,CHENG,6616,BC,-119.420833333333,49.6041666666667,1804.0,1983-09-28,1991-02-28,Daily,Precipitation (Cumulative)|Precipitation Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-510,14,ENV-ASP,2F08P,12499,Greyback Resevoir,14521,BC,-119.4224,49.6158,1550.0,2019-12-10,2021-12-08,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Depth|Snow Water Equivalent|Temperature (Mean)
+165,12,FLNRO-WMB,393,1936,NICOLL,2339,BC,-118.3603,49.5267,866.0,1988-10-28,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)

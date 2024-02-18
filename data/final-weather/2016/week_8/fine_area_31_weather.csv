@@ -1,0 +1,325 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year,RELATIVE_HUMIDITY1,STANDARD_SNOW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,min_air_temp_snc_last_reset,DEW_POINT,ATMOSPHERIC_PRESSURE,ACTUAL_WIND_DIRECTION,MAXIMUM_AIR_TEMPERATURE,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,PRECIPITATION_NEW,max_air_temp_snc_last_reset,PRECIP_DETECTOR_RATIO,ACTUAL_WIND_SPEED,WIND_DIRECTION_STD_DEVIATION1,mslp,pcpn_amt_pst1hr,snwfl_amt_pst1hr,stn_pres
+4.0, None, None,0.0, None,2.0, None,-1.9, None, None, None,97.0,2016-02-19 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.6, None,-2.1, None, None, None,97.0,2016-02-19 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,2.8, None,-2.3, None, None, None,97.0,2016-02-19 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.7, None,-2.2, None, None, None,97.0,2016-02-19 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.6, None,-2.9, None, None, None,95.0,2016-02-19 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,3.5, None,-2.6, None, None, None,96.0,2016-02-19 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.6, None,-2.9, None, None, None,95.0,2016-02-19 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,3.9, None,-2.9, None, None, None,96.0,2016-02-19 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,6.8, None,-2.1, None, None, None,95.0,2016-02-19 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+6.0, None, None,0.0, None,8.2, None,-1.5, None, None, None,95.0,2016-02-19 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+6.0, None, None,0.0, None,6.2, None,-0.9, None, None, None,95.0,2016-02-19 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+6.0, None, None,0.2, None,6.0, None,1.6, None, None, None,90.0,2016-02-19 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.6, None,10.0, None,2.2, None, None, None,87.0,2016-02-19 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,9.2, None,1.9, None, None, None,88.0,2016-02-19 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,1.8, None,9.8, None,1.9, None, None, None,90.0,2016-02-19 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.8, None,8.4, None,1.3, None, None, None,93.0,2016-02-19 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.8, None,7.3, None,0.4, None, None, None,96.0,2016-02-19 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.6, None,6.7, None,0.2, None, None, None,97.0,2016-02-19 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.2, None,7.2, None,0.1, None, None, None,97.0,2016-02-19 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,6.0, None,0.0, None, None, None,98.0,2016-02-19 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,3.4, None,-0.1, None, None, None,98.0,2016-02-19 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,2.4, None,0.0, None, None, None,98.0,2016-02-19 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,2.3, None,-0.1, None, None, None,98.0,2016-02-19 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,2.8, None,-0.3, None, None, None,98.0,2016-02-19 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+1.0, None, None,0.0, None,4.3, None,-0.5, None, None, None,90.0,2016-02-20 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.4, None,-0.8, None, None, None,94.0,2016-02-20 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,4.1, None,-1.4, None, None, None,84.0,2016-02-20 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.0, None,-1.9, None, None, None,90.0,2016-02-20 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.0, None,-2.3, None, None, None,90.0,2016-02-20 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-3.3, None, None, None,95.0,2016-02-20 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,1.8, None,-3.8, None, None, None,96.0,2016-02-20 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,3.3, None,-5.1, None, None, None,94.0,2016-02-20 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.4, None,-5.2, None, None, None,94.0,2016-02-20 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.5, None,-0.8, None, None, None,85.0,2016-02-20 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.2, None,2.0, None,1.7, None, None, None,65.0,2016-02-20 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.4, None,3.9, None,2.0, None, None, None,69.0,2016-02-20 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.6, None,5.5, None,1.6, None, None, None,66.0,2016-02-20 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,3.0, None,2.1, None, None, None,75.0,2016-02-20 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.8, None,2.2, None,3.2, None, None, None,60.0,2016-02-20 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,1.2, None,3.5, None,4.7, None, None, None,59.0,2016-02-20 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,5.3, None,3.2, None, None, None,61.0,2016-02-20 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,3.8, None,0.4, None, None, None,70.0,2016-02-20 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.8, None,-1.8, None, None, None,86.0,2016-02-20 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.3, None,-3.4, None, None, None,94.0,2016-02-20 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,3.9, None,-4.5, None, None, None,94.0,2016-02-20 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,1.8, None,-5.3, None, None, None,92.0,2016-02-20 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.9, None,-5.7, None, None, None,87.0,2016-02-20 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-6.8, None, None, None,91.0,2016-02-20 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.7, None,-8.3, None, None, None,92.0,2016-02-21 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.3, None,-9.1, None, None, None,90.0,2016-02-21 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.1, None,-9.2, None, None, None,89.0,2016-02-21 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.4, None,-9.1, None, None, None,90.0,2016-02-21 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.3, None,-9.2, None, None, None,89.0,2016-02-21 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.9, None,-7.3, None, None, None,92.0,2016-02-21 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.1, None,-7.4, None, None, None,91.0,2016-02-21 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.0, None,-7.1, None, None, None,91.0,2016-02-21 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.8, None,-5.7, None, None, None,91.0,2016-02-21 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,7.7, None,-3.4, None, None, None,90.0,2016-02-21 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.2, None,6.5, None,0.0, None, None, None,76.0,2016-02-21 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,8.1, None,1.6, None, None, None,66.0,2016-02-21 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,10.0, None,1.4, None, None, None,64.0,2016-02-21 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,9.8, None,1.3, None, None, None,65.0,2016-02-21 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,12.3, None,0.5, None, None, None,66.0,2016-02-21 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,8.8, None,0.3, None, None, None,71.0,2016-02-21 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,8.8, None,0.1, None, None, None,71.0,2016-02-21 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,8.3, None,-1.6, None, None, None,92.0,2016-02-21 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,6.1, None,-2.1, None, None, None,92.0,2016-02-21 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,7.1, None,-2.1, None, None, None,92.0,2016-02-21 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,6.3, None,-2.1, None, None, None,90.0,2016-02-21 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.4, None,-2.6, None, None, None,90.0,2016-02-21 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.6, None,-2.8, None, None, None,89.0,2016-02-21 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.1, None,-3.2, None, None, None,90.0,2016-02-21 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.8, None,-3.8, None, None, None,92.0,2016-02-22 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.6, None,-4.8, None, None, None,92.0,2016-02-22 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.7, None,-6.4, None, None, None,94.0,2016-02-22 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.7, None,-7.2, None, None, None,91.0,2016-02-22 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.8, None,-8.7, None, None, None,90.0,2016-02-22 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.8, None,-9.8, None, None, None,89.0,2016-02-22 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.2, None,-9.7, None, None, None,91.0,2016-02-22 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.0, None,-11.4, None, None, None,85.0,2016-02-22 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,2.9, None,-9.3, None, None, None,88.0,2016-02-22 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.7, None,-5.3, None, None, None,88.0,2016-02-22 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.0, None,-0.2, None, None, None,74.0,2016-02-22 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,7.5, None,2.6, None, None, None,51.0,2016-02-22 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,7.6, None,1.9, None, None, None,52.0,2016-02-22 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.8, None,8.0, None,4.4, None, None, None,43.0,2016-02-22 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.6, None,7.8, None,2.7, None, None, None,50.0,2016-02-22 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.4, None,8.4, None,3.0, None, None, None,45.0,2016-02-22 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,7.9, None,3.5, None, None, None,56.0,2016-02-22 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,6.2, None,0.5, None, None, None,55.0,2016-02-22 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,5.2, None,-2.1, None, None, None,76.0,2016-02-22 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.7, None,-4.6, None, None, None,89.0,2016-02-22 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.9, None,-5.8, None, None, None,92.0,2016-02-22 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,5.5, None,-5.8, None, None, None,83.0,2016-02-22 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.8, None,-6.3, None, None, None,82.0,2016-02-22 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.6, None,-7.5, None, None, None,81.0,2016-02-22 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.9, None,-8.7, None, None, None,80.0,2016-02-23 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.3, None,-9.6, None, None, None,84.0,2016-02-23 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.6, None,-10.3, None, None, None,87.0,2016-02-23 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.9, None,-12.3, None, None, None,82.0,2016-02-23 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.7, None,-11.5, None, None, None,87.0,2016-02-23 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-12.4, None, None, None,85.0,2016-02-23 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.7, None,-13.2, None, None, None,84.0,2016-02-23 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,3.1, None,-14.0, None, None, None,81.0,2016-02-23 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,1.7, None,-12.2, None, None, None,86.0,2016-02-23 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,3.9, None,-6.4, None, None, None,78.0,2016-02-23 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.9, None,-0.3, None, None, None,59.0,2016-02-23 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,5.8, None,2.4, None, None, None,51.0,2016-02-23 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,10.0, None,4.2, None, None, None,40.0,2016-02-23 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,7.9, None,5.7, None, None, None,36.0,2016-02-23 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,6.5, None,6.5, None, None, None,34.0,2016-02-23 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,7.2, None,6.5, None, None, None,34.0,2016-02-23 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,6.8, None,4.9, None, None, None,38.0,2016-02-23 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,4.8, None,1.1, None, None, None,46.0,2016-02-23 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.0, None,-2.8, None, None, None,68.0,2016-02-23 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.8, None,-4.6, None, None, None,83.0,2016-02-23 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.1, None,-6.0, None, None, None,89.0,2016-02-23 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-6.8, None, None, None,89.0,2016-02-23 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.0, None,-6.8, None, None, None,89.0,2016-02-23 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-6.9, None, None, None,88.0,2016-02-23 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.0, None,-7.5, None, None, None,91.0,2016-02-24 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.3, None,-7.8, None, None, None,88.0,2016-02-24 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,0.0, None,-8.1, None, None, None,89.0,2016-02-24 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.1, None,-8.4, None, None, None,91.0,2016-02-24 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.7, None,-8.5, None, None, None,91.0,2016-02-24 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.3, None,-7.5, None, None, None,90.0,2016-02-24 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.5, None,-6.9, None, None, None,90.0,2016-02-24 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.2, None,-6.3, None, None, None,88.0,2016-02-24 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.6, None,-5.3, None, None, None,84.0,2016-02-24 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.2, None,-2.8, None, None, None,74.0,2016-02-24 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,6.7, None,1.3, None, None, None,56.0,2016-02-24 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,8.6, None,3.3, None, None, None,47.0,2016-02-24 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.2, None,9.9, None,4.5, None, None, None,42.0,2016-02-24 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,9.3, None,6.0, None, None, None,40.0,2016-02-24 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,9.3, None,7.5, None, None, None,37.0,2016-02-24 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,8.2, None,7.3, None, None, None,40.0,2016-02-24 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,6.4, None,5.9, None, None, None,43.0,2016-02-24 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,4.3, None,3.2, None, None, None,50.0,2016-02-24 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.4, None,-1.6, None, None, None,75.0,2016-02-24 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.6, None,-2.4, None, None, None,83.0,2016-02-24 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.6, None,-3.3, None, None, None,86.0,2016-02-24 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.1, None,-4.6, None, None, None,91.0,2016-02-24 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.1, None,-5.1, None, None, None,93.0,2016-02-24 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.0, None,-5.7, None, None, None,92.0,2016-02-24 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.8, None,-6.0, None, None, None,93.0,2016-02-25 00:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.8, None,-6.0, None, None, None,90.0,2016-02-25 01:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.2, None,-7.2, None, None, None,93.0,2016-02-25 02:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.5, None,-7.3, None, None, None,90.0,2016-02-25 03:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-7.8, None, None, None,90.0,2016-02-25 04:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.6, None,-8.6, None, None, None,90.0,2016-02-25 05:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,2.9, None,-8.4, None, None, None,91.0,2016-02-25 06:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,1.9, None,-9.1, None, None, None,89.0,2016-02-25 07:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+5.0, None, None,0.0, None,2.2, None,-7.4, None, None, None,90.0,2016-02-25 08:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,4.6, None,-1.8, None, None, None,79.0,2016-02-25 09:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,5.8, None,2.3, None, None, None,59.0,2016-02-25 10:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,8.4, None,4.7, None, None, None,49.0,2016-02-25 11:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,8.7, None,6.0, None, None, None,41.0,2016-02-25 12:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,11.1, None,8.3, None, None, None,34.0,2016-02-25 13:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,9.5, None,9.4, None, None, None,32.0,2016-02-25 14:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,7.6, None,9.3, None, None, None,33.0,2016-02-25 15:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,6.0, None,8.7, None, None, None,38.0,2016-02-25 16:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+2.0, None, None,0.0, None,3.9, None,4.9, None, None, None,48.0,2016-02-25 17:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.7, None,-0.4, None, None, None,74.0,2016-02-25 18:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0, None, None,0.0, None,2.1, None,-1.8, None, None, None,82.0,2016-02-25 19:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.2, None,-2.6, None, None, None,87.0,2016-02-25 20:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.4, None,-3.0, None, None, None,86.0,2016-02-25 21:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.4, None,-2.7, None, None, None,83.0,2016-02-25 22:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+4.0, None, None,0.0, None,3.0, None,-3.4, None, None, None,87.0,2016-02-25 23:00:00,8,,,,,,,,,,,,,,,,,,,,,,,,,,
+, None, None,, None,, None,, None,,,,2016-02-19 00:00:00,8,99.8, None, None, None,0.507,166.2, None,-1.0,646.5, None, None, None, None, None, None, None,-1.408, None, None, None, None,0.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 01:00:00,8,99.9, None, None, None,3.118,166.2, None,-2.0,640.7, None, None, None, None, 77.43, None, None,-1.962, None, None, None, None,0.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 02:00:00,8,99.7, None, None, None,4.514,166.2, None,-2.0,642.6, None, None, None, None, 77.1, None, None,-2.085, None, None, None, None,0.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 03:00:00,8,99.7, None, None, None,4.542,166.2, None,-2.0,643.4, None, None, None, None, 77.29, None, None,-1.929, None, None, None, None,0.04, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 04:00:00,8,99.4, None, None, None,0.893,166.2, None,-3.0,645.3, None, None, None, None, 77.04, None, None,-2.515, None, None, None, None,0.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 05:00:00,8,99.5, None, None, None,0.276,166.1, None,-2.0,640.9, None, None, None, None, 77.0, None, None,-2.27, None, None, None, None,0.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 06:00:00,8,99.4, None, None, None,0.006,166.1, None,-3.0,641.3, None, None, None, None, 76.84, None, None,-2.537, None, None, None, None,0.134, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 07:00:00,8,99.5, None, None, None,3.277,166.1, None,-3.0,642.8, None, None, None, None, 76.81, None, None,-2.523, None, None, None, None,0.091, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 08:00:00,8,99.7, None, None, None,5.87,166.1, None,-2.0,645.5, None, None, None, None, 76.78, None, None,-1.84, None, None, None, None,0.02, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 09:00:00,8,99.6, None, None, None,7.991,165.0, None,-1.0,643.7, None, None, None, None, 76.83, None, None,-1.364, None, None, None, None,6.661, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 10:00:00,8,99.5, None, None, None,7.202,144.7, None,-1.0,642.3, None, None, None, None, 77.7, None, None,-0.903, None, None, None, None,26.36, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 11:00:00,8,98.9, None, None, None,6.204,147.5, None,0.0,638.5, None, None, None, None, None, None, None,0.575, None, None, None, None,28.89, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 12:00:00,8,95.4, None, None, None,7.199,148.8, None,1.0,639.3, None, None, None, None, 74.97, None, None,1.437, None, None, None, None,22.55, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 13:00:00,8,94.1, None, None, None,8.41,145.9, None,0.0,641.1, None, None, None, None, 76.39, None, None,0.953, None, None, None, None,26.07, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 14:00:00,8,94.9, None, None, None,9.45,152.1, None,0.0,640.6, None, None, None, None, 76.92, None, None,1.135, None, None, None, None,21.75, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 15:00:00,8,96.4, None, None, None,8.91,148.5, None,1.0,642.6, None, None, None, None, 77.37, None, None,0.993, None, None, None, None,24.21, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 16:00:00,8,98.2, None, None, None,7.098,148.1, None,0.0,644.3, None, None, None, None, 76.99, None, None,0.553, None, None, None, None,24.65, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 17:00:00,8,98.6, None, None, None,5.769,149.5, None,0.0,641.2, None, None, None, None, 76.55, None, None,0.477, None, None, None, None,23.98, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 18:00:00,8,98.9, None, None, None,6.7,150.8, None,0.0,642.6, None, None, None, None, 76.85, None, None,0.509, None, None, None, None,18.07, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 19:00:00,8,99.2, None, None, None,7.821,154.6, None,0.0,643.1, None, None, None, None, 75.85, None, None,0.394, None, None, None, None,14.84, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 20:00:00,8,99.4, None, None, None,4.54,156.0, None,0.0,641.9, None, None, None, None, 75.7, None, None,0.301, None, None, None, None,21.98, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 21:00:00,8,99.4, None, None, None,2.01,151.5, None,0.0,645.0, None, None, None, None, 75.69, None, None,0.289, None, None, None, None,23.81, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-19 22:00:00,8,99.4, None, None, None,0.543,132.6, None,0.0,643.5, None, None, None, None, 75.62, None, None,0.206, None, None, None, None,70.76, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 00:00:00,8,98.6, None, None, None,1.036,103.0, None,0.0,650.1, None, None, None, None, 75.33, None, None,-0.025, None, None, None, None,50.59, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 01:00:00,8,98.3, None, None, None,0.642,17.09, None,0.0,648.0, None, None, None, None, 75.24, None, None,-0.213, None, None, None, None,73.17, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 02:00:00,8,98.6, None, None, None,0.677,234.2, None,-1.0,648.6, None, None, None, None, 75.17, None, None,-0.579, None, None, None, None,74.93, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 03:00:00,8,98.3, None, None, None,1.045,201.2, None,-1.0,645.2, None, None, None, None, 75.08, None, None,-1.267, None, None, None, None,72.35, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 04:00:00,8,97.4, None, None, None,0.502,228.4, None,-2.0,646.0, None, None, None, None, 75.03, None, None,-1.793, None, None, None, None,76.36, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 05:00:00,8,98.2, None, None, None,0.226,252.5, None,-3.0,647.6, None, None, None, None, 75.19, None, None,-2.301, None, None, None, None,43.24, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 06:00:00,8,98.4, None, None, None,0.303,327.6, None,-3.0,649.5, None, None, None, None, 75.28, None, None,-2.791, None, None, None, None,61.4, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 07:00:00,8,98.4, None, None, None,0.589,346.1, None,-4.0,652.5, None, None, None, None, 75.04, None, None,-3.882, None, None, None, None,38.39, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 08:00:00,8,98.3, None, None, None,1.014,349.1, None,-4.0,646.2, None, None, None, None, 75.16, None, None,-3.912, None, None, None, None,49.12, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 09:00:00,8,89.8, None, None, None,0.132,53.74, None,-2.0,648.9, None, None, None, None, 74.83, None, None,-0.54, None, None, None, None,29.35, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 10:00:00,8,78.67, None, None, None,0.358,30.56, None,-3.0,654.2, None, None, None, None, 75.3, None, None,0.238, None, None, None, None,49.68, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 11:00:00,8,72.02, None, None, None,1.454,89.1, None,-3.0,653.2, None, None, None, None, 75.37, None, None,1.089, None, None, None, None,52.8, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 12:00:00,8,67.47, None, None, None,2.04,134.5, None,-3.0,652.9, None, None, None, None, 75.13, None, None,1.475, None, None, None, None,66.34, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 13:00:00,8,70.73, None, None, None,1.024,45.57, None,-3.0,652.6, None, None, None, None, 75.25, None, None,1.726, None, None, None, None,57.19, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 14:00:00,8,66.73, None, None, None,0.998,339.8, None,-3.0,650.0, None, None, None, None, 74.97, None, None,1.806, None, None, None, None,66.38, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 15:00:00,8,61.6, None, None, None,1.899,65.63, None,-4.0,649.3, None, None, None, None, 75.1, None, None,2.228, None, None, None, None,58.29, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 16:00:00,8,73.29, None, None, None,2.558,156.1, None,-3.0,651.4, None, None, None, None, 75.38, None, None,1.339, None, None, None, None,21.61, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 17:00:00,8,74.71, None, None, None,3.322,169.5, None,-3.0,653.0, None, None, None, None, 75.2, None, None,0.603, None, None, None, None,33.57, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 18:00:00,8,90.6, None, None, None,0.276,189.9, None,-3.0,655.7, None, None, None, None, 75.28, None, None,-1.407, None, None, None, None,38.93, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 19:00:00,8,95.5, None, None, None,0.42,273.5, None,-3.0,652.8, None, None, None, None, 74.96, None, None,-2.736, None, None, None, None,60.35, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 20:00:00,8,97.0, None, None, None,0.453,299.6, None,-4.0,656.6, None, None, None, None, 74.91, None, None,-3.768, None, None, None, None,20.49, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 21:00:00,8,96.9, None, None, None,0.704,297.9, None,-5.0,651.6, None, None, None, None, 74.82, None, None,-4.65, None, None, None, None,19.53, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 22:00:00,8,97.0, None, None, None,1.217,307.6, None,-6.0,651.2, None, None, None, None, 74.88, None, None,-5.739, None, None, None, None,13.73, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-20 23:00:00,8,96.6, None, None, None,1.262,317.4, None,-7.0,657.5, None, None, None, None, 74.64, None, None,-6.853, None, None, None, None,27.62, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 02:00:00,8,93.8, None, None, None,0.284,356.3, None,-11.0,678.9, None, None, None, None, 74.68, None, None,-10.58, None, None, None, None,24.17, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 04:00:00,8,95.0, None, None, None,0.068,14.13, None,-10.0,636.9, None, None, None, None, 74.79, None, None,-9.74, None, None, None, None,22.93, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 05:00:00,8,95.9, None, None, None,0.105,4.142, None,-9.0,636.3, None, None, None, None, 75.06, None, None,-8.26, None, None, None, None,19.22, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 06:00:00,8,96.2, None, None, None,0.592,95.9, None,-8.0,637.6, None, None, None, None, 74.96, None, None,-7.473, None, None, None, None,42.51, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 08:00:00,8,97.1, None, None, None,0.582,4.618, None,-6.0,804.0, None, None, None, None, 74.82, None, None,-5.992, None, None, None, None,40.44, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 09:00:00,8,95.7, None, None, None,4.335,130.6, None,-4.0,818.0, None, None, None, None, 75.0, None, None,-3.609, None, None, None, None,36.58, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 10:00:00,8,87.0, None, None, None,6.908,151.9, None,-3.0,820.0, None, None, None, None, 74.96, None, None,-1.532, None, None, None, None,21.36, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 11:00:00,8,73.81, None, None, None,7.312,146.9, None,-4.0,822.0, None, None, None, None, 75.1, None, None,0.384, None, None, None, None,25.11, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 12:00:00,8,70.62, None, None, None,10.54,151.6, None,-5.0,823.0, None, None, None, None, 74.93, None, None,0.192, None, None, None, None,27.12, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 13:00:00,8,69.38, None, None, None,10.39,150.4, None,-5.0,824.0, None, None, None, None, 74.66, None, None,0.524, None, None, None, None,27.44, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 14:00:00,8,70.61, None, None, None,10.34,146.3, None,-4.0,824.0, None, None, None, None, 74.57, None, None,0.599, None, None, None, None,27.2, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 15:00:00,8,73.21, None, None, None,9.83,150.9, None,-4.0,825.0, None, None, None, None, 74.8, None, None,0.48, None, None, None, None,24.75, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 16:00:00,8,74.75, None, None, None,9.77,153.1, None,-3.0,825.0, None, None, None, None, 74.85, None, None,0.366, None, None, None, None,22.75, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 17:00:00,8,96.5, None, None, None,7.402,155.5, None,-2.0,825.0, None, None, None, None, 74.22, None, None,-1.364, None, None, None, None,24.37, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 18:00:00,8,95.1, None, None, None,9.0,153.5, None,-2.0,825.0, None, None, None, None, None, None, None,-1.572, None, None, None, None,19.64, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 19:00:00,8,95.3, None, None, None,8.14,154.7, None,-2.0,824.0, None, None, None, None, None, None, None,-1.559, None, None, None, None,15.46, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 20:00:00,8,93.1, None, None, None,5.992,153.5, None,-2.0,634.2, None, None, None, None, None, None, None,-1.592, None, None, None, None,24.3, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 21:00:00,8,93.6, None, None, None,2.981,161.5, None,-3.0,629.8, None, None, None, None, 74.64, None, None,-2.22, None, None, None, None,51.16, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 22:00:00,8,94.4, None, None, None,1.027,40.92, None,-3.0,633.4, None, None, None, None, 74.94, None, None,-2.557, None, None, None, None,76.44, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-21 23:00:00,8,93.6, None, None, None,2.783,142.9, None,-4.0,820.0, None, None, None, None, None, None, None,-2.829, None, None, None, None,25.76, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 00:00:00,8,94.5, None, None, None,2.132,153.9, None,-4.0,841.0, None, None, None, None, None, None, None,-3.314, None, None, None, None,40.84, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 01:00:00,8,96.1, None, None, None,0.809,277.6, None,-5.0,848.0, None, None, None, None, 74.58, None, None,-4.789, None, None, None, None,76.25, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 02:00:00,8,97.2, None, None, None,0.983,317.5, None,-6.0,774.7, None, None, None, None, 74.4, None, None,-6.071, None, None, None, None,61.74, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 03:00:00,8,96.4, None, None, None,1.475,334.1, None,-8.0,680.6, None, None, None, None, 74.35, None, None,-7.061, None, None, None, None,57.31, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 04:00:00,8,95.4, None, None, None,1.515,335.3, None,-9.0,641.5, None, None, None, None, 74.21, None, None,-8.3, None, None, None, None,49.5, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 05:00:00,8,94.0, None, None, None,1.121,323.8, None,-11.0,635.3, None, None, None, None, 74.17, None, None,-10.19, None, None, None, None,25.81, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 06:00:00,8,93.8, None, None, None,1.079,347.7, None,-11.0,635.9, None, None, None, None, 74.35, None, None,-10.67, None, None, None, None,54.22, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 07:00:00,8,93.4, None, None, None,0.636,357.1, None,-12.0,634.4, None, None, None, None, 74.26, None, None,-11.06, None, None, None, None,32.97, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 08:00:00,8,94.6, None, None, None,0.492,358.6, None,-10.0,633.0, None, None, None, None, 74.62, None, None,-9.79, None, None, None, None,20.23, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 09:00:00,8,93.9, None, None, None,0.589,34.14, None,-7.0,628.6, None, None, None, None, 75.01, None, None,-6.307, None, None, None, None,34.9, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 10:00:00,8,77.48, None, None, None,1.018,105.4, None,-4.0,628.7, None, None, None, None, None, None, None,-0.869, None, None, None, None,22.98, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 11:00:00,8,51.57, None, None, None,2.397,140.2, None,-7.0,653.9, None, None, None, None, 75.23, None, None,2.734, None, None, None, None,67.56, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 12:00:00,8,54.24, None, None, None,3.096,2.591, None,-6.0,637.9, None, None, None, None, 75.16, None, None,2.357, None, None, None, None,48.06, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 14:00:00,8,51.97, None, None, None,3.649,330.2, None,-7.0,647.6, None, None, None, None, 74.24, None, None,2.502, None, None, None, None,64.85, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 16:00:00,8,61.83, None, None, None,2.366,301.3, None,-4.0,636.3, None, None, None, None, 75.02, None, None,1.925, None, None, None, None,69.45, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 17:00:00,8,68.54, None, None, None,1.243,299.0, None,-5.0,668.5, None, None, None, None, 74.64, None, None,-0.182, None, None, None, None,42.25, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 18:00:00,8,81.9, None, None, None,0.563,308.8, None,-5.0,649.1, None, None, None, None, 74.72, None, None,-2.703, None, None, None, None,9.73, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 19:00:00,8,87.5, None, None, None,1.21,326.9, None,-5.0,659.0, None, None, None, None, 73.98, None, None,-3.852, None, None, None, None,14.49, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 20:00:00,8,89.9, None, None, None,1.129,325.3, None,-7.0,687.7, None, None, None, None, 73.99, None, None,-5.353, None, None, None, None,10.71, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 21:00:00,8,92.7, None, None, None,2.032,318.0, None,-7.0,679.1, None, None, None, None, 73.84, None, None,-6.571, None, None, None, None,16.81, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 22:00:00,8,93.5, None, None, None,2.351,318.4, None,-9.0,706.3, None, None, None, None, 73.96, None, None,-7.841, None, None, None, None,23.16, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-22 23:00:00,8,93.8, None, None, None,2.27,320.1, None,-10.0,694.1, None, None, None, None, 74.12, None, None,-9.12, None, None, None, None,20.9, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 00:00:00,8,94.3, None, None, None,2.148,327.8, None,-11.0,664.3, None, None, None, None, 74.31, None, None,-10.3, None, None, None, None,16.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 01:00:00,8,93.8, None, None, None,1.983,335.9, None,-13.0,647.2, None, None, None, None, 74.44, None, None,-11.89, None, None, None, None,13.09, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 02:00:00,8,92.4, None, None, None,1.834,339.2, None,-14.0,688.1, None, None, None, None, 74.53, None, None,-12.68, None, None, None, None,17.77, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 03:00:00,8,91.3, None, None, None,1.516,342.5, None,-15.0,680.3, None, None, None, None, 74.6, None, None,-13.77, None, None, None, None,10.57, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 04:00:00,8,90.4, None, None, None,0.912,353.3, None,-16.0,666.4, None, None, None, None, 74.88, None, None,-14.78, None, None, None, None,15.04, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 05:00:00,8,89.8, None, None, None,0.705,346.6, None,-17.0,651.3, None, None, None, None, None, None, None,-15.47, None, None, None, None,14.02, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 06:00:00,8,89.5, None, None, None,0.969,343.4, None,-17.0,644.8, None, None, None, None, None, None, None,-15.47, None, None, None, None,9.69, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 07:00:00,8,88.7, None, None, None,1.288,339.9, None,-18.0,643.9, None, None, None, None, None, None, None,-16.44, None, None, None, None,12.28, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 08:00:00,8,90.0, None, None, None,0.433,351.1, None,-16.0,643.9, None, None, None, None, None, None, None,-15.07, None, None, None, None,13.25, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 09:00:00,8,80.7, None, None, None,0.051,40.41, None,-9.0,634.1, None, None, None, None, 73.46, None, None,-6.939, None, None, None, None,18.32, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 10:00:00,8,68.15, None, None, None,2.652,146.8, None,-7.0,717.3, None, None, None, None, 74.75, None, None,-2.325, None, None, None, None,17.82, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 11:00:00,8,61.52, None, None, None,4.816,147.1, None,-6.0,671.9, None, None, None, None, 75.14, None, None,-0.182, None, None, None, None,25.25, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 12:00:00,8,51.18, None, None, None,7.791,153.0, None,-7.0,694.2, None, None, None, None, 75.0, None, None,1.959, None, None, None, None,22.64, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 13:00:00,8,45.34, None, None, None,9.13,150.4, None,-8.0,706.6, None, None, None, None, 75.03, None, None,2.978, None, None, None, None,28.34, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 14:00:00,8,42.44, None, None, None,7.108,151.7, None,-8.0,660.9, None, None, None, None, 75.54, None, None,3.503, None, None, None, None,29.71, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 15:00:00,8,44.66, None, None, None,5.475,163.2, None,-7.0,733.1, None, None, None, None, 75.26, None, None,3.229, None, None, None, None,35.78, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 16:00:00,8,45.18, None, None, None,4.357,164.7, None,-8.0,731.2, None, None, None, None, 74.79, None, None,2.555, None, None, None, None,46.7, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 17:00:00,8,59.57, None, None, None,1.077,212.4, None,-6.0,730.4, None, None, None, None, 74.68, None, None,-0.2, None, None, None, None,52.41, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 18:00:00,8,77.12, None, None, None,0.718,306.7, None,-6.0,727.8, None, None, None, None, 74.87, None, None,-3.146, None, None, None, None,9.56, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 19:00:00,8,80.6, None, None, None,0.862,324.8, None,-7.0,712.8, None, None, None, None, 73.73, None, None,-4.397, None, None, None, None,8.08, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 20:00:00,8,86.1, None, None, None,1.331,319.6, None,-8.0,685.9, None, None, None, None, 73.82, None, None,-5.985, None, None, None, None,8.84, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 21:00:00,8,88.1, None, None, None,1.542,327.1, None,-9.0,673.3, None, None, None, None, 73.97, None, None,-7.402, None, None, None, None,11.66, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 22:00:00,8,90.1, None, None, None,1.697,324.6, None,-9.0,665.6, None, None, None, None, 74.11, None, None,-7.627, None, None, None, None,12.74, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-23 23:00:00,8,91.0, None, None, None,1.412,332.8, None,-9.0,668.6, None, None, None, None, 73.95, None, None,-8.06, None, None, None, None,13.85, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 00:00:00,8,92.0, None, None, None,0.694,330.6, None,-10.0,658.6, None, None, None, None, 74.05, None, None,-8.9, None, None, None, None,12.71, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 01:00:00,8,93.0, None, None, None,0.48,332.2, None,-10.0,649.8, None, None, None, None, 74.01, None, None,-9.64, None, None, None, None,9.44, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 02:00:00,8,93.8, None, None, None,0.499,343.2, None,-11.0,651.8, None, None, None, None, 74.05, None, None,-10.5, None, None, None, None,10.62, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 03:00:00,8,94.1, None, None, None,0.628,334.3, None,-12.0,651.5, None, None, None, None, 73.99, None, None,-11.14, None, None, None, None,17.57, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 04:00:00,8,93.8, None, None, None,0.518,331.9, None,-12.0,641.7, None, None, None, None, 73.99, None, None,-11.37, None, None, None, None,15.05, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 05:00:00,8,93.4, None, None, None,0.493,335.7, None,-12.0,643.3, None, None, None, None, 74.04, None, None,-11.21, None, None, None, None,15.24, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 06:00:00,8,93.6, None, None, None,0.265,323.7, None,-11.0,639.8, None, None, None, None, 74.22, None, None,-10.29, None, None, None, None,9.05, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 07:00:00,8,93.8, None, None, None,0.233,340.4, None,-9.0,638.8, None, None, None, None, 74.27, None, None,-8.69, None, None, None, None,46.24, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 08:00:00,8,92.9, None, None, None,0.211,348.5, None,-8.0,632.6, None, None, None, None, 74.35, None, None,-6.708, None, None, None, None,57.7, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 09:00:00,8,82.1, None, None, None,0.374,4.776, None,-6.0,629.9, None, None, None, None, 74.34, None, None,-3.6, None, None, None, None,61.62, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 10:00:00,8,63.23, None, None, None,3.289,145.0, None,-6.0,635.9, None, None, None, None, 74.76, None, None,0.223, None, None, None, None,28.53, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 11:00:00,8,53.69, None, None, None,9.02,148.7, None,-6.0,642.1, None, None, None, None, 74.11, None, None,1.831, None, None, None, None,25.79, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 12:00:00,8,51.16, None, None, None,11.29,150.0, None,-6.0,647.9, None, None, None, None, 74.31, None, None,2.783, None, None, None, None,28.29, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 13:00:00,8,46.94, None, None, None,9.49,149.0, None,-6.0,656.9, None, None, None, None, 73.96, None, None,4.217, None, None, None, None,28.41, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 14:00:00,8,47.25, None, None, None,8.72,148.8, None,-6.0,655.1, None, None, None, None, 74.21, None, None,4.833, None, None, None, None,28.69, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 15:00:00,8,47.2, None, None, None,8.23,155.6, None,-6.0,639.3, None, None, None, None, 73.98, None, None,4.719, None, None, None, None,26.05, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 16:00:00,8,49.29, None, None, None,7.326,153.4, None,-5.0,650.2, None, None, None, None, 74.4, None, None,4.348, None, None, None, None,23.71, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 17:00:00,8,60.69, None, None, None,2.903,170.5, None,-4.0,645.8, None, None, None, None, 73.32, None, None,2.398, None, None, None, None,49.19, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 18:00:00,8,79.8, None, None, None,0.967,310.0, None,-4.0,648.8, None, None, None, None, 74.35, None, None,-1.719, None, None, None, None,12.65, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 19:00:00,8,82.8, None, None, None,0.782,323.8, None,-5.0,656.0, None, None, None, None, 73.74, None, None,-2.473, None, None, None, None,16.64, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 21:00:00,8,89.1, None, None, None,0.891,323.8, None,-6.0,663.9, None, None, None, None, 73.64, None, None,-4.389, None, None, None, None,10.53, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-24 23:00:00,8,92.5, None, None, None,0.844,335.8, None,-8.0,639.9, None, None, None, None, 73.66, None, None,-6.927, None, None, None, None,14.97, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 01:00:00,8,94.3, None, None, None,0.877,342.9, None,-9.0,664.1, None, None, None, None, 73.57, None, None,-8.68, None, None, None, None,6.0, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 03:00:00,8,95.0, None, None, None,0.662,347.3, None,-11.0,636.3, None, None, None, None, 73.73, None, None,-10.15, None, None, None, None,7.03, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 04:00:00,8,94.3, None, None, None,0.808,351.5, None,-12.0,635.1, None, None, None, None, 73.68, None, None,-10.94, None, None, None, None,7.331, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 05:00:00,8,93.8, None, None, None,1.223,341.1, None,-12.0,646.0, None, None, None, None, 73.64, None, None,-11.48, None, None, None, None,11.17, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 06:00:00,8,93.2, None, None, None,0.805,342.7, None,-13.0,650.4, None, None, None, None, 73.62, None, None,-12.11, None, None, None, None,17.16, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 07:00:00,8,92.2, None, None, None,0.544,356.4, None,-14.0,645.7, None, None, None, None, 73.64, None, None,-12.69, None, None, None, None,9.39, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 08:00:00,8,91.8, None, None, None,0.329,356.8, None,-12.0,651.6, None, None, None, None, 73.62, None, None,-10.96, None, None, None, None,9.92, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 09:00:00,8,79.69, None, None, None,0.041,29.61, None,-7.0,655.8, None, None, None, None, 73.17, None, None,-3.926, None, None, None, None,28.15, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 10:00:00,8,69.01, None, None, None,4.663,153.4, None,-4.0,709.8, None, None, None, None, 74.78, None, None,-0.102, None, None, None, None,17.68, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 12:00:00,8,47.81, None, None, None,9.2,149.9, None,-6.0,658.5, None, None, None, None, 74.22, None, None,4.731, None, None, None, None,25.81, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 13:00:00,8,41.12, None, None, None,9.65,153.1, None,-6.0,655.7, None, None, None, None, 74.46, None, None,6.521, None, None, None, None,26.67, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 14:00:00,8,40.59, None, None, None,9.86,150.4, None,-6.0,638.3, None, None, None, None, 73.6, None, None,6.237, None, None, None, None,25.43, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 15:00:00,8,40.84, None, None, None,9.54,160.1, None,-6.0,645.5, None, None, None, None, 74.12, None, None,6.838, None, None, None, None,25.1, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 16:00:00,8,46.83, None, None, None,7.482,156.2, None,-4.0,647.1, None, None, None, None, 74.07, None, None,6.151, None, None, None, None,22.77, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 17:00:00,8,58.99, None, None, None,3.183,171.4, None,-3.0,641.8, None, None, None, None, 72.75, None, None,3.715, None, None, None, None,46.69, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 18:00:00,8,81.6, None, None, None,1.196,309.2, None,-3.0,640.1, None, None, None, None, 74.26, None, None,-0.788, None, None, None, None,13.29, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 19:00:00,8,84.7, None, None, None,1.014,329.8, None,-5.0,649.3, None, None, None, None, 73.48, None, None,-2.637, None, None, None, None,15.56, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 20:00:00,8,87.0, None, None, None,0.544,331.4, None,-5.0,645.6, None, None, None, None, 73.5, None, None,-3.201, None, None, None, None,13.27, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 21:00:00,8,89.5, None, None, None,0.347,327.3, None,-5.0,646.1, None, None, None, None, 73.41, None, None,-3.945, None, None, None, None,12.69, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 22:00:00,8,91.1, None, None, None,0.502,339.2, None,-6.0,640.7, None, None, None, None, 73.32, None, None,-4.956, None, None, None, None,14.15, None, None, None, None
+, None, None,, None,, None,, None,,,,2016-02-25 23:00:00,8,92.9, None, None, None,0.537,332.6, None,-6.0,647.9, None, None, None, None, 73.39, None, None,-5.499, None, None, None, None,11.41, None, None, None, None

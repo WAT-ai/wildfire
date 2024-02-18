@@ -1,8 +1,9 @@
 ,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-22,1,EC,1120630,1014,BANKEIR,1417,BC,-120.233333,49.716667,1097.0,1954-08-20,1959-07-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-23,1,EC,1120633,1015,BANKIER CHAIN LAKE,1418,BC,-120.283333,49.7,1020.0,1974-05-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-48,1,EC,1125880,1072,OSPREY LAKE,1475,BC,-120.183333,49.7,1099.0,1928-09-01,1952-05-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-148,12,FLNRO-WMB,332,1880,ZZ CHAIN LAKE,2283,BC,-120.3,49.7,10.0,1979-05-01,2000-10-01,Daily,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-227,17,ARDA,112046,4862,OSPREY LK ASB,6542,BC,-120.233333333333,49.7158333333333,1098.0,1971-04-04,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-228,17,ARDA,112047,4863,TSUH,6543,BC,-120.166666666667,49.72,1082.0,1971-05-27,1972-08-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-511,14,ENV-ASP,2F01AP,12509,Trout Creek West,14531,BC,-120.1891,49.74017,1420.0,2019-12-16,2024-01-14,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Depth|Snow Water Equivalent|Temperature (Mean)
+6,1,EC,1126135,242,PENNASK LAKE LODGE,645,BC,-120.15,50.0,1420.0,1970-05-01,1972-09-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
+26,1,EC,1122541,1021,DOUGLAS LAKE,1424,BC,-120.2,50.166667,808.0,1979-06-01,2007-02-28,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+386,17,ARDA,116205,5683,PIKEHEAD    KAM,7365,BC,-120.051111111111,50.2305555555556,877.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+387,17,ARDA,116206,5684,CHAPPERON LK,7366,BC,-120.115277777778,50.1777777777778,878.0,1971-04-11,1973-10-24,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+388,17,ARDA,116207,5685,SPAHOMIN    KAM,7367,BC,-120.234722222222,50.1583333333333,808.0,1971-06-27,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+389,17,ARDA,116208,5686,COMMONAGE   KAM,7368,BC,-120.330555555556,50.1458333333333,856.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+400,17,ARDA,116411,5803,CHAPPERON LK,7486,BC,-120.023055555556,50.2058333333333,991.0,1981-01-15,1987-02-16,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
+404,17,ARDA,116513,5821,GLIMPSE LAKEKAM,7504,BC,-120.291666666667,50.2472222222222,1189.0,1972-05-26,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)

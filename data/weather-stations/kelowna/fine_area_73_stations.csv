@@ -1,3 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-140,12,FLNRO-WMB,291,1841,GLIMPSE,2244,BC,-120.2883,50.27,1311.0,1990-05-13,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Snow Depth|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)
-402,17,ARDA,116511,5819,DARDANELLES KAM,7502,BC,-120.276388888889,50.3041666666667,1372.0,1972-05-25,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)

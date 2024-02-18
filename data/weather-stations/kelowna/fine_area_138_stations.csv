@@ -1,6 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-83,1,EC,116146F,1247,CELISTA,1650,BC,-119.383333,50.95,515.0,1986-07-01,2004-07-31,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-116,1,EC,1167592,1316,SORRENTO EAST,1719,BC,-119.4,50.883333,488.0,1969-04-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-276,17,ARDA,112221,4987,WHELAN,6667,BC,-119.36,50.9275,466.0,1971-03-19,1975-09-18,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-359,17,ARDA,116171,5650,LITTLE WHITEKAM,7332,BC,-119.305555555556,50.8833333333333,482.0,1971-05-27,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-366,17,ARDA,116178,5657,CELISTA     KAM,7339,BC,-119.390277777778,50.9444444444444,351.0,1971-05-27,1973-10-23,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

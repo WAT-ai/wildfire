@@ -1,3 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-301,17,ARDA,113069,5068,UNO,6748,BC,-118.592777777778,50.025,1100.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-315,17,ARDA,116075,5578,BISSON,7260,BC,-118.55,50.0408333333333,1204.0,1969-05-02,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

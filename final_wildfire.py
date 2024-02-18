@@ -42,8 +42,8 @@ def get_week_fire_df(file_path, kelowna_stations_df, num_long_splits, num_lat_sp
 
 def main():
     kelowna_stations_df = pd.read_csv('./data/weather-stations/kelowna/kelowna_stations.csv')
-    num_long_splits = 12
-    num_lat_splits = 12
+    num_long_splits = 6
+    num_lat_splits = 6
 
     base_path = 'data/satellite-burn'
     # For every year

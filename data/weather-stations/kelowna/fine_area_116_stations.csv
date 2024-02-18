@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-14,1,EC,1164903,284,MARA LAKE,687,BC,-119.033333,50.716667,354.0,1965-06-01,1969-03-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
-509,14,ENV-ASP,1F04P,12498,Enderby,14520,BC,-118.9269,50.6525,1950.0,2019-12-10,2024-01-14,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Depth|Snow Water Equivalent|Temperature (Mean)
-516,14,ENV-ASP,1F04P2,13008,,14940,BC,-118.9268,50.6529,,2021-12-08,2023-10-09,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Water Equivalent|Temperature (Mean)
