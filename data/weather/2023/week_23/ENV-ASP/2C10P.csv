@@ -1,0 +1,15 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None,242.8, None,21.8,6.0, None, None, None,8.0, None,2023-06-06 14:30:00, None,23
+None, None,243.2, None,22.0,5.0, None, None, 0.4,8.0, None,2023-06-06 15:30:00, None,23
+None, None,243.1, None,23.4,6.0, None, None, None,9.0, None,2023-06-06 16:30:00, None,23
+None, None,243.2, None,23.0,7.0, None, None, 0.1,9.0, None,2023-06-06 17:30:00, None,23
+None, None,243.3, None,21.8,7.0, None, None, 0.1,8.0, None,2023-06-06 18:30:00, None,23
+None, None,243.3, None,20.5,6.0, None, None, 0.0,8.0, None,2023-06-06 19:30:00, None,23
+None, None,243.3, None,18.9,6.0, None, None, 0.0,8.0, None,2023-06-06 20:30:00, None,23
+None, None,250.5, None,13.3,7.0, None, None, None,6.0, None,2023-06-09 16:30:00, None,23
+None, None,250.6, None,13.7,7.0, None, None, 0.1,6.0, None,2023-06-09 17:30:00, None,23
+None, None,250.8, None,13.2,7.0, None, None, 0.2,6.0, None,2023-06-09 18:30:00, None,23
+None, None,250.9, None,13.1,7.0, None, None, 0.1,6.0, None,2023-06-09 19:30:00, None,23
+None, None,251.1, None,12.7,7.0, None, None, None,5.0, None,2023-06-09 22:30:00, None,23
+None, None,251.1, None,12.9,7.0, None, None, 0.0,5.0, None,2023-06-09 23:30:00, None,23
+None, None,251.1, None,12.9,7.0, None, None, 0.0,5.0, None,2023-06-10 00:30:00, None,23

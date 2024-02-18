@@ -1,0 +1,12 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,snwfl_amt_pst1hr,stn_pres,week_of_year
+None,8.5, 17.9, None, None, None, None,0.911,0.002,197.4, None, None, None, None, None, -14.0, None, None, None, None, None, None, None,2017-09-25 14:00:00, None, None, None, None,39
+None,8.81, 17.81, None, None, None, None,2.965,0.247,194.0, None, None, None, None, None, -14.0, None, None, None, None, None, None, None,2017-09-25 16:00:00, None, None, None, None,39
+None,8.03, 18.04, None, None, None, None,0.0,0.0,0.0, None, None, None, None, None, -15.0, None, None, None, None, None, None, None,2017-09-25 17:00:00, None, None, None, None,39
+None,5.764, 18.72, None, None, None, None,1.781,0.001,332.0, None, None, None, None, None, -16.0, None, None, None, None, None, None, None,2017-09-25 22:00:00, None, None, None, None,39
+None,4.801, 19.01, None, None, None, None,0.0,0.0,0.0, None, None, None, None, None, -17.0, None, None, None, None, None, None, None,2017-09-26 00:00:00, None, None, None, None,39
+None,5.15, 18.9, None, None, None, None,0.42,0.0,333.9, None, None, None, None, None, -17.0, None, None, None, None, None, None, None,2017-09-26 02:00:00, None, None, None, None,39
+None,5.954, 18.66, None, None, None, None,1.402,0.0,322.2, None, None, None, None, None, -16.0, None, None, None, None, None, None, None,2017-09-26 06:00:00, None, None, None, None,39
+None,6.323, 18.55, None, None, None, None,0.002,0.0,295.8, None, None, None, None, None, -16.0, None, None, None, None, None, None, None,2017-09-26 08:00:00, None, None, None, None,39
+None,9.95, 17.46, None, None, None, None,18.97,1.601,210.9, None, None, None, None, None, -14.0, None, None, None, None, None, None, None,2017-09-26 11:00:00, None, None, None, None,39
+None,13.48, 16.41, None, None, None, None,18.43,12.5,158.6, None, None, None, None, None, -11.0, None, None, None, None, None, None, None,2017-09-28 12:00:00, None, None, None, None,39
+None,7.57, 18.18, None, None, None, None,0.0,0.0,185.9, None, None, None, None, None, -15.0, None, None, None, None, None, None, None,2017-09-29 08:00:00, None, None, None, None,39

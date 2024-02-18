@@ -1,0 +1,24 @@
+WDIR_VECT,TEMP_MEAN,WSPD_SCLR,PRECIP_TOTAL,avg_rel_hum_pst1hr,time,HUMIDITY,avg_air_temp_pst1hr,week_of_year
+205.8, None, None, None, None,2022-09-10 00:00:00,91.8, None,37
+203.0, None, None, None, None,2022-09-10 01:00:00,90.4, None,37
+221.6, None, None, None, None,2022-09-10 02:00:00,89.6, None,37
+224.8, None, None, None, None,2022-09-10 03:00:00,89.9, None,37
+228.0, None, None, None, None,2022-09-10 04:00:00,92.0, None,37
+227.6, None, None, None, None,2022-09-10 05:00:00,94.6, None,37
+230.9, None, None, None, None,2022-09-10 06:00:00,95.8, None,37
+228.9, None, None, None, None,2022-09-10 07:00:00,96.5, None,37
+216.7, None, None, None, None,2022-09-10 08:00:00,96.8, None,37
+223.8, None, None, None, None,2022-09-10 09:00:00,96.2, None,37
+262.1, None, None, None, None,2022-09-10 10:00:00,68.9, None,37
+178.2, None, None, None, None,2022-09-10 11:00:00,50.9, None,37
+154.0, None, None, None, None,2022-09-10 12:00:00,40.1, None,37
+166.0, None, None, None, None,2022-09-10 13:00:00,34.6, None,37
+159.4, None, None, None, None,2022-09-10 14:00:00,31.2, None,37
+145.2, None, None, None, None,2022-09-10 15:00:00,27.8, None,37
+131.8, None, None, None, None,2022-09-10 16:00:00,26.0, None,37
+132.0, None, None, None, None,2022-09-10 17:00:00,24.4, None,37
+131.6, None, None, None, None,2022-09-10 18:00:00,24.0, None,37
+115.7, None, None, None, None,2022-09-10 19:00:00,34.1, None,37
+210.6, None, None, None, None,2022-09-10 20:00:00,66.5, None,37
+183.0, None, None, None, None,2022-09-10 21:00:00,78.3, None,37
+184.7, None, None, None, None,2022-09-10 22:00:00,82.9, None,37

@@ -1,0 +1,15 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+None, None,4.0, None, -11.8,-11.9, None, None, None, None,54.0,2022-11-19 01:00:00, None,47
+None, None,4.0, None, -8.9,-9.0, None, None, None, None,54.0,2022-11-19 03:00:00, None,47
+None, None,3.0, None, -4.4,-4.5, None, None, None, None,57.0,2022-11-19 18:00:00, None,47
+0.0, None,4.0, None, -3.9,-3.9, None, None, None, None,58.0,2022-11-20 03:00:00, None,47
+None, None,4.0, None, -1.2,-1.3, None, None, None, None,62.0,2022-11-22 04:00:00, None,47
+None, None,5.0, None, -1.9,-1.8, None, None, None, None,62.0,2022-11-22 07:00:00, None,47
+None, None,5.0, None, -1.9,-2.1, None, None, None, 0.0,62.0,2022-11-22 08:00:00, None,47
+None, None,5.0, None, -1.2,-1.4, None, None, None, None,62.0,2022-11-22 10:00:00, None,47
+None, None,4.0, None, -1.1,-1.1, None, None, None, None,62.0,2022-11-22 18:00:00, None,47
+1.0, None,5.0, None, -1.6,-1.8, None, None, None, None,62.0,2022-11-23 04:00:00, None,47
+None, None,20.0, None, -0.1,-0.3, None, None, None, None,97.0,2022-11-24 05:00:00, None,47
+None, None,22.0, None, -2.6,-2.8, None, None, None, None,100.0,2022-11-24 12:00:00, None,47
+None, None,23.0, None, -5.1,-5.2, None, None, None, None,100.0,2022-11-25 08:00:00, None,47
+None, None,23.0, None, -3.3,-3.6, None, None, None, None,100.0,2022-11-25 13:00:00, None,47

@@ -1,0 +1,27 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+None, 90.0, None, None, 2.0, None, 3.5, None, 298.0, 0.0, 9.0, None,2022-05-28 01:00:00,22
+None, 95.0, 6.6, None, -0.2, None, 0.5, None, 39.0, 0.0, 0.2, None,2022-05-29 01:00:00,22
+None, 92.0, 2.3, None, 1.9, None, 3.1, None, 267.0, 0.0, 0.2, None,2022-05-29 07:00:00,22
+None, 77.0, 6.8, None, 2.8, None, 6.5, None, 247.0, 0.0, 0.2, None,2022-05-29 08:00:00,22
+None, 69.0, None, None, 3.3, None, 8.7, None, 232.0, 0.0, 0.2, None,2022-05-29 09:00:00,22
+None, 36.0, 4.2, None, 0.5, None, 15.5, None, 273.0, 0.0, 0.0, None,2022-05-30 15:00:00,22
+None, 76.0, 7.7, None, 2.6, None, 6.5, None, 52.0, 0.0, None, None,2022-05-31 01:00:00,22
+None, 50.0, 4.7, None, 3.6, None, 13.8, None, 168.0, 0.0, 0.0, None,2022-05-31 10:00:00,22
+None, 96.0, 5.1, None, 7.0, None, 7.6, None, 65.0, 0.0, 2.4, None,2022-05-31 21:00:00,22
+None, 100.0, 3.7, None, 6.6, None, 6.6, None, 54.0, 0.0, 2.4, None,2022-05-31 22:00:00,22
+None, 100.0, 5.7, None, 6.1, None, 6.1, None, 47.0, 0.0, 2.4, None,2022-06-01 00:00:00,22
+None, 100.0, None, None, 5.8, None, 5.8, None, 12.0, 0.0, 2.4, None,2022-06-01 03:00:00,22
+None, 100.0, 1.7, None, 6.8, None, 6.8, None, 290.0, 0.0, 2.4, None,2022-06-01 07:00:00,22
+None, 80.0, 5.2, None, 7.5, None, 10.8, None, 72.0, 0.0, 0.8, None,2022-06-01 20:00:00,22
+None, 94.0, 4.7, None, 5.3, None, 6.2, None, 59.0, 0.0, 0.8, None,2022-06-01 22:00:00,22
+None, 51.0, None, None, 3.5, None, 13.4, None, 203.0, 0.0, 0.8, None,2022-06-02 11:00:00,22
+None, 55.0, 6.6, None, 4.7, None, 13.6, None, 124.0, 0.0, 0.8, None,2022-06-02 13:00:00,22
+None, 65.0, None, None, 5.9, None, 12.3, None, 75.0, 0.0, 0.6, None,2022-06-02 14:00:00,22
+None, 56.0, 7.8, None, 4.7, None, 13.3, None, 71.0, 0.0, 0.2, None,2022-06-02 20:00:00,22
+None, 69.0, 6.3, None, 4.3, None, 9.7, None, 54.0, 0.0, 0.2, None,2022-06-02 22:00:00,22
+None, 72.0, 8.4, None, 3.3, None, 8.0, None, 58.0, 0.0, 0.2, None,2022-06-03 00:00:00,22
+None, 94.0, None, None, 5.9, None, 6.8, None, 270.0, 0.4, 0.6, None,2022-06-03 05:00:00,22
+None, 99.0, 3.9, None, 6.4, None, 6.5, None, 36.0, 1.2, 1.8, None,2022-06-03 06:00:00,22
+None, 80.0, 6.7, None, 9.3, None, 12.7, None, 79.0, 0.0, 9.0, None,2022-06-03 17:00:00,22
+None, 85.0, 6.8, None, 8.4, None, 10.8, None, 245.0, 0.0, 9.0, None,2022-06-03 18:00:00,22
+None, 100.0, 5.7, None, 7.2, None, 7.2, None, 75.0, 2.6, 21.8, None,2022-06-03 23:00:00,22

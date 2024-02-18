@@ -1,0 +1,20 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,MAX_TEMP,week_of_year
+None, None, None, 649.0, None,2020-07-01 16:00:00, None, None, None,27
+None, None, None, 673.0, None,2020-07-02 16:00:00, None, None, None,27
+None, 296.0, 0.0, None, None,2020-07-02 22:00:00, 3.2, None, None,27
+None, 294.0, 0.0, None, None,2020-07-02 23:00:00, 3.0, None, None,27
+None, 293.0, 0.0, None, None,2020-07-03 00:00:00, 3.5, None, None,27
+None, 294.0, 0.0, None, None,2020-07-03 01:00:00, 3.4, None, None,27
+None, 294.0, 0.0, None, None,2020-07-03 02:00:00, 3.6, None, None,27
+None, 295.0, 0.0, None, None,2020-07-03 03:00:00, 3.4, None, None,27
+None, 295.0, 0.0, None, None,2020-07-03 04:00:00, 3.1, None, None,27
+None, 296.0, 0.0, None, None,2020-07-03 05:00:00, 2.6, None, None,27
+None, 291.0, 0.0, None, None,2020-07-03 06:00:00, 2.6, None, None,27
+None, 298.0, 0.0, None, None,2020-07-03 07:00:00, 2.7, None, None,27
+None, 297.0, 0.0, None, None,2020-07-03 08:00:00, 2.7, None, None,27
+None, 297.0, 0.0, None, None,2020-07-03 09:00:00, 2.6, None, None,27
+None, 292.0, 0.0, None, None,2020-07-03 10:00:00, 2.8, None, None,27
+None, 298.0, 0.0, None, None,2020-07-03 12:00:00, 3.0, None, None,27
+None, 297.0, 0.0, None, None,2020-07-03 13:00:00, 3.2, None, None,27
+None, 296.0, 0.0, None, None,2020-07-03 15:00:00, 4.7, None, None,27
+None, 296.0, 0.0, 661.0, None,2020-07-03 16:00:00, 4.8, None, None,27

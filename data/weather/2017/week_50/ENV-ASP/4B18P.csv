@@ -1,0 +1,5 @@
+pcpn_amt_pst24hrs,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,cum_pcpn_amt,MIN_TEMP,ONE_DAY_SNOW,time,air_temp_1,SNOW_ON_THE_GROUND,snw_dpth,MAX_TEMP,week_of_year
+None, None, None, 0.0, None, None, None,2017-12-11 19:00:00, None, None, None, None,50
+None, None, None, 0.0, None, None, None,2017-12-11 20:00:00, None, None, None, None,50
+None, None, None, 0.0, None, None, None,2017-12-11 21:00:00, None, None, None, None,50
+None, None, None, 1.0, None, None, None,2017-12-11 22:00:00, None, None, None, None,50

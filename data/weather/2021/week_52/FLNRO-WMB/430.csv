@@ -1,0 +1,5 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+354.0, None, None, 0.0, None, 0.0, None, -27.5, None, None, None, 64.0,2021-12-26 15:00:00, None,52
+354.0, 64.0, 0.0, 0.0, -32.2, 0.0, -27.5, -28.8, 354.0, 0.0, None, 65.0,2021-12-26 16:00:00, 0.0,52
+None, 65.0, 0.0, None, -33.3, None, -28.8, None, 354.0, 0.0, None, None,2021-12-26 17:00:00, None,52
+355.0, None, None, 0.0, None, 0.0, None, -24.9, None, None, None, 70.0,2021-12-27 02:00:00, None,52

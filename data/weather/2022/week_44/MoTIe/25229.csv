@@ -1,0 +1,10 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,HEIGHT_OF_SNOW,week_of_year
+None, -0.754, None, None, None, None, None, 21.29, None, 0.0, 222.3, None, None, -0.8, -0.8, None, None, -0.4, None, None,2022-10-29 21:00:00, None, None,44
+None, -0.727, None, None, None, None, None, 27.35, None, 0.0, 226.2, None, None, -0.7, -1.0, None, None, -0.4, None, None,2022-10-30 02:00:00, None, None,44
+None, -0.521, None, None, None, None, None, 33.62, None, 0.0, 224.4, None, None, -0.5, -1.0, None, None, -0.4, None, None,2022-10-30 04:00:00, None, None,44
+None, -0.31, None, None, None, None, None, 33.46, None, 0.0, 223.2, None, None, -0.3, -1.0, None, None, -0.3, None, None,2022-10-30 05:00:00, None, None,44
+None, -0.167, None, None, None, None, None, 32.27, None, 0.0, 221.5, None, None, -0.2, -1.0, None, None, -0.2, None, None,2022-10-30 06:00:00, None, None,44
+None, -0.05, None, None, None, None, None, 31.16, None, 0.0, 224.4, None, None, -0.1, -0.2, None, None, 0.0, None, None,2022-10-30 07:00:00, None, None,44
+None, 0.467, None, None, None, None, None, 17.26, None, 6.863, 221.2, None, None, 0.5, -0.2, None, None, 0.6, None, None,2022-10-30 11:00:00, None, None,44
+None, 0.731, None, None, None, None, None, 15.08, None, 9.06, 220.6, None, None, 0.7, -0.2, None, None, 0.7, None, None,2022-10-30 13:00:00, None, None,44
+None, 0.62, None, None, None, None, None, 17.41, None, 7.389, 223.5, None, None, 0.6, -2.5, None, None, 0.9, None, None,2022-11-04 16:00:00, None, None,44

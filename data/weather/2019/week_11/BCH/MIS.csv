@@ -1,0 +1,8 @@
+AirTemp,ONE_DAY_PRECIPITATION,Snow_WE,time,MIN_TEMP,MAX_TEMP,week_of_year
+None,3.0, None,2019-03-12,-9.1,-0.5,11
+None,1.0, None,2019-03-13,-10.7,0.8,11
+None,0.0, None,2019-03-14,-8.0,0.7,11
+None,0.0, None,2019-03-15,-5.5,3.1,11
+None,0.0, None,2019-03-16,-6.7,4.9,11
+None,0.0, None,2019-03-17,-3.0,11.1,11
+None,0.0, None,2019-03-18,-0.3,14.4,11

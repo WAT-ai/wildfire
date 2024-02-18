@@ -1,0 +1,18 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,MIN_TEMP,time,SNOW_ON_THE_GROUND,week_of_year
+None, None,645.4, None,20.1,62.0, None, None, None,298.0, None,2023-04-30 12:30:00, None,18
+None, None,645.3, None,20.5,61.0, None, None, None,298.0, None,2023-04-30 13:30:00, None,18
+None, None,645.2, None,20.7,59.0, None, None, None,295.0, None,2023-04-30 14:30:00, None,18
+None, None,645.5, None,19.1,58.0, None, None, 0.3,290.0, None,2023-04-30 15:30:00, None,18
+0.3, None,645.7, None,18.2,50.0, None, None, None,253.0, None,2023-05-01 12:30:00, None,18
+0.4, None,645.7, None,18.9,51.0, None, None, 0.0,251.0, None,2023-05-01 13:30:00, None,18
+0.5, None,645.7, None,20.8,51.0, None, None, 0.0,249.0, None,2023-05-01 14:30:00, None,18
+0.2, None,645.7, None,20.7,48.0, None, None, 0.0,247.0, None,2023-05-01 15:30:00, None,18
+None, None,204.0, None,16.5,45.0, None, None, None,219.0, None,2023-05-02 10:30:00, None,18
+None, None,203.7, None,18.2,44.0, None, None, None,217.0, None,2023-05-02 11:30:00, None,18
+None, None,203.9, None,20.0,43.0, None, None, 0.2,216.0, None,2023-05-02 12:30:00, None,18
+0.0, None,203.9, None,19.8,32.0, None, None, None,163.0, None,2023-05-03 12:30:00, None,18
+None, None,204.0, None,18.7,30.0, None, None, 0.1,160.0, None,2023-05-03 13:30:00, None,18
+None, None,204.1, None,17.3,28.0, None, None, 0.1,157.0, None,2023-05-03 14:30:00, None,18
+None, None,204.9, None,15.3,31.0, None, None, 0.8,152.0, None,2023-05-03 15:30:00, None,18
+None, None,208.2, None,3.0,9.0, None, None, None,34.0, None,2023-05-06 22:30:00, None,18
+None, None,208.3, None,3.2,9.0, None, None, 0.1,33.0, None,2023-05-06 23:30:00, None,18

@@ -1,0 +1,12 @@
+CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,DEW_POINT,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,HEIGHT_OF_SNOW,week_of_year
+None, -15.73, None, None, None, None, None, 44.82, None, 9.05, 8.29, None, None, -15.7, -15.8, None, None, -12.7, None, None,2022-11-07 18:00:00, None, None,45
+None, -16.0, None, None, None, None, None, 47.69, None, 9.56, 9.21, None, None, -16.0, -16.1, None, None, -15.7, None, None,2022-11-07 19:00:00, None, None,45
+None, -14.73, None, None, None, None, None, 17.97, None, 19.06, 47.86, None, None, -14.7, -18.0, None, None, -14.7, None, None,2022-11-08 12:00:00, None, None,45
+None, -12.57, None, None, None, None, None, 28.54, None, 15.24, 36.82, None, None, -12.6, -13.1, None, None, -12.5, None, None,2022-11-08 19:00:00, None, None,45
+None, -12.82, None, None, None, None, None, 25.57, None, 15.06, 40.19, None, None, -12.8, -13.1, None, None, -12.5, None, None,2022-11-08 20:00:00, None, None,45
+None, -11.1, None, None, None, None, None, 16.83, None, 10.32, 52.59, None, None, -11.1, -13.7, None, None, -10.6, None, None,2022-11-09 01:00:00, None, None,45
+None, -10.6, None, None, None, None, None, 18.1, None, 7.775, 56.56, None, None, -10.6, -13.7, None, None, -9.9, None, None,2022-11-09 04:00:00, None, None,45
+None, -10.08, None, None, None, None, None, 16.69, None, 9.09, 53.63, None, None, -10.1, -13.7, None, None, -9.9, None, None,2022-11-09 05:00:00, None, None,45
+None, -10.18, None, None, None, None, None, 15.96, None, 7.197, 50.11, None, None, -10.2, -13.7, None, None, -9.8, None, None,2022-11-09 06:00:00, None, None,45
+None, -10.02, None, None, None, None, None, 14.52, None, 4.828, 56.56, None, None, -10.0, -10.5, None, None, -10.0, None, None,2022-11-09 07:00:00, None, None,45
+None, -9.06, None, None, None, None, None, 12.67, None, 8.38, 50.98, None, None, -9.1, -10.5, None, None, -9.1, None, None,2022-11-09 08:00:00, None, None,45
