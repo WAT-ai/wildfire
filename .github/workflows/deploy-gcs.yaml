@@ -30,6 +30,6 @@ jobs:
       run: sudo apt-get update && sudo apt-get install -y python3-crcmod
 
     - name: Sync files to GCS
-      run: gsutil -m rsync -r -c -d ./build gs://wildfire_team/
+      run: gsutil -m rsync -r -c -d gs://wildfire_team/
       env:
         CLOUDSDK_PYTHON: python3
