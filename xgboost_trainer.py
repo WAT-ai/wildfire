@@ -31,9 +31,9 @@ def train(model, X, y, X_test, y_test, n_estimators, learning_rate, early_stoppi
 def xgboost_trainer():
     model = None
     
-    maes = []
-    mses = []
-    rmses = []
+    mae_array = []
+    mse_array = []
+    rmse_array = []
 
     # TODO: read in the final weather and satellite data
     for i in range(0, 10):
@@ -52,11 +52,11 @@ def xgboost_trainer():
         y_test
 
         model, mae, mse, rmse = train(model, X, y, X_test, y_test, 1000, 0.01, 50)
-        maes.append(mae)
-        mses.append(mse)
-        rmses.append(rmse)
+        mae_array.append(mae)
+        mse_array.append(mse)
+        rmse_array.append(rmse)
 
-    save_results(maes, mses, rmses)
+    save_results(mae_array, mse_array, rmse_array)
 
 def get_run_notes():
     time_step = "time-step-"
@@ -65,7 +65,7 @@ def get_run_notes():
     fine_areas += input("Enter the number of fine areas: ")
     return time_step, fine_areas
 
-def save_results(maes, mses, rmses):
+def save_results(mae_array, mse_array, rmse_array):
     # Get information about this run 
     time_step, fine_areas = get_run_notes()
 
@@ -82,7 +82,7 @@ def save_results(maes, mses, rmses):
         print(f"Folder '{folder_name}' already exists.")
 
     # Mean Absolute Errors Plot
-    sns.lineplot(x=range(len(maes)), y=maes, marker='o')
+    sns.lineplot(x=range(len(mae_array)), y=mae_array, marker='o')
     plt.xlabel('Index')
     plt.ylabel('Mean Absolute Error')
     plt.title('Mean Absolute Errors Plot')
@@ -90,7 +90,7 @@ def save_results(maes, mses, rmses):
     plt.close()
 
     # Mean Squared Errors Plot
-    sns.lineplot(x=range(len(mses)), y=mses, marker='o')
+    sns.lineplot(x=range(len(mse_array)), y=mse_array, marker='o')
     plt.xlabel('Index')
     plt.ylabel('Mean Squared Error')
     plt.title('Mean Squared Errors Plot')
@@ -98,7 +98,7 @@ def save_results(maes, mses, rmses):
     plt.close()
 
     # Root Mean Absolute Errors Plot
-    sns.lineplot(x=range(len(rmses)), y=rmses, marker='o')
+    sns.lineplot(x=range(len(rmse_array)), y=rmse_array, marker='o')
     plt.xlabel('Index')
     plt.ylabel('Root Mean Squared Error')
     plt.title('Root Mean Squared Errors Plot')
