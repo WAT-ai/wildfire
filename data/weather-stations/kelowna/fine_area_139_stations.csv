@@ -1,5 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-86,1,EC,1162580,1259,EAGLE BAY,1662,BC,-119.216667,50.933333,412.0,1924-01-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-367,17,ARDA,116179,5658,MAGNA BAY   KAM,7340,BC,-119.233333333333,50.9638888888889,351.0,1971-04-20,1973-10-23,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-368,17,ARDA,116180,5659,ROSS CK     KAM,7341,BC,-119.231944444444,50.9791666666667,535.0,1971-05-11,1973-10-23,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-370,17,ARDA,116183,5662,ANGLEMONT   KAM,7344,BC,-119.116666666667,50.98,347.0,1971-05-27,1973-05-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

@@ -1,8 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-29,1,EC,1123930,1030,KELOWNA,1433,BC,-119.466667,49.9,354.0,1899-03-01,1962-09-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-33,1,EC,1123975,1034,KELOWNA BOWES STREET,1437,BC,-119.466667,49.883333,351.0,1961-08-01,1969-11-11,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-55,1,EC,1126915,1083,RUTLAND MISSION CREEK,1486,BC,-119.45,49.966667,914.0,1926-01-01,1947-10-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-239,17,ARDA,112104,4918,DAY,6598,BC,-119.456944444444,49.875,360.0,1989-02-02,1991-03-04,Daily,Temperature (Max.)|Temperature (Min.)
-240,17,ARDA,112105,4919,GLENMORE,6599,BC,-119.448333333333,49.9055555555556,399.0,1989-02-02,1991-03-04,Daily,Temperature (Max.)|Temperature (Min.)
-270,17,ARDA,112210,4981,SANDBERG,6661,BC,-119.521666666667,49.9375,536.0,1971-05-28,1972-09-28,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-497,12,FLNRO-WMB,1277,12035,WEST KELOWNA,14092,BC,-119.5695,49.8832,650.0,2016-12-19,2024-01-14,Unspecified,Dew Point Temperature|Precipitation Amount|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)

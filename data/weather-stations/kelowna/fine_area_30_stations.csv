@@ -1,10 +1,4 @@
 ,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-34,1,EC,1123980,1035,KELOWNA CDA,1438,BC,-119.416667,49.866667,485.0,1950-01-01,1970-04-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-37,1,EC,1123984,1038,KELOWNA EAST,1441,BC,-119.4,49.866667,491.0,1980-08-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-216,17,ARDA,112009,4825,FITZGERALD,6505,BC,-119.4,49.8555555555556,491.0,1975-03-10,1975-09-18,Daily,Temperature (Max.)|Temperature (Min.)
-220,17,ARDA,112024,4840,ROSS,6520,BC,-119.419444444444,49.8625,427.0,1975-03-10,1975-09-18,Daily,Temperature (Max.)|Temperature (Min.)
-222,17,ARDA,112026,4842,STUART,6522,BC,-119.430555555556,49.8375,503.0,1975-03-10,1975-09-18,Daily,Temperature (Max.)|Temperature (Min.)
-238,17,ARDA,112103,4917,BELGO,6597,BC,-119.386666666667,49.8713888888889,479.0,1989-02-02,1991-03-04,Daily,Temperature (Max.)|Temperature (Min.)
-266,17,ARDA,112197,4976,HACKEY,6656,BC,-119.420833333333,49.8633333333333,433.0,1971-03-11,1972-10-29,Daily,Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-267,17,ARDA,112199,4977,KLO,6657,BC,-119.37,49.8319444444444,594.0,1971-04-28,1972-09-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-268,17,ARDA,112201,4978,MYRA,6658,BC,-119.310833333333,49.8416666666667,774.0,1971-04-28,1972-09-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+157,12,FLNRO-WMB,352,1897,CURWEN CREEK (MB),2300,BC,-118.4233,50.6033,1250.0,1990-07-09,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)
+499,12,FLNRO-WMB,1293,12050,ZZ PARK MTN TEMP,14107,BC,-118.47805,50.59721667,1570.0,2017-06-09,2017-10-17,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+505,12,FLNRO-WMB,1386,12463,ZZ QD NORTHFORK ROAD,14485,BC,-118.4229167,50.60215,1200.0,2019-09-19,2020-09-24,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

@@ -1,3 +1,6 @@
 ,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-0,1,EC,1120090,231,ADRA,634,BC,-119.583333,49.733333,1003.0,1928-09-01,1953-08-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
-25,1,EC,1121620,1020,CHUTE LAKE,1423,BC,-119.533333,49.683333,1194.0,1928-09-01,1962-10-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+85,1,EC,1161506,1249,CHERRYVILLE,1652,BC,-118.583333,50.233333,665.0,1959-04-01,1961-08-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
+123,1,EC,1168A5H,1329,THIMBLE RANCH,1732,BC,-118.583333,50.233333,425.0,1975-08-20,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
+202,3,MoTIm,23105,2691,Cherryville,3434,BC,-118.59,50.23111,670.0,1988-11-14,2004-03-27,Semi-daily,Precipitation Amount|Rainfall Amount|Relative Humidity (Point)|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature (Point)
+301,17,ARDA,113069,5068,UNO,6748,BC,-118.592777777778,50.025,1100.0,1969-06-29,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+315,17,ARDA,116075,5578,BISSON,7260,BC,-118.55,50.0408333333333,1204.0,1969-05-02,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

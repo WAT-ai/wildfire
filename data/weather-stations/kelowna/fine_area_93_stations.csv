@@ -1,3 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-13,1,EC,1164770,283,MABEL LAKE,686,BC,-118.783333,50.383333,399.0,1924-07-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount
-172,12,FLNRO-WMB,746,2194,ZZ STYX CREEK,2597,BC,-118.8957,50.4442,1180.0,2002-05-28,2002-10-22,Hourly,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

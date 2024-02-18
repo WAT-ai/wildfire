@@ -1,3 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-341,17,ARDA,116127,5610,WAP,7292,BC,-118.575,50.7675,527.0,1971-04-29,1972-10-30,Daily,Precipitation (Cumulative)|Relative Humidity (Mean)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-342,17,ARDA,116128,5611,MABEL,7293,BC,-118.66,50.7775,767.0,1971-05-30,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

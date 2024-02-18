@@ -1,7 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-15,1,EC,1165197,285,MONTE LAKE,688,BC,-119.85,50.516667,683.0,1961-09-22,1968-09-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
-16,1,EC,1165198,286,MONTE LAKE 2,689,BC,-119.85,50.516667,701.0,1961-09-01,1962-12-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
-127,1,EC,116NJ97,1336,MONTE LAKE PAXTON VALLEY,1739,BC,-119.8,50.533333,845.0,1972-04-12,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-350,17,ARDA,116162,5641,DUCK RANGE  KAM,7323,BC,-119.816666666667,50.6138888888889,871.0,1971-04-20,1973-10-25,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-380,17,ARDA,116199,5677,MONTE CK 4  KAM,7359,BC,-119.883333333333,50.5583333333333,674.0,1971-06-11,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-381,17,ARDA,116200,5678,MONTE CK 3  KAM,7360,BC,-119.890277777778,50.6027777777778,629.0,1971-06-11,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

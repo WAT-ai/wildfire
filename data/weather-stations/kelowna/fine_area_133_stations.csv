@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-18,1,EC,1168667,289,VINSULLA,692,BC,-120.25,50.933333,357.0,1962-05-01,1966-11-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
-92,1,EC,1163400,1266,HEFFLEY CREEK,1669,BC,-120.183333,50.916667,683.0,1953-02-15,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-399,17,ARDA,116269,5746,POPSTOP     KAM,7429,BC,-120.233333333333,50.9583333333333,379.0,1971-05-28,1973-10-26,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

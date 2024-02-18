@@ -1,0 +1,343 @@
+ONE_DAY_PRECIPITATION,ONE_DAY_RAIN,MIN_TEMP,ONE_DAY_SNOW,time,SNOW_ON_THE_GROUND,MAX_TEMP,week_of_year,wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,RELATIVE_HUMIDITY1,STANDARD_SNOW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,min_air_temp_snc_last_reset,DEW_POINT,ATMOSPHERIC_PRESSURE,ACTUAL_WIND_DIRECTION,MAXIMUM_AIR_TEMPERATURE,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,PRECIPITATION_NEW,max_air_temp_snc_last_reset,PRECIP_DETECTOR_RATIO,ACTUAL_WIND_SPEED,WIND_DIRECTION_STD_DEVIATION1,mslp,pcpn_amt_pst1hr,snwfl_amt_pst1hr,stn_pres
+0.0,0.0,13.0,0.0,2018-05-28,0.0,28.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.0,3.0,13.0,0.0,2018-05-29,0.0,21.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.0,0.0,11.0,0.0,2018-05-30,0.0,19.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.0,0.0,9.5,0.0,2018-05-31,0.0,22.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.0,0.0,12.0,0.0,2018-06-01,0.0,23.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0.0,0.0,12.0,0.0,2018-06-02,0.0,28.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3.4,3.4,14.0,0.0,2018-06-03,0.0,19.0,22,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 00:00:00,,,22,230.0, None, None,0.0, None,7.6, None,18.3, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 01:00:00,,,22,289.0, None, None,0.0, None,5.4, None,16.4, None, None, None,45.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 02:00:00,,,22,262.0, None, None,0.0, None,6.3, None,16.4, None, None, None,43.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 03:00:00,,,22,313.0, None, None,0.0, None,6.0, None,15.6, None, None, None,47.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 04:00:00,,,22,249.0, None, None,0.0, None,5.5, None,15.4, None, None, None,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 05:00:00,,,22,147.0, None, None,0.0, None,3.2, None,16.0, None, None, None,57.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 06:00:00,,,22,186.0, None, None,0.0, None,5.7, None,18.4, None, None, None,54.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 07:00:00,,,22,227.0, None, None,0.0, None,4.0, None,19.5, None, None, None,55.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 08:00:00,,,22,192.0, None, None,0.0, None,8.3, None,20.6, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 09:00:00,,,22,173.0, None, None,0.0, None,9.5, None,22.3, None, None, None,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 10:00:00,,,22,170.0, None, None,0.0, None,8.4, None,23.4, None, None, None,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 11:00:00,,,22,172.0, None, None,0.0, None,8.0, None,25.2, None, None, None,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 12:00:00,,,22,176.0, None, None,0.0, None,9.4, None,25.9, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 13:00:00,,,22,169.0, None, None,0.0, None,9.1, None,26.7, None, None, None,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 14:00:00,,,22,259.0, None, None,0.0, None,10.4, None,27.3, None, None, None,15.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 15:00:00,,,22,219.0, None, None,0.0, None,11.7, None,27.0, None, None, None,15.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 16:00:00,,,22,201.0, None, None,0.0, None,11.7, None,26.0, None, None, None,17.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 17:00:00,,,22,290.0, None, None,0.0, None,13.7, None,24.0, None, None, None,21.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 18:00:00,,,22,297.0, None, None,0.0, None,17.1, None,21.8, None, None, None,23.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 19:00:00,,,22,289.0, None, None,0.0, None,18.1, None,19.4, None, None, None,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 20:00:00,,,22,284.0, None, None,0.0, None,22.8, None,18.4, None, None, None,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 21:00:00,,,22,290.0, None, None,0.0, None,25.7, None,17.3, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 22:00:00,,,22,283.0, None, None,0.0, None,18.3, None,16.2, None, None, None,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 23:00:00,,,22,288.0, None, None,0.0, None,10.5, None,15.4, None, None, None,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 00:00:00,,,22,277.0, None, None,0.0, None,19.9, None,14.8, None, None, None,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 01:00:00,,,22,269.0, None, None,0.0, None,19.9, None,14.2, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 02:00:00,,,22,277.0, None, None,0.0, None,17.5, None,13.7, None, None, None,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 03:00:00,,,22,274.0, None, None,0.0, None,16.5, None,13.9, None, None, None,43.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 04:00:00,,,22,268.0, None, None,0.0, None,12.3, None,13.6, None, None, None,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 05:00:00,,,22,261.0, None, None,0.0, None,10.5, None,13.5, None, None, None,46.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 06:00:00,,,22,183.0, None, None,0.0, None,11.0, None,14.7, None, None, None,52.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 07:00:00,,,22,182.0, None, None,0.0, None,10.3, None,16.7, None, None, None,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 08:00:00,,,22,180.0, None, None,0.0, None,8.9, None,16.0, None, None, None,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 09:00:00,,,22,155.0, None, None,0.0, None,8.7, None,19.9, None, None, None,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 10:00:00,,,22,167.0, None, None,0.0, None,7.2, None,19.9, None, None, None,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 11:00:00,,,22,160.0, None, None,0.0, None,8.1, None,21.8, None, None, None,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 12:00:00,,,22,187.0, None, None,0.0, None,6.2, None,19.4, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 13:00:00,,,22,192.0, None, None,0.0, None,5.7, None,19.9, None, None, None,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 14:00:00,,,22,100.0, None, None,0.0, None,4.8, None,20.5, None, None, None,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 15:00:00,,,22,82.0, None, None,0.0, None,6.0, None,21.0, None, None, None,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 16:00:00,,,22,67.0, None, None,0.0, None,5.3, None,19.4, None, None, None,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 17:00:00,,,22,288.0, None, None,0.0, None,5.5, None,15.1, None, None, None,63.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 18:00:00,,,22,340.0, None, None,0.4, None,5.8, None,14.5, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 19:00:00,,,22,329.0, None, None,0.2, None,10.7, None,14.3, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 20:00:00,,,22,306.0, None, None,0.2, None,7.2, None,11.5, None, None, None,75.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 21:00:00,,,22,337.0, None, None,0.0, None,9.3, None,12.6, None, None, None,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 22:00:00,,,22,274.0, None, None,0.0, None,4.6, None,12.8, None, None, None,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-29 23:00:00,,,22,282.0, None, None,0.0, None,5.7, None,12.5, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 00:00:00,,,22,299.0, None, None,0.0, None,8.9, None,12.2, None, None, None,41.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 01:00:00,,,22,192.0, None, None,0.0, None,9.9, None,11.3, None, None, None,59.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 02:00:00,,,22,228.0, None, None,0.0, None,9.4, None,10.2, None, None, None,58.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 03:00:00,,,22,216.0, None, None,0.0, None,4.7, None,9.5, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 04:00:00,,,22,277.0, None, None,0.0, None,11.2, None,9.2, None, None, None,55.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 05:00:00,,,22,272.0, None, None,0.0, None,16.6, None,9.8, None, None, None,56.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 06:00:00,,,22,281.0, None, None,0.0, None,16.5, None,10.2, None, None, None,56.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 07:00:00,,,22,271.0, None, None,0.0, None,15.7, None,10.6, None, None, None,55.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 08:00:00,,,22,222.0, None, None,0.0, None,6.8, None,12.0, None, None, None,54.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 09:00:00,,,22,171.0, None, None,0.0, None,10.5, None,15.3, None, None, None,49.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 10:00:00,,,22,162.0, None, None,0.0, None,9.7, None,15.0, None, None, None,49.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 11:00:00,,,22,144.0, None, None,0.0, None,6.3, None,16.4, None, None, None,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 12:00:00,,,22,278.0, None, None,0.0, None,8.7, None,13.0, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 13:00:00,,,22,176.0, None, None,0.0, None,7.7, None,15.2, None, None, None,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 14:00:00,,,22,153.0, None, None,0.0, None,8.4, None,18.8, None, None, None,35.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 15:00:00,,,22,65.0, None, None,0.0, None,4.3, None,16.9, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 16:00:00,,,22,104.0, None, None,0.0, None,4.5, None,18.1, None, None, None,37.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 17:00:00,,,22,348.0, None, None,0.0, None,6.4, None,16.0, None, None, None,41.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 18:00:00,,,22,11.0, None, None,0.0, None,3.4, None,17.2, None, None, None,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 19:00:00,,,22,329.0, None, None,0.0, None,6.5, None,13.7, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 20:00:00,,,22,325.0, None, None,0.0, None,8.3, None,12.3, None, None, None,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 21:00:00,,,22,320.0, None, None,0.0, None,7.9, None,11.6, None, None, None,44.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 22:00:00,,,22,4.0, None, None,0.0, None,4.9, None,11.2, None, None, None,47.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-30 23:00:00,,,22,340.0, None, None,0.0, None,4.8, None,10.3, None, None, None,49.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 00:00:00,,,22,5.0, None, None,0.0, None,4.0, None,8.7, None, None, None,55.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 01:00:00,,,22,321.0, None, None,0.0, None,4.8, None,8.0, None, None, None,60.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 02:00:00,,,22,276.0, None, None,0.0, None,3.7, None,7.5, None, None, None,60.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 03:00:00,,,22,280.0, None, None,0.0, None,4.4, None,6.8, None, None, None,63.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 04:00:00,,,22,343.0, None, None,0.0, None,5.6, None,6.7, None, None, None,63.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 05:00:00,,,22,6.0, None, None,0.0, None,5.1, None,7.6, None, None, None,66.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 06:00:00,,,22,279.0, None, None,0.0, None,1.9, None,9.2, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 07:00:00,,,22,30.0, None, None,0.0, None,3.8, None,10.5, None, None, None,62.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 08:00:00,,,22,48.0, None, None,0.0, None,5.1, None,12.7, None, None, None,62.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 09:00:00,,,22,88.0, None, None,0.0, None,6.0, None,14.9, None, None, None,53.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 10:00:00,,,22,67.0, None, None,0.0, None,6.7, None,16.0, None, None, None,46.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 11:00:00,,,22,86.0, None, None,0.0, None,6.6, None,16.8, None, None, None,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 12:00:00,,,22,120.0, None, None,0.0, None,7.2, None,19.2, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 13:00:00,,,22,119.0, None, None,0.0, None,9.7, None,21.2, None, None, None,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 14:00:00,,,22,109.0, None, None,0.0, None,7.9, None,21.6, None, None, None,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 15:00:00,,,22,112.0, None, None,0.0, None,6.8, None,22.5, None, None, None,22.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 16:00:00,,,22,111.0, None, None,0.0, None,6.6, None,22.2, None, None, None,26.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 17:00:00,,,22,126.0, None, None,0.0, None,5.3, None,21.4, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 18:00:00,,,22,230.0, None, None,0.0, None,8.2, None,20.1, None, None, None,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 19:00:00,,,22,282.0, None, None,0.0, None,24.0, None,17.5, None, None, None,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 20:00:00,,,22,290.0, None, None,0.0, None,30.4, None,16.4, None, None, None,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 21:00:00,,,22,282.0, None, None,0.0, None,31.8, None,15.5, None, None, None,41.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 22:00:00,,,22,285.0, None, None,0.0, None,22.6, None,14.8, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-31 23:00:00,,,22,293.0, None, None,0.0, None,18.5, None,14.2, None, None, None,43.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 00:00:00,,,22,281.0, None, None,0.0, None,18.6, None,13.8, None, None, None,45.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 01:00:00,,,22,285.0, None, None,0.0, None,19.0, None,13.3, None, None, None,47.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 02:00:00,,,22,278.0, None, None,0.0, None,18.9, None,12.8, None, None, None,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 03:00:00,,,22,287.0, None, None,0.0, None,16.7, None,12.3, None, None, None,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 04:00:00,,,22,280.0, None, None,0.0, None,15.6, None,12.2, None, None, None,49.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 05:00:00,,,22,273.0, None, None,0.0, None,14.0, None,12.4, None, None, None,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 06:00:00,,,22,201.0, None, None,0.0, None,5.5, None,13.1, None, None, None,49.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 07:00:00,,,22,210.0, None, None,0.0, None,7.1, None,14.2, None, None, None,51.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 08:00:00,,,22,153.0, None, None,0.0, None,10.1, None,18.0, None, None, None,43.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 09:00:00,,,22,163.0, None, None,0.0, None,11.6, None,19.7, None, None, None,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 10:00:00,,,22,180.0, None, None,0.0, None,11.6, None,19.6, None, None, None,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 11:00:00,,,22,168.0, None, None,0.0, None,12.1, None,22.2, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 12:00:00,,,22,178.0, None, None,0.0, None,10.4, None,22.1, None, None, None,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 13:00:00,,,22,183.0, None, None,0.0, None,12.7, None,21.7, None, None, None,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 14:00:00,,,22,168.0, None, None,0.0, None,12.3, None,20.4, None, None, None,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 15:00:00,,,22,180.0, None, None,0.0, None,15.4, None,21.0, None, None, None,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 16:00:00,,,22,205.0, None, None,0.0, None,12.8, None,22.6, None, None, None,20.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 17:00:00,,,22,212.0, None, None,0.0, None,9.3, None,21.5, None, None, None,17.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 18:00:00,,,22,278.0, None, None,0.0, None,17.6, None,19.8, None, None, None,23.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 19:00:00,,,22,280.0, None, None,0.0, None,25.3, None,16.9, None, None, None,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 20:00:00,,,22,288.0, None, None,0.0, None,23.8, None,15.5, None, None, None,34.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 21:00:00,,,22,264.0, None, None,0.0, None,13.8, None,14.7, None, None, None,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 22:00:00,,,22,306.0, None, None,0.0, None,7.8, None,14.4, None, None, None,37.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-01 23:00:00,,,22,274.0, None, None,0.0, None,10.8, None,13.6, None, None, None,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 00:00:00,,,22,207.0, None, None,0.0, None,7.3, None,12.1, None, None, None,45.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 01:00:00,,,22,274.0, None, None,0.0, None,4.7, None,12.8, None, None, None,42.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 02:00:00,,,22,267.0, None, None,0.0, None,7.1, None,12.5, None, None, None,45.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 03:00:00,,,22,275.0, None, None,0.0, None,6.7, None,12.1, None, None, None,47.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 04:00:00,,,22,314.0, None, None,0.0, None,8.0, None,10.9, None, None, None,51.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 05:00:00,,,22,30.0, None, None,0.0, None,3.0, None,10.5, None, None, None,56.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 06:00:00,,,22,120.0, None, None,0.0, None,3.7, None,12.9, None, None, None,57.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 07:00:00,,,22,114.0, None, None,0.0, None,6.6, None,17.6, None, None, None,41.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 08:00:00,,,22,138.0, None, None,0.0, None,6.2, None,17.7, None, None, None,41.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 09:00:00,,,22,187.0, None, None,0.0, None,8.3, None,19.0, None, None, None,38.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 10:00:00,,,22,192.0, None, None,0.0, None,7.5, None,18.2, None, None, None,40.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 11:00:00,,,22,173.0, None, None,0.0, None,5.2, None,20.0, None, None, None,36.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 12:00:00,,,22,168.0, None, None,0.0, None,6.2, None,22.0, None, None, None,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 13:00:00,,,22,174.0, None, None,0.0, None,6.3, None,23.7, None, None, None,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 14:00:00,,,22,148.0, None, None,0.0, None,6.2, None,24.2, None, None, None,28.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 15:00:00,,,22,138.0, None, None,0.0, None,5.2, None,23.8, None, None, None,23.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 16:00:00,,,22,167.0, None, None,0.0, None,6.1, None,25.0, None, None, None,21.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 17:00:00,,,22,145.0, None, None,0.0, None,4.4, None,24.3, None, None, None,25.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 18:00:00,,,22,278.0, None, None,0.0, None,13.6, None,21.6, None, None, None,27.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 19:00:00,,,22,294.0, None, None,0.0, None,13.8, None,20.1, None, None, None,29.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 20:00:00,,,22,295.0, None, None,0.0, None,14.1, None,19.0, None, None, None,30.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 21:00:00,,,22,299.0, None, None,0.0, None,15.8, None,18.5, None, None, None,31.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 22:00:00,,,22,309.0, None, None,0.0, None,9.6, None,17.4, None, None, None,33.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-02 23:00:00,,,22,317.0, None, None,0.0, None,10.7, None,16.5, None, None, None,35.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 00:00:00,,,22,261.0, None, None,0.0, None,3.5, None,15.1, None, None, None,39.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 01:00:00,,,22,261.0, None, None,0.0, None,2.6, None,13.1, None, None, None,48.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 02:00:00,,,22,287.0, None, None,0.0, None,3.0, None,12.4, None, None, None,52.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 03:00:00,,,22,293.0, None, None,0.0, None,2.0, None,12.2, None, None, None,53.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 04:00:00,,,22,268.0, None, None,0.0, None,4.6, None,12.2, None, None, None,54.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 05:00:00,,,22,287.0, None, None,0.0, None,4.2, None,12.3, None, None, None,58.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 06:00:00,,,22,254.0, None, None,0.0, None,2.4, None,12.5, None, None, None,59.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 07:00:00,,,22,50.0, None, None,0.0, None,1.7, None,13.4, None, None, None,67.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 08:00:00,,,22,132.0, None, None,0.0, None,4.2, None,15.4, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 09:00:00,,,22,307.0, None, None,0.0, None,3.7, None,15.2, None, None, None,59.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 10:00:00,,,22,16.0, None, None,0.0, None,8.4, None,15.8, None, None, None,50.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 11:00:00,,,22,9.0, None, None,0.0, None,9.0, None,15.6, None, None, None,57.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 12:00:00,,,22,7.0, None, None,0.0, None,8.6, None,15.0, None, None, None,66.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 13:00:00,,,22,7.0, None, None,0.0, None,8.1, None,17.1, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 14:00:00,,,22,19.0, None, None,0.0, None,5.3, None,16.5, None, None, None,61.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 15:00:00,,,22,10.0, None, None,0.0, None,13.4, None,15.9, None, None, None,70.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 16:00:00,,,22,355.0, None, None,0.4, None,6.5, None,13.8, None, None, None,90.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 17:00:00,,,22,24.0, None, None,0.6, None,7.1, None,13.9, None, None, None,94.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 18:00:00,,,22,353.0, None, None,0.6, None,8.4, None,12.8, None, None, None,97.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 19:00:00,,,22,354.0, None, None,0.2, None,6.0, None,12.8, None, None, None,97.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 20:00:00,,,22,5.0, None, None,0.0, None,6.0, None,12.4, None, None, None,96.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 21:00:00,,,22,326.0, None, None,0.0, None,4.5, None,11.6, None, None, None,98.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 22:00:00,,,22,306.0, None, None,0.0, None,7.7, None,10.1, None, None, None,94.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-06-03 23:00:00,,,22,247.0, None, None,0.0, None,6.5, None,9.1, None, None, None,92.0,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,2018-05-28 00:00:00,,,22,, None, None,, None,, None,, None,,,,32.16, None, None, None,14.68,201.9, None, None,949.0, None, None, None, None, None, None, None,19.26, None, None, None, None,12.99, None, None, None, None
+,,,,2018-05-28 01:00:00,,,22,, None, None,, None,, None,, None,,,,39.01, None, None, None,7.592,210.1, None, None,949.0, None, None, None, None, None, None, None,17.73, None, None, None, None,15.81, None, None, None, None
+,,,,2018-05-28 02:00:00,,,22,, None, None,, None,, None,, None,,,,45.31, None, None, None,7.46,220.2, None, None,949.0, None, None, None, None, None, None, None,16.77, None, None, None, None,34.27, None, None, None, None
+,,,,2018-05-28 03:00:00,,,22,, None, None,, None,, None,, None,,,,43.13, None, None, None,10.88,216.8, None, None,949.0, None, None, None, None, None, None, None,16.94, None, None, None, None,11.6, None, None, None, None
+,,,,2018-05-28 04:00:00,,,22,, None, None,, None,, None,, None,,,,45.55, None, None, None,9.77,236.0, None, None,949.0, None, None, None, None, None, None, None,16.63, None, None, None, None,14.93, None, None, None, None
+,,,,2018-05-28 05:00:00,,,22,, None, None,, None,, None,, None,,,,56.21, None, None, None,7.044,247.2, None, None,949.0, None, None, None, None, None, None, None,14.12, None, None, None, None,42.75, None, None, None, None
+,,,,2018-05-28 06:00:00,,,22,, None, None,, None,, None,, None,,,,54.25, None, None, None,5.943,2.392, None, None,949.0, None, None, None, None, None, None, None,14.29, None, None, None, None,16.33, None, None, None, None
+,,,,2018-05-28 07:00:00,,,22,, None, None,, None,, None,, None,,,,50.31, None, None, None,4.218,30.71, None, None,949.0, None, None, None, None, None, None, None,16.59, None, None, None, None,48.96, None, None, None, None
+,,,,2018-05-28 08:00:00,,,22,, None, None,, None,, None,, None,,,,49.57, None, None, None,4.741,57.38, None, None,949.0, None, None, None, None, None, None, None,17.52, None, None, None, None,59.88, None, None, None, None
+,,,,2018-05-28 09:00:00,,,22,, None, None,, None,, None,, None,,,,47.5, None, None, None,4.28,119.6, None, None,949.0, None, None, None, None, None, None, None,18.79, None, None, None, None,41.51, None, None, None, None
+,,,,2018-05-28 10:00:00,,,22,, None, None,, None,, None,, None,,,,42.57, None, None, None,9.39,170.9, None, None,949.0, None, None, None, None, None, None, None,20.01, None, None, None, None,14.95, None, None, None, None
+,,,,2018-05-28 11:00:00,,,22,, None, None,, None,, None,, None,,,,34.5, None, None, None,10.58,160.2, None, None,948.0, None, None, None, None, None, None, None,21.65, None, None, None, None,21.07, None, None, None, None
+,,,,2018-05-28 12:00:00,,,22,, None, None,, None,, None,, None,,,,32.46, None, None, None,9.8,153.9, None, None,948.0, None, None, None, None, None, None, None,22.26, None, None, None, None,20.67, None, None, None, None
+,,,,2018-05-28 13:00:00,,,22,, None, None,, None,, None,, None,,,,30.87, None, None, None,9.31,147.2, None, None,947.0, None, None, None, None, None, None, None,23.54, None, None, None, None,33.84, None, None, None, None
+,,,,2018-05-28 14:00:00,,,22,, None, None,, None,, None,, None,,,,29.36, None, None, None,10.66,160.2, None, None,947.0, None, None, None, None, None, None, None,23.86, None, None, None, None,28.83, None, None, None, None
+,,,,2018-05-28 15:00:00,,,22,, None, None,, None,, None,, None,,,,22.66, None, None, None,12.0,154.3, None, None,946.0, None, None, None, None, None, None, None,25.58, None, None, None, None,25.12, None, None, None, None
+,,,,2018-05-28 16:00:00,,,22,, None, None,, None,, None,, None,,,,17.25, None, None, None,18.2,224.8, None, None,945.0, None, None, None, None, None, None, None,25.14, None, None, None, None,22.18, None, None, None, None
+,,,,2018-05-28 17:00:00,,,22,, None, None,, None,, None,, None,,,,17.36, None, None, None,19.36,223.8, None, None,945.0, None, None, None, None, None, None, None,24.13, None, None, None, None,17.65, None, None, None, None
+,,,,2018-05-28 18:00:00,,,22,, None, None,, None,, None,, None,,,,20.71, None, None, None,19.62,230.1, None, None,945.0, None, None, None, None, None, None, None,22.86, None, None, None, None,13.24, None, None, None, None
+,,,,2018-05-28 19:00:00,,,22,, None, None,, None,, None,, None,,,,25.11, None, None, None,14.79,246.5, None, None,945.0, None, None, None, None, None, None, None,21.07, None, None, None, None,18.99, None, None, None, None
+,,,,2018-05-28 20:00:00,,,22,, None, None,, None,, None,, None,,,,29.68, None, None, None,12.03,257.6, None, None,946.0, None, None, None, None, None, None, None,19.44, None, None, None, None,17.24, None, None, None, None
+,,,,2018-05-28 21:00:00,,,22,, None, None,, None,, None,, None,,,,32.86, None, None, None,12.3,241.8, None, None,946.0, None, None, None, None, None, None, None,17.9, None, None, None, None,14.27, None, None, None, None
+,,,,2018-05-28 22:00:00,,,22,, None, None,, None,, None,, None,,,,39.49, None, None, None,10.23,189.0, None, None,946.0, None, None, None, None, None, None, None,15.65, None, None, None, None,31.53, None, None, None, None
+,,,,2018-05-28 23:00:00,,,22,, None, None,, None,, None,, None,,,,43.5, None, None, None,10.55,205.3, None, None,946.0, None, None, None, None, None, None, None,14.23, None, None, None, None,15.26, None, None, None, None
+,,,,2018-05-29 00:00:00,,,22,, None, None,, None,, None,, None,,,,41.04, None, None, None,14.34,201.0, None, None,946.0, None, None, None, None, None, None, None,14.77, None, None, None, None,9.17, None, None, None, None
+,,,,2018-05-29 01:00:00,,,22,, None, None,, None,, None,, None,,,,51.3, None, None, None,9.07,212.4, None, None,946.0, None, None, None, None, None, None, None,12.61, None, None, None, None,12.08, None, None, None, None
+,,,,2018-05-29 02:00:00,,,22,, None, None,, None,, None,, None,,,,54.07, None, None, None,7.617,214.5, None, None,946.0, None, None, None, None, None, None, None,12.15, None, None, None, None,16.24, None, None, None, None
+,,,,2018-05-29 03:00:00,,,22,, None, None,, None,, None,, None,,,,50.94, None, None, None,7.485,214.4, None, None,946.0, None, None, None, None, None, None, None,12.55, None, None, None, None,15.52, None, None, None, None
+,,,,2018-05-29 04:00:00,,,22,, None, None,, None,, None,, None,,,,53.95, None, None, None,7.714,224.0, None, None,946.0, None, None, None, None, None, None, None,11.92, None, None, None, None,14.51, None, None, None, None
+,,,,2018-05-29 05:00:00,,,22,, None, None,, None,, None,, None,,,,55.21, None, None, None,7.739,210.6, None, None,946.0, None, None, None, None, None, None, None,11.84, None, None, None, None,12.8, None, None, None, None
+,,,,2018-05-29 06:00:00,,,22,, None, None,, None,, None,, None,,,,55.72, None, None, None,11.91,194.9, None, None,946.0, None, None, None, None, None, None, None,11.97, None, None, None, None,9.87, None, None, None, None
+,,,,2018-05-29 07:00:00,,,22,, None, None,, None,, None,, None,,,,55.54, None, None, None,12.36,194.9, None, None,946.0, None, None, None, None, None, None, None,12.53, None, None, None, None,10.45, None, None, None, None
+,,,,2018-05-29 08:00:00,,,22,, None, None,, None,, None,, None,,,,51.94, None, None, None,12.16,193.5, None, None,946.0, None, None, None, None, None, None, None,14.36, None, None, None, None,12.23, None, None, None, None
+,,,,2018-05-29 09:00:00,,,22,, None, None,, None,, None,, None,,,,48.93, None, None, None,11.66,201.9, None, None,946.0, None, None, None, None, None, None, None,14.99, None, None, None, None,11.3, None, None, None, None
+,,,,2018-05-29 10:00:00,,,22,, None, None,, None,, None,, None,,,,40.04, None, None, None,8.22,190.4, None, None,945.0, None, None, None, None, None, None, None,17.0, None, None, None, None,33.93, None, None, None, None
+,,,,2018-05-29 11:00:00,,,22,, None, None,, None,, None,, None,,,,34.13, None, None, None,11.43,150.0, None, None,945.0, None, None, None, None, None, None, None,17.68, None, None, None, None,17.69, None, None, None, None
+,,,,2018-05-29 12:00:00,,,22,, None, None,, None,, None,, None,,,,36.37, None, None, None,11.42,150.1, None, None,944.0, None, None, None, None, None, None, None,18.61, None, None, None, None,26.4, None, None, None, None
+,,,,2018-05-29 13:00:00,,,22,, None, None,, None,, None,, None,,,,28.87, None, None, None,7.67,138.7, None, None,943.0, None, None, None, None, None, None, None,19.7, None, None, None, None,36.68, None, None, None, None
+,,,,2018-05-29 14:00:00,,,22,, None, None,, None,, None,, None,,,,25.77, None, None, None,6.4,250.6, None, None,943.0, None, None, None, None, None, None, None,19.77, None, None, None, None,52.05, None, None, None, None
+,,,,2018-05-29 15:00:00,,,22,, None, None,, None,, None,, None,,,,27.06, None, None, None,4.255,283.1, None, None,943.0, None, None, None, None, None, None, None,19.77, None, None, None, None,56.38, None, None, None, None
+,,,,2018-05-29 16:00:00,,,22,, None, None,, None,, None,, None,,,,27.64, None, None, None,7.393,288.8, None, None,942.0, None, None, None, None, None, None, None,19.41, None, None, None, None,37.44, None, None, None, None
+,,,,2018-05-29 17:00:00,,,22,, None, None,, None,, None,, None,,,,26.64, None, None, None,6.336,312.8, None, None,942.0, None, None, None, None, None, None, None,19.43, None, None, None, None,30.27, None, None, None, None
+,,,,2018-05-29 18:00:00,,,22,, None, None,, None,, None,, None,,,,28.68, None, None, None,7.09,248.3, None, None,941.0, None, None, None, None, None, None, None,18.64, None, None, None, None,33.69, None, None, None, None
+,,,,2018-05-29 19:00:00,,,22,, None, None,, None,, None,, None,,,,31.67, None, None, None,7.801,259.3, None, None,941.0, None, None, None, None, None, None, None,17.29, None, None, None, None,40.17, None, None, None, None
+,,,,2018-05-29 20:00:00,,,22,, None, None,, None,, None,, None,,,,44.87, None, None, None,11.29,269.7, None, None,941.0, None, None, None, None, None, None, None,15.36, None, None, None, None,51.92, None, None, None, None
+,,,,2018-05-29 21:00:00,,,22,, None, None,, None,, None,, None,,,,86.2, None, None, None,14.77,180.5, None, None,943.0, None, None, None, None, None, None, None,10.9, None, None, None, None,32.23, None, None, None, None
+,,,,2018-05-29 22:00:00,,,22,, None, None,, None,, None,, None,,,,81.3, None, None, None,8.17,357.5, None, None,943.0, None, None, None, None, None, None, None,11.1, None, None, None, None,43.27, None, None, None, None
+,,,,2018-05-29 23:00:00,,,22,, None, None,, None,, None,, None,,,,78.76, None, None, None,5.254,342.1, None, None,943.0, None, None, None, None, None, None, None,11.31, None, None, None, None,50.23, None, None, None, None
+,,,,2018-05-30 00:00:00,,,22,, None, None,, None,, None,, None,,,,86.4, None, None, None,5.276,308.3, None, None,944.0, None, None, None, None, None, None, None,10.22, None, None, None, None,68.67, None, None, None, None
+,,,,2018-05-30 01:00:00,,,22,, None, None,, None,, None,, None,,,,72.08, None, None, None,6.495,339.6, None, None,943.0, None, None, None, None, None, None, None,10.96, None, None, None, None,66.9, None, None, None, None
+,,,,2018-05-30 02:00:00,,,22,, None, None,, None,, None,, None,,,,68.87, None, None, None,14.48,192.8, None, None,944.0, None, None, None, None, None, None, None,9.89, None, None, None, None,10.27, None, None, None, None
+,,,,2018-05-30 03:00:00,,,22,, None, None,, None,, None,, None,,,,67.88, None, None, None,7.352,181.2, None, None,944.0, None, None, None, None, None, None, None,9.1, None, None, None, None,25.28, None, None, None, None
+,,,,2018-05-30 04:00:00,,,22,, None, None,, None,, None,, None,,,,62.43, None, None, None,8.88,199.6, None, None,944.0, None, None, None, None, None, None, None,9.51, None, None, None, None,12.7, None, None, None, None
+,,,,2018-05-30 05:00:00,,,22,, None, None,, None,, None,, None,,,,60.55, None, None, None,9.86,199.0, None, None,944.0, None, None, None, None, None, None, None,8.58, None, None, None, None,10.99, None, None, None, None
+,,,,2018-05-30 06:00:00,,,22,, None, None,, None,, None,, None,,,,64.05, None, None, None,6.875,219.5, None, None,944.0, None, None, None, None, None, None, None,9.28, None, None, None, None,20.75, None, None, None, None
+,,,,2018-05-30 07:00:00,,,22,, None, None,, None,, None,, None,,,,62.37, None, None, None,9.31,210.9, None, None,944.0, None, None, None, None, None, None, None,9.85, None, None, None, None,28.97, None, None, None, None
+,,,,2018-05-30 08:00:00,,,22,, None, None,, None,, None,, None,,,,59.44, None, None, None,11.42,186.3, None, None,944.0, None, None, None, None, None, None, None,10.58, None, None, None, None,15.66, None, None, None, None
+,,,,2018-05-30 09:00:00,,,22,, None, None,, None,, None,, None,,,,57.21, None, None, None,8.88,178.4, None, None,944.0, None, None, None, None, None, None, None,10.93, None, None, None, None,28.47, None, None, None, None
+,,,,2018-05-30 10:00:00,,,22,, None, None,, None,, None,, None,,,,57.85, None, None, None,10.83,175.1, None, None,944.0, None, None, None, None, None, None, None,11.33, None, None, None, None,13.64, None, None, None, None
+,,,,2018-05-30 11:00:00,,,22,, None, None,, None,, None,, None,,,,50.65, None, None, None,11.81,175.4, None, None,944.0, None, None, None, None, None, None, None,13.38, None, None, None, None,17.71, None, None, None, None
+,,,,2018-05-30 12:00:00,,,22,, None, None,, None,, None,, None,,,,47.62, None, None, None,9.1,150.4, None, None,944.0, None, None, None, None, None, None, None,13.42, None, None, None, None,43.17, None, None, None, None
+,,,,2018-05-30 13:00:00,,,22,, None, None,, None,, None,, None,,,,42.29, None, None, None,7.545,308.0, None, None,944.0, None, None, None, None, None, None, None,14.75, None, None, None, None,73.73, None, None, None, None
+,,,,2018-05-30 14:00:00,,,22,, None, None,, None,, None,, None,,,,41.46, None, None, None,9.16,191.3, None, None,943.0, None, None, None, None, None, None, None,14.73, None, None, None, None,52.24, None, None, None, None
+,,,,2018-05-30 15:00:00,,,22,, None, None,, None,, None,, None,,,,39.63, None, None, None,8.56,148.8, None, None,943.0, None, None, None, None, None, None, None,15.6, None, None, None, None,39.84, None, None, None, None
+,,,,2018-05-30 16:00:00,,,22,, None, None,, None,, None,, None,,,,31.38, None, None, None,5.29,133.3, None, None,942.0, None, None, None, None, None, None, None,16.79, None, None, None, None,63.4, None, None, None, None
+,,,,2018-05-30 17:00:00,,,22,, None, None,, None,, None,, None,,,,32.43, None, None, None,6.764,320.7, None, None,942.0, None, None, None, None, None, None, None,17.43, None, None, None, None,43.01, None, None, None, None
+,,,,2018-05-30 18:00:00,,,22,, None, None,, None,, None,, None,,,,31.23, None, None, None,5.236,319.3, None, None,941.0, None, None, None, None, None, None, None,17.51, None, None, None, None,42.98, None, None, None, None
+,,,,2018-05-30 19:00:00,,,22,, None, None,, None,, None,, None,,,,31.22, None, None, None,6.237,327.0, None, None,941.0, None, None, None, None, None, None, None,16.84, None, None, None, None,24.06, None, None, None, None
+,,,,2018-05-30 20:00:00,,,22,, None, None,, None,, None,, None,,,,40.07, None, None, None,6.942,314.0, None, None,941.0, None, None, None, None, None, None, None,14.63, None, None, None, None,10.89, None, None, None, None
+,,,,2018-05-30 21:00:00,,,22,, None, None,, None,, None,, None,,,,41.59, None, None, None,10.16,318.4, None, None,941.0, None, None, None, None, None, None, None,13.66, None, None, None, None,9.05, None, None, None, None
+,,,,2018-05-30 22:00:00,,,22,, None, None,, None,, None,, None,,,,48.35, None, None, None,6.861,339.9, None, None,941.0, None, None, None, None, None, None, None,12.68, None, None, None, None,16.56, None, None, None, None
+,,,,2018-05-30 23:00:00,,,22,, None, None,, None,, None,, None,,,,59.66, None, None, None,10.74,359.3, None, None,941.0, None, None, None, None, None, None, None,10.58, None, None, None, None,14.27, None, None, None, None
+,,,,2018-05-31 00:00:00,,,22,, None, None,, None,, None,, None,,,,68.3, None, None, None,10.32,3.687, None, None,941.0, None, None, None, None, None, None, None,8.76, None, None, None, None,12.45, None, None, None, None
+,,,,2018-05-31 01:00:00,,,22,, None, None,, None,, None,, None,,,,65.39, None, None, None,7.759,13.06, None, None,941.0, None, None, None, None, None, None, None,8.68, None, None, None, None,13.2, None, None, None, None
+,,,,2018-05-31 02:00:00,,,22,, None, None,, None,, None,, None,,,,67.53, None, None, None,12.21,2.493, None, None,941.0, None, None, None, None, None, None, None,7.952, None, None, None, None,13.86, None, None, None, None
+,,,,2018-05-31 03:00:00,,,22,, None, None,, None,, None,, None,,,,74.03, None, None, None,10.0,10.57, None, None,941.0, None, None, None, None, None, None, None,6.859, None, None, None, None,9.53, None, None, None, None
+,,,,2018-05-31 04:00:00,,,22,, None, None,, None,, None,, None,,,,79.42, None, None, None,10.25,11.48, None, None,941.0, None, None, None, None, None, None, None,5.671, None, None, None, None,6.656, None, None, None, None
+,,,,2018-05-31 05:00:00,,,22,, None, None,, None,, None,, None,,,,79.35, None, None, None,9.42,9.28, None, None,941.0, None, None, None, None, None, None, None,5.684, None, None, None, None,8.04, None, None, None, None
+,,,,2018-05-31 06:00:00,,,22,, None, None,, None,, None,, None,,,,73.68, None, None, None,10.55,8.13, None, None,941.0, None, None, None, None, None, None, None,6.924, None, None, None, None,14.46, None, None, None, None
+,,,,2018-05-31 07:00:00,,,22,, None, None,, None,, None,, None,,,,77.72, None, None, None,8.61,9.17, None, None,942.0, None, None, None, None, None, None, None,7.353, None, None, None, None,11.34, None, None, None, None
+,,,,2018-05-31 08:00:00,,,22,, None, None,, None,, None,, None,,,,67.28, None, None, None,7.33,21.35, None, None,942.0, None, None, None, None, None, None, None,9.12, None, None, None, None,20.14, None, None, None, None
+,,,,2018-05-31 09:00:00,,,22,, None, None,, None,, None,, None,,,,64.01, None, None, None,6.228,35.83, None, None,942.0, None, None, None, None, None, None, None,10.51, None, None, None, None,21.91, None, None, None, None
+,,,,2018-05-31 10:00:00,,,22,, None, None,, None,, None,, None,,,,61.22, None, None, None,5.554,34.53, None, None,941.0, None, None, None, None, None, None, None,12.19, None, None, None, None,28.57, None, None, None, None
+,,,,2018-05-31 11:00:00,,,22,, None, None,, None,, None,, None,,,,49.64, None, None, None,6.398,27.92, None, None,941.0, None, None, None, None, None, None, None,13.3, None, None, None, None,28.31, None, None, None, None
+,,,,2018-05-31 12:00:00,,,22,, None, None,, None,, None,, None,,,,40.77, None, None, None,8.18,18.02, None, None,940.0, None, None, None, None, None, None, None,14.94, None, None, None, None,26.51, None, None, None, None
+,,,,2018-05-31 13:00:00,,,22,, None, None,, None,, None,, None,,,,37.54, None, None, None,8.78,32.68, None, None,940.0, None, None, None, None, None, None, None,16.35, None, None, None, None,22.87, None, None, None, None
+,,,,2018-05-31 14:00:00,,,22,, None, None,, None,, None,, None,,,,27.76, None, None, None,7.535,29.85, None, None,939.0, None, None, None, None, None, None, None,17.86, None, None, None, None,22.4, None, None, None, None
+,,,,2018-05-31 15:00:00,,,22,, None, None,, None,, None,, None,,,,22.18, None, None, None,7.568,23.67, None, None,939.0, None, None, None, None, None, None, None,19.4, None, None, None, None,40.3, None, None, None, None
+,,,,2018-05-31 16:00:00,,,22,, None, None,, None,, None,, None,,,,21.46, None, None, None,6.72,18.91, None, None,939.0, None, None, None, None, None, None, None,19.83, None, None, None, None,40.94, None, None, None, None
+,,,,2018-05-31 17:00:00,,,22,, None, None,, None,, None,, None,,,,24.31, None, None, None,5.295,183.4, None, None,938.0, None, None, None, None, None, None, None,19.95, None, None, None, None,69.3, None, None, None, None
+,,,,2018-05-31 18:00:00,,,22,, None, None,, None,, None,, None,,,,22.82, None, None, None,3.709,249.6, None, None,938.0, None, None, None, None, None, None, None,20.41, None, None, None, None,71.29, None, None, None, None
+,,,,2018-05-31 19:00:00,,,22,, None, None,, None,, None,, None,,,,22.12, None, None, None,6.122,342.8, None, None,939.0, None, None, None, None, None, None, None,19.87, None, None, None, None,28.98, None, None, None, None
+,,,,2018-05-31 20:00:00,,,22,, None, None,, None,, None,, None,,,,31.04, None, None, None,6.283,325.5, None, None,939.0, None, None, None, None, None, None, None,18.07, None, None, None, None,47.61, None, None, None, None
+,,,,2018-05-31 21:00:00,,,22,, None, None,, None,, None,, None,,,,33.34, None, None, None,12.2,259.6, None, None,940.0, None, None, None, None, None, None, None,16.83, None, None, None, None,13.55, None, None, None, None
+,,,,2018-05-31 22:00:00,,,22,, None, None,, None,, None,, None,,,,40.4, None, None, None,11.02,257.7, None, None,941.0, None, None, None, None, None, None, None,15.56, None, None, None, None,17.66, None, None, None, None
+,,,,2018-05-31 23:00:00,,,22,, None, None,, None,, None,, None,,,,46.72, None, None, None,13.35,228.1, None, None,941.0, None, None, None, None, None, None, None,14.46, None, None, None, None,14.71, None, None, None, None
+,,,,2018-06-01 00:00:00,,,22,, None, None,, None,, None,, None,,,,43.47, None, None, None,11.83,240.6, None, None,941.0, None, None, None, None, None, None, None,14.41, None, None, None, None,17.16, None, None, None, None
+,,,,2018-06-01 01:00:00,,,22,, None, None,, None,, None,, None,,,,48.23, None, None, None,9.96,228.4, None, None,942.0, None, None, None, None, None, None, None,13.58, None, None, None, None,17.19, None, None, None, None
+,,,,2018-06-01 02:00:00,,,22,, None, None,, None,, None,, None,,,,53.64, None, None, None,7.386,211.1, None, None,943.0, None, None, None, None, None, None, None,12.54, None, None, None, None,12.84, None, None, None, None
+,,,,2018-06-01 03:00:00,,,22,, None, None,, None,, None,, None,,,,53.41, None, None, None,8.58,210.6, None, None,943.0, None, None, None, None, None, None, None,12.22, None, None, None, None,10.4, None, None, None, None
+,,,,2018-06-01 04:00:00,,,22,, None, None,, None,, None,, None,,,,59.26, None, None, None,8.9,209.5, None, None,944.0, None, None, None, None, None, None, None,10.78, None, None, None, None,12.63, None, None, None, None
+,,,,2018-06-01 05:00:00,,,22,, None, None,, None,, None,, None,,,,55.67, None, None, None,14.22,200.5, None, None,945.0, None, None, None, None, None, None, None,11.61, None, None, None, None,10.25, None, None, None, None
+,,,,2018-06-01 06:00:00,,,22,, None, None,, None,, None,, None,,,,54.45, None, None, None,16.83,190.9, None, None,945.0, None, None, None, None, None, None, None,12.09, None, None, None, None,8.98, None, None, None, None
+,,,,2018-06-01 07:00:00,,,22,, None, None,, None,, None,, None,,,,53.28, None, None, None,21.12,184.6, None, None,946.0, None, None, None, None, None, None, None,12.6, None, None, None, None,10.45, None, None, None, None
+,,,,2018-06-01 08:00:00,,,22,, None, None,, None,, None,, None,,,,50.67, None, None, None,20.52,181.8, None, None,947.0, None, None, None, None, None, None, None,12.8, None, None, None, None,9.73, None, None, None, None
+,,,,2018-06-01 09:00:00,,,22,, None, None,, None,, None,, None,,,,45.73, None, None, None,19.1,182.2, None, None,947.0, None, None, None, None, None, None, None,14.28, None, None, None, None,10.61, None, None, None, None
+,,,,2018-06-01 10:00:00,,,22,, None, None,, None,, None,, None,,,,40.33, None, None, None,16.46,175.2, None, None,948.0, None, None, None, None, None, None, None,15.83, None, None, None, None,12.89, None, None, None, None
+,,,,2018-06-01 11:00:00,,,22,, None, None,, None,, None,, None,,,,37.68, None, None, None,16.16,177.0, None, None,948.0, None, None, None, None, None, None, None,16.95, None, None, None, None,13.68, None, None, None, None
+,,,,2018-06-01 12:00:00,,,22,, None, None,, None,, None,, None,,,,35.08, None, None, None,15.87,175.8, None, None,948.0, None, None, None, None, None, None, None,18.25, None, None, None, None,15.18, None, None, None, None
+,,,,2018-06-01 13:00:00,,,22,, None, None,, None,, None,, None,,,,30.45, None, None, None,17.05,180.8, None, None,947.0, None, None, None, None, None, None, None,19.34, None, None, None, None,17.05, None, None, None, None
+,,,,2018-06-01 14:00:00,,,22,, None, None,, None,, None,, None,,,,28.95, None, None, None,19.82,177.7, None, None,947.0, None, None, None, None, None, None, None,20.01, None, None, None, None,12.26, None, None, None, None
+,,,,2018-06-01 15:00:00,,,22,, None, None,, None,, None,, None,,,,24.6, None, None, None,21.0,169.3, None, None,948.0, None, None, None, None, None, None, None,21.06, None, None, None, None,14.45, None, None, None, None
+,,,,2018-06-01 16:00:00,,,22,, None, None,, None,, None,, None,,,,24.0, None, None, None,23.28,173.4, None, None,948.0, None, None, None, None, None, None, None,20.07, None, None, None, None,11.52, None, None, None, None
+,,,,2018-06-01 17:00:00,,,22,, None, None,, None,, None,, None,,,,24.34, None, None, None,25.14,186.0, None, None,948.0, None, None, None, None, None, None, None,20.55, None, None, None, None,17.91, None, None, None, None
+,,,,2018-06-01 18:00:00,,,22,, None, None,, None,, None,, None,,,,20.82, None, None, None,20.93,192.9, None, None,948.0, None, None, None, None, None, None, None,20.19, None, None, None, None,19.93, None, None, None, None
+,,,,2018-06-01 19:00:00,,,22,, None, None,, None,, None,, None,,,,24.1, None, None, None,19.4,182.5, None, None,949.0, None, None, None, None, None, None, None,18.74, None, None, None, None,9.58, None, None, None, None
+,,,,2018-06-01 20:00:00,,,22,, None, None,, None,, None,, None,,,,26.34, None, None, None,18.9,211.7, None, None,949.0, None, None, None, None, None, None, None,17.04, None, None, None, None,18.11, None, None, None, None
+,,,,2018-06-01 21:00:00,,,22,, None, None,, None,, None,, None,,,,31.58, None, None, None,17.47,227.0, None, None,950.0, None, None, None, None, None, None, None,16.04, None, None, None, None,12.47, None, None, None, None
+,,,,2018-06-01 22:00:00,,,22,, None, None,, None,, None,, None,,,,33.8, None, None, None,11.62,232.0, None, None,951.0, None, None, None, None, None, None, None,15.38, None, None, None, None,22.38, None, None, None, None
+,,,,2018-06-01 23:00:00,,,22,, None, None,, None,, None,, None,,,,35.59, None, None, None,12.88,213.5, None, None,952.0, None, None, None, None, None, None, None,14.9, None, None, None, None,26.56, None, None, None, None
+,,,,2018-06-02 00:00:00,,,22,, None, None,, None,, None,, None,,,,35.92, None, None, None,14.1,199.9, None, None,952.0, None, None, None, None, None, None, None,14.2, None, None, None, None,15.3, None, None, None, None
+,,,,2018-06-02 01:00:00,,,22,, None, None,, None,, None,, None,,,,41.17, None, None, None,16.51,211.9, None, None,953.0, None, None, None, None, None, None, None,13.13, None, None, None, None,14.48, None, None, None, None
+,,,,2018-06-02 02:00:00,,,22,, None, None,, None,, None,, None,,,,43.31, None, None, None,11.55,197.0, None, None,954.0, None, None, None, None, None, None, None,13.33, None, None, None, None,11.16, None, None, None, None
+,,,,2018-06-02 03:00:00,,,22,, None, None,, None,, None,, None,,,,45.8, None, None, None,10.0,215.1, None, None,954.0, None, None, None, None, None, None, None,12.67, None, None, None, None,14.61, None, None, None, None
+,,,,2018-06-02 04:00:00,,,22,, None, None,, None,, None,, None,,,,51.55, None, None, None,6.859,244.4, None, None,954.0, None, None, None, None, None, None, None,11.72, None, None, None, None,19.91, None, None, None, None
+,,,,2018-06-02 05:00:00,,,22,, None, None,, None,, None,, None,,,,55.24, None, None, None,3.726,264.0, None, None,954.0, None, None, None, None, None, None, None,10.94, None, None, None, None,59.02, None, None, None, None
+,,,,2018-06-02 06:00:00,,,22,, None, None,, None,, None,, None,,,,52.17, None, None, None,8.54,1.007, None, None,955.0, None, None, None, None, None, None, None,11.76, None, None, None, None,19.07, None, None, None, None
+,,,,2018-06-02 07:00:00,,,22,, None, None,, None,, None,, None,,,,54.83, None, None, None,7.172,11.83, None, None,955.0, None, None, None, None, None, None, None,12.45, None, None, None, None,11.47, None, None, None, None
+,,,,2018-06-02 08:00:00,,,22,, None, None,, None,, None,, None,,,,51.89, None, None, None,6.26,25.23, None, None,955.0, None, None, None, None, None, None, None,13.4, None, None, None, None,16.38, None, None, None, None
+,,,,2018-06-02 09:00:00,,,22,, None, None,, None,, None,, None,,,,40.06, None, None, None,4.424,62.27, None, None,955.0, None, None, None, None, None, None, None,15.61, None, None, None, None,58.31, None, None, None, None
+,,,,2018-06-02 10:00:00,,,22,, None, None,, None,, None,, None,,,,42.23, None, None, None,5.454,143.8, None, None,955.0, None, None, None, None, None, None, None,16.42, None, None, None, None,38.91, None, None, None, None
+,,,,2018-06-02 11:00:00,,,22,, None, None,, None,, None,, None,,,,34.39, None, None, None,9.17,179.1, None, None,954.0, None, None, None, None, None, None, None,17.82, None, None, None, None,29.16, None, None, None, None
+,,,,2018-06-02 12:00:00,,,22,, None, None,, None,, None,, None,,,,29.2, None, None, None,6.968,184.9, None, None,954.0, None, None, None, None, None, None, None,19.66, None, None, None, None,52.76, None, None, None, None
+,,,,2018-06-02 13:00:00,,,22,, None, None,, None,, None,, None,,,,30.8, None, None, None,6.497,76.53, None, None,953.0, None, None, None, None, None, None, None,20.25, None, None, None, None,69.47, None, None, None, None
+,,,,2018-06-02 14:00:00,,,22,, None, None,, None,, None,, None,,,,28.3, None, None, None,6.525,225.4, None, None,953.0, None, None, None, None, None, None, None,20.94, None, None, None, None,46.19, None, None, None, None
+,,,,2018-06-02 15:00:00,,,22,, None, None,, None,, None,, None,,,,25.4, None, None, None,5.574,123.1, None, None,952.0, None, None, None, None, None, None, None,22.35, None, None, None, None,68.54, None, None, None, None
+,,,,2018-06-02 16:00:00,,,22,, None, None,, None,, None,, None,,,,22.88, None, None, None,6.462,196.8, None, None,952.0, None, None, None, None, None, None, None,23.36, None, None, None, None,53.87, None, None, None, None
+,,,,2018-06-02 17:00:00,,,22,, None, None,, None,, None,, None,,,,22.99, None, None, None,7.191,329.2, None, None,951.0, None, None, None, None, None, None, None,24.2, None, None, None, None,69.09, None, None, None, None
+,,,,2018-06-02 18:00:00,,,22,, None, None,, None,, None,, None,,,,24.85, None, None, None,7.382,267.6, None, None,950.0, None, None, None, None, None, None, None,23.07, None, None, None, None,67.59, None, None, None, None
+,,,,2018-06-02 19:00:00,,,22,, None, None,, None,, None,, None,,,,25.54, None, None, None,8.46,332.5, None, None,950.0, None, None, None, None, None, None, None,22.65, None, None, None, None,16.9, None, None, None, None
+,,,,2018-06-02 20:00:00,,,22,, None, None,, None,, None,, None,,,,30.05, None, None, None,8.98,291.7, None, None,950.0, None, None, None, None, None, None, None,20.2, None, None, None, None,22.34, None, None, None, None
+,,,,2018-06-02 21:00:00,,,22,, None, None,, None,, None,, None,,,,32.67, None, None, None,7.939,298.7, None, None,950.0, None, None, None, None, None, None, None,18.89, None, None, None, None,19.93, None, None, None, None
+,,,,2018-06-02 22:00:00,,,22,, None, None,, None,, None,, None,,,,32.85, None, None, None,6.806,293.1, None, None,950.0, None, None, None, None, None, None, None,18.42, None, None, None, None,28.79, None, None, None, None
+,,,,2018-06-02 23:00:00,,,22,, None, None,, None,, None,, None,,,,37.38, None, None, None,3.614,8.34, None, None,949.0, None, None, None, None, None, None, None,17.18, None, None, None, None,54.74, None, None, None, None
+,,,,2018-06-03 00:00:00,,,22,, None, None,, None,, None,, None,,,,47.69, None, None, None,8.25,350.5, None, None,949.0, None, None, None, None, None, None, None,15.01, None, None, None, None,30.59, None, None, None, None
+,,,,2018-06-03 01:00:00,,,22,, None, None,, None,, None,, None,,,,48.49, None, None, None,8.61,4.196, None, None,949.0, None, None, None, None, None, None, None,14.59, None, None, None, None,14.04, None, None, None, None
+,,,,2018-06-03 02:00:00,,,22,, None, None,, None,, None,, None,,,,56.05, None, None, None,8.81,6.289, None, None,948.0, None, None, None, None, None, None, None,13.09, None, None, None, None,15.06, None, None, None, None
+,,,,2018-06-03 03:00:00,,,22,, None, None,, None,, None,, None,,,,57.89, None, None, None,8.85,10.1, None, None,948.0, None, None, None, None, None, None, None,12.63, None, None, None, None,12.2, None, None, None, None
+,,,,2018-06-03 04:00:00,,,22,, None, None,, None,, None,, None,,,,60.23, None, None, None,7.761,11.96, None, None,948.0, None, None, None, None, None, None, None,12.17, None, None, None, None,9.41, None, None, None, None
+,,,,2018-06-03 05:00:00,,,22,, None, None,, None,, None,, None,,,,61.78, None, None, None,7.367,3.512, None, None,948.0, None, None, None, None, None, None, None,11.87, None, None, None, None,8.74, None, None, None, None
+,,,,2018-06-03 06:00:00,,,22,, None, None,, None,, None,, None,,,,61.69, None, None, None,6.96,5.631, None, None,948.0, None, None, None, None, None, None, None,12.23, None, None, None, None,17.41, None, None, None, None
+,,,,2018-06-03 08:00:00,,,22,, None, None,, None,, None,, None,,,,59.05, None, None, None,5.843,15.63, None, None,948.0, None, None, None, None, None, None, None,12.92, None, None, None, None,13.48, None, None, None, None
+,,,,2018-06-03 09:00:00,,,22,, None, None,, None,, None,, None,,,,61.35, None, None, None,5.391,16.05, None, None,947.0, None, None, None, None, None, None, None,14.04, None, None, None, None,33.73, None, None, None, None
+,,,,2018-06-03 10:00:00,,,22,, None, None,, None,, None,, None,,,,56.89, None, None, None,6.367,24.51, None, None,947.0, None, None, None, None, None, None, None,14.22, None, None, None, None,20.75, None, None, None, None
+,,,,2018-06-03 11:00:00,,,22,, None, None,, None,, None,, None,,,,51.49, None, None, None,12.89,355.8, None, None,946.0, None, None, None, None, None, None, None,15.63, None, None, None, None,17.48, None, None, None, None
+,,,,2018-06-03 12:00:00,,,22,, None, None,, None,, None,, None,,,,53.71, None, None, None,14.62,351.6, None, None,946.0, None, None, None, None, None, None, None,15.94, None, None, None, None,16.39, None, None, None, None
+,,,,2018-06-03 13:00:00,,,22,, None, None,, None,, None,, None,,,,60.73, None, None, None,16.03,353.3, None, None,945.0, None, None, None, None, None, None, None,16.16, None, None, None, None,13.55, None, None, None, None
+,,,,2018-06-03 14:00:00,,,22,, None, None,, None,, None,, None,,,,56.12, None, None, None,17.45,355.3, None, None,944.0, None, None, None, None, None, None, None,16.68, None, None, None, None,16.39, None, None, None, None
+,,,,2018-06-03 15:00:00,,,22,, None, None,, None,, None,, None,,,,63.12, None, None, None,14.36,348.1, None, None,944.0, None, None, None, None, None, None, None,16.24, None, None, None, None,18.48, None, None, None, None
+,,,,2018-06-03 16:00:00,,,22,, None, None,, None,, None,, None,,,,78.8, None, None, None,8.9,12.77, None, None,943.0, None, None, None, None, None, None, None,15.03, None, None, None, None,21.14, None, None, None, None
+,,,,2018-06-03 17:00:00,,,22,, None, None,, None,, None,, None,,,,78.65, None, None, None,4.642,45.09, None, None,944.0, None, None, None, None, None, None, None,14.74, None, None, None, None,45.04, None, None, None, None
+,,,,2018-06-03 18:00:00,,,22,, None, None,, None,, None,, None,,,,86.1, None, None, None,5.087,331.7, None, None,944.0, None, None, None, None, None, None, None,13.6, None, None, None, None,26.86, None, None, None, None
+,,,,2018-06-03 19:00:00,,,22,, None, None,, None,, None,, None,,,,90.0, None, None, None,5.543,19.11, None, None,944.0, None, None, None, None, None, None, None,12.65, None, None, None, None,34.12, None, None, None, None
+,,,,2018-06-03 20:00:00,,,22,, None, None,, None,, None,, None,,,,91.1, None, None, None,6.185,6.786, None, None,943.0, None, None, None, None, None, None, None,12.48, None, None, None, None,12.42, None, None, None, None
+,,,,2018-06-03 21:00:00,,,22,, None, None,, None,, None,, None,,,,89.7, None, None, None,3.092,4.47, None, None,944.0, None, None, None, None, None, None, None,12.37, None, None, None, None,63.57, None, None, None, None
+,,,,2018-06-03 22:00:00,,,22,, None, None,, None,, None,, None,,,,90.7, None, None, None,3.755,2.404, None, None,944.0, None, None, None, None, None, None, None,12.18, None, None, None, None,27.51, None, None, None, None
+,,,,2018-06-03 23:00:00,,,22,, None, None,, None,, None,, None,,,,89.6, None, None, None,4.03,340.2, None, None,944.0, None, None, None, None, None, None, None,11.8, None, None, None, None,68.01, None, None, None, None

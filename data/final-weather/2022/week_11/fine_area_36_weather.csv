@@ -1,0 +1,334 @@
+RELATIVE_HUMIDITY1,STANDARD_SNOW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,min_air_temp_snc_last_reset,DEW_POINT,ATMOSPHERIC_PRESSURE,avg_wnd_dir_10m_pst10mts,ACTUAL_WIND_DIRECTION,MAXIMUM_AIR_TEMPERATURE,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE2,CURRENT_AIR_TEMPERATURE1,PRECIPITATION_NEW,max_air_temp_snc_last_reset,rel_hum,ACTUAL_WIND_SPEED,WIND_DIRECTION_STD_DEVIATION1,avg_wnd_spd_10m_pst10mts,air_temp,pcpn_amt_pst1hr,snwfl_amt_pst1hr,time,stn_pres,week_of_year,PRECIP_DETECTOR_RATIO,mslp
+51.61, None, None, None,4.235,60.87,-12.0,-5.7,-12.0, None, None, None, None, None, None, None, 15.0, None,-4.444, None,-4.4,52.0, None,24.42, None,-4.4, 0.8, None,2022-03-12 00:00:00, None,11,,
+51.12, None, None, None,3.295,48.52,-12.0,-5.7,-12.0, None, None, None, None, None, None, None, 15.6, None,-3.91, None,-3.9,51.0, None,30.35, None,-3.9, 0.6, None,2022-03-12 01:00:00, None,11,,
+50.7, None, None, None,0.726,227.3,-11.0,-5.7,-11.0, None, None, None, None, None, None, None, 16.5, None,-3.34, None,-3.3,51.0, None,71.0, None,-3.3, 0.9, None,2022-03-12 02:00:00, None,11,,
+50.77, None, None, None,2.182,233.7,-11.0,-5.7,-11.0, None, None, None, None, None, None, None, 17.1, None,-3.3, None,-3.3,51.0, None,52.1, None,-3.3, 0.6, None,2022-03-12 03:00:00, None,11,,
+50.95, None, None, None,2.211,237.3,-11.0,-5.7,-11.0, None, None, None, None, None, None, None, 17.8, None,-3.436, None,-3.3,51.0, None,54.16, None,-3.4, 0.7, None,2022-03-12 04:00:00, None,11,,
+50.91, None, None, None,1.917,228.9,-11.0,-5.7,-11.0, None, None, None, None, None, None, None, 18.0, None,-3.398, None,-3.3,51.0, None,55.11, None,-3.4, 0.2, None,2022-03-12 05:00:00, None,11,,
+50.82, None, None, None,3.47,214.3,-11.0,-5.7,-11.0, None, None, None, None, None, None, None, 18.7, None,-3.223, None,-3.2,51.0, None,32.58, None,-3.2, 0.7, None,2022-03-12 06:00:00, None,11,,
+50.96, None, None, None,3.446,247.0,-11.0,-3.3,-11.0, None, None, None, None, None, None, None, 19.7, None,-3.282, None,-3.2,51.0, None,21.24, None,-3.3, 1.0, None,2022-03-12 07:00:00, None,11,,
+50.76, None, None, None,3.138,256.0,-11.0,-3.3,-11.0, None, None, None, None, None, None, None, 20.1, None,-2.953, None,-3.0,51.0, None,22.96, None,-3.0, 0.4, None,2022-03-12 08:00:00, None,11,,
+50.54, None, None, None,2.476,260.8,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 20.1, None,-2.421, None,-2.4,51.0, None,33.82, None,-2.4, 0.0, None,2022-03-12 09:00:00, None,11,,
+50.25, None, None, None,1.942,223.1,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 20.4, None,-1.623, None,-1.6,50.0, None,48.56, None,-1.6, 0.3, None,2022-03-12 10:00:00, None,11,,
+50.1, None, None, None,1.667,203.2,-9.0,-3.3,-9.0, None, None, None, None, None, None, None, 20.4, None,-1.229, None,-1.2,50.0, None,50.02, None,-1.2, 0.1, None,2022-03-12 11:00:00, None,11,,
+48.62, None, None, None,2.078,54.89,-9.0,-3.3,-9.0, None, None, None, None, None, None, None, 19.9, None,-0.931, None,-0.9,49.0, None,46.46, None,-0.9, 0.0, None,2022-03-12 12:00:00, None,11,,
+42.01, None, None, None,4.398,53.27,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 18.9, None,-0.366, None,-0.4,42.0, None,20.46, None,-0.4, 0.0, None,2022-03-12 13:00:00, None,11,,
+42.84, None, None, None,1.376,77.2,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 18.1, None,-0.481, None,-0.3,43.0, None,48.39, None,-0.5, 0.5, None,2022-03-12 14:00:00, None,11,,
+45.42, None, None, None,4.6,64.28,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 17.5, None,-0.558, None,-0.3,45.0, None,13.81, None,-0.6, 0.5, None,2022-03-12 15:00:00, None,11,,
+45.43, None, None, None,9.32,61.5,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 17.2, None,-0.897, None,-0.3,45.0, None,8.65, None,-0.9, 0.8, None,2022-03-12 16:00:00, None,11,,
+45.34, None, None, None,10.73,65.83,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 16.7, None,-1.28, None,-0.3,45.0, None,11.04, None,-1.3, 0.7, None,2022-03-12 17:00:00, None,11,,
+49.56, None, None, None,12.17,63.76,-10.0,-3.3,-10.0, None, None, None, None, None, None, None, 16.1, None,-2.039, None,-0.3,50.0, None,9.23, None,-2.0, 0.4, None,2022-03-12 18:00:00, None,11,,
+50.96, None, None, None,15.05,60.55,-10.0,-2.4,-10.0, None, None, None, None, None, None, None, 13.7, None,-2.422, None,-2.0,51.0, None,10.71, None,-2.4, 0.0, None,2022-03-12 19:00:00, None,11,,
+51.07, None, None, None,14.56,64.42,-11.0,-2.9,-11.0, None, None, None, None, None, None, None, 11.8, None,-2.808, None,-2.0,51.0, None,10.0, None,-2.8, 0.0, None,2022-03-12 20:00:00, None,11,,
+50.88, None, None, None,15.14,62.43,-11.0,-2.9,-11.0, None, None, None, None, None, None, None, 10.4, None,-2.914, None,-2.0,51.0, None,8.59, None,-2.9, 0.0, None,2022-03-12 21:00:00, None,11,,
+50.62, None, None, None,14.52,59.97,-11.0,-3.0,-11.0, None, None, None, None, None, None, None, 9.8, None,-2.751, None,-2.0,51.0, None,10.03, None,-2.8, 0.0, None,2022-03-12 22:00:00, None,11,,
+50.41, None, None, None,10.33,66.58,-10.0,-3.0,-10.0, None, None, None, None, None, None, None, 9.1, None,-2.403, None,-2.0,50.0, None,13.4, None,-2.4, 0.1, None,2022-03-12 23:00:00, None,11,,
+50.41, None, None, None,9.79,66.26,-10.0,-3.0,-10.0, None, None, None, None, None, None, None, 8.5, None,-2.345, None,-2.0,50.0, None,12.25, None,-2.3, 0.2, None,2022-03-13 00:00:00, None,11,,
+50.4, None, None, None,13.63,58.97,-10.0,-3.0,-10.0, None, None, None, None, None, None, None, 7.9, None,-2.307, None,-2.0,50.0, None,9.26, None,-2.3, 0.0, None,2022-03-13 01:00:00, None,11,,
+50.58, None, None, None,12.02,60.21,-11.0,-3.0,-11.0, None, None, None, None, None, None, None, None, None,-2.673, None,-2.0,51.0, None,8.29, None,-2.7, None, None,2022-03-13 04:00:00, None,11,,
+50.55, None, None, None,8.84,64.94,-11.0,-3.0,-11.0, None, None, None, None, None, None, None, None, None,-2.654, None,-2.0,51.0, None,9.73, None,-2.7, 0.4, None,2022-03-13 05:00:00, None,11,,
+50.46, None, None, None,7.67,70.7,-10.0,-3.0,-10.0, None, None, None, None, None, None, None, None, None,-2.518, None,-2.0,50.0, None,11.36, None,-2.5, 0.0, None,2022-03-13 06:00:00, None,11,,
+50.44, None, None, None,5.678,68.16,-10.0,-2.5,-10.0, None, None, None, None, None, None, None, None, None,-2.462, None,-2.5,50.0, None,13.74, None,-2.5, 0.2, None,2022-03-13 07:00:00, None,11,,
+50.35, None, None, None,1.232,54.89,-10.0,-2.5,-10.0, None, None, None, None, None, None, None, None, None,-2.221, None,-2.2,50.0, None,41.58, None,-2.2, 0.0, None,2022-03-13 08:00:00, None,11,,
+50.32, None, None, None,0.272,64.83,-10.0,-2.5,-10.0, None, None, None, None, None, None, None, None, None,-2.114, None,-2.1,50.0, None,74.6, None,-2.1, 0.0, None,2022-03-13 09:00:00, None,11,,
+50.24, None, None, None,0.335,186.6,-10.0,-2.5,-10.0, None, None, None, None, None, None, None, None, None,-1.807, None,-1.8,50.0, None,73.3, None,-1.8, 0.0, None,2022-03-13 10:00:00, None,11,,
+50.65, None, None, None,0.694,355.5,-8.0,-2.5,-8.0, None, None, None, None, None, None, None, None, None,-0.482, None,-0.5,51.0, None,64.82, None,-0.5, 0.0, None,2022-03-13 11:00:00, None,11,,
+50.54, None, None, None,1.37,220.8,-9.0,-2.5,-9.0, None, None, None, None, None, None, None, None, None,0.086, None,0.1,51.0, None,59.84, None,0.1, -0.1, None,2022-03-13 12:00:00, None,11,,
+49.72, None, None, None,3.13,226.1,-9.0,-2.5,-9.0, None, None, None, None, None, None, None, None, None,0.392, None,0.5,50.0, None,42.61, None,0.4, 0.0, None,2022-03-13 13:00:00, None,11,,
+49.5, None, None, None,4.344,205.1,-8.0,-2.5,-8.0, None, None, None, None, None, None, None, None, None,0.888, None,1.0,50.0, None,31.03, None,0.9, 0.0, None,2022-03-13 14:00:00, None,11,,
+48.12, None, None, None,2.99,203.6,-9.0,-2.5,-9.0, None, None, None, None, None, None, None, None, None,0.821, None,1.1,48.0, None,35.45, None,0.8, 0.2, None,2022-03-13 15:00:00, None,11,,
+49.98, None, None, None,2.353,181.1,-9.0,-2.5,-9.0, None, None, None, None, None, None, None, None, None,0.563, None,1.1,50.0, None,38.52, None,0.6, 0.0, None,2022-03-13 16:00:00, None,11,,
+50.11, None, None, None,1.971,84.7,-9.0,-2.5,-9.0, None, None, None, None, None, None, None, None, None,0.563, None,1.1,50.0, None,46.0, None,0.6, 0.0, None,2022-03-13 17:00:00, None,11,,
+50.08, None, None, None,8.18,72.8,-9.0,-2.5,-9.0, None, None, None, None, None, None, None, None, None,0.198, None,1.1,50.0, None,17.9, None,0.2, 0.1, None,2022-03-13 18:00:00, None,11,,
+49.91, None, None, None,9.01,65.24,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,-0.099, None,0.2,50.0, None,17.37, None,-0.1, 0.0, None,2022-03-13 19:00:00, None,11,,
+49.76, None, None, None,8.65,70.4,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.167, None,0.2,50.0, None,11.92, None,-0.2, 0.0, None,2022-03-13 20:00:00, None,11,,
+49.72, None, None, None,5.471,62.91,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.138, None,0.2,50.0, None,11.84, None,-0.1, 0.0, None,2022-03-13 21:00:00, None,11,,
+49.73, None, None, None,0.86,39.59,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.101, None,0.2,50.0, None,52.43, None,-0.1, 0.0, None,2022-03-13 22:00:00, None,11,,
+49.71, None, None, None,2.158,187.1,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.013, None,0.2,50.0, None,52.38, None,0.0, 0.0, None,2022-03-13 23:00:00, None,11,,
+49.69, None, None, None,1.501,214.9,-9.0,-0.2,-9.0, None, None, None, None, None, None, None, None, None,0.008, None,0.2,50.0, None,61.33, None,0.0, 0.2, None,2022-03-14 00:00:00, None,11,,
+49.81, None, None, None,1.259,192.9,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.108, None,0.2,50.0, None,68.79, None,-0.1, 0.2, None,2022-03-14 01:00:00, None,11,,
+50.03, None, None, None,0.337,200.2,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.167, None,0.2,50.0, None,78.0, None,-0.2, 0.4, None,2022-03-14 02:00:00, None,11,,
+50.15, None, None, None,1.218,120.5,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.318, None,0.2,50.0, None,68.69, None,-0.3, 0.7, None,2022-03-14 03:00:00, None,11,,
+50.1, None, None, None,0.855,123.1,-9.0,-0.6,-9.0, None, None, None, None, None, None, None, None, None,-0.549, None,0.2,50.0, None,72.9, None,-0.5, 1.0, None,2022-03-14 04:00:00, None,11,,
+50.49, None, None, None,1.508,52.87,-8.0,-0.6,-8.0, None, None, None, None, None, None, None, None, None,-0.223, None,0.2,50.0, None,62.28, None,-0.2, 0.0, None,2022-03-14 05:00:00, None,11,,
+51.01, None, None, None,1.707,65.25,-8.0,-0.6,-8.0, None, None, None, None, None, None, None, None, None,-0.067, None,0.2,51.0, None,55.87, None,-0.1, 0.0, None,2022-03-14 06:00:00, None,11,,
+51.49, None, None, None,2.484,55.23,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,-0.03, None,0.0,51.0, None,46.11, None,0.0, -0.1, None,2022-03-14 07:00:00, None,11,,
+51.96, None, None, None,1.006,83.3,-9.0,-0.1,-9.0, None, None, None, None, None, None, None, None, None,0.026, None,0.0,52.0, None,65.17, None,0.0, 0.1, None,2022-03-14 08:00:00, None,11,,
+52.6, None, None, None,2.8,62.4,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,0.142, None,0.2,53.0, None,40.37, None,0.1, 0.0, None,2022-03-14 09:00:00, None,11,,
+53.77, None, None, None,1.663,67.26,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,0.496, None,0.5,54.0, None,54.19, None,0.5, 0.1, None,2022-03-14 10:00:00, None,11,,
+53.35, None, None, None,3.442,65.13,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,0.515, None,0.6,53.0, None,24.45, None,0.5, 0.0, None,2022-03-14 11:00:00, None,11,,
+53.43, None, None, None,4.459,68.54,-7.0,-0.1,-7.0, None, None, None, None, None, None, None, None, None,0.917, None,0.9,53.0, None,18.53, None,0.9, 0.0, None,2022-03-14 12:00:00, None,11,,
+50.64, None, None, None,6.58,69.34,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,1.454, None,1.5,51.0, None,16.42, None,1.5, -0.1, None,2022-03-14 13:00:00, None,11,,
+49.23, None, None, None,6.295,72.5,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,1.666, None,1.8,49.0, None,14.64, None,1.7, 0.1, None,2022-03-14 14:00:00, None,11,,
+49.32, None, None, None,6.544,67.56,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,1.379, None,1.8,49.0, None,13.73, None,1.4, 0.1, None,2022-03-14 15:00:00, None,11,,
+49.41, None, None, None,7.11,75.8,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,0.967, None,1.8,49.0, None,15.55, None,1.0, 0.0, None,2022-03-14 16:00:00, None,11,,
+49.53, None, None, None,9.74,70.7,-9.0,-0.1,-9.0, None, None, None, None, None, None, None, None, None,0.525, None,1.8,50.0, None,17.72, None,0.5, 0.2, None,2022-03-14 17:00:00, None,11,,
+49.76, None, None, None,14.65,58.67,-9.0,-0.1,-9.0, None, None, None, None, None, None, None, None, None,0.438, None,1.8,50.0, None,11.8, None,0.4, 0.0, None,2022-03-14 18:00:00, None,11,,
+50.04, None, None, None,15.76,59.88,-9.0,0.2,-9.0, None, None, None, None, None, None, None, None, None,0.284, None,0.4,50.0, None,11.4, None,0.3, -0.1, None,2022-03-14 19:00:00, None,11,,
+50.49, None, None, None,12.53,67.64,-9.0,0.2,-9.0, None, None, None, None, None, None, None, None, None,0.255, None,0.4,50.0, None,17.15, None,0.3, 0.0, None,2022-03-14 20:00:00, None,11,,
+50.7, None, None, None,13.42,58.71,-9.0,0.2,-9.0, None, None, None, None, None, None, None, None, None,0.218, None,0.4,51.0, None,11.62, None,0.2, 0.0, None,2022-03-14 21:00:00, None,11,,
+50.55, None, None, None,9.38,70.3,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,-0.061, None,0.4,51.0, None,18.38, None,-0.1, 0.9, None,2022-03-14 22:00:00, None,11,,
+50.62, None, None, None,7.28,69.41,-8.0,-0.4,-8.0, None, None, None, None, None, None, None, None, None,-0.119, None,0.4,51.0, None,15.0, None,-0.1, 1.7, None,2022-03-14 23:00:00, None,11,,
+50.66, None, None, None,8.87,61.51,-8.0,-0.4,-8.0, None, None, None, None, None, None, None, None, None,-0.147, None,0.4,51.0, None,11.94, None,-0.1, 1.6, None,2022-03-15 00:00:00, None,11,,
+50.72, None, None, None,4.712,69.08,-8.0,-0.4,-8.0, None, None, None, None, None, None, None, None, None,-0.148, None,0.4,51.0, None,16.47, None,-0.1, 0.8, None,2022-03-15 01:00:00, None,11,,
+50.4, None, None, None,2.75,56.96,-8.0,-0.5,-8.0, None, None, None, None, None, None, None, None, None,-0.405, None,0.4,50.0, None,25.62, None,-0.4, 1.3, None,2022-03-15 02:00:00, None,11,,
+50.47, None, None, None,0.929,34.95,-8.0,-0.5,-8.0, None, None, None, None, None, None, None, None, None,-0.378, None,0.4,50.0, None,56.64, None,-0.4, 1.0, None,2022-03-15 03:00:00, None,11,,
+50.42, None, None, None,1.941,41.37,-8.0,-0.5,-8.0, None, None, None, None, None, None, None, None, None,-0.423, None,0.4,50.0, None,39.98, None,-0.4, 0.8, None,2022-03-15 04:00:00, None,11,,
+50.42, None, None, None,1.967,51.61,-8.0,-0.5,-8.0, None, None, None, None, None, None, None, None, None,-0.415, None,0.4,50.0, None,32.4, None,-0.4, 0.7, None,2022-03-15 05:00:00, None,11,,
+50.58, None, None, None,2.809,50.1,-8.0,-0.5,-8.0, None, None, None, None, None, None, None, None, None,-0.291, None,0.4,51.0, None,26.65, None,-0.3, 0.0, None,2022-03-15 06:00:00, None,11,,
+50.65, None, None, None,2.027,50.33,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.254, None,-0.2,51.0, None,36.72, None,-0.3, 0.0, None,2022-03-15 07:00:00, None,11,,
+50.66, None, None, None,3.241,59.16,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.263, None,-0.2,51.0, None,28.37, None,-0.3, 0.0, None,2022-03-15 08:00:00, None,11,,
+50.66, None, None, None,2.904,54.85,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.282, None,-0.2,51.0, None,22.7, None,-0.3, 0.9, None,2022-03-15 09:00:00, None,11,,
+50.57, None, None, None,1.227,220.7,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.33, None,-0.2,51.0, None,51.12, None,-0.3, 1.5, None,2022-03-15 10:00:00, None,11,,
+50.21, None, None, None,2.76,199.0,-9.0,-0.6,-9.0, None, None, None, None, None, None, None, None, None,-0.551, None,-0.2,50.0, None,44.11, None,-0.6, 2.0, None,2022-03-15 11:00:00, None,11,,
+50.01, None, None, None,2.303,187.7,-9.0,-0.6,-9.0, None, None, None, None, None, None, None, None, None,-0.598, None,-0.2,50.0, None,51.24, None,-0.6, 1.6, None,2022-03-15 12:00:00, None,11,,
+49.95, None, None, None,3.282,201.3,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,-0.54, None,-0.2,50.0, None,49.13, None,-0.5, 1.7, None,2022-03-15 13:00:00, None,11,,
+50.12, None, None, None,2.556,214.4,-8.0,-0.7,-8.0, None, None, None, None, None, None, None, None, None,-0.014, None,0.0,50.0, None,56.49, None,0.0, 2.0, None,2022-03-15 14:00:00, None,11,,
+50.2, None, None, None,3.914,200.1,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,0.505, None,0.5,50.0, None,43.72, None,0.5, -0.1, None,2022-03-15 15:00:00, None,11,,
+49.77, None, None, None,3.81,174.8,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,0.293, None,0.5,50.0, None,47.93, None,0.3, 0.7, None,2022-03-15 16:00:00, None,11,,
+49.81, None, None, None,4.367,180.3,-8.0,-0.7,-8.0, None, None, None, None, None, None, None, None, None,-0.09, None,0.5,50.0, None,49.83, None,-0.1, 0.9, None,2022-03-15 17:00:00, None,11,,
+49.73, None, None, None,8.02,200.9,-8.0,-0.7,-8.0, None, None, None, None, None, None, None, None, None,-0.158, None,0.5,50.0, None,34.16, None,-0.2, 1.7, None,2022-03-15 18:00:00, None,11,,
+49.85, None, None, None,5.153,239.6,-9.0,-0.6,-9.0, None, None, None, None, None, None, None, None, None,-0.532, None,-0.2,50.0, None,42.11, None,-0.5, 2.3, None,2022-03-15 19:00:00, None,11,,
+50.45, None, None, None,3.797,193.2,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,-0.676, None,-0.2,50.0, None,42.78, None,-0.7, 0.0, None,2022-03-15 20:00:00, None,11,,
+50.34, None, None, None,5.147,190.2,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,-0.521, None,-0.2,50.0, None,36.93, None,-0.5, 0.1, None,2022-03-15 21:00:00, None,11,,
+50.2, None, None, None,7.41,190.7,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,-0.609, None,-0.2,50.0, None,22.03, None,-0.6, 0.0, None,2022-03-15 22:00:00, None,11,,
+50.45, None, None, None,7.18,202.4,-9.0,-0.8,-9.0, None, None, None, None, None, None, None, None, None,-0.809, None,-0.2,50.0, None,27.2, None,-0.8, 0.0, None,2022-03-15 23:00:00, None,11,,
+50.54, None, None, None,3.641,194.2,-9.0,-0.9,-9.0, None, None, None, None, None, None, None, None, None,-0.865, None,-0.2,51.0, None,43.27, None,-0.9, 0.0, None,2022-03-16 00:00:00, None,11,,
+50.36, None, None, None,2.086,188.3,-9.0,-0.9,-9.0, None, None, None, None, None, None, None, None, None,-0.903, None,-0.2,50.0, None,56.12, None,-0.9, 0.1, None,2022-03-16 01:00:00, None,11,,
+50.5, None, None, None,4.3,200.7,-9.0,-1.2,-9.0, None, None, None, None, None, None, None, None, None,-1.151, None,-0.2,51.0, None,43.77, None,-1.2, 0.1, None,2022-03-16 02:00:00, None,11,,
+50.47, None, None, None,6.053,187.6,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, None, None,-1.268, None,-0.2,50.0, None,32.0, None,-1.3, 0.0, None,2022-03-16 03:00:00, None,11,,
+50.6, None, None, None,4.726,199.4,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, None, None,-1.334, None,-0.2,51.0, None,35.79, None,-1.3, 0.0, None,2022-03-16 04:00:00, None,11,,
+50.69, None, None, None,3.645,196.1,-9.0,-1.4,-9.0, None, None, None, None, None, None, None, None, None,-1.373, None,-0.2,51.0, None,43.71, None,-1.4, 0.0, None,2022-03-16 05:00:00, None,11,,
+50.69, None, None, None,2.858,199.0,-9.0,-1.5,-9.0, None, None, None, None, None, None, None, None, None,-1.47, None,-0.2,51.0, None,48.18, None,-1.5, 0.0, None,2022-03-16 06:00:00, None,11,,
+50.56, None, None, None,3.067,201.9,-10.0,-1.6,-10.0, None, None, None, None, None, None, None, None, None,-1.64, None,-1.5,51.0, None,48.98, None,-1.6, 0.1, None,2022-03-16 07:00:00, None,11,,
+50.7, None, None, None,3.336,197.1,-10.0,-1.7,-10.0, None, None, None, None, None, None, None, None, None,-1.709, None,-1.5,51.0, None,43.07, None,-1.7, 0.0, None,2022-03-16 08:00:00, None,11,,
+50.5, None, None, None,1.757,191.1,-9.0,-1.7,-9.0, None, None, None, None, None, None, None, None, None,-1.537, None,-1.5,51.0, None,58.89, None,-1.5, 0.0, None,2022-03-16 09:00:00, None,11,,
+47.57, None, None, None,2.148,204.9,-10.0,-1.7,-10.0, None, None, None, None, None, None, None, None, None,-1.046, None,-1.0,48.0, None,52.13, None,-1.0, 0.0, None,2022-03-16 10:00:00, None,11,,
+40.19, None, None, None,1.417,201.6,-11.0,-1.7,-11.0, None, None, None, None, None, None, None, None, None,-0.356, None,-0.4,40.0, None,62.24, None,-0.4, 0.0, None,2022-03-16 11:00:00, None,11,,
+40.88, None, None, None,1.287,224.6,-10.0,-1.7,-10.0, None, None, None, None, None, None, None, None, None,-0.071, None,0.0,41.0, None,65.39, None,-0.1, -0.1, None,2022-03-16 12:00:00, None,11,,
+38.07, None, None, None,2.541,210.1,-12.0,-1.7,-12.0, None, None, None, None, None, None, None, None, None,0.533, None,0.5,38.0, None,42.37, None,0.5, 0.0, None,2022-03-16 13:00:00, None,11,,
+27.21, None, None, None,1.455,198.6,-15.0,-1.7,-15.0, None, None, None, None, None, None, None, None, None,1.551, None,1.8,27.0, None,55.29, None,1.6, 0.0, None,2022-03-16 14:00:00, None,11,,
+29.5, None, None, None,1.219,240.4,-15.0,-1.7,-15.0, None, None, None, None, None, None, None, None, None,1.101, None,1.8,30.0, None,58.26, None,1.1, 0.0, None,2022-03-16 15:00:00, None,11,,
+30.57, None, None, None,0.179,279.4,-14.0,-1.7,-14.0, None, None, None, None, None, None, None, None, None,0.881, None,1.8,31.0, None,77.1, None,0.9, 0.0, None,2022-03-16 16:00:00, None,11,,
+30.9, None, None, None,0.447,181.4,-14.0,-1.7,-14.0, None, None, None, None, None, None, None, None, None,0.718, None,1.8,31.0, None,72.3, None,0.7, 0.0, None,2022-03-16 17:00:00, None,11,,
+29.91, None, None, None,1.529,40.45,-15.0,-1.7,-15.0, None, None, None, None, None, None, None, None, None,0.536, None,1.8,30.0, None,47.19, None,0.5, 0.0, None,2022-03-16 18:00:00, None,11,,
+49.42, None, None, None,3.828,79.5,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,-0.117, None,0.5,49.0, None,16.8, None,-0.1, 0.0, None,2022-03-16 19:00:00, None,11,,
+50.06, None, None, None,6.241,88.2,-9.0,-0.4,-9.0, None, None, None, None, None, None, None, None, None,-0.416, None,0.5,50.0, None,12.0, None,-0.4, 0.1, None,2022-03-16 20:00:00, None,11,,
+49.33, None, None, None,6.034,80.7,-9.0,-0.6,-9.0, None, None, None, None, None, None, None, None, None,-0.541, None,0.5,49.0, None,15.55, None,-0.5, 0.0, None,2022-03-16 21:00:00, None,11,,
+48.63, None, None, None,7.49,70.6,-9.0,-0.8,-9.0, None, None, None, None, None, None, None, None, None,-0.752, None,0.5,49.0, None,13.66, None,-0.8, 0.0, None,2022-03-16 22:00:00, None,11,,
+50.37, None, None, None,8.04,71.6,-9.0,-0.9,-9.0, None, None, None, None, None, None, None, None, None,-0.829, None,0.5,50.0, None,20.89, None,-0.8, 0.0, None,2022-03-16 23:00:00, None,11,,
+47.74, None, None, None,2.227,137.1,-10.0,-1.0,-10.0, None, None, None, None, None, None, None, None, None,-0.992, None,0.5,48.0, None,51.68, None,-1.0, 0.0, None,2022-03-17 00:00:00, None,11,,
+38.25, None, None, None,1.464,150.4,-12.0,-1.1,-12.0, None, None, None, None, None, None, None, None, None,-1.096, None,0.5,38.0, None,60.33, None,-1.1, 0.0, None,2022-03-17 01:00:00, None,11,,
+32.49, None, None, None,1.634,144.3,-15.0,-1.7,-15.0, None, None, None, None, None, None, None, None, None,-1.72, None,0.5,32.0, None,52.71, None,-1.7, 0.0, None,2022-03-17 02:00:00, None,11,,
+36.97, None, None, None,1.492,104.7,-14.0,-2.4,-14.0, None, None, None, None, None, None, None, None, None,-2.362, None,0.5,37.0, None,52.99, None,-2.4, 0.0, None,2022-03-17 03:00:00, None,11,,
+44.39, None, None, None,2.732,87.2,-12.0,-2.9,-12.0, None, None, None, None, None, None, None, None, None,-2.866, None,0.5,44.0, None,29.1, None,-2.9, -0.2, None,2022-03-17 04:00:00, None,11,,
+46.94, None, None, None,2.535,71.0,-11.0,-2.9,-11.0, None, None, None, None, None, None, None, None, None,-2.615, None,0.5,47.0, None,27.08, None,-2.6, 0.0, None,2022-03-17 05:00:00, None,11,,
+50.14, None, None, None,7.11,84.0,-11.0,-2.9,-11.0, None, None, None, None, None, None, None, None, None,-2.751, None,0.5,50.0, None,13.88, None,-2.8, 0.0, None,2022-03-17 06:00:00, None,11,,
+50.25, None, None, None,7.55,84.7,-11.0,-2.8,-11.0, None, None, None, None, None, None, None, None, None,-2.721, None,-2.7,50.0, None,12.4, None,-2.7, 0.0, None,2022-03-17 07:00:00, None,11,,
+50.88, None, None, None,9.83,68.72,-10.0,-2.8,-10.0, None, None, None, None, None, None, None, None, None,-2.432, None,-2.4,51.0, None,12.37, None,-2.4, 0.0, None,2022-03-17 08:00:00, None,11,,
+48.35, None, None, None,10.25,72.7,-10.0,-2.8,-10.0, None, None, None, None, None, None, None, None, None,-1.506, None,-1.5,48.0, None,12.08, None,-1.5, 0.0, None,2022-03-17 09:00:00, None,11,,
+40.26, None, None, None,10.37,60.76,-11.0,-2.8,-11.0, None, None, None, None, None, None, None, None, None,-0.307, None,-0.3,40.0, None,10.36, None,-0.3, 0.0, None,2022-03-17 10:00:00, None,11,,
+40.05, None, None, None,15.85,55.42,-11.0,-2.8,-11.0, None, None, None, None, None, None, None, None, None,-0.094, None,-0.1,40.0, None,11.22, None,-0.1, 0.0, None,2022-03-17 11:00:00, None,11,,
+35.32, None, None, None,11.89,58.36,-13.0,-2.8,-13.0, None, None, None, None, None, None, None, None, None,0.236, None,0.5,35.0, None,13.91, None,0.2, 0.0, None,2022-03-17 12:00:00, None,11,,
+42.6, None, None, None,4.644,54.58,-11.0,-2.8,-11.0, None, None, None, None, None, None, None, None, None,0.323, None,0.5,43.0, None,20.2, None,0.3, 0.3, None,2022-03-17 13:00:00, None,11,,
+49.23, None, None, None,4.646,41.09,-9.0,-2.8,-9.0, None, None, None, None, None, None, None, None, None,0.055, None,0.5,49.0, None,24.03, None,0.1, 1.0, None,2022-03-17 14:00:00, None,11,,
+49.72, None, None, None,0.268,244.4,-8.0,-2.8,-8.0, None, None, None, None, None, None, None, None, None,-0.051, None,0.5,50.0, None,74.7, None,-0.1, 1.5, None,2022-03-17 15:00:00, None,11,,
+50.3, None, None, None,0.871,243.6,-8.0,-2.8,-8.0, None, None, None, None, None, None, None, None, None,-0.3, None,0.5,50.0, None,59.72, None,-0.3, 1.3, None,2022-03-17 16:00:00, None,11,,
+50.4, None, None, None,0.874,197.4,-8.0,-2.8,-8.0, None, None, None, None, None, None, None, None, None,-0.376, None,0.5,50.0, None,58.17, None,-0.4, 1.2, None,2022-03-17 17:00:00, None,11,,
+50.39, None, None, None,0.0,325.2,-9.0,-2.8,-9.0, None, None, None, None, None, None, None, None, None,-0.493, None,0.5,50.0, None,48.98, None,-0.5, 1.2, None,2022-03-17 18:00:00, None,11,,
+50.35, None, None, None,0.0,350.4,-9.0,-0.7,-9.0, None, None, None, None, None, None, None, None, None,-0.704, None,-0.5,50.0, None,60.18, None,-0.7, 0.9, None,2022-03-17 19:00:00, None,11,,
+50.15, None, None, None,0.002,223.6,-9.0,-0.8,-9.0, None, None, None, None, None, None, None, None, None,-0.723, None,-0.5,50.0, None,62.83, None,-0.7, 0.7, None,2022-03-17 20:00:00, None,11,,
+50.04, None, None, None,0.001,339.5,-9.0,-0.8,-9.0, None, None, None, None, None, None, None, None, None,-0.761, None,-0.5,50.0, None,57.1, None,-0.8, 0.2, None,2022-03-17 21:00:00, None,11,,
+49.95, None, None, None,0.004,323.3,-9.0,-0.8,-9.0, None, None, None, None, None, None, None, None, None,-0.781, None,-0.5,50.0, None,54.28, None,-0.8, 0.0, None,2022-03-17 22:00:00, None,11,,
+49.96, None, None, None,0.001,31.55,-9.0,-0.9,-9.0, None, None, None, None, None, None, None, None, None,-0.924, None,-0.5,50.0, None,56.39, None,-0.9, 0.3, None,2022-03-17 23:00:00, None,11,,
+50.07, None, None, None,0.0,289.9,-9.0,-1.0,-9.0, None, None, None, None, None, None, None, None, None,-0.865, None,-0.5,50.0, None,63.6, None,-0.9, 0.0, None,2022-03-18 00:00:00, None,11,,
+50.31, None, None, None,0.0,8.47,-9.0,-1.0,-9.0, None, None, None, None, None, None, None, None, None,-0.779, None,-0.5,50.0, None,67.21, None,-0.8, 0.0, None,2022-03-18 01:00:00, None,11,,
+50.46, None, None, None,0.001,305.5,-9.0,-1.0,-9.0, None, None, None, None, None, None, None, None, None,-0.741, None,-0.5,50.0, None,60.79, None,-0.7, 0.0, None,2022-03-18 02:00:00, None,11,,
+50.65, None, None, None,0.001,297.6,-9.0,-1.0,-9.0, None, None, None, None, None, None, None, None, None,-0.73, None,-0.5,51.0, None,72.6, None,-0.7, 0.1, None,2022-03-18 03:00:00, None,11,,
+50.63, None, None, None,0.0,133.8,-9.0,-1.0,-9.0, None, None, None, None, None, None, None, 8.6, None,-0.835, None,-0.5,51.0, None,75.9, None,-0.8, 0.1, None,2022-03-18 04:00:00, None,11,,
+50.58, None, None, None,0.0,163.4,-9.0,-1.1,-9.0, None, None, None, None, None, None, None, 8.6, None,-1.057, None,-0.5,51.0, None,49.41, None,-1.1, 0.0, None,2022-03-18 05:00:00, None,11,,
+50.64, None, None, None,0.0,183.3,-9.0,-1.1,-9.0, None, None, None, None, None, None, None, 8.6, None,-1.142, None,-0.5,51.0, None,46.41, None,-1.1, 0.0, None,2022-03-18 06:00:00, None,11,,
+50.65, None, None, None,0.0,47.4,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, 8.6, None,-1.248, None,-1.1,51.0, None,49.34, None,-1.2, 0.1, None,2022-03-18 07:00:00, None,11,,
+50.77, None, None, None,0.0,194.9,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, 8.6, None,-1.219, None,-1.1,51.0, None,54.47, None,-1.2, 0.0, None,2022-03-18 08:00:00, None,11,,
+50.65, None, None, None,0.002,253.9,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, 8.6, None,-1.103, None,-1.1,51.0, None,73.7, None,-1.1, 0.0, None,2022-03-18 09:00:00, None,11,,
+50.44, None, None, None,0.006,253.0,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, 8.6, None,-0.595, None,-0.6,50.0, None,72.7, None,-0.6, 0.0, None,2022-03-18 10:00:00, None,11,,
+49.64, None, None, None,0.018,252.0,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, 8.6, None,0.198, None,0.2,50.0, None,57.33, None,0.2, 0.0, None,2022-03-18 11:00:00, None,11,,
+38.43, None, None, None,1.039,200.6,-11.0,-1.3,-11.0, None, None, None, None, None, None, None, None, None,1.176, None,1.2,38.0, None,33.17, None,1.2, -0.3, None,2022-03-18 12:00:00, None,11,,
+32.75, None, None, None,4.077,61.28,-13.0,-1.3,-13.0, None, None, None, None, None, None, None, None, None,2.07, None,2.4,33.0, None,25.12, None,2.1, 0.0, None,2022-03-18 13:00:00, None,11,,
+26.44, None, None, None,5.796,62.24,-14.0,-1.3,-14.0, None, None, None, None, None, None, None, None, None,3.062, None,3.1,26.0, None,18.26, None,3.1, 0.0, None,2022-03-18 14:00:00, None,11,,
+32.83, None, None, None,6.261,71.1,-13.0,-1.3,-13.0, None, None, None, None, None, None, None, None, None,2.092, None,3.1,33.0, None,15.82, None,2.1, 0.2, None,2022-03-18 15:00:00, None,11,,
+44.07, None, None, None,8.77,66.44,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, None, None,1.42, None,3.1,44.0, None,10.21, None,1.4, 0.0, None,2022-03-18 16:00:00, None,11,,
+49.01, None, None, None,7.93,65.43,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, None, None,0.93, None,3.1,49.0, None,17.89, None,0.9, 0.0, None,2022-03-18 17:00:00, None,11,,
+49.67, None, None, None,13.4,55.57,-9.0,-1.3,-9.0, None, None, None, None, None, None, None, None, None,0.412, None,3.1,50.0, None,11.53, None,0.4, 0.1, None,2022-03-18 18:00:00, None,11,,
+50.1, None, None, None,17.13,56.67,-8.0,-0.1,-8.0, None, None, None, None, None, None, None, None, None,-0.078, None,0.4,50.0, None,9.13, None,-0.1, 0.0, None,2022-03-18 19:00:00, None,11,,
+50.29, None, None, None,13.02,56.55,-8.0,-0.2,-8.0, None, None, None, None, None, None, None, None, None,-0.175, None,0.4,50.0, None,9.82, None,-0.2, 0.1, None,2022-03-18 20:00:00, None,11,,
+50.03, None, None, None,4.149,68.84,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.272, None,0.4,50.0, None,34.8, None,-0.3, 0.5, None,2022-03-18 21:00:00, None,11,,
+49.85, None, None, None,1.95,70.7,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.33, None,0.4,50.0, None,36.14, None,-0.3, 0.2, None,2022-03-18 22:00:00, None,11,,
+49.79, None, None, None,4.134,79.9,-8.0,-0.3,-8.0, None, None, None, None, None, None, None, None, None,-0.301, None,0.4,50.0, None,27.62, None,-0.3, 0.3, None,2022-03-18 23:00:00, None,11,,
+95.8, None, None, None, 0.007, 141.9,-2.0,-1.6,-2.0, 950.0, None, None, None, 143.0, None, 142.9, None, None,-1.567, None,-1.5,96.0, None, 45.95, None,-1.6, 0.8, 0.0,2022-03-12 00:00:00, 950.0,11, None, 1024.3
+95.9, None, None, None, 0.007, 130.0,-2.0,-1.6,-2.0, 950.0, None, None, None, 142.0, None, 142.3, None, None,-1.469, None,-1.5,96.0, None, 10.31, None,-1.5, 0.9, -1.0,2022-03-12 01:00:00, 950.0,11, None, 1024.4
+95.8, None, None, None, 0.007, 120.7,-2.0,-1.6,-2.0, 950.0, None, None, None, 144.0, None, 143.6, None, None,-1.368, None,-1.4,96.0, None, 45.83, None,-1.4, 0.8, 1.0,2022-03-12 02:00:00, 950.0,11, None, 1024.3
+95.9, None, None, None, 0.007, 57.85,-2.0,-1.6,-2.0, 949.0, None, None, None, 144.0, None, 144.4, 12.5, None,-1.321, None,-1.3,96.0, None, 16.4, None,-1.3, 0.6, 1.0,2022-03-12 03:00:00, 949.0,11, None, 1023.2
+96.0, None, None, None, 0.007, 93.6,-2.0,-1.6,-2.0, 949.0, None, None, None, 145.0, None, 145.4, 13.2, None,-1.25, None,-1.2,96.0, None, 49.17, None,-1.3, 0.7, 1.0,2022-03-12 04:00:00, 949.0,11, None, 1023.2
+96.0, None, None, None, 0.007, 18.23,-2.0,-1.6,-2.0, 949.0, None, None, None, 147.0, None, 147.2, 14.0, None,-1.155, None,-1.2,96.0, None, 57.74, None,-1.2, 0.8, 2.0,2022-03-12 05:00:00, 949.0,11, None, 1023.2
+96.0, None, None, None, 0.007, 102.2,-2.0,-1.6,-2.0, 949.0, None, None, None, 150.0, None, 150.2, 15.2, None,-1.049, None,-1.1,96.0, None, 0.0, None,-1.0, 1.2, 3.0,2022-03-12 06:00:00, 949.0,11, None, 1023.2
+96.1, None, None, None, 0.007, 32.41,-1.0,-1.1,-1.0, 949.0, None, None, None, 150.0, None, 150.4, 16.6, None,-0.806, None,-0.8,96.0, None, 55.31, None,-0.8, 1.4, 0.0,2022-03-12 07:00:00, 949.0,11, None, 1023.2
+95.9, None, None, None, 0.007, 348.2,-1.0,-1.1,-1.0, 949.0, None, None, None, 153.0, None, 153.1, 17.4, None,-0.312, None,-0.3,96.0, None, 55.45, None,-0.3, 0.8, 3.0,2022-03-12 08:00:00, 949.0,11, None, 1023.2
+95.6, None, None, None, 0.007, 192.1,0.0,-1.1,0.0, 949.0, None, None, None, 154.0, None, 153.7, 17.9, None,0.249, None,0.2,96.0, None, 31.89, None,0.2, 0.5, 1.0,2022-03-12 09:00:00, 949.0,11, None, 1023.1
+95.0, None, None, None, 0.007, 202.9,0.0,-1.1,0.0, 949.0, None, None, None, 154.0, None, 153.7, 18.2, None,0.754, None,0.8,95.0, None, 45.42, None,0.8, 0.3, 0.0,2022-03-12 10:00:00, 949.0,11, None, 1023.1
+94.4, None, None, None, 0.038, 140.4,0.0,-1.1,0.0, 949.0, None, None, None, 154.0, None, 154.1, 18.4, None,0.723, None,0.9,94.0, None, 64.69, None,0.7, 0.2, 0.0,2022-03-12 11:00:00, 949.0,11, None, 1023.1
+94.2, None, None, None, 0.147, 79.86,0.0,-1.1,0.0, 948.0, None, None, None, 155.0, None, 154.6, 18.7, None,1.244, None,1.2,94.0, None, 42.2, None,1.2, 0.3, 0.0,2022-03-12 12:00:00, 948.0,11, None, 1022.0
+93.5, None, None, None, 0.697, 108.1,0.0,-1.1,0.0, 948.0, None, None, None, 154.0, None, 154.3, 18.7, None,1.117, None,1.3,94.0, None, 52.61, None,1.1, 0.0, 0.0,2022-03-12 13:00:00, 948.0,11, None, 1022.0
+93.1, None, None, None, 0.453, 116.3,1.0,-1.1,1.0, 947.0, None, None, None, 155.0, None, 154.5, 17.6, None,1.491, None,1.5,93.0, None, 46.18, None,1.5, 0.2, 0.0,2022-03-12 14:00:00, 947.0,11, None, 1020.8
+92.8, None, None, None, 1.007, 105.8,0.0,-1.1,0.0, 946.0, None, None, None, 153.0, None, 153.3, None, None,1.293, None,1.8,93.0, None, 55.35, None,1.3, -0.1, -1.0,2022-03-12 15:00:00, 946.0,11, None, 1019.8
+94.3, None, None, None, 0.916, 117.1,0.0,-1.1,0.0, 945.0, None, None, None, 153.0, None, 153.4, None, None,0.816, None,1.8,94.0, None, 55.73, None,0.8, 0.1, 0.0,2022-03-12 16:00:00, 945.0,11, None, 1018.7
+95.0, None, None, None, 0.286, 128.0,0.0,-1.1,0.0, 944.0, None, None, None, 153.0, None, 152.8, None, None,0.663, None,1.8,95.0, None, 41.62, None,0.7, 0.4, -1.0,2022-03-12 17:00:00, 944.0,11, None, 1017.7
+95.6, None, None, None, 0.295, 112.8,0.0,-1.1,0.0, 944.0, None, None, None, 153.0, None, 152.9, None, None,0.543, None,1.8,96.0, None, 38.68, None,0.5, 0.2, 0.0,2022-03-12 18:00:00, 944.0,11, None, 1017.7
+96.0, None, None, None, 0.457, 106.2,0.0,0.5,0.0, 943.0, None, None, None, 152.0, None, 152.4, None, None,0.545, None,0.5,96.0, None, 43.19, None,0.5, 0.1, -1.0,2022-03-12 19:00:00, 943.0,11, None, 1016.6
+96.3, None, None, None, 0.547, 113.8,0.0,0.5,0.0, 943.0, None, None, None, 152.0, None, 152.2, None, None,0.545, None,0.6,96.0, None, 47.59, None,0.5, 0.0, 0.0,2022-03-12 20:00:00, 943.0,11, None, 1016.5
+96.5, None, None, None, 0.855, 112.0,0.0,0.5,0.0, 943.0, None, None, None, 152.0, None, 152.0, None, None,0.529, None,0.6,97.0, None, 46.59, None,0.5, 0.0, 0.0,2022-03-12 21:00:00, 943.0,11, None, 1016.5
+96.6, None, None, None, 0.622, 117.6,0.0,0.5,0.0, 943.0, None, None, None, 152.0, None, 151.9, None, None,0.528, None,0.6,97.0, None, 38.42, None,0.5, 0.1, 0.0,2022-03-12 22:00:00, 943.0,11, None, 1016.4
+96.6, None, None, None, 0.114, 101.0,0.0,0.5,0.0, 942.0, None, None, None, 152.0, None, 151.9, None, None,0.533, None,0.6,97.0, None, 23.1, None,0.5, 0.1, 0.0,2022-03-12 23:00:00, 942.0,11, None, 1015.4
+96.7, None, None, None, 0.143, 102.6,0.0,0.5,0.0, 941.0, None, None, None, 152.0, None, 151.9, None, None,0.479, None,0.6,97.0, None, 33.0, None,0.5, 0.2, 0.0,2022-03-13 00:00:00, 941.0,11, None, 1014.2
+96.8, None, None, None, 0.547, 108.6,0.0,0.5,0.0, 941.0, None, None, None, 152.0, None, 151.9, None, None,0.496, None,0.6,97.0, None, 44.92, None,0.5, 0.0, 0.0,2022-03-13 01:00:00, 941.0,11, None, 1014.3
+96.9, None, None, None, 0.529, 104.8,0.0,0.5,0.0, 941.0, None, None, None, 152.0, None, 151.6, None, None,0.509, None,0.6,97.0, None, 37.74, None,0.5, 0.1, 0.0,2022-03-13 03:00:00, 941.0,11, None, 1014.2
+97.0, None, None, None, 0.2, 102.5,0.0,0.4,0.0, 940.0, None, None, None, 152.0, None, 151.5, None, None,0.447, None,0.6,97.0, None, 32.77, None,0.4, 0.1, 0.0,2022-03-13 04:00:00, 940.0,11, None, 1013.2
+96.9, None, None, None, 0.116, 93.9,0.0,0.4,0.0, 940.0, None, None, None, 151.0, None, 151.2, None, None,0.433, None,0.6,97.0, None, 32.19, None,0.4, 0.3, 0.0,2022-03-13 05:00:00, 940.0,11, None, 1013.2
+97.0, None, None, None, 0.149, 98.4,0.0,0.4,0.0, 940.0, None, None, None, 151.0, None, 150.9, None, None,0.446, None,0.6,97.0, None, 33.98, None,0.4, 0.1, 0.0,2022-03-13 06:00:00, 940.0,11, None, 1013.2
+97.1, None, None, None, 0.054, 98.1,0.0,0.4,0.0, 941.0, None, None, None, 152.0, None, 151.9, None, None,0.401, None,0.4,97.0, None, 29.44, None,0.4, 0.7, 1.0,2022-03-13 07:00:00, 941.0,11, None, 1014.3
+97.0, None, None, None, 0.035, 86.7,0.0,0.4,0.0, 941.0, None, None, None, 153.0, None, 152.6, None, None,0.496, None,0.5,97.0, None, 21.33, None,0.5, 0.4, 1.0,2022-03-13 08:00:00, 941.0,11, None, 1014.3
+97.0, None, None, None, 0.007, 90.9,0.0,0.4,0.0, 942.0, None, None, None, 153.0, None, 152.7, None, None,0.669, None,0.7,97.0, None, 11.94, None,0.7, 0.1, 0.0,2022-03-13 09:00:00, 942.0,11, None, 1015.4
+97.0, None, None, None, 0.007, 76.32,0.0,0.4,0.0, 942.0, None, None, None, 153.0, None, 152.5, None, None,0.842, None,0.9,97.0, None, 13.41, None,0.8, 0.1, 0.0,2022-03-13 10:00:00, 942.0,11, None, 1015.4
+96.4, None, None, None, 0.076, 82.9,1.0,0.4,1.0, 943.0, None, None, None, 152.0, None, 152.3, None, None,1.761, None,1.7,96.0, None, 27.33, None,1.8, 0.2, 0.0,2022-03-13 11:00:00, 943.0,11, None, 1016.3
+95.4, None, None, None, 0.58, 87.2,1.0,0.4,1.0, 943.0, None, None, None, 152.0, None, 152.4, None, None,1.722, None,2.1,95.0, None, 41.15, None,1.7, 0.0, 0.0,2022-03-13 12:00:00, 943.0,11, None, 1016.4
+94.7, None, None, None, 0.276, 115.1,1.0,0.4,1.0, 944.0, None, None, None, 152.0, None, 152.1, None, None,2.027, None,2.4,95.0, None, 41.49, None,2.0, 0.1, 0.0,2022-03-13 13:00:00, 944.0,11, None, 1017.4
+94.2, None, None, None, 0.192, 133.8,2.0,0.4,2.0, 944.0, None, None, None, 151.0, None, 150.9, None, None,2.828, None,2.8,94.0, None, 32.52, None,2.8, 0.2, -1.0,2022-03-13 14:00:00, 944.0,11, None, 1017.3
+94.4, None, None, None, 0.755, 143.3,1.0,0.4,1.0, 945.0, None, None, None, 151.0, None, 150.5, None, None,2.015, None,2.9,94.0, None, 21.14, None,2.0, -0.4, 0.0,2022-03-13 15:00:00, 945.0,11, None, 1018.5
+95.0, None, None, None, 1.114, 149.2,1.0,0.4,1.0, 945.0, None, None, None, 150.0, None, 150.2, None, None,1.85, None,2.9,95.0, None, 20.56, None,1.9, -0.1, 0.0,2022-03-13 16:00:00, 945.0,11, None, 1018.5
+95.2, None, None, None, 0.715, 126.9,1.0,0.4,1.0, 945.0, None, None, None, 150.0, None, 150.0, None, None,1.828, None,2.9,95.0, None, 30.39, None,1.8, 0.1, 0.0,2022-03-13 17:00:00, 945.0,11, None, 1018.5
+95.6, None, None, None, 1.226, 132.3,1.0,0.4,1.0, 945.0, None, None, None, 150.0, None, 149.7, None, None,1.703, None,2.9,96.0, None, 19.79, None,1.7, 0.0, 0.0,2022-03-13 18:00:00, 945.0,11, None, 1018.5
+95.9, None, None, None, 0.824, 124.6,1.0,1.4,1.0, 946.0, None, None, None, 149.0, None, 149.4, None, None,1.364, None,1.7,96.0, None, 25.65, None,1.4, -0.1, 0.0,2022-03-13 19:00:00, 946.0,11, None, 1019.6
+96.2, None, None, None, 0.221, 102.2,1.0,1.3,1.0, 946.0, None, None, None, 149.0, None, 149.2, None, None,1.308, None,1.7,96.0, None, 28.68, None,1.3, 0.0, 0.0,2022-03-13 20:00:00, 946.0,11, None, 1019.6
+96.2, None, None, None, 0.162, 102.2,1.0,1.3,1.0, 946.0, None, None, None, 149.0, None, 149.0, None, None,1.287, None,1.7,96.0, None, 36.11, None,1.3, 0.0, 0.0,2022-03-13 21:00:00, 946.0,11, None, 1019.6
+96.5, None, None, None, 0.028, 94.8,1.0,1.1,1.0, 947.0, None, None, None, 149.0, None, 149.0, None, None,1.156, None,1.7,97.0, None, 43.96, None,1.2, 0.0, 0.0,2022-03-13 22:00:00, 947.0,11, None, 1020.7
+96.6, None, None, None, 0.111, 68.55,1.0,1.0,1.0, 947.0, None, None, None, 149.0, None, 148.9, None, None,0.978, None,1.7,97.0, None, 29.91, None,1.0, 0.0, 0.0,2022-03-13 23:00:00, 947.0,11, None, 1020.6
+96.7, None, None, None, 0.293, 111.6,1.0,1.0,1.0, 947.0, None, None, None, 149.0, None, 148.9, None, None,1.13, None,1.7,97.0, None, 44.42, None,1.1, 0.1, 0.0,2022-03-14 00:00:00, 947.0,11, None, 1020.6
+96.8, None, None, None, 0.572, 198.9,1.0,1.0,1.0, 948.0, None, None, None, 149.0, None, 148.7, None, None,1.022, None,1.7,97.0, None, 55.85, None,1.0, 0.3, 0.0,2022-03-14 01:00:00, 948.0,11, None, 1021.7
+97.0, None, None, None, 0.161, 181.6,1.0,0.9,1.0, 948.0, None, None, None, 148.0, None, 148.3, None, None,0.927, None,1.7,97.0, None, 61.36, None,0.9, 0.2, 0.0,2022-03-14 02:00:00, 948.0,11, None, 1021.6
+97.1, None, None, None, 0.184, 162.8,1.0,0.8,1.0, 948.0, None, None, None, 148.0, None, 148.4, None, None,0.98, None,1.7,97.0, None, 68.98, None,1.0, 0.6, 0.0,2022-03-14 03:00:00, 948.0,11, None, 1021.7
+97.3, None, None, None, 0.728, 233.8,1.0,0.8,1.0, 949.0, None, None, None, 147.0, None, 147.2, None, None,1.133, None,1.7,97.0, None, 41.73, None,1.1, 1.3, -1.0,2022-03-14 04:00:00, 949.0,11, None, 1022.8
+97.2, None, None, None, 1.335, 220.5,1.0,0.8,1.0, 949.0, None, None, None, 148.0, None, 147.9, None, None,1.13, None,1.7,97.0, None, 49.65, None,1.1, 0.1, 1.0,2022-03-14 05:00:00, 949.0,11, None, 1022.8
+97.3, None, None, None, 0.131, 70.91,1.0,0.8,1.0, 949.0, None, None, None, 148.0, None, 147.8, None, None,1.08, None,1.7,97.0, None, 40.1, None,1.1, 0.1, 0.0,2022-03-14 06:00:00, 949.0,11, None, 1022.8
+97.3, None, None, None, 0.132, 78.84,1.0,1.0,1.0, 949.0, None, None, None, 148.0, None, 147.6, None, None,1.141, None,1.2,97.0, None, 40.6, None,1.1, 0.1, 0.0,2022-03-14 07:00:00, 949.0,11, None, 1022.8
+97.2, None, None, None, 0.067, 73.3,1.0,1.0,1.0, 949.0, None, None, None, 147.0, None, 147.4, None, None,1.155, None,1.3,97.0, None, 64.16, None,1.2, 0.1, 0.0,2022-03-14 08:00:00, 949.0,11, None, 1022.8
+97.2, None, None, None, 0.069, 78.09,1.0,1.0,1.0, 950.0, None, None, None, 147.0, None, 147.2, None, None,1.513, None,1.5,97.0, None, 31.08, None,1.5, 0.1, 0.0,2022-03-14 09:00:00, 950.0,11, None, 1023.9
+96.8, None, None, None, 0.099, 92.8,2.0,1.0,2.0, 950.0, None, None, None, 147.0, None, 146.8, None, None,2.241, None,2.2,97.0, None, 35.22, None,2.2, 0.1, 0.0,2022-03-14 10:00:00, 950.0,11, None, 1023.8
+96.6, None, None, None, 0.085, 108.7,2.0,1.0,2.0, 950.0, None, None, None, 147.0, None, 146.6, None, None,2.081, None,2.3,97.0, None, 41.02, None,2.1, 0.1, 0.0,2022-03-14 11:00:00, 950.0,11, None, 1023.8
+96.6, None, None, None, 0.198, 123.7,2.0,1.0,2.0, 950.0, None, None, None, 147.0, None, 146.8, None, None,2.29, None,2.3,97.0, None, 36.64, None,2.3, 0.1, 0.0,2022-03-14 12:00:00, 950.0,11, None, 1023.8
+96.3, None, None, None, 0.218, 125.5,2.0,1.0,2.0, 950.0, None, None, None, 147.0, None, 146.6, None, None,2.577, None,2.8,96.0, None, 35.77, None,2.6, 0.1, 0.0,2022-03-14 13:00:00, 950.0,11, None, 1023.8
+96.4, None, None, None, 0.261, 128.4,2.0,1.0,2.0, 950.0, None, None, None, 146.0, None, 146.0, None, None,2.322, None,2.8,96.0, None, 45.93, None,2.3, 0.0, -1.0,2022-03-14 14:00:00, 950.0,11, None, 1023.8
+96.3, None, None, None, 0.191, 134.2,2.0,1.0,2.0, 949.0, None, None, None, 146.0, None, 146.0, None, None,2.185, None,2.8,96.0, None, 39.3, None,2.2, -0.1, 0.0,2022-03-14 15:00:00, 949.0,11, None, 1022.7
+96.6, None, None, None, 0.163, 126.9,2.0,1.0,2.0, 949.0, None, None, None, 146.0, None, 145.6, None, None,2.223, None,2.8,97.0, None, 39.33, None,2.2, 0.0, 0.0,2022-03-14 16:00:00, 949.0,11, None, 1022.7
+96.5, None, None, None, 0.092, 123.7,1.0,1.0,1.0, 949.0, None, None, None, 145.0, None, 145.1, None, None,1.907, None,2.8,97.0, None, 46.22, None,1.9, -0.1, -1.0,2022-03-14 17:00:00, 949.0,11, None, 1022.8
+96.6, None, None, None, 0.089, 91.6,1.0,1.0,1.0, 948.0, None, None, None, 145.0, None, 144.9, None, None,1.729, None,2.8,97.0, None, 42.99, None,1.7, 0.1, 0.0,2022-03-14 18:00:00, 948.0,11, None, 1021.7
+96.7, None, None, None, 0.173, 99.5,1.0,1.5,1.0, 948.0, None, None, None, 145.0, None, 144.8, None, None,1.51, None,1.8,97.0, None, 37.92, None,1.5, -0.1, 0.0,2022-03-14 19:00:00, 948.0,11, None, 1021.7
+97.0, None, None, None, 0.122, 114.3,1.0,1.4,1.0, 947.0, None, None, None, 144.0, None, 144.4, None, None,1.509, None,1.8,97.0, None, 32.65, None,1.5, 0.0, 0.0,2022-03-14 20:00:00, 947.0,11, None, 1020.6
+96.9, None, None, None, 0.102, 103.6,1.0,1.4,1.0, 947.0, None, None, None, 144.0, None, 144.2, None, None,1.714, None,1.8,97.0, None, 29.59, None,1.7, 0.2, 0.0,2022-03-14 21:00:00, 947.0,11, None, 1020.6
+96.9, None, None, None, 0.072, 98.6,1.0,1.4,1.0, 946.0, None, None, None, 144.0, None, 144.1, None, None,1.395, None,1.8,97.0, None, 34.63, None,1.4, 0.9, 0.0,2022-03-14 22:00:00, 946.0,11, None, 1019.5
+97.1, None, None, None, 0.008, 78.16,1.0,1.3,1.0, 946.0, None, None, None, 144.0, None, 144.4, None, None,1.421, None,1.8,97.0, None, 32.63, None,1.4, 1.7, 0.0,2022-03-14 23:00:00, 946.0,11, None, 1019.5
+97.2, None, None, None, 0.007, 57.94,1.0,1.2,1.0, 945.0, None, None, None, 144.0, None, 143.9, None, None,1.3, None,1.8,97.0, None, 40.44, None,1.3, 1.6, 0.0,2022-03-15 00:00:00, 945.0,11, None, 1018.4
+97.2, None, None, None, 0.027, 57.86,1.0,1.2,1.0, 945.0, None, None, None, 143.0, None, 143.4, None, None,1.373, None,1.8,97.0, None, 35.34, None,1.4, 1.1, -1.0,2022-03-15 01:00:00, 945.0,11, None, 1018.4
+97.1, None, None, None, 0.08, 63.93,1.0,1.2,1.0, 945.0, None, None, None, 143.0, None, 143.3, None, None,1.213, None,1.8,97.0, None, 25.28, None,1.2, 0.8, 0.0,2022-03-15 02:00:00, 945.0,11, None, 1018.4
+97.2, None, None, None, 0.022, 47.32,1.0,1.1,1.0, 945.0, None, None, None, 143.0, None, 143.1, None, None,1.179, None,1.8,97.0, None, 30.85, None,1.2, 1.0, 0.0,2022-03-15 03:00:00, 945.0,11, None, 1018.4
+97.3, None, None, None, 0.109, 58.87,1.0,1.0,1.0, 945.0, None, None, None, 143.0, None, 142.8, None, None,1.047, None,1.8,97.0, None, 30.61, None,1.0, 1.0, 0.0,2022-03-15 04:00:00, 945.0,11, None, 1018.4
+97.3, None, None, None, 0.068, 47.2,1.0,1.0,1.0, 944.0, None, None, None, 143.0, None, 142.6, None, None,0.95, None,1.8,97.0, None, 43.33, None,1.0, 1.0, 0.0,2022-03-15 05:00:00, 944.0,11, None, 1017.4
+97.4, None, None, None, 0.122, 94.1,1.0,0.9,1.0, 944.0, None, None, None, 143.0, None, 142.5, None, None,1.16, None,1.8,97.0, None, 36.58, None,1.2, 0.0, 0.0,2022-03-15 06:00:00, 944.0,11, None, 1017.4
+97.3, None, None, None, 0.055, 71.1,1.0,1.1,1.0, 944.0, None, None, None, 142.0, None, 142.3, None, None,1.155, None,1.2,97.0, None, 36.41, None,1.2, 0.0, 0.0,2022-03-15 07:00:00, 944.0,11, None, 1017.4
+97.4, None, None, None, 0.386, 107.6,1.0,1.1,1.0, 944.0, None, None, None, 142.0, None, 142.2, None, None,1.411, None,1.4,97.0, None, 33.81, None,1.4, 0.0, 0.0,2022-03-15 08:00:00, 944.0,11, None, 1017.4
+97.3, None, None, None, 0.112, 104.0,1.0,1.1,1.0, 944.0, None, None, None, 142.0, None, 141.7, None, None,1.365, None,1.4,97.0, None, 25.26, None,1.4, 0.9, 0.0,2022-03-15 09:00:00, 944.0,11, None, 1017.4
+97.3, None, None, None, 0.068, 108.3,1.0,1.1,1.0, 945.0, None, None, None, 142.0, None, 141.6, None, None,1.145, None,1.4,97.0, None, 59.53, None,1.1, 2.2, 0.0,2022-03-15 10:00:00, 945.0,11, None, 1018.5
+97.4, None, None, None, 0.191, 214.5,1.0,0.9,1.0, 945.0, None, None, None, 142.0, None, 141.5, None, None,0.961, None,1.4,97.0, None, 20.52, None,1.0, 2.0, 0.0,2022-03-15 11:00:00, 945.0,11, None, 1018.5
+97.3, None, None, None, 0.427, 217.7,1.0,0.9,1.0, 945.0, None, None, None, 141.0, None, 141.3, None, None,1.272, None,1.4,97.0, None, 24.5, None,1.3, 1.2, 0.0,2022-03-15 12:00:00, 945.0,11, None, 1018.5
+97.3, None, None, None, 0.951, 192.6,1.0,0.9,1.0, 945.0, None, None, None, 141.0, None, 141.1, None, None,1.384, None,1.6,97.0, None, 23.21, None,1.4, 1.1, 0.0,2022-03-15 13:00:00, 945.0,11, None, 1018.5
+97.0, None, None, None, 1.875, 186.3,2.0,0.9,2.0, 945.0, None, None, None, 141.0, None, 140.7, None, None,2.474, None,2.5,97.0, None, 35.71, None,2.5, 1.6, 0.0,2022-03-15 14:00:00, 945.0,11, None, 1018.4
+96.2, None, None, None, 1.551, 180.7,2.0,0.9,2.0, 945.0, None, None, None, 141.0, None, 140.9, None, None,2.876, None,3.3,96.0, None, 44.65, None,2.9, 0.3, 0.0,2022-03-15 15:00:00, 945.0,11, None, 1018.4
+96.4, None, None, None, 0.667, 152.1,2.0,0.9,2.0, 946.0, None, None, None, 141.0, None, 140.5, None, None,2.276, None,3.3,96.0, None, 20.4, None,2.3, 0.0, 0.0,2022-03-15 16:00:00, 946.0,11, None, 1019.5
+96.7, None, None, None, 0.322, 159.2,1.0,0.9,1.0, 946.0, None, None, None, 140.0, None, 140.2, None, None,1.789, None,3.3,97.0, None, 36.91, None,1.8, -0.1, 0.0,2022-03-15 17:00:00, 946.0,11, None, 1019.5
+97.0, None, None, None, 0.911, 155.9,2.0,0.9,2.0, 947.0, None, None, None, 140.0, None, 140.1, None, None,2.005, None,3.3,97.0, None, 56.02, None,2.0, 0.7, 0.0,2022-03-15 18:00:00, 947.0,11, None, 1020.6
+97.0, None, None, None, 2.492, 198.6,1.0,1.6,1.0, 948.0, None, None, None, 140.0, None, 139.7, None, None,1.54, None,2.1,97.0, None, 28.46, None,1.5, 3.5, 0.0,2022-03-15 19:00:00, 948.0,11, None, 1021.7
+97.3, None, None, None, 0.855, 204.4,1.0,1.1,1.0, 948.0, None, None, None, 140.0, None, 139.6, None, None,1.175, None,2.1,97.0, None, 55.33, None,1.2, 0.0, 0.0,2022-03-15 20:00:00, 948.0,11, None, 1021.7
+97.3, None, None, None, 0.234, 172.1,1.0,1.0,1.0, 949.0, None, None, None, 139.0, None, 139.3, None, None,1.008, None,2.1,97.0, None, 60.59, None,1.0, 0.0, 0.0,2022-03-15 21:00:00, 949.0,11, None, 1022.8
+97.4, None, None, None, 0.063, 215.9,0.0,0.8,0.0, 949.0, None, None, None, 139.0, None, 139.1, None, None,0.789, None,2.1,97.0, None, 49.15, None,0.8, 0.0, 0.0,2022-03-15 22:00:00, 949.0,11, None, 1022.9
+97.6, None, None, None, 0.504, 224.9,0.0,0.6,0.0, 950.0, None, None, None, 139.0, None, 138.7, None, None,0.669, None,2.1,98.0, None, 23.29, None,0.7, -0.1, 0.0,2022-03-15 23:00:00, 950.0,11, None, 1023.9
+97.7, None, None, None, 1.093, 206.0,0.0,0.5,0.0, 950.0, None, None, None, 138.0, None, 138.4, None, None,0.545, None,2.1,98.0, None, 22.19, None,0.5, 0.0, 0.0,2022-03-16 00:00:00, 950.0,11, None, 1023.9
+97.6, None, None, None, 0.175, 221.3,0.0,0.5,0.0, 951.0, None, None, None, 138.0, None, 138.3, None, None,0.586, None,2.1,98.0, None, 45.51, None,0.6, 0.0, 0.0,2022-03-16 01:00:00, 951.0,11, None, 1025.0
+97.7, None, None, None, 0.673, 216.8,0.0,0.5,0.0, 951.0, None, None, None, 138.0, None, 138.3, None, None,0.519, None,2.1,98.0, None, 26.13, None,0.5, 0.0, 0.0,2022-03-16 02:00:00, 951.0,11, None, 1024.9
+97.8, None, None, None, 0.679, 217.8,0.0,0.4,0.0, 952.0, None, None, None, 138.0, None, 138.4, None, None,0.398, None,2.1,98.0, None, 19.26, None,0.4, 0.1, 0.0,2022-03-16 03:00:00, 952.0,11, None, 1026.0
+97.9, None, None, None, 0.666, 224.1,0.0,0.4,0.0, 952.0, None, None, None, 138.0, None, 138.4, None, None,0.35, None,2.1,98.0, None, 17.02, None,0.4, 0.0, 0.0,2022-03-16 04:00:00, 952.0,11, None, 1026.0
+97.9, None, None, None, 0.093, 207.7,0.0,0.3,0.0, 953.0, None, None, None, 138.0, None, 138.4, None, None,0.352, None,2.1,98.0, None, 21.51, None,0.4, 0.0, 0.0,2022-03-16 05:00:00, 953.0,11, None, 1027.1
+98.0, None, None, None, 1.072, 218.3,0.0,0.3,0.0, 953.0, None, None, None, 138.0, None, 138.3, None, None,0.377, None,2.1,98.0, None, 15.64, None,0.4, 0.0, 0.0,2022-03-16 06:00:00, 953.0,11, None, 1027.1
+98.0, None, None, None, 1.181, 216.2,0.0,0.4,0.0, 953.0, None, None, None, 139.0, None, 138.8, None, None,0.364, None,0.4,98.0, None, 13.64, None,0.4, 0.0, 0.0,2022-03-16 07:00:00, 953.0,11, None, 1027.2
+98.0, None, None, None, 1.105, 213.7,0.0,0.4,0.0, 954.0, None, None, None, 139.0, None, 138.6, None, None,0.497, None,0.5,98.0, None, 12.81, None,0.5, 0.0, 0.0,2022-03-16 08:00:00, 954.0,11, None, 1028.3
+97.9, None, None, None, 1.266, 211.4,1.0,0.4,1.0, 954.0, None, None, None, 138.0, None, 138.2, None, None,0.96, None,1.0,98.0, None, 17.45, None,1.0, 0.1, 0.0,2022-03-16 09:00:00, 954.0,11, None, 1028.2
+97.4, None, None, None, 1.346, 211.5,2.0,0.4,2.0, 955.0, None, None, None, 139.0, None, 138.5, None, None,1.911, None,1.8,97.0, None, 36.77, None,1.9, 0.2, 0.0,2022-03-16 10:00:00, 955.0,11, None, 1029.2
+96.8, None, None, None, 1.224, 203.2,2.0,0.4,2.0, 955.0, None, None, None, 139.0, None, 138.5, None, None,2.855, None,2.8,97.0, None, 41.98, None,2.9, 0.2, 0.0,2022-03-16 11:00:00, 955.0,11, None, 1029.2
+96.3, None, None, None, 1.452, 186.2,2.0,0.4,2.0, 955.0, None, None, None, 138.0, None, 138.0, None, None,2.208, None,3.3,96.0, None, 38.85, None,2.2, -0.1, 0.0,2022-03-16 12:00:00, 955.0,11, None, 1029.2
+95.9, None, None, None, 1.665, 201.2,2.0,0.4,2.0, 955.0, None, None, None, 138.0, None, 138.2, None, None,2.335, None,3.3,96.0, None, 9.61, None,2.3, 0.1, 0.0,2022-03-16 13:00:00, 955.0,11, None, 1029.2
+95.1, None, None, None, 1.92, 189.9,2.0,0.4,2.0, 955.0, None, None, None, 138.0, None, 137.6, None, None,2.395, None,3.3,95.0, None, 9.03, None,2.4, 0.3, -1.0,2022-03-16 14:00:00, 955.0,11, None, 1029.2
+93.0, None, None, None, 1.972, 183.5,2.0,0.4,2.0, 955.0, None, None, None, 137.0, None, 137.1, None, None,2.871, None,3.3,93.0, None, 7.757, None,2.9, 0.0, 0.0,2022-03-16 15:00:00, 955.0,11, None, 1029.2
+91.6, None, None, None, 2.062, 194.7,2.0,0.4,2.0, 955.0, None, None, None, 137.0, None, 137.0, None, None,2.956, None,3.3,92.0, None, 10.88, None,3.0, -0.1, 0.0,2022-03-16 16:00:00, 955.0,11, None, 1029.2
+89.2, None, None, None, 0.289, 166.5,1.0,0.4,1.0, 955.0, None, None, None, 137.0, None, 137.0, None, None,3.037, None,3.7,89.0, None, 35.97, None,3.0, 0.1, 0.0,2022-03-16 17:00:00, 955.0,11, None, 1029.2
+89.8, None, None, None, 0.04, 92.2,1.0,0.4,1.0, 955.0, None, None, None, 137.0, None, 136.9, None, None,2.611, None,3.7,90.0, None, 38.75, None,2.6, -0.2, 0.0,2022-03-16 18:00:00, 955.0,11, None, 1029.2
+91.6, None, None, None, 0.007, 60.62,1.0,1.9,1.0, 955.0, None, None, None, 137.0, None, 136.8, None, None,1.896, None,2.7,92.0, None, 22.99, None,1.9, -0.2, 0.0,2022-03-16 19:00:00, 955.0,11, None, 1029.3
+93.4, None, None, None, 0.008, 45.39,1.0,1.5,1.0, 955.0, None, None, None, 137.0, None, 136.7, None, None,1.564, None,2.7,93.0, None, 30.26, None,1.6, 0.1, 0.0,2022-03-16 20:00:00, 955.0,11, None, 1029.3
+94.2, None, None, None, 0.031, 67.95,1.0,1.4,1.0, 955.0, None, None, None, 137.0, None, 136.6, None, None,1.422, None,2.7,94.0, None, 10.16, None,1.4, -0.2, 0.0,2022-03-16 21:00:00, 955.0,11, None, 1029.3
+94.7, None, None, None, 0.04, 71.76,0.0,1.0,0.0, 955.0, None, None, None, 137.0, None, 136.5, None, None,1.035, None,2.7,95.0, None, 34.25, None,1.0, 0.0, 0.0,2022-03-16 22:00:00, 955.0,11, None, 1029.2
+95.1, None, None, None, 0.081, 66.13,0.0,1.0,0.0, 955.0, None, None, None, 137.0, None, 136.5, None, None,0.958, None,2.7,95.0, None, 36.91, None,1.0, 0.0, 0.0,2022-03-16 23:00:00, 955.0,11, None, 1029.1
+95.5, None, None, None, None, None,0.0,0.9,0.0, None, None, None, None, None, None, None, None, None,0.9, None,2.7,96.0, None, None, None,0.9, None, None,2022-03-17 00:00:00, None,11, None, None
+95.9, None, None, None, 0.178, 155.1,0.0,0.5,0.0, 955.0, None, None, None, 136.0, None, 135.9, None, None,0.454, None,2.7,96.0, None, 70.83, None,0.5, -0.1, 0.0,2022-03-17 01:00:00, 955.0,11, None, 1029.2
+96.4, None, None, None, 0.332, 139.0,0.0,0.0,0.0, 955.0, None, None, None, 136.0, None, 135.7, None, None,-0.045, None,2.7,96.0, None, 66.15, None,0.0, -0.1, 0.0,2022-03-17 02:00:00, 955.0,11, None, 1029.3
+96.7, None, None, None, 0.357, 178.5,-1.0,-0.3,-1.0, 955.0, None, None, None, 136.0, None, 135.9, None, None,-0.237, None,2.7,97.0, None, 64.63, None,-0.2, 0.0, 0.0,2022-03-17 03:00:00, 955.0,11, None, 1029.2
+96.8, None, None, None, 0.05, 59.86,-1.0,-0.5,-1.0, 955.0, None, None, None, 136.0, None, 135.9, None, None,-0.507, None,2.7,97.0, None, 46.47, None,-0.5, 0.0, 0.0,2022-03-17 04:00:00, 955.0,11, None, 1029.3
+97.0, None, None, None, 0.344, 59.06,0.0,-0.5,0.0, 955.0, None, None, None, 136.0, None, 136.0, None, None,0.166, None,2.7,97.0, None, 33.54, None,0.2, 0.0, 0.0,2022-03-17 05:00:00, 955.0,11, None, 1029.2
+96.9, None, None, None, 0.15, 86.3,0.0,-0.5,0.0, 954.0, None, None, None, 136.0, None, 136.0, None, None,0.43, None,2.7,97.0, None, 42.05, None,0.4, 0.1, 0.0,2022-03-17 06:00:00, 954.0,11, None, 1028.1
+96.8, None, None, None, 0.118, 97.0,0.0,0.4,0.0, 954.0, None, None, None, 136.0, None, 136.0, None, None,0.376, None,0.5,97.0, None, 29.47, None,0.4, 0.0, 0.0,2022-03-17 07:00:00, 954.0,11, None, 1028.2
+96.8, None, None, None, 0.129, 95.2,0.0,0.4,0.0, 954.0, None, None, None, 136.0, None, 136.0, None, None,0.572, None,0.6,97.0, None, 36.76, None,0.6, 0.0, 0.0,2022-03-17 08:00:00, 954.0,11, None, 1028.2
+96.5, None, None, None, 0.394, 101.8,1.0,0.4,1.0, 954.0, None, None, None, 136.0, None, 136.1, None, None,1.157, None,1.1,97.0, None, 37.88, None,1.2, 0.1, 0.0,2022-03-17 09:00:00, 954.0,11, None, 1028.2
+95.2, None, None, None, 0.692, 106.0,1.0,0.4,1.0, 953.0, None, None, None, 136.0, None, 136.1, None, None,1.94, None,2.0,95.0, None, 53.12, None,1.9, 0.2, 0.0,2022-03-17 10:00:00, 953.0,11, None, 1027.1
+89.5, None, None, None, 1.353, 111.0,2.0,0.4,2.0, 952.0, None, None, None, 136.0, None, 136.0, None, None,3.219, None,3.3,90.0, None, 51.41, None,3.2, 0.1, 0.0,2022-03-17 11:00:00, 952.0,11, None, 1025.9
+85.0, None, None, None, 0.855, 116.6,1.0,0.4,1.0, 952.0, None, None, None, 136.0, None, 135.9, None, None,3.629, None,3.6,85.0, None, 37.91, None,3.6, 0.1, 0.0,2022-03-17 12:00:00, 952.0,11, None, 1025.9
+86.5, None, None, None, 0.552, 148.6,1.0,0.4,1.0, 951.0, None, None, None, 136.0, None, 135.8, None, None,3.346, None,3.7,87.0, None, 23.98, None,3.3, 0.1, 0.0,2022-03-17 13:00:00, 951.0,11, None, 1024.8
+87.4, None, None, None, 0.372, 166.3,2.0,0.4,2.0, 951.0, None, None, None, 136.0, None, 135.6, None, None,3.378, None,3.8,87.0, None, 23.3, None,3.4, 0.3, 0.0,2022-03-17 14:00:00, 951.0,11, None, 1024.9
+91.2, None, None, None, 0.158, 172.9,1.0,0.4,1.0, 951.0, None, None, None, 136.0, None, 135.5, None, None,2.466, None,3.8,91.0, None, 16.77, None,2.5, 0.6, 0.0,2022-03-17 15:00:00, 951.0,11, None, 1025.0
+92.3, None, None, None, 0.031, 163.6,1.0,0.4,1.0, 950.0, None, None, None, 135.0, None, 135.3, None, None,2.083, None,3.8,92.0, None, 8.5, None,2.1, 0.7, 0.0,2022-03-17 16:00:00, 950.0,11, None, 1024.0
+93.6, None, None, None, 0.034, 164.8,1.0,0.4,1.0, 950.0, None, None, None, 135.0, None, 135.3, None, None,1.837, None,3.8,94.0, None, 3.623, None,1.8, 0.9, 0.0,2022-03-17 17:00:00, 950.0,11, None, 1023.9
+94.7, None, None, None, 0.007, 171.8,1.0,0.4,1.0, 950.0, None, None, None, 135.0, None, 135.2, None, None,1.329, None,3.8,95.0, None, 7.544, None,1.3, 1.2, 0.0,2022-03-17 18:00:00, 950.0,11, None, 1023.9
+95.4, None, None, None, 0.007, 204.3,0.0,1.0,0.0, 950.0, None, None, None, 135.0, None, 135.0, None, None,1.007, None,1.3,95.0, None, 18.15, None,1.0, 1.5, 0.0,2022-03-17 19:00:00, 950.0,11, None, 1024.0
+95.9, None, None, None, 0.06, 198.9,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.2, None, None,0.531, None,1.3,96.0, None, 20.57, None,0.5, 1.4, 0.0,2022-03-17 20:00:00, 950.0,11, None, 1024.0
+96.2, None, None, None, 0.007, 177.7,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.1, None, None,0.479, None,1.3,96.0, None, 5.581, None,0.5, 0.4, 0.0,2022-03-17 21:00:00, 950.0,11, None, 1023.9
+96.4, None, None, None, 0.007, 129.8,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.1, None, None,0.535, None,1.3,96.0, None, 57.46, None,0.5, 0.1, 0.0,2022-03-17 22:00:00, 950.0,11, None, 1023.9
+96.5, None, None, None, 0.007, 73.52,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.1, None, None,0.509, None,1.3,97.0, None, 20.63, None,0.5, 0.2, 0.0,2022-03-17 23:00:00, 950.0,11, None, 1023.8
+96.7, None, None, None, 0.007, 107.8,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.1, None, None,0.472, None,1.3,97.0, None, 73.39, None,0.5, 0.0, 0.0,2022-03-18 00:00:00, 950.0,11, None, 1023.7
+96.8, None, None, None, 0.007, 136.4,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.1, None, None,0.548, None,1.3,97.0, None, 21.2, None,0.5, 0.1, 0.0,2022-03-18 01:00:00, 950.0,11, None, 1023.8
+96.9, None, None, None, 0.067, 137.9,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.1, 7.4, None,0.545, None,1.3,97.0, None, 49.48, None,0.5, 0.0, 0.0,2022-03-18 02:00:00, 950.0,11, None, 1023.8
+97.1, None, None, None, 0.01, 167.0,0.0,0.5,0.0, 951.0, None, None, None, 135.0, None, 135.0, 7.4, None,0.543, None,1.3,97.0, None, 36.62, None,0.5, 0.1, 0.0,2022-03-18 03:00:00, 951.0,11, None, 1024.9
+97.1, None, None, None, 0.25, 204.9,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.0, 7.4, None,0.608, None,1.3,97.0, None, 34.39, None,0.6, 0.0, 0.0,2022-03-18 04:00:00, 950.0,11, None, 1023.9
+97.2, None, None, None, 0.069, 191.5,0.0,0.5,0.0, 950.0, None, None, None, 135.0, None, 135.0, 7.6, None,0.646, None,1.3,97.0, None, 56.52, None,0.6, 0.2, 0.0,2022-03-18 05:00:00, 950.0,11, None, 1023.9
+97.2, None, None, None, 0.008, 113.7,0.0,0.5,0.0, 951.0, None, None, None, 135.0, None, 135.0, 7.6, None,0.656, None,1.3,97.0, None, 67.95, None,0.7, 0.0, 0.0,2022-03-18 06:00:00, 951.0,11, None, 1025.0
+97.3, None, None, None, 0.022, 196.0,0.0,0.6,0.0, 951.0, None, None, None, 135.0, None, 135.0, 7.6, None,0.644, None,0.7,97.0, None, 35.95, None,0.6, 0.0, 0.0,2022-03-18 07:00:00, 951.0,11, None, 1025.0
+97.2, None, None, None, 0.007, 320.1,1.0,0.6,1.0, 951.0, None, None, None, 135.0, None, 135.0, 7.6, None,1.032, None,1.0,97.0, None, 59.17, None,1.0, 0.1, 0.0,2022-03-18 08:00:00, 951.0,11, None, 1025.0
+96.8, None, None, None, 0.122, 37.0,1.0,0.6,1.0, 951.0, None, None, None, 135.0, None, 134.9, 7.6, None,1.531, None,1.6,97.0, None, 24.39, None,1.5, 0.1, 0.0,2022-03-18 09:00:00, 951.0,11, None, 1025.0
+96.5, None, None, None, 0.044, 87.3,2.0,0.6,2.0, 951.0, None, None, None, 135.0, None, 134.9, 7.4, None,2.154, None,2.2,97.0, None, 31.69, None,2.2, 0.1, 0.0,2022-03-18 10:00:00, 951.0,11, None, 1024.9
+95.7, None, None, None, 0.242, 121.0,2.0,0.6,2.0, 951.0, None, None, None, 135.0, None, 134.9, 7.6, None,2.733, None,2.9,96.0, None, 44.11, None,2.7, 0.2, 0.0,2022-03-18 11:00:00, 951.0,11, None, 1024.9
+94.9, None, None, None, 0.319, 122.0,3.0,0.6,3.0, 951.0, None, None, None, 135.0, None, 134.8, 7.8, None,3.594, None,3.6,95.0, None, 34.13, None,3.6, 0.2, 0.0,2022-03-18 12:00:00, 951.0,11, None, 1024.8
+93.9, None, None, None, 1.093, 127.9,2.0,0.6,2.0, 950.0, None, None, None, 135.0, None, 134.9, None, None,3.245, None,3.9,94.0, None, 46.37, None,3.2, -0.2, 0.0,2022-03-18 13:00:00, 950.0,11, None, 1023.8
+91.8, None, None, None, 1.208, 145.7,2.0,0.6,2.0, 950.0, None, None, None, 135.0, None, 134.6, None, None,3.409, None,3.9,92.0, None, 27.27, None,3.4, 0.2, 0.0,2022-03-18 14:00:00, 950.0,11, None, 1023.8
+90.1, None, None, None, 1.585, 156.4,2.0,0.6,2.0, 949.0, None, None, None, 134.0, None, 134.4, None, None,3.378, None,4.0,90.0, None, 16.77, None,3.4, -0.2, 0.0,2022-03-18 15:00:00, 949.0,11, None, 1022.7
+92.0, None, None, None, 2.827, 160.9,2.0,0.6,2.0, 949.0, None, None, None, 134.0, None, 134.3, None, None,3.02, None,4.0,92.0, None, 11.55, None,3.0, -0.3, 0.0,2022-03-18 16:00:00, 949.0,11, None, 1022.7
+91.3, None, None, None, 0.527, 162.3,2.0,0.6,2.0, 949.0, None, None, None, 134.0, None, 134.2, None, None,3.005, None,4.0,91.0, None, 10.51, None,3.0, 0.0, 0.0,2022-03-18 17:00:00, 949.0,11, None, 1022.7
+91.0, None, None, None, 0.198, 163.1,1.0,0.6,1.0, 949.0, None, None, None, 134.0, None, 134.1, None, None,2.731, None,4.0,91.0, None, 13.28, None,2.7, 0.0, 0.0,2022-03-18 18:00:00, 949.0,11, None, 1022.7
+92.1, None, None, None, 0.082, 105.6,1.0,2.1,1.0, 948.0, None, None, None, 134.0, None, 134.1, None, None,2.096, None,2.8,92.0, None, 45.82, None,2.1, -0.1, 0.0,2022-03-18 19:00:00, 948.0,11, None, 1021.7
+93.6, None, None, None, 0.057, 131.1,1.0,1.7,1.0, 948.0, None, None, None, 134.0, None, 134.0, None, None,1.762, None,2.8,94.0, None, 39.95, None,1.8, -0.1, 0.0,2022-03-18 20:00:00, 948.0,11, None, 1021.7
+94.2, None, None, None, 0.048, 92.5,1.0,1.6,1.0, 948.0, None, None, None, 134.0, None, 133.7, None, None,1.6, None,2.8,94.0, None, 48.72, None,1.6, 0.1, 0.0,2022-03-18 21:00:00, 948.0,11, None, 1021.7
+95.4, None, None, None, 0.179, 202.4,1.0,1.4,1.0, 948.0, None, None, None, 134.0, None, 133.6, None, None,1.604, None,2.8,95.0, None, 37.72, None,1.6, 0.4, 0.0,2022-03-18 22:00:00, 948.0,11, None, 1021.6
+95.5, None, None, None, 0.036, 84.8,1.0,1.3,1.0, 947.0, None, None, None, 134.0, None, 133.5, None, None,1.325, None,2.8,96.0, None, 37.0, None,1.3, 0.1, 0.0,2022-03-18 23:00:00, 947.0,11, None, 1020.5

@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-66,1,EC,1128584,1096,VERNON SILVER STAR LODGE,1499,BC,-119.0557,50.35783,1572.0,1970-07-01,2022-03-04,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-501,12,FLNRO-WMB,480,12335,SILVERSTAR SF,14391,BC,-119.0654167,50.3682,1880.0,2018-06-26,2024-01-13,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-515,14,ENV-ASP,2F10P,12954,,14886,BC,-119.0621,50.3714,,2021-03-18,2024-01-11,Unspecified,Cumulative Precipitation|Precipitation 1hr|Precipitation 24hr|Snow Depth|Snow Water Equivalent|Temperature (Mean)

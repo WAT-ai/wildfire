@@ -1,3 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-102,1,EC,1165225,1294,MT LOLO KAMLOOPS,1697,BC,-120.133333,50.8,1737.0,1964-02-01,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-396,17,ARDA,116264,5742,CHARLES LEE KAM,7425,BC,-120.141666666667,50.8013888888889,1169.0,1971-04-15,1973-10-23,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

@@ -1,5 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-1,1,EC,1120475,232,ARMSTRONG GRANDVIEW,635,BC,-119.283333,50.4,503.0,1959-03-27,1960-06-30,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount
-89,1,EC,1162784,1262,FALKLAND SALMON VALLEY,1665,BC,-119.4,50.45,0.0,1959-03-25,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-283,17,ARDA,112245,4995,OKEEFE,6675,BC,-119.299166666667,50.3791666666667,473.0,1971-03-18,1972-10-29,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)
-318,17,ARDA,116083,5582,GLENEMMA ASB,7264,BC,-119.275,50.4941666666667,530.0,1971-04-06,1972-10-30,Daily,Precipitation (Cumulative)|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

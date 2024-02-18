@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-158,12,FLNRO-WMB,354,1899,ZZ YARD CREEK,2302,BC,-118.7,50.7,13.0,1979-06-04,2000-10-01,Daily,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-340,17,ARDA,116126,5609,NOISY,7291,BC,-118.703333333333,50.7383333333333,724.0,1971-05-30,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-495,12,FLNRO-WMB,1255,12020,ZZ ICE BOX TS,14077,BC,-118.6408333,50.69195,756.0,2016-06-03,2016-10-12,Unspecified,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)

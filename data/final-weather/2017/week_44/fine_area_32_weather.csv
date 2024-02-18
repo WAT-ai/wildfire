@@ -1,0 +1,323 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year,snw_dpth
+348.0, None, None,0.0, None,6.9, None,1.7, None, None, None,87.0,2017-10-29 06:00:00,44,
+340.0, None, None,0.0, None,7.5, None,1.1, None, None, None,80.0,2017-10-29 07:00:00,44,
+338.0, None, None,0.0, None,11.2, None,1.7, None, None, None,72.0,2017-10-29 08:00:00,44,
+350.0, None, None,0.0, None,11.3, None,3.5, None, None, None,56.0,2017-10-29 09:00:00,44,
+341.0, None, None,0.0, None,13.6, None,4.9, None, None, None,47.0,2017-10-29 10:00:00,44,
+353.0, None, None,0.0, None,13.8, None,5.6, None, None, None,41.0,2017-10-29 11:00:00,44,
+349.0, None, None,0.0, None,9.4, None,7.0, None, None, None,31.0,2017-10-29 12:00:00,44,
+358.0, None, None,0.0, None,7.9, None,7.5, None, None, None,26.0,2017-10-29 13:00:00,44,
+15.0, None, None,0.0, None,12.5, None,6.3, None, None, None,23.0,2017-10-29 14:00:00,44,
+348.0, None, None,0.0, None,9.9, None,6.1, None, None, None,28.0,2017-10-29 15:00:00,44,
+318.0, None, None,0.0, None,7.2, None,3.3, None, None, None,35.0,2017-10-29 16:00:00,44,
+341.0, None, None,0.0, None,9.2, None,1.3, None, None, None,38.0,2017-10-29 17:00:00,44,
+253.0, None, None,0.0, None,1.4, None,-0.4, None, None, None,47.0,2017-10-29 18:00:00,44,
+348.0, None, None,0.0, None,8.7, None,-0.1, None, None, None,41.0,2017-10-29 19:00:00,44,
+350.0, None, None,0.0, None,8.2, None,-0.2, None, None, None,39.0,2017-10-29 20:00:00,44,
+14.0, None, None,0.0, None,11.5, None,-0.5, None, None, None,39.0,2017-10-29 21:00:00,44,
+8.0, None, None,0.0, None,8.1, None,-0.7, None, None, None,39.0,2017-10-29 22:00:00,44,
+1.0, None, None,0.0, None,7.0, None,-1.1, None, None, None,36.0,2017-10-29 23:00:00,44,
+14.0, None, None,0.0, None,6.0, None,-1.8, None, None, None,42.0,2017-10-30 00:00:00,44,
+13.0, None, None,0.0, None,4.3, None,-2.5, None, None, None,45.0,2017-10-30 01:00:00,44,
+21.0, None, None,0.0, None,4.8, None,-2.9, None, None, None,44.0,2017-10-30 02:00:00,44,
+7.0, None, None,0.0, None,6.0, None,-3.3, None, None, None,46.0,2017-10-30 03:00:00,44,
+5.0, None, None,0.0, None,4.7, None,-3.6, None, None, None,49.0,2017-10-30 04:00:00,44,
+5.0, None, None,0.0, None,4.2, None,-4.1, None, None, None,51.0,2017-10-30 05:00:00,44,
+353.0, None, None,0.0, None,5.3, None,-4.5, None, None, None,48.0,2017-10-30 06:00:00,44,
+347.0, None, None,0.0, None,5.7, None,-4.3, None, None, None,50.0,2017-10-30 07:00:00,44,
+356.0, None, None,0.0, None,4.0, None,-3.3, None, None, None,41.0,2017-10-30 08:00:00,44,
+182.0, None, None,0.0, None,3.3, None,2.0, None, None, None,26.0,2017-10-30 09:00:00,44,
+193.0, None, None,0.0, None,4.8, None,5.1, None, None, None,23.0,2017-10-30 10:00:00,44,
+263.0, None, None,0.0, None,6.1, None,5.4, None, None, None,23.0,2017-10-30 11:00:00,44,
+261.0, None, None,0.0, None,6.2, None,6.3, None, None, None,23.0,2017-10-30 12:00:00,44,
+257.0, None, None,0.0, None,7.5, None,6.5, None, None, None,28.0,2017-10-30 13:00:00,44,
+249.0, None, None,0.0, None,6.2, None,6.2, None, None, None,32.0,2017-10-30 14:00:00,44,
+233.0, None, None,0.0, None,5.1, None,6.2, None, None, None,28.0,2017-10-30 15:00:00,44,
+281.0, None, None,0.0, None,5.6, None,2.6, None, None, None,36.0,2017-10-30 16:00:00,44,
+339.0, None, None,0.0, None,7.1, None,-0.2, None, None, None,45.0,2017-10-30 17:00:00,44,
+335.0, None, None,0.0, None,7.2, None,-1.1, None, None, None,49.0,2017-10-30 18:00:00,44,
+334.0, None, None,0.0, None,7.5, None,-1.6, None, None, None,48.0,2017-10-30 19:00:00,44,
+312.0, None, None,0.0, None,3.0, None,-1.9, None, None, None,51.0,2017-10-30 20:00:00,44,
+319.0, None, None,0.0, None,5.8, None,-1.0, None, None, None,44.0,2017-10-30 21:00:00,44,
+315.0, None, None,0.0, None,7.8, None,-0.4, None, None, None,44.0,2017-10-30 22:00:00,44,
+180.0, None, None,0.0, None,4.2, None,-1.0, None, None, None,43.0,2017-10-30 23:00:00,44,
+231.0, None, None,0.0, None,2.5, None,-0.5, None, None, None,42.0,2017-10-31 00:00:00,44,
+60.0, None, None,0.0, None,1.3, None,-0.7, None, None, None,44.0,2017-10-31 01:00:00,44,
+270.0, None, None,0.0, None,2.8, None,-0.7, None, None, None,45.0,2017-10-31 02:00:00,44,
+232.0, None, None,0.0, None,1.4, None,-0.3, None, None, None,50.0,2017-10-31 03:00:00,44,
+322.0, None, None,0.0, None,2.6, None,-0.9, None, None, None,55.0,2017-10-31 04:00:00,44,
+291.0, None, None,0.0, None,3.8, None,-0.4, None, None, None,44.0,2017-10-31 05:00:00,44,
+276.0, None, None,0.0, None,5.7, None,0.5, None, None, None,41.0,2017-10-31 06:00:00,44,
+280.0, None, None,0.0, None,4.5, None,2.0, None, None, None,36.0,2017-10-31 07:00:00,44,
+292.0, None, None,0.0, None,5.0, None,3.0, None, None, None,38.0,2017-10-31 08:00:00,44,
+289.0, None, None,0.0, None,10.0, None,4.9, None, None, None,50.0,2017-10-31 09:00:00,44,
+288.0, None, None,0.4, None,11.8, None,4.6, None, None, None,86.0,2017-10-31 10:00:00,44,
+292.0, None, None,1.2, None,11.6, None,4.5, None, None, None,89.0,2017-10-31 11:00:00,44,
+292.0, None, None,1.4, None,13.3, None,4.8, None, None, None,92.0,2017-10-31 12:00:00,44,
+283.0, None, None,2.0, None,14.1, None,4.8, None, None, None,93.0,2017-10-31 13:00:00,44,
+282.0, None, None,1.4, None,14.5, None,4.3, None, None, None,95.0,2017-10-31 14:00:00,44,
+290.0, None, None,0.4, None,17.4, None,5.4, None, None, None,93.0,2017-10-31 15:00:00,44,
+297.0, None, None,0.0, None,14.5, None,4.4, None, None, None,94.0,2017-10-31 16:00:00,44,
+306.0, None, None,0.0, None,15.5, None,2.6, None, None, None,93.0,2017-10-31 17:00:00,44,
+308.0, None, None,0.2, None,18.4, None,2.0, None, None, None,90.0,2017-10-31 18:00:00,44,
+307.0, None, None,0.0, None,17.2, None,1.8, None, None, None,91.0,2017-10-31 19:00:00,44,
+305.0, None, None,0.0, None,17.3, None,1.5, None, None, None,90.0,2017-10-31 20:00:00,44,
+300.0, None, None,0.0, None,15.7, None,1.3, None, None, None,89.0,2017-10-31 21:00:00,44,
+302.0, None, None,0.0, None,13.9, None,1.2, None, None, None,88.0,2017-10-31 22:00:00,44,
+303.0, None, None,0.0, None,15.5, None,0.8, None, None, None,88.0,2017-10-31 23:00:00,44,
+291.0, None, None,0.0, None,18.8, None,0.6, None, None, None,84.0,2017-11-01 00:00:00,44,
+307.0, None, None,0.0, None,19.4, None,0.2, None, None, None,82.0,2017-11-01 01:00:00,44,
+312.0, None, None,0.0, None,16.1, None,-0.5, None, None, None,83.0,2017-11-01 02:00:00,44,
+301.0, None, None,0.0, None,17.8, None,-0.4, None, None, None,81.0,2017-11-01 03:00:00,44,
+304.0, None, None,0.0, None,15.0, None,-0.6, None, None, None,86.0,2017-11-01 04:00:00,44,
+311.0, None, None,0.0, None,8.4, None,-0.8, None, None, None,88.0,2017-11-01 05:00:00,44,
+299.0, None, None,0.0, None,7.1, None,-1.0, None, None, None,91.0,2017-11-01 06:00:00,44,
+291.0, None, None,0.0, None,5.9, None,-1.1, None, None, None,88.0,2017-11-01 07:00:00,44,
+273.0, None, None,0.0, None,5.9, None,-1.0, None, None, None,86.0,2017-11-01 08:00:00,44,
+282.0, None, None,0.0, None,8.7, None,-0.2, None, None, None,83.0,2017-11-01 09:00:00,44,
+301.0, None, None,0.0, None,9.9, None,1.0, None, None, None,73.0,2017-11-01 10:00:00,44,
+304.0, None, None,0.0, None,10.6, None,-0.2, None, None, None,76.0,2017-11-01 11:00:00,44,
+297.0, None, None,0.0, None,11.1, None,-0.2, None, None, None,75.0,2017-11-01 12:00:00,44,
+286.0, None, None,0.0, None,12.7, None,1.7, None, None, None,62.0,2017-11-01 13:00:00,44,
+306.0, None, None,0.0, None,10.7, None,-0.8, None, None, None,71.0,2017-11-01 14:00:00,44,
+281.0, None, None,0.0, None,7.0, None,-1.3, None, None, None,75.0,2017-11-01 15:00:00,44,
+291.0, None, None,0.0, None,5.5, None,-2.5, None, None, None,81.0,2017-11-01 16:00:00,44,
+316.0, None, None,0.0, None,5.3, None,-3.0, None, None, None,78.0,2017-11-01 17:00:00,44,
+213.0, None, None,0.0, None,2.3, None,-3.1, None, None, None,80.0,2017-11-01 18:00:00,44,
+162.0, None, None,0.0, None,2.2, None,-3.0, None, None, None,84.0,2017-11-01 19:00:00,44,
+111.0, None, None,0.0, None,2.6, None,-3.0, None, None, None,82.0,2017-11-01 20:00:00,44,
+38.0, None, None,0.0, None,3.5, None,-3.5, None, None, None,89.0,2017-11-01 21:00:00,44,
+101.0, None, None,0.0, None,3.4, None,-3.4, None, None, None,92.0,2017-11-01 22:00:00,44,
+109.0, None, None,0.0, None,4.8, None,-3.6, None, None, None,94.0,2017-11-01 23:00:00,44,
+97.0, None, None,0.0, None,5.0, None,-3.8, None, None, None,93.0,2017-11-02 00:00:00,44,
+7.0, None, None,0.0, None,6.7, None,-4.2, None, None, None,89.0,2017-11-02 01:00:00,44,
+14.0, None, None,0.0, None,7.4, None,-4.5, None, None, None,89.0,2017-11-02 02:00:00,44,
+27.0, None, None,0.0, None,7.0, None,-4.9, None, None, None,89.0,2017-11-02 03:00:00,44,
+23.0, None, None,0.0, None,7.5, None,-5.4, None, None, None,89.0,2017-11-02 04:00:00,44,
+26.0, None, None,0.0, None,8.3, None,-5.6, None, None, None,88.0,2017-11-02 05:00:00,44,
+22.0, None, None,0.0, None,8.3, None,-5.9, None, None, None,89.0,2017-11-02 06:00:00,44,
+16.0, None, None,0.0, None,7.1, None,-6.1, None, None, None,88.0,2017-11-02 07:00:00,44,
+4.0, None, None,0.0, None,7.5, None,-6.3, None, None, None,86.0,2017-11-02 08:00:00,44,
+356.0, None, None,0.0, None,7.4, None,-6.2, None, None, None,85.0,2017-11-02 09:00:00,44,
+0.0, None, None,0.0, None,9.7, None,-6.1, None, None, None,85.0,2017-11-02 10:00:00,44,
+354.0, None, None,0.0, None,10.2, None,-6.4, None, None, None,83.0,2017-11-02 11:00:00,44,
+347.0, None, None,0.0, None,12.3, None,-6.2, None, None, None,82.0,2017-11-02 12:00:00,44,
+343.0, None, None,0.0, None,11.3, None,-6.6, None, None, None,81.0,2017-11-02 13:00:00,44,
+351.0, None, None,0.0, None,11.5, None,-6.6, None, None, None,81.0,2017-11-02 14:00:00,44,
+349.0, None, None,0.0, None,11.9, None,-7.4, None, None, None,82.0,2017-11-02 15:00:00,44,
+353.0, None, None,0.0, None,11.9, None,-8.0, None, None, None,85.0,2017-11-02 16:00:00,44,
+358.0, None, None,0.0, None,13.2, None,-8.4, None, None, None,84.0,2017-11-02 17:00:00,44,
+1.0, None, None,0.0, None,10.8, None,-8.7, None, None, None,84.0,2017-11-02 18:00:00,44,
+3.0, None, None,0.0, None,11.2, None,-9.0, None, None, None,83.0,2017-11-02 19:00:00,44,
+349.0, None, None,0.0, None,11.8, None,-9.5, None, None, None,83.0,2017-11-02 20:00:00,44,
+335.0, None, None,0.0, None,11.9, None,-9.8, None, None, None,84.0,2017-11-02 21:00:00,44,
+331.0, None, None,0.0, None,11.5, None,-10.3, None, None, None,84.0,2017-11-02 22:00:00,44,
+333.0, None, None,0.0, None,12.5, None,-11.5, None, None, None,80.0,2017-11-03 00:00:00,44,
+324.0, None, None,0.0, None,12.0, None,-12.2, None, None, None,80.0,2017-11-03 01:00:00,44,
+317.0, None, None,0.0, None,10.0, None,-12.7, None, None, None,79.0,2017-11-03 02:00:00,44,
+316.0, None, None,0.0, None,9.7, None,-13.0, None, None, None,80.0,2017-11-03 03:00:00,44,
+277.0, None, None,0.0, None,6.0, None,-14.0, None, None, None,80.0,2017-11-03 04:00:00,44,
+285.0, None, None,0.0, None,5.4, None,-14.9, None, None, None,81.0,2017-11-03 05:00:00,44,
+298.0, None, None,0.0, None,5.7, None,-15.8, None, None, None,81.0,2017-11-03 06:00:00,44,
+287.0, None, None,0.0, None,6.9, None,-16.8, None, None, None,80.0,2017-11-03 07:00:00,44,
+295.0, None, None,0.0, None,6.3, None,-17.0, None, None, None,79.0,2017-11-03 08:00:00,44,
+282.0, None, None,0.0, None,6.6, None,-15.8, None, None, None,78.0,2017-11-03 09:00:00,44,
+278.0, None, None,0.0, None,6.2, None,-15.6, None, None, None,78.0,2017-11-03 10:00:00,44,
+261.0, None, None,0.0, None,7.4, None,-12.0, None, None, None,75.0,2017-11-03 11:00:00,44,
+279.0, None, None,0.0, None,9.6, None,-11.4, None, None, None,72.0,2017-11-03 12:00:00,44,
+271.0, None, None,0.0, None,8.3, None,-11.8, None, None, None,73.0,2017-11-03 13:00:00,44,
+279.0, None, None,0.0, None,7.1, None,-11.0, None, None, None,73.0,2017-11-03 14:00:00,44,
+232.0, None, None,0.0, None,5.7, None,-11.9, None, None, None,74.0,2017-11-03 15:00:00,44,
+263.0, None, None,0.0, None,5.3, None,-15.3, None, None, None,81.0,2017-11-03 16:00:00,44,
+283.0, None, None,0.0, None,6.0, None,-16.6, None, None, None,80.0,2017-11-03 17:00:00,44,
+345.0, None, None,0.0, None,1.3, None,-17.8, None, None, None,78.0,2017-11-03 18:00:00,44,
+308.0, None, None,0.0, None,5.7, None,-18.5, None, None, None,77.0,2017-11-03 19:00:00,44,
+316.0, None, None,0.0, None,5.0, None,-19.6, None, None, None,76.0,2017-11-03 20:00:00,44,
+317.0, None, None,0.0, None,5.5, None,-19.3, None, None, None,77.0,2017-11-03 21:00:00,44,
+317.0, None, None,0.0, None,5.0, None,-19.6, None, None, None,76.0,2017-11-03 22:00:00,44,
+25.0, None, None,0.0, None,2.0, None,-20.1, None, None, None,75.0,2017-11-03 23:00:00,44,
+18.0, None, None,0.0, None,3.0, None,-21.0, None, None, None,75.0,2017-11-04 00:00:00,44,
+30.0, None, None,0.0, None,3.6, None,-19.4, None, None, None,77.0,2017-11-04 01:00:00,44,
+92.0, None, None,0.0, None,0.0, None,-18.4, None, None, None,78.0,2017-11-04 02:00:00,44,
+54.0, None, None,0.0, None,1.7, None,-16.7, None, None, None,79.0,2017-11-04 03:00:00,44,
+47.0, None, None,0.0, None,1.2, None,-16.5, None, None, None,79.0,2017-11-04 04:00:00,44,
+44.0, None, None,0.0, None,2.6, None,-16.2, None, None, None,80.0,2017-11-04 05:00:00,44,
+31.0, None, None,0.0, None,2.9, None,-16.4, None, None, None,79.0,2017-11-04 06:00:00,44,
+34.0, None, None,0.0, None,2.8, None,-16.6, None, None, None,79.0,2017-11-04 07:00:00,44,
+76.0, None, None,0.0, None,1.8, None,-15.4, None, None, None,82.0,2017-11-04 08:00:00,44,
+91.0, None, None,0.0, None,3.7, None,-13.3, None, None, None,81.0,2017-11-04 09:00:00,44,
+94.0, None, None,0.0, None,5.1, None,-12.0, None, None, None,79.0,2017-11-04 10:00:00,44,
+113.0, None, None,0.0, None,4.2, None,-12.2, None, None, None,80.0,2017-11-04 11:00:00,44,
+106.0, None, None,0.0, None,4.7, None,-10.7, None, None, None,75.0,2017-11-04 12:00:00,44,
+115.0, None, None,0.0, None,5.3, None,-11.1, None, None, None,77.0,2017-11-04 13:00:00,44,
+45.0, None, None,0.0, None,3.1, None,-10.5, None, None, None,73.0,2017-11-04 15:00:00,44,
+281.0, None, None,0.0, None,1.9, None,-12.6, None, None, None,81.0,2017-11-04 16:00:00,44,
+294.0, None, None,0.0, None,1.6, None,-14.6, None, None, None,82.0,2017-11-04 17:00:00,44,
+331.0, None, None,0.0, None,3.9, None,-14.5, None, None, None,82.0,2017-11-04 18:00:00,44,
+346.0, None, None,0.0, None,3.9, None,-14.2, None, None, None,82.0,2017-11-04 19:00:00,44,
+1.0, None, None,0.0, None,5.6, None,-13.6, None, None, None,82.0,2017-11-04 20:00:00,44,
+349.0, None, None,0.0, None,5.5, None,-13.7, None, None, None,82.0,2017-11-04 21:00:00,44,
+352.0, None, None,0.0, None,6.3, None,-13.9, None, None, None,81.0,2017-11-04 22:00:00,44,
+346.0, None, None,0.0, None,6.9, None,-13.5, None, None, None,81.0,2017-11-04 23:00:00,44,
+274.0, None, None,0.0, None,3.5, None,1.8, None, None, None,97.0,2017-10-29 06:00:00,44, None
+280.0, None, None,0.0, None,5.3, None,1.6, None, None, None,96.0,2017-10-29 07:00:00,44, None
+71.0, None, None,0.0, None,2.4, None,2.2, None, None, None,94.0,2017-10-29 08:00:00,44, None
+238.0, None, None,0.0, None,4.4, None,4.1, None, None, None,88.0,2017-10-29 09:00:00,44, None
+256.0, None, None,0.0, None,5.2, None,7.6, None, None, None,75.0,2017-10-29 10:00:00,44, None
+212.0, None, None,0.0, None,6.4, None,11.5, None, None, None,59.0,2017-10-29 11:00:00,44, None
+236.0, None, None,0.0, None,6.3, None,13.9, None, None, None,35.0,2017-10-29 12:00:00,44, None
+222.0, None, None,0.0, None,5.9, None,14.8, None, None, None,32.0,2017-10-29 13:00:00,44, None
+255.0, None, None,0.0, None,5.5, None,14.7, None, None, None,25.0,2017-10-29 14:00:00,44, None
+93.0, None, None,0.0, None,4.5, None,14.1, None, None, None,20.0,2017-10-29 15:00:00,44, None
+159.0, None, None,0.0, None,3.6, None,11.3, None, None, None,29.0,2017-10-29 16:00:00,44, None
+42.0, None, None,0.0, None,4.6, None,6.8, None, None, None,38.0,2017-10-29 17:00:00,44, None
+72.0, None, None,0.0, None,3.7, None,6.9, None, None, None,33.0,2017-10-29 18:00:00,44, None
+22.0, None, None,0.0, None,5.8, None,4.5, None, None, None,40.0,2017-10-29 19:00:00,44, None
+191.0, None, None,0.0, None,2.4, None,3.0, None, None, None,51.0,2017-10-29 20:00:00,44, None
+268.0, None, None,0.0, None,2.7, None,1.2, None, None, None,54.0,2017-10-29 21:00:00,44, None
+305.0, None, None,0.0, None,3.8, None,0.6, None, None, None,56.0,2017-10-29 22:00:00,44, None
+14.0, None, None,0.0, None,3.2, None,0.1, None, None, None,54.0,2017-10-29 23:00:00,44, None
+335.0, None, None,0.0, None,2.4, None,-0.9, None, None, None,62.0,2017-10-30 00:00:00,44, None
+289.0, None, None,0.0, None,4.4, None,-1.7, None, None, None,68.0,2017-10-30 01:00:00,44, None
+291.0, None, None,0.0, None,4.9, None,-2.1, None, None, None,63.0,2017-10-30 02:00:00,44, None
+284.0, None, None,0.0, None,7.1, None,-1.7, None, None, None,63.0,2017-10-30 03:00:00,44, None
+275.0, None, None,0.0, None,5.4, None,-2.6, None, None, None,65.0,2017-10-30 04:00:00,44, None
+288.0, None, None,0.0, None,8.4, None,-2.6, None, None, None,64.0,2017-10-30 05:00:00,44, None
+309.0, None, None,0.0, None,6.3, None,-2.5, None, None, None,66.0,2017-10-30 06:00:00,44, None
+288.0, None, None,0.0, None,4.0, None,-3.6, None, None, None,72.0,2017-10-30 07:00:00,44, None
+311.0, None, None,0.0, None,1.7, None,-3.4, None, None, None,76.0,2017-10-30 08:00:00,44, None
+274.0, None, None,0.0, None,4.2, None,0.4, None, None, None,57.0,2017-10-30 09:00:00,44, None
+215.0, None, None,0.0, None,4.6, None,4.1, None, None, None,49.0,2017-10-30 10:00:00,44, None
+182.0, None, None,0.0, None,5.5, None,6.3, None, None, None,41.0,2017-10-30 11:00:00,44, None
+168.0, None, None,0.0, None,5.8, None,8.0, None, None, None,34.0,2017-10-30 12:00:00,44, None
+273.0, None, None,0.0, None,9.8, None,8.3, None, None, None,33.0,2017-10-30 13:00:00,44, None
+267.0, None, None,0.0, None,5.5, None,9.9, None, None, None,31.0,2017-10-30 14:00:00,44, None
+182.0, None, None,0.0, None,4.9, None,9.1, None, None, None,33.0,2017-10-30 15:00:00,44, None
+197.0, None, None,0.0, None,1.6, None,6.2, None, None, None,40.0,2017-10-30 16:00:00,44, None
+2.0, None, None,0.0, None,1.9, None,2.3, None, None, None,57.0,2017-10-30 17:00:00,44, None
+339.0, None, None,0.0, None,0.0, None,0.3, None, None, None,59.0,2017-10-30 18:00:00,44, None
+359.0, None, None,0.0, None,0.0, None,-1.4, None, None, None,69.0,2017-10-30 19:00:00,44, None
+221.0, None, None,0.0, None,2.1, None,-1.6, None, None, None,70.0,2017-10-30 20:00:00,44, None
+298.0, None, None,0.0, None,4.9, None,-1.3, None, None, None,66.0,2017-10-30 21:00:00,44, None
+301.0, None, None,0.0, None,4.0, None,-2.0, None, None, None,70.0,2017-10-30 22:00:00,44, None
+272.0, None, None,0.0, None,6.0, None,-0.9, None, None, None,63.0,2017-10-30 23:00:00,44, None
+97.0, None, None,0.0, None,2.4, None,-1.5, None, None, None,69.0,2017-10-31 00:00:00,44, None
+265.0, None, None,0.0, None,1.8, None,-1.5, None, None, None,71.0,2017-10-31 01:00:00,44, None
+3.0, None, None,0.0, None,2.1, None,-1.1, None, None, None,70.0,2017-10-31 02:00:00,44, None
+104.0, None, None,0.0, None,0.0, None,-0.3, None, None, None,70.0,2017-10-31 03:00:00,44, None
+100.0, None, None,0.0, None,0.0, None,-0.5, None, None, None,67.0,2017-10-31 04:00:00,44, None
+229.0, None, None,0.0, None,0.0, None,-0.4, None, None, None,71.0,2017-10-31 05:00:00,44, None
+99.0, None, None,0.0, None,0.0, None,0.0, None, None, None,74.0,2017-10-31 06:00:00,44, None
+102.0, None, None,0.0, None,3.7, None,-0.2, None, None, None,72.0,2017-10-31 07:00:00,44, None
+317.0, None, None,0.0, None,0.0, None,0.3, None, None, None,72.0,2017-10-31 08:00:00,44, None
+312.0, None, None,0.0, None,2.3, None,1.3, None, None, None,70.0,2017-10-31 09:00:00,44, None
+145.0, None, None,0.0, None,4.5, None,2.1, None, None, None,74.0,2017-10-31 10:00:00,44, None
+155.0, None, None,0.0, None,3.7, None,2.0, None, None, None,79.0,2017-10-31 11:00:00,44, None
+162.0, None, None,0.2, None,4.2, None,2.0, None, None, None,85.0,2017-10-31 12:00:00,44, None
+135.0, None, None,0.2, None,4.6, None,1.6, None, None, None,90.0,2017-10-31 13:00:00,44, None
+40.0, None, None,0.0, None,2.0, None,1.7, None, None, None,92.0,2017-10-31 14:00:00,44, None
+172.0, None, None,0.0, None,4.1, None,1.9, None, None, None,92.0,2017-10-31 15:00:00,44, None
+126.0, None, None,0.0, None,2.0, None,1.6, None, None, None,93.0,2017-10-31 16:00:00,44, None
+130.0, None, None,0.0, None,3.1, None,1.4, None, None, None,93.0,2017-10-31 17:00:00,44, None
+308.0, None, None,0.0, None,7.3, None,1.7, None, None, None,89.0,2017-10-31 18:00:00,44, None
+66.0, None, None,0.0, None,4.6, None,0.7, None, None, None,95.0,2017-10-31 19:00:00,44, None
+37.0, None, None,0.0, None,4.2, None,0.3, None, None, None,96.0,2017-10-31 20:00:00,44, None
+93.0, None, None,0.0, None,3.2, None,0.4, None, None, None,97.0,2017-10-31 21:00:00,44, None
+350.0, None, None,0.0, None,1.7, None,0.5, None, None, None,97.0,2017-10-31 22:00:00,44, None
+265.0, None, None,0.0, None,3.6, None,0.7, None, None, None,96.0,2017-10-31 23:00:00,44, None
+292.0, None, None,0.0, None,5.1, None,2.6, None, None, None,89.0,2017-11-01 00:00:00,44, None
+291.0, None, None,0.0, None,4.2, None,2.4, None, None, None,91.0,2017-11-01 01:00:00,44, None
+311.0, None, None,0.0, None,7.5, None,5.4, None, None, None,64.0,2017-11-01 02:00:00,44, None
+313.0, None, None,0.0, None,3.7, None,5.4, None, None, None,71.0,2017-11-01 03:00:00,44, None
+326.0, None, None,0.0, None,3.7, None,5.9, None, None, None,65.0,2017-11-01 04:00:00,44, None
+251.0, None, None,0.0, None,4.0, None,5.8, None, None, None,69.0,2017-11-01 05:00:00,44, None
+224.0, None, None,0.0, None,0.0, None,4.2, None, None, None,80.0,2017-11-01 06:00:00,44, None
+311.0, None, None,0.0, None,3.8, None,3.8, None, None, None,80.0,2017-11-01 07:00:00,44, None
+315.0, None, None,0.0, None,4.1, None,4.6, None, None, None,76.0,2017-11-01 08:00:00,44, None
+243.0, None, None,0.0, None,2.7, None,5.1, None, None, None,75.0,2017-11-01 09:00:00,44, None
+267.0, None, None,0.0, None,3.7, None,6.5, None, None, None,71.0,2017-11-01 10:00:00,44, None
+197.0, None, None,0.0, None,2.0, None,6.5, None, None, None,66.0,2017-11-01 11:00:00,44, None
+219.0, None, None,0.0, None,6.2, None,6.9, None, None, None,58.0,2017-11-01 12:00:00,44, None
+214.0, None, None,0.0, None,4.6, None,7.1, None, None, None,54.0,2017-11-01 13:00:00,44, None
+251.0, None, None,0.0, None,4.5, None,7.5, None, None, None,47.0,2017-11-01 14:00:00,44, None
+136.0, None, None,0.0, None,4.2, None,6.5, None, None, None,53.0,2017-11-01 15:00:00,44, None
+111.0, None, None,0.0, None,4.3, None,5.3, None, None, None,59.0,2017-11-01 16:00:00,44, None
+54.0, None, None,0.0, None,4.5, None,4.3, None, None, None,63.0,2017-11-01 17:00:00,44, None
+49.0, None, None,0.0, None,4.0, None,2.9, None, None, None,68.0,2017-11-01 18:00:00,44, None
+36.0, None, None,0.0, None,3.1, None,2.5, None, None, None,70.0,2017-11-01 19:00:00,44, None
+20.0, None, None,0.0, None,0.0, None,2.3, None, None, None,76.0,2017-11-01 20:00:00,44, None
+117.0, None, None,0.0, None,4.2, None,1.9, None, None, None,81.0,2017-11-01 21:00:00,44, None
+162.0, None, None,0.0, None,2.8, None,2.0, None, None, None,82.0,2017-11-01 22:00:00,44, None
+37.0, None, None,0.2, None,6.1, None,2.0, None, None, None,86.0,2017-11-01 23:00:00,44, None
+62.0, None, None,0.2, None,5.2, None,1.1, None, None, None,91.0,2017-11-02 00:00:00,44, None
+102.0, None, None,0.2, None,2.6, None,0.5, None, None, None,94.0,2017-11-02 01:00:00,44, None
+142.0, None, None,0.0, None,3.9, None,0.2, None, None, None,95.0,2017-11-02 02:00:00,44, None
+104.0, None, None,0.0, None,5.0, None,0.0, None, None, None,96.0,2017-11-02 03:00:00,44, None
+28.0, None, None,0.0, None,2.9, None,0.0, None, None, None,95.0,2017-11-02 04:00:00,44, None
+61.0, None, None,0.0, None,6.7, None,-0.5, None, None, None,93.0,2017-11-02 05:00:00,44, None
+73.0, None, None,0.0, None,4.8, None,-0.8, None, None, None,95.0,2017-11-02 06:00:00,44, None
+80.0, None, None,0.0, None,5.5, None,-1.1, None, None, None,94.0,2017-11-02 07:00:00,44, None
+69.0, None, None,0.0, None,4.5, None,-1.3, None, None, None,93.0,2017-11-02 08:00:00,44, None
+112.0, None, None,0.0, None,5.6, None,-1.2, None, None, None,95.0,2017-11-02 09:00:00,44, None
+5.0, None, None,0.0, None,5.2, None,-1.0, None, None, None,94.0,2017-11-02 10:00:00,44, None
+113.0, None, None,0.0, None,6.4, None,-1.0, None, None, None,93.0,2017-11-02 11:00:00,44, None
+119.0, None, None,0.0, None,6.5, None,-0.9, None, None, None,92.0,2017-11-02 12:00:00,44, None
+85.0, None, None,0.0, None,6.0, None,-1.0, None, None, None,91.0,2017-11-02 13:00:00,44, None
+167.0, None, None,0.0, None,1.8, None,-0.2, None, None, None,91.0,2017-11-02 14:00:00,44, None
+184.0, None, None,0.0, None,2.0, None,-1.4, None, None, None,92.0,2017-11-02 15:00:00,44, None
+228.0, None, None,0.0, None,1.8, None,-2.0, None, None, None,93.0,2017-11-02 16:00:00,44, None
+298.0, None, None,0.0, None,5.2, None,-2.8, None, None, None,92.0,2017-11-02 17:00:00,44, None
+313.0, None, None,0.0, None,4.4, None,-3.2, None, None, None,92.0,2017-11-02 18:00:00,44, None
+306.0, None, None,0.0, None,8.2, None,-3.7, None, None, None,91.0,2017-11-02 19:00:00,44, None
+290.0, None, None,0.0, None,7.5, None,-4.1, None, None, None,90.0,2017-11-02 20:00:00,44, None
+231.0, None, None,0.0, None,3.6, None,-4.4, None, None, None,93.0,2017-11-02 21:00:00,44, None
+265.0, None, None,0.0, None,2.8, None,-4.6, None, None, None,92.0,2017-11-02 22:00:00,44, None
+306.0, None, None,0.0, None,9.4, None,-5.3, None, None, None,89.0,2017-11-02 23:00:00,44, None
+299.0, None, None,0.0, None,10.4, None,-5.8, None, None, None,88.0,2017-11-03 00:00:00,44, None
+283.0, None, None,0.0, None,9.5, None,-6.5, None, None, None,88.0,2017-11-03 01:00:00,44, None
+284.0, None, None,0.0, None,11.3, None,-7.3, None, None, None,86.0,2017-11-03 02:00:00,44, None
+282.0, None, None,0.0, None,12.0, None,-7.9, None, None, None,86.0,2017-11-03 03:00:00,44, None
+289.0, None, None,0.0, None,12.8, None,-8.4, None, None, None,85.0,2017-11-03 04:00:00,44, None
+297.0, None, None,0.0, None,10.9, None,-9.0, None, None, None,84.0,2017-11-03 05:00:00,44, None
+292.0, None, None,0.0, None,10.1, None,-9.4, None, None, None,81.0,2017-11-03 06:00:00,44, None
+283.0, None, None,0.0, None,10.1, None,-9.9, None, None, None,77.0,2017-11-03 07:00:00,44, None
+288.0, None, None,0.0, None,8.6, None,-10.2, None, None, None,75.0,2017-11-03 08:00:00,44, None
+286.0, None, None,0.0, None,7.9, None,-9.6, None, None, None,74.0,2017-11-03 09:00:00,44, None
+270.0, None, None,0.0, None,8.3, None,-9.3, None, None, None,71.0,2017-11-03 10:00:00,44, None
+262.0, None, None,0.0, None,7.1, None,-8.6, None, None, None,70.0,2017-11-03 11:00:00,44, None
+268.0, None, None,0.0, None,8.2, None,-6.5, None, None, None,64.0,2017-11-03 12:00:00,44, None
+258.0, None, None,0.0, None,8.1, None,-6.1, None, None, None,64.0,2017-11-03 13:00:00,44, None
+278.0, None, None,0.0, None,7.5, None,-7.5, None, None, None,66.0,2017-11-03 14:00:00,44, None
+274.0, None, None,0.0, None,7.4, None,-7.0, None, None, None,64.0,2017-11-03 15:00:00,44, None
+284.0, None, None,0.0, None,9.0, None,-9.0, None, None, None,69.0,2017-11-03 16:00:00,44, None
+303.0, None, None,0.0, None,8.6, None,-9.8, None, None, None,70.0,2017-11-03 17:00:00,44, None
+325.0, None, None,0.0, None,9.6, None,-10.3, None, None, None,73.0,2017-11-03 18:00:00,44, None
+326.0, None, None,0.0, None,9.1, None,-10.6, None, None, None,74.0,2017-11-03 19:00:00,44, None
+328.0, None, None,0.0, None,7.3, None,-11.5, None, None, None,77.0,2017-11-03 20:00:00,44, None
+329.0, None, None,0.0, None,7.6, None,-11.7, None, None, None,76.0,2017-11-03 21:00:00,44, None
+317.0, None, None,0.0, None,5.4, None,-11.2, None, None, None,74.0,2017-11-03 22:00:00,44, None
+298.0, None, None,0.0, None,9.9, None,-11.3, None, None, None,69.0,2017-11-03 23:00:00,44, None
+315.0, None, None,0.0, None,7.1, None,-12.4, None, None, None,75.0,2017-11-04 00:00:00,44, None
+280.0, None, None,0.0, None,6.4, None,-14.1, None, None, None,79.0,2017-11-04 01:00:00,44, None
+304.0, None, None,0.0, None,6.7, None,-14.0, None, None, None,78.0,2017-11-04 02:00:00,44, None
+271.0, None, None,0.0, None,3.6, None,-14.6, None, None, None,80.0,2017-11-04 03:00:00,44, None
+255.0, None, None,0.0, None,2.3, None,-14.5, None, None, None,80.0,2017-11-04 04:00:00,44, None
+261.0, None, None,0.0, None,4.0, None,-14.0, None, None, None,79.0,2017-11-04 05:00:00,44, None
+308.0, None, None,0.0, None,5.7, None,-14.2, None, None, None,77.0,2017-11-04 06:00:00,44, None
+262.0, None, None,0.0, None,3.3, None,-14.8, None, None, None,80.0,2017-11-04 07:00:00,44, None
+263.0, None, None,0.0, None,3.5, None,-13.8, None, None, None,77.0,2017-11-04 08:00:00,44, None
+267.0, None, None,0.0, None,4.3, None,-12.5, None, None, None,73.0,2017-11-04 09:00:00,44, None
+234.0, None, None,0.0, None,4.1, None,-9.1, None, None, None,67.0,2017-11-04 10:00:00,44, None
+216.0, None, None,0.0, None,4.1, None,-5.7, None, None, None,60.0,2017-11-04 11:00:00,44, None
+188.0, None, None,0.2, None,3.6, None,-5.6, None, None, None,63.0,2017-11-04 12:00:00,44, None
+176.0, None, None,0.0, None,2.9, None,-6.0, None, None, None,66.0,2017-11-04 13:00:00,44, None
+232.0, None, None,0.0, None,3.7, None,-6.6, None, None, None,68.0,2017-11-04 14:00:00,44, None
+257.0, None, None,0.0, None,2.6, None,-7.2, None, None, None,69.0,2017-11-04 15:00:00,44, None
+289.0, None, None,0.0, None,4.6, None,-9.8, None, None, None,78.0,2017-11-04 16:00:00,44, None
+297.0, None, None,0.0, None,4.2, None,-11.6, None, None, None,84.0,2017-11-04 17:00:00,44, None
+272.0, None, None,0.0, None,2.5, None,-11.4, None, None, None,84.0,2017-11-04 18:00:00,44, None
+279.0, None, None,0.0, None,5.5, None,-11.1, None, None, None,85.0,2017-11-04 19:00:00,44, None
+279.0, None, None,0.0, None,3.7, None,-11.1, None, None, None,87.0,2017-11-04 20:00:00,44, None
+291.0, None, None,0.0, None,7.6, None,-10.4, None, None, None,81.0,2017-11-04 21:00:00,44, None
+272.0, None, None,0.0, None,3.5, None,-11.1, None, None, None,84.0,2017-11-04 22:00:00,44, None
+313.0, None, None,0.0, None,5.5, None,-10.3, None, None, None,80.0,2017-11-04 23:00:00,44, None

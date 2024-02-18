@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-336,17,ARDA,116122,5605,ASHTON 4900,7287,BC,-118.900833333333,50.6116666666667,1513.0,1971-04-05,1971-07-30,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
-337,17,ARDA,116123,5606,KINGFISHER,7288,BC,-118.870833333333,50.5891666666667,393.0,1971-05-30,1972-08-31,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-338,17,ARDA,116124,5607,HUPEL,7289,BC,-118.766666666667,50.6175,497.0,1971-05-30,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)

@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-85,1,EC,1161506,1249,CHERRYVILLE,1652,BC,-118.583333,50.233333,665.0,1959-04-01,1961-08-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-123,1,EC,1168A5H,1329,THIMBLE RANCH,1732,BC,-118.583333,50.233333,425.0,1975-08-20,2001-01-01,Daily,Precipitation Amount|Precipitation Climatology|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)|Temperature Climatology (Max.)|Temperature Climatology (Mean)|Temperature Climatology (Min.)
-202,3,MoTIm,23105,2691,Cherryville,3434,BC,-118.59,50.23111,670.0,1988-11-14,2004-03-27,Semi-daily,Precipitation Amount|Rainfall Amount|Relative Humidity (Point)|Snowfall Amount|Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)|Temperature (Point)

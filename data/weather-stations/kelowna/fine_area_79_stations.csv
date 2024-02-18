@@ -1,4 +1,0 @@
-,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-62,1,EC,1128554,1092,VERNON BX,1495,BC,-119.216667,50.283333,518.0,1960-04-15,1966-03-31,Daily,Precipitation Amount|Rainfall Amount|Snowfall Amount|Temperature (Max.)|Temperature (Min.)
-221,17,ARDA,112025,4841,SPOOR,6521,BC,-119.236111111111,50.2958333333333,521.0,1975-06-24,1975-08-26,Daily,Temperature (Max.)|Temperature (Min.)
-282,17,ARDA,112242,4994,SWAN LAKE,6674,BC,-119.239166666667,50.295,500.0,1971-04-07,1972-10-29,Daily,Surface Snow Depth (Point)|Temperature (Max.)|Temperature (Min.)

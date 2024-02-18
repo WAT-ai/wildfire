@@ -1,5 +1,6 @@
 ,Network ID,Network Name,Native ID,Station ID,Station Name,History ID,Province,Longitude,Latitude,Elevation (m),Record Start,Record End,Obs Freq,Variables
-149,12,FLNRO-WMB,335,1883,ZZ IDA BELL LAKE,2286,BC,-119.2,49.7,12.0,1986-05-22,1988-07-26,Daily,Precipitation Amount|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-150,12,FLNRO-WMB,336,1884,ZZ IDA BELL LK II,2287,BC,-119.1767,49.7367,1250.0,1987-07-31,2004-08-05,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
-302,17,ARDA,113070,5069,COOKSON,6749,BC,-119.121666666667,49.7358333333333,1189.0,1971-04-26,1972-09-29,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
-304,17,ARDA,113076,5074,STERLING,6754,BC,-119.088333333333,49.6708333333333,1061.0,1971-04-26,1972-08-30,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+139,12,FLNRO-WMB,290,1840,ZZ SPRUCE,2243,BC,-119.9967,50.4133,1462.0,1988-08-28,2000-11-01,Hourly,Precipitation Amount|Precipitation Climatology|Relative Humidity (Mean)|Temperature (Point)|Wind Direction (Mean)|Wind Speed (Mean)
+140,12,FLNRO-WMB,291,1841,GLIMPSE,2244,BC,-120.2883,50.27,1311.0,1990-05-13,2024-01-14,Hourly,Dew Point Temperature|Precipitation Amount|Precipitation Climatology|Rainfall 1hr|Rainfall 24hr|Relative Humidity|Relative Humidity (Mean)|Snow Depth|Temperature|Temperature (Point)|Wind Direction|Wind Direction (Mean)|Wind Speed|Wind Speed (Mean)
+385,17,ARDA,116204,5682,SALMON LAKE KAM,7364,BC,-119.991666666667,50.2833333333333,950.0,1971-05-29,1973-10-25,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+390,17,ARDA,116246,5724,TRAPP       KAM,7407,BC,-120.286111111111,50.4555555555556,723.0,1971-05-28,1973-10-26,Irregular,Precipitation (Cumulative)|Surface Snow Depth (Point)
+402,17,ARDA,116511,5819,DARDANELLES KAM,7502,BC,-120.276388888889,50.3041666666667,1372.0,1972-05-25,1973-10-18,Daily,Precipitation (Cumulative)|Temperature (Max.)|Temperature (Min.)
