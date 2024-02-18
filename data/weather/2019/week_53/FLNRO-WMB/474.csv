@@ -1,0 +1,2 @@
+wind_speed,time,avg_wnd_dir_10m_pst10mts,wind_direction,rel_hum,relative_humidity,rnfl_amt_pst24hrs,rnfl_amt_pst1hr,avg_wnd_spd_10m_pst10mts,precipitation,week_of_year
+1.8,2019-12-31, None,238.0, None,0.0, None, None, None,0.0,53

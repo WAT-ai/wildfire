@@ -1,0 +1,11 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+205.0, None, None, 0.0, None, 4.4, None, 6.7, None, None, None, 96.0,2021-06-09 05:00:00, None,23
+307.0, None, None, 0.0, None, 8.8, None, 8.5, None, None, None, 92.0,2021-06-09 06:00:00, None,23
+100.0, None, None, 0.0, None, 4.1, None, 8.7, None, None, None, 93.0,2021-06-09 07:00:00, None,23
+349.0, None, None, 0.0, None, 11.3, None, 18.2, None, None, None, 28.0,2021-06-10 17:00:00, None,23
+270.0, None, None, 0.0, None, 21.2, None, 14.9, None, None, None, 35.0,2021-06-10 18:00:00, None,23
+283.0, None, None, 0.0, None, 9.7, None, 13.4, None, None, None, 43.0,2021-06-10 19:00:00, None,23
+307.0, None, None, 0.0, None, 5.3, None, 14.0, None, None, None, 37.0,2021-06-10 20:00:00, None,23
+242.0, None, None, 0.0, None, 14.4, None, 12.0, None, None, None, 45.0,2021-06-10 21:00:00, None,23
+219.0, None, None, 0.0, None, 3.9, None, 10.3, None, None, None, 52.0,2021-06-10 22:00:00, None,23
+296.0, None, None, 0.0, None, 5.1, None, 10.1, None, None, None, 53.0,2021-06-10 23:00:00, None,23

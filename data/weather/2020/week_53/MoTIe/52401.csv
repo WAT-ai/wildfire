@@ -1,0 +1,26 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,STANDARD_SNOW,PRECIPITATION_NEW,MINIMUM_AIR_TEMPERATURE,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,snwfl_amt_pst1hr,MEASURED_WIND_SPEED1,MEASURED_WIND_DIRECTION1,dwpt_temp,avg_wnd_spd_10m_pst10mts,air_temp,min_air_temp_snc_last_reset,pcpn_amt_pst1hr,avg_wnd_dir_10m_pst10mts,max_air_temp_snc_last_reset,ACTUAL_WIND_DIRECTION,ACTUAL_WIND_SPEED,rel_hum,MAXIMUM_AIR_TEMPERATURE,time,snw_dpth,MAXIMUM_MEASURED_WIND_SPEED1,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None, -3.816, None, None, None, 0.0, 59.97, 0.0, 0.0, 318.1, -6999.0, 0.0, -3.8, -4.7, 0.1, 318.0, -3.8, None, None, -6999.0, None,2020-12-30 00:00:00, 124.0, None, 123.6, None,53
+None, -3.66, None, None, None, 0.0, 46.37, 0.0, 0.0, 315.0, -6999.0, 0.0, -3.7, -4.7, 0.1, 315.0, -3.6, None, None, -6999.0, None,2020-12-30 01:00:00, 124.0, None, 123.7, None,53
+None, -3.33, None, None, None, 8.4, 77.59, 0.0, 0.789, 36.1, -6999.0, 0.8, -3.3, -4.7, 0.0, 36.0, -3.3, None, None, -6999.0, None,2020-12-30 02:00:00, 124.0, None, 123.6, None,53
+None, -3.294, None, None, None, 5.6, 54.42, 0.0, 0.993, 302.9, -6999.0, 1.0, -3.3, -4.7, 0.1, 303.0, -3.2, None, None, -6999.0, None,2020-12-30 03:00:00, 124.0, None, 123.5, None,53
+None, -2.997, None, None, None, 7.4, 61.39, 0.0, 1.574, 4.258, -6999.0, 1.6, -3.0, -4.7, 0.0, 4.0, -3.0, None, None, -6999.0, None,2020-12-30 04:00:00, 124.0, None, 123.5, None,53
+None, -2.596, None, None, None, 6.8, 36.2, 0.0, 1.724, 359.4, -6999.0, 1.7, -2.6, -4.7, 0.1, 359.0, -2.6, None, None, -6999.0, None,2020-12-30 05:00:00, 123.0, None, 123.3, None,53
+None, -2.285, None, None, None, 5.5, 33.27, 0.0, 1.65, 343.8, -6999.0, 1.7, -2.3, -4.7, 0.3, 344.0, -2.1, None, None, -6999.0, None,2020-12-30 06:00:00, 123.0, None, 123.0, None,53
+None, -2.669, None, None, None, 9.0, 63.02, 0.0, 1.157, 338.5, -6999.0, 1.2, -2.7, -2.6, 0.0, 339.0, -2.2, None, None, -6999.0, None,2020-12-30 07:00:00, 123.0, None, 122.8, None,53
+None, -3.243, None, None, None, None, 79.78, 1.0, 2.449, 3.933, -6999.0, None, -3.2, -3.4, -0.1, None, -2.2, None, None, -6999.0, None,2020-12-30 08:00:00, 124.0, None, 123.6, None,53
+None, -3.209, None, None, None, 11.0, 67.14, 0.0, 2.782, 45.64, -6999.0, 2.8, -3.2, -3.4, 0.6, 46.0, -0.6, None, None, -6999.0, None,2020-12-30 09:00:00, 124.0, None, 123.8, None,53
+None, -0.41, None, None, None, 10.0, 44.49, 2.0, 2.589, 332.6, -6999.0, 2.6, -0.4, -3.4, 2.1, 333.0, -0.4, None, None, -6999.0, None,2020-12-30 10:00:00, 125.0, None, 125.0, None,53
+None, 0.13, None, None, None, 13.1, 44.55, 1.0, 2.796, 326.0, -6999.0, 2.8, 0.1, -3.4, 1.4, 326.0, 0.3, None, None, -6999.0, None,2020-12-30 11:00:00, 126.0, None, 125.9, None,53
+None, -1.65, None, None, None, 9.1, 54.67, 1.0, 2.756, 342.0, -6999.0, 2.8, -1.7, -3.4, 0.3, 342.0, 0.3, None, None, -6999.0, None,2020-12-30 12:00:00, 126.0, None, 126.3, None,53
+None, -1.855, None, None, None, 7.8, 70.23, 1.0, 1.132, 329.1, -6999.0, 1.1, -1.9, -3.4, 0.3, 329.0, 0.3, None, None, -6999.0, None,2020-12-30 13:00:00, 127.0, None, 126.6, None,53
+None, -1.268, None, None, None, 6.1, 71.43, 0.0, 1.857, 273.9, -6999.0, 1.9, -1.3, -3.4, 0.1, 274.0, 0.3, None, None, -6999.0, None,2020-12-30 14:00:00, 127.0, None, 126.7, None,53
+None, -1.781, None, None, None, None, 69.25, 0.0, 1.132, 17.68, -6999.0, None, -1.8, -3.4, 0.0, None, 0.3, None, None, -6999.0, None,2020-12-30 15:00:00, 127.0, None, 126.8, None,53
+None, -1.92, None, None, None, 4.2, 50.95, 0.0, 0.413, 317.6, -6999.0, 0.4, -1.9, -3.4, 0.0, 318.0, 0.3, None, None, -6999.0, None,2020-12-30 16:00:00, 127.0, None, 126.9, None,53
+None, -2.089, None, None, None, 2.8, 44.07, 0.0, 0.18, 316.1, -6999.0, 0.2, -2.1, -3.4, -0.1, 316.0, 0.3, None, None, -6999.0, None,2020-12-30 17:00:00, 127.0, None, 126.7, None,53
+None, -2.363, None, None, None, 3.3, 69.6, 0.0, 0.687, 300.0, -6999.0, 0.7, -2.4, -3.4, -0.2, 300.0, 0.3, None, None, -6999.0, None,2020-12-30 18:00:00, 127.0, None, 126.6, None,53
+None, -2.617, None, None, None, 4.0, 54.42, 0.0, 0.703, 317.7, -6999.0, 0.7, -2.6, -2.6, -0.1, 318.0, -2.3, None, None, -6999.0, None,2020-12-30 19:00:00, 126.0, None, 126.4, None,53
+None, -2.647, None, None, None, None, 48.43, None, 0.357, 332.2, -6999.0, None, -2.6, -2.7, None, None, -2.3, None, None, -6999.0, None,2020-12-30 20:00:00, None, None, 126.2, None,53
+None, -2.648, None, None, None, 3.9, 59.97, 0.0, 0.402, 328.5, -6999.0, 0.4, -2.6, -2.7, -0.1, 329.0, -2.3, None, None, -6999.0, None,2020-12-30 21:00:00, 126.0, None, 125.8, None,53
+None, -2.602, None, None, None, 2.8, 23.26, 0.0, 0.328, 8.54, -6999.0, 0.3, -2.6, -2.8, 0.2, 9.0, -2.3, None, None, -6999.0, None,2020-12-30 22:00:00, 126.0, None, 126.0, None,53
+None, -2.972, None, None, None, 2.1, 0.233, 0.0, 0.172, 1.945, -6999.0, 0.2, -3.0, -3.0, 0.0, 2.0, -2.3, None, None, -6999.0, None,2020-12-30 23:00:00, 126.0, None, 126.2, None,53
+None, -2.96, None, None, None, 2.0, 0.184, 0.0, 0.419, 1.484, -6999.0, 0.4, -3.0, -3.1, -0.1, 1.0, -2.3, None, None, -6999.0, None,2020-12-31 00:00:00, 126.0, None, 126.1, None,53

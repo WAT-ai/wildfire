@@ -1,0 +1,22 @@
+CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,rel_hum,max_wnd_spd_10m_pst1hr,WIND_DIRECTION_STD_DEVIATION1,avg_wnd_spd_10m_pst10mts,MEASURED_WIND_DIRECTION1,MEASURED_WIND_SPEED1,air_temp,min_air_temp_snc_last_reset,DEW_POINT,avg_wnd_dir_10m_pst10mts,dwpt_temp,time,week_of_year
+None,35.9, None, None, None,12.08, None,253.9,6.053, None, None, -14.0, None, None,2016-10-12 13:00:00,41
+None,52.15, None, None, None,14.54, None,228.1,7.25, None, None, -8.0, None, None,2016-10-12 14:00:00,41
+None,65.23, None, None, None,15.47, None,208.3,4.842, None, None, -5.0, None, None,2016-10-12 15:00:00,41
+None,54.76, None, None, None,33.61, None,196.0,4.025, None, None, -7.0, None, None,2016-10-12 16:00:00,41
+None,25.86, None, None, None,22.28, None,141.0,5.302, None, None, -16.0, None, None,2016-10-12 17:00:00,41
+None,82.2, None, None, None,13.93, None,141.8,7.77, None, None, -7.0, None, None,2016-10-12 18:00:00,41
+-5.012,90.4, None, None, None,23.25, None,168.6,20.7, None, None, -6.0, None, None,2016-10-13 07:00:00,41
+-4.259,90.7, None, None, None,13.23, None,150.2,21.7, None, None, -5.0, None, None,2016-10-13 08:00:00,41
+-3.426,91.4, None, None, None,17.01, None,176.4,18.0, None, None, -4.0, None, None,2016-10-13 09:00:00,41
+-3.381,91.1, None, None, None,15.98, None,170.4,18.34, None, None, -4.0, None, None,2016-10-13 10:00:00,41
+-13.09,91.4, None, None, None,18.69, None,175.4,19.72, None, None, -14.0, None, None,2016-10-13 11:00:00,41
+-2.722,91.8, None, None, None,18.38, None,178.6,21.59, None, None, -4.0, None, None,2016-10-13 12:00:00,41
+-2.533,91.8, None, None, None,18.09, None,184.0,19.82, None, None, -4.0, None, None,2016-10-13 13:00:00,41
+-2.297,91.9, None, None, None,14.4, None,187.6,16.12, None, None, -3.0, None, None,2016-10-13 14:00:00,41
+-2.722,91.3, None, None, None,18.68, None,175.5,13.44, None, None, -4.0, None, None,2016-10-13 15:00:00,41
+-2.863,91.6, None, None, None,14.14, None,154.6,12.25, None, None, -4.0, None, None,2016-10-13 17:00:00,41
+-2.91,91.7, None, None, None,7.15, None,142.9,13.15, None, None, -4.0, None, None,2016-10-13 18:00:00,41
+-3.146,91.6, None, None, None,6.436, None,143.8,13.31, None, None, -4.0, None, None,2016-10-13 19:00:00,41
+-3.098,91.8, None, None, None,6.855, None,141.2,14.71, None, None, -4.0, None, None,2016-10-13 20:00:00,41
+-2.957,91.8, None, None, None,7.32, None,139.3,18.81, None, None, -4.0, None, None,2016-10-13 21:00:00,41
+-2.722,92.1, None, None, None,5.692, None,137.7,25.68, None, None, -4.0, None, None,2016-10-13 23:00:00,41

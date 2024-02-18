@@ -1,0 +1,8 @@
+ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,SWE,ONE_DAY_SNOW,time,air_temp_1,MIN_TEMP,snw_dpth,MAX_TEMP,week_of_year
+None, None, None,1917.0, None,2016-06-10 16:00:00, None, None, None, None,24
+None, None, None,1917.0, None,2016-06-11 16:00:00, None, None, None, None,24
+None, None, None,1927.0, None,2016-06-12 16:00:00, None, None, None, None,24
+None, None, None,1946.0, None,2016-06-13 16:00:00, None, None, None, None,24
+None, None, None,1961.0, None,2016-06-14 16:00:00, None, None, None, None,24
+None, None, None,1969.0, None,2016-06-15 16:00:00, None, None, None, None,24
+None, None, None,1966.0, None,2016-06-16 16:00:00, None, None, None, None,24

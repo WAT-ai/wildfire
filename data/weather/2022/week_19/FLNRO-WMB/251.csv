@@ -1,0 +1,8 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+None, 84.0, 1.7, None, 0.4, None, 2.8, None, 272.0, 0.0, 0.0, None,2022-05-07 20:00:00,19
+None, 95.0, 3.4, None, -2.1, None, -1.4, None, 267.0, 0.0, 0.0, None,2022-05-09 04:00:00,19
+None, 98.0, 8.2, None, -0.6, None, -0.3, None, 251.0, 0.0, 0.0, None,2022-05-09 06:00:00,19
+None, 96.0, 4.4, None, 0.2, None, 0.8, None, 247.0, 0.2, 0.2, None,2022-05-09 07:00:00,19
+None, 100.0, 6.9, None, 0.0, None, 0.0, None, 251.0, 0.0, 2.8, None,2022-05-10 03:00:00,19
+None, 60.0, 7.8, None, 2.0, None, 9.4, None, 75.0, 0.0, 2.4, None,2022-05-10 14:00:00,19
+None, 85.0, 5.9, None, -0.5, None, 1.7, None, 247.0, 0.0, 0.0, None,2022-05-13 03:00:00,19

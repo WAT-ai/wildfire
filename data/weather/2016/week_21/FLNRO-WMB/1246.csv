@@ -1,0 +1,4 @@
+wind_speed,temperature,wind_direction,relative_humidity,time,precipitation,week_of_year
+0.0,15.4,236.0,57.0,2016-05-25 10:00:00,0.0,21
+0.0,15.8,260.0,55.0,2016-05-25 11:00:00,0.0,21
+0.0,13.9,284.0,63.0,2016-05-25 13:00:00,0.0,21

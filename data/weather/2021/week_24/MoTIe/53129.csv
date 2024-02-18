@@ -1,0 +1,9 @@
+pcpn_amt_pst24hrs,CURRENT_AIR_TEMPERATURE1,RELATIVE_HUMIDITY1,max_air_temp_snc_last_reset,rel_hum,dwpt_temp,air_temp,min_air_temp_snc_last_reset,mslp,pcpn_amt_pst1hr,DEW_POINT,ATMOSPHERIC_PRESSURE,snwfl_amt_pst1hr,time,snw_dpth,HEIGHT_OF_SNOW,stn_pres,week_of_year
+None, 19.45, 28.79, 19.8, 29.0, 1.0, 19.5, 13.9, None, 0.0, 1.0, 924.0, -1.0,2021-06-17 16:00:00, 12.0, None, 924.0,24
+None, 21.74, 26.42, 22.4, 26.0, 2.0, 21.7, 13.9, None, 0.0, 2.0, 923.0, None,2021-06-17 17:00:00, None, None, 923.0,24
+None, 21.78, 25.33, 22.4, 25.0, 1.0, 21.8, 13.9, None, 0.0, 1.0, 923.0, None,2021-06-17 18:00:00, None, None, 923.0,24
+None, 21.14, 26.73, 22.8, 27.0, 1.0, 21.1, 21.1, None, 0.1, 1.0, 923.0, None,2021-06-17 19:00:00, None, None, 923.0,24
+None, 14.93, 68.13, 22.8, 68.0, 9.0, 14.9, 14.9, None, -0.1, 9.0, 922.0, None,2021-06-17 20:00:00, None, None, 922.0,24
+None, 14.85, 58.88, 22.8, 59.0, 7.0, 14.9, 14.6, None, 0.0, 7.0, 921.0, None,2021-06-17 21:00:00, None, None, 921.0,24
+None, 13.21, 73.57, 22.8, 74.0, 8.0, 13.2, 13.3, None, -0.6, 8.0, 921.0, None,2021-06-17 22:00:00, None, None, 921.0,24
+None, 12.6, 79.03, 22.8, 79.0, 9.0, 12.6, 12.6, None, 0.4, 9.0, 921.0, None,2021-06-17 23:00:00, None, None, 921.0,24

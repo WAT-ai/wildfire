@@ -1,0 +1,12 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+258.0, None, None, 0.0, None, 17.0, None, None, None, None, None, 0.0,2020-05-26 13:00:00,21
+274.0, None, None, 0.0, None, 15.8, None, None, None, None, None, 0.0,2020-05-26 14:00:00,21
+270.0, 0.0, 17.0, 0.0, None, 16.1, None, None, 258.0, 0.0, None, 0.0,2020-05-26 15:00:00,21
+275.0, 0.0, 15.8, 0.0, None, 16.6, None, None, 274.0, 0.0, None, 0.0,2020-05-26 16:00:00,21
+251.0, 0.0, 16.1, 0.0, None, 15.5, None, None, 270.0, 0.0, None, 0.0,2020-05-26 17:00:00,21
+261.0, 0.0, 16.6, 0.0, None, 8.7, None, None, 275.0, 0.0, None, 0.0,2020-05-26 18:00:00,21
+254.0, 0.0, 15.5, 0.0, None, 11.7, None, None, 251.0, 0.0, None, 0.0,2020-05-26 19:00:00,21
+255.0, 0.0, 8.7, 0.0, None, 7.6, None, None, 261.0, 0.0, None, 0.0,2020-05-26 20:00:00,21
+240.0, 0.0, 11.7, 0.0, None, 8.6, None, None, 254.0, 0.0, None, 0.0,2020-05-26 21:00:00,21
+195.0, 0.0, 7.6, 0.0, None, 6.8, None, None, 255.0, 0.0, None, 0.0,2020-05-26 22:00:00,21
+170.0, 0.0, 8.6, 0.0, None, 7.3, None, None, 240.0, 0.0, None, 0.0,2020-05-26 23:00:00,21

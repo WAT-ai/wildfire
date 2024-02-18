@@ -1,0 +1,16 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,week_of_year
+None, 87.0, 3.1, None, 7.9, None, 10.0, None, 260.0, 0.0, 0.2, None,2022-06-04 03:00:00,23
+None, 97.0, 2.1, None, 10.9, None, 11.4, None, 139.0, 0.0, 1.4, None,2022-06-04 10:00:00,23
+None, 49.0, 6.7, None, 11.3, None, 22.5, None, 132.0, 0.0, 1.2, None,2022-06-04 17:00:00,23
+None, 93.0, 2.8, None, 11.2, None, 12.3, None, 232.0, 0.0, 1.2, None,2022-06-04 21:00:00,23
+None, 99.0, 2.5, None, 10.0, None, 10.2, None, 255.0, 0.8, 3.4, None,2022-06-05 01:00:00,23
+None, 92.0, 5.8, None, 12.0, None, 13.3, None, 154.0, 0.0, 3.0, None,2022-06-05 10:00:00,23
+None, 81.0, 3.2, None, 11.4, None, 14.6, None, 153.0, 0.0, 4.0, None,2022-06-05 17:00:00,23
+None, 99.0, 3.4, None, 9.9, None, 10.0, None, 271.0, 0.4, 4.4, None,2022-06-05 23:00:00,23
+None, 72.0, 3.9, None, 12.1, None, 17.2, None, 141.0, 0.0, 8.4, None,2022-06-06 17:00:00,23
+None, 90.0, 4.6, None, 11.4, None, 13.0, None, 231.0, 0.0, 7.8, None,2022-06-06 19:00:00,23
+None, 95.0, 3.6, None, 6.0, None, 6.7, None, 238.0, 0.0, 0.4, None,2022-06-07 03:00:00,23
+None, 82.0, 4.6, None, 8.1, None, 11.1, None, 234.0, 0.0, 0.0, None,2022-06-07 22:00:00,23
+None, 77.0, 4.4, None, 12.7, None, 16.8, None, 88.0, 0.0, 0.2, None,2022-06-08 12:00:00,23
+None, 54.0, None, None, 8.8, None, 18.3, None, 111.0, 0.0, 0.2, None,2022-06-08 13:00:00,23
+None, 100.0, 4.9, None, 7.8, None, 7.8, None, 252.0, 0.0, 4.4, None,2022-06-09 01:00:00,23

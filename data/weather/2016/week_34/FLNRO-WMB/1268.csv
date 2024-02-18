@@ -1,0 +1,24 @@
+wind_direction,rel_hum,avg_wnd_spd_10m_pst10mts,precipitation,dwpt_temp,wind_speed,air_temp,temperature,avg_wnd_dir_10m_pst10mts,rnfl_amt_pst1hr,rnfl_amt_pst24hrs,relative_humidity,time,snw_dpth,week_of_year
+333.0, None, None,0.0, None,7.4, None,16.7, None, None, None,64.0,2016-08-25 01:00:00, None,34
+189.0, None, None,0.0, None,5.7, None,14.1, None, None, None,78.0,2016-08-25 02:00:00, None,34
+257.0, None, None,0.0, None,2.4, None,11.5, None, None, None,91.0,2016-08-25 03:00:00, None,34
+205.0, None, None,0.0, None,3.9, None,10.8, None, None, None,94.0,2016-08-25 04:00:00, None,34
+358.0, None, None,0.0, None,2.9, None,10.2, None, None, None,96.0,2016-08-25 05:00:00, None,34
+15.0, None, None,0.0, None,6.0, None,24.0, None, None, None,39.0,2016-08-25 06:00:00, None,34
+15.0, None, None,0.0, None,3.9, None,14.7, None, None, None,81.0,2016-08-25 07:00:00, None,34
+29.0, None, None,0.0, None,6.5, None,17.8, None, None, None,67.0,2016-08-25 08:00:00, None,34
+345.0, None, None,0.0, None,12.6, None,19.4, None, None, None,56.0,2016-08-25 09:00:00, None,34
+328.0, None, None,0.0, None,13.5, None,20.6, None, None, None,50.0,2016-08-25 10:00:00, None,34
+320.0, None, None,0.0, None,12.3, None,23.1, None, None, None,40.0,2016-08-25 11:00:00, None,34
+294.0, None, None,0.0, None,13.2, None,24.5, None, None, None,30.0,2016-08-25 12:00:00, None,34
+327.0, None, None,0.0, None,9.4, None,25.6, None, None, None,26.0,2016-08-25 13:00:00, None,34
+327.0, None, None,0.0, None,15.5, None,24.0, None, None, None,30.0,2016-08-25 14:00:00, None,34
+350.0, None, None,0.0, None,15.0, None,23.3, None, None, None,34.0,2016-08-25 15:00:00, None,34
+323.0, None, None,0.0, None,14.6, None,23.4, None, None, None,31.0,2016-08-25 16:00:00, None,34
+324.0, None, None,0.0, None,10.6, None,24.2, None, None, None,30.0,2016-08-25 17:00:00, None,34
+314.0, None, None,0.0, None,2.8, None,20.2, None, None, None,47.0,2016-08-25 18:00:00, None,34
+288.0, None, None,0.0, None,8.3, None,16.0, None, None, None,54.0,2016-08-25 19:00:00, None,34
+282.0, None, None,0.0, None,8.2, None,17.3, None, None, None,47.0,2016-08-25 20:00:00, None,34
+213.0, None, None,0.0, None,4.1, None,11.6, None, None, None,73.0,2016-08-25 21:00:00, None,34
+199.0, None, None,0.0, None,4.4, None,8.5, None, None, None,86.0,2016-08-25 22:00:00, None,34
+107.0, None, None,0.0, None,3.4, None,6.5, None, None, None,94.0,2016-08-25 23:00:00, None,34

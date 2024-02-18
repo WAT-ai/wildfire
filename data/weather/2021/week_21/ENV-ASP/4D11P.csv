@@ -1,0 +1,24 @@
+pcpn_amt_pst24hrs,SWE,cum_pcpn_amt,ONE_DAY_SNOW,air_temp_2,air_temp_1,snw_dpth,MAX_TEMP,ONE_DAY_PRECIPITATION,pcpn_amt_pst1hr,snw_dpth_wtr_equiv,time,MIN_TEMP,week_of_year
+None, None,220.0, None, 7.2,7.1, 82.0, None, None, None,266.0,2021-05-21 00:00:00, None,21
+None, None,220.0, None, 8.3,7.9, 82.0, None, None, None,263.0,2021-05-21 10:00:00, None,21
+None, None,220.0, None, 9.6,8.9, 80.0, None, None, 0.0,263.0,2021-05-21 11:00:00, None,21
+None, None,220.0, None, 9.1,8.9, 80.0, None, None, None,263.0,2021-05-21 17:00:00, None,21
+None, None,220.0, None, 3.1,2.9, 80.0, None, None, None,254.0,2021-05-22 06:00:00, None,21
+None, None,220.0, None, 8.0,7.9, 77.0, None, None, None,244.0,2021-05-22 18:00:00, None,21
+None, None,220.0, None, 2.2,2.1, 76.0, None, None, None,236.0,2021-05-23 05:00:00, None,21
+None, None,220.0, None, -0.4,-0.5, 73.0, None, None, None,223.0,2021-05-24 04:00:00, None,21
+None, None,220.0, None, 6.5,5.8, 72.0, None, None, None,222.0,2021-05-24 10:00:00, None,21
+None, None,221.0, None, 5.8,5.2, 72.0, None, None, None,222.0,2021-05-24 12:00:00, None,21
+None, None,222.0, None, 5.6,5.6, 71.0, None, None, None,219.0,2021-05-24 18:00:00, None,21
+None, None,222.0, None, 1.1,1.0, 72.0, None, None, None,218.0,2021-05-24 22:00:00, None,21
+None, None,222.0, None, -2.1,-2.1, 72.0, None, None, None,217.0,2021-05-25 01:00:00, None,21
+None, None,222.0, None, 10.7,9.3, 70.0, None, None, None,215.0,2021-05-25 14:00:00, None,21
+None, None,221.0, None, 9.9,9.6, 69.0, None, None, None,214.0,2021-05-25 16:00:00, None,21
+0.0, None,222.0, None, 10.0,9.7, 69.0, None, None, None,211.0,2021-05-25 18:00:00, None,21
+None, None,222.0, None, 6.4,6.3, 69.0, None, None, None,209.0,2021-05-25 20:00:00, None,21
+None, None,222.0, None, -0.1,-0.3, 70.0, None, None, None,204.0,2021-05-26 07:00:00, None,21
+None, None,221.0, None, 0.3,0.4, 67.0, None, None, None,199.0,2021-05-26 23:00:00, None,21
+None, None,222.0, None, -3.5,-3.5, 67.0, None, None, None,198.0,2021-05-27 04:00:00, None,21
+None, None,222.0, None, -1.9,-2.1, 67.0, None, None, None,198.0,2021-05-27 08:00:00, None,21
+None, None,222.0, None, 7.9,7.6, 66.0, None, None, None,194.0,2021-05-27 11:00:00, None,21
+None, None,221.0, None, 13.2,12.6, 65.0, None, None, None,193.0,2021-05-27 16:00:00, None,21
