@@ -6,7 +6,7 @@ import os
 def data_ingestion_v2():
     print("Data Ingestion v2")
     
-    for group in range(1, 24):
+    for group in range(1, 25):
         burn_path = 'data/training/quarterly-6-by-6/satellite-burn/group_' + str(group + 1) + '.csv'
         weather_path = 'data/training/quarterly-6-by-6/weather/group_' + str(group) + '.csv'
         burn_data_df = pd.read_csv(burn_path)
