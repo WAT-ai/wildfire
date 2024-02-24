@@ -24,15 +24,13 @@ def data_ingestion():
             if week == 52 and year != 2022:
                 new_year_path = os.path.join('data/final-satellite-burn/', str(year + 1))
                 year_week_burn_path = os.path.join(new_year_path, "week_1.csv")
-                
-            
-            print("Comparing burn data from: " + year_week_burn_path + " with weather data from: " + year_week_weather_path)
             
             # Sanity check for right files
             if year_week_burn_path != "":
+                print("Comparing burn data from: " + year_week_burn_path + " with weather data from: " + year_week_weather_path)
                 burn_data_df = pd.read_csv(year_week_burn_path)
                 weather_data_df = pd.read_csv(year_week_weather_path)
-                print("Burn data: " + burn_data_df.head(144).to_string())
+                print("Burn data: " + burn_data_df.head(36).to_string())
                 # print("Weather data: " + str(weather_data_df.shape)) incomplete weather data
             else:
                 break
