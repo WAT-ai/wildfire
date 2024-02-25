@@ -38,9 +38,6 @@ def get_training_data():
         weather_data_df = pd.read_csv(weather_path)
         burn_data = np.genfromtxt(burn_path, delimiter=',')
 
-        # print("Burn data for group " + str(group + 1) + ": "  + burn_data_df.head(36).to_string())
-        # print("Weather data for group " + str(group) + ": " + weather_data_df.head(36).to_string())
-
         X = weather_data_df.values
         y = burn_data
 
