@@ -26,10 +26,7 @@ jobs:
         service_account_key: ${{ secrets.GCP_SA_KEY }}
         project_id: wildfire-prediction-410723
 
-    - name: Install gsutil rsync dependencies
-      run: sudo apt-get update && sudo apt-get install -y python3-crcmod
-
-    - name: Sync files to GCS
-      run: gsutil -m rsync -r -c -d gs://wildfire_team/
-      env:
-        CLOUDSDK_PYTHON: python3
+    - name: Deploy via GCS
+      run: |
+        gsutil -m rm -rf gs://wildfire_team/* || echo "$?"
+        gsutil -m cp -r * gs://wildfire_team/
