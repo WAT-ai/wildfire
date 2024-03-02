@@ -74,7 +74,7 @@ def draw_grid(matrix, error_matrix, color_matrix, filename='output_plot.pdf'):  
     # plt.show()
 
 def main():
-    ref_abs_error = None
+    color_matrix = None
     base_path = "./train-results/predicted-data-vis/"
 
     data_files = ["burn_6.csv", "burn_11.csv", "burn_16.csv", "burn_21.csv"]
