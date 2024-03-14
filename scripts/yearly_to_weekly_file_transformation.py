@@ -61,5 +61,5 @@ def read_and_group_data(base_path, date_column_name='time'):
                             file_path = os.path.join(network_path, file)
                             process_file(file_path, base_path, date_column_name, year_folder, network_folder)
 
-base_path = 'data/weather' 
+base_path = './data/raw/weather' 
 read_and_group_data(base_path, date_column_name='time')

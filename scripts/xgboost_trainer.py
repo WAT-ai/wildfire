@@ -32,8 +32,8 @@ def train(model, X, y, X_test, y_test, n_estimators, learning_rate, early_stoppi
 def get_training_data():
     training_data = []
     for group in range(1, 25):
-        weather_path = 'data/training/quarterly-6-by-6/weather/group_' + str(group) + '.csv'
-        burn_path = 'data/training/quarterly-6-by-6/satellite-burn/group_' + str(group + 1) + '.csv'
+        weather_path = './data/prepared/quarterly-6-by-6/weather/group_' + str(group) + '.csv'
+        burn_path = './data/prepared/quarterly-6-by-6/satellite-burn/group_' + str(group + 1) + '.csv'
 
         weather_data_df = pd.read_csv(weather_path)
         burn_data = np.genfromtxt(burn_path, delimiter=',')
@@ -84,11 +84,11 @@ def save_results(model, mae_array, mse_array, rmse_array):
     current_time = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
 
     # Save model
-    file_name = f"trained-models/{current_time}_{time_step}_{fine_areas}.pkl"
+    file_name = f"./models/{current_time}_{time_step}_{fine_areas}.pkl"
     pickle.dump(model, open(file_name, "wb"))
 
     # Create a folder with the current time as the name
-    base_folder_name = "train-results"
+    base_folder_name = "./evaluation"
     folder_name = f"{base_folder_name}/{current_time}_{time_step}_{fine_areas}"
     try:
         os.mkdir(folder_name)
